@@ -1,0 +1,3551 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!74 &7400000
+AnimationClip:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: terri@terri_1-5_03
+  serializedVersion: 4
+  m_AnimationType: 1
+  m_Compressed: 0
+  m_UseHighQualityCurve: 1
+  m_RotationCurves: []
+  m_CompressedRotationCurves: []
+  m_PositionCurves: []
+  m_ScaleCurves: []
+  m_FloatCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .100000001
+        value: 12.8440361
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .200000003
+        value: 9.57983208
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .266666681
+        value: 21.1009178
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .366666675
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .433333337
+        value: 22.0183487
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .533333361
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .600000024
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .699999988
+        value: 14.6788988
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.0666666
+        value: 22.0183487
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.29999995
+        value: 4.74828482
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.5
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.76666665
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.gums_blendShape.gums_mouth_open
+    path: TerriGeo/gums
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .100000001
+        value: 12.8440361
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .200000003
+        value: 9.57983208
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .266666681
+        value: 21.1009178
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .366666675
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .433333337
+        value: 22.0183487
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .533333361
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .600000024
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .699999988
+        value: 14.6788988
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.26666665
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.36666667
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.5
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.0666666
+        value: 22.0183487
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.29999995
+        value: 4.74828482
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.5
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.76666665
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.head_blendShape.head_mouth_open
+    path: TerriGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 100
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .100000001
+        value: 100
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .200000003
+        value: 100
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .366666675
+        value: 100
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .533333361
+        value: 100
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .600000024
+        value: 100
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .699999988
+        value: 100
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1
+        value: 100
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.26666665
+        value: 100
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.36666667
+        value: 100
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.5
+        value: 100
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2
+        value: 100
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.0666666
+        value: 100
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.29999995
+        value: 100
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.5
+        value: 100
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.76666665
+        value: 100
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.head_blendShape.head_mouth_closed
+    path: TerriGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .100000001
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .200000003
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .366666675
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .533333361
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .600000024
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .699999988
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.26666665
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.36666667
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.5
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.0666666
+        value: 22.4369755
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.29999995
+        value: 22.4369755
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.5
+        value: 22.4369755
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.76666665
+        value: 22.4369755
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.head_blendShape.head_l_smile
+    path: TerriGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .100000001
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .200000003
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .366666675
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .533333361
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .600000024
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .699999988
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.26666665
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.36666667
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.5
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.0666666
+        value: 22.4369755
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.29999995
+        value: 22.4369755
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.5
+        value: 22.4369755
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.76666665
+        value: 22.4369755
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.head_blendShape.head_r_smile
+    path: TerriGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 14.3697481
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .100000001
+        value: 14.3697481
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .200000003
+        value: 14.3697481
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .366666675
+        value: 14.3697481
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .533333361
+        value: 14.3697481
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .600000024
+        value: 14.3697481
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .699999988
+        value: 14.3697481
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1
+        value: 14.3697481
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.26666665
+        value: 14.3697481
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.36666667
+        value: 100
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.5
+        value: 14.3697481
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2
+        value: 14.3697481
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.0666666
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.29999995
+        value: 14.3697481
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.5
+        value: 14.3697481
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.76666665
+        value: 14.3697481
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.head_blendShape.head_l_eye_blink
+    path: TerriGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 14.3697481
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .100000001
+        value: 14.3697481
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .200000003
+        value: 14.3697481
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .366666675
+        value: 14.3697481
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .533333361
+        value: 14.3697481
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .600000024
+        value: 14.3697481
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .699999988
+        value: 14.3697481
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1
+        value: 14.3697481
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.26666665
+        value: 14.3697481
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.36666667
+        value: 100
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.5
+        value: 14.3697481
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2
+        value: 14.3697481
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.0666666
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.29999995
+        value: 14.3697481
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.5
+        value: 14.3697481
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.76666665
+        value: 14.3697481
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.head_blendShape.head_r_eye_blink
+    path: TerriGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .100000001
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .200000003
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .366666675
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .533333361
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .600000024
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .699999988
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.26666665
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.36666667
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.5
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.0666666
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.29999995
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.5
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.76666665
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.head_blendShape.head_l_frown
+    path: TerriGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .100000001
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .200000003
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .366666675
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .533333361
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .600000024
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .699999988
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.26666665
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.36666667
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.5
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.0666666
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.29999995
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.5
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.76666665
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.head_blendShape.head_r_frown
+    path: TerriGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .100000001
+        value: 27.4789925
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .200000003
+        value: 27.4789925
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .366666675
+        value: 27.4789925
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .533333361
+        value: 27.4789925
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .600000024
+        value: 27.4789925
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .699999988
+        value: 27.4789925
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1
+        value: 27.4789925
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.26666665
+        value: 27.4789925
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.36666667
+        value: 27.4789925
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.5
+        value: 27.4789925
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.89999998
+        value: 27.4789925
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.0666666
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.29999995
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.5
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.76666665
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.head_blendShape.head_l_brow_up
+    path: TerriGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .100000001
+        value: 27.4789925
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .200000003
+        value: 27.4789925
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .366666675
+        value: 27.4789925
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .533333361
+        value: 27.4789925
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .600000024
+        value: 27.4789925
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .699999988
+        value: 27.4789925
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1
+        value: 27.4789925
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.26666665
+        value: 27.4789925
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.36666667
+        value: 27.4789925
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.5
+        value: 27.4789925
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.89999998
+        value: 27.4789925
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.0666666
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.29999995
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.5
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.76666665
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.head_blendShape.head_r_brow_up
+    path: TerriGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .100000001
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .200000003
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .366666675
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .533333361
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .600000024
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .699999988
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.26666665
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.36666667
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.5
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.0666666
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.29999995
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.5
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.76666665
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.head_blendShape.head_l_brow_dn
+    path: TerriGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .100000001
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .200000003
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .366666675
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .533333361
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .600000024
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .699999988
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.26666665
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.36666667
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.5
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.0666666
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.29999995
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.5
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.76666665
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.head_blendShape.head_r_brow_dn
+    path: TerriGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .100000001
+        value: 44.0366974
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .200000003
+        value: 35.0458717
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .366666675
+        value: 20.183485
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .533333361
+        value: 2.70098662
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .600000024
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .699999988
+        value: 1.86353123
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1
+        value: 11.9266052
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.26666665
+        value: 16.6549358
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.36666667
+        value: 17.8988495
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.5
+        value: 18.3486233
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2
+        value: 11.9266052
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.0666666
+        value: 9.49648571
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.29999995
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.5
+        value: 4.28133678
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.76666665
+        value: 16.5137615
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.head_blendShape.head_oo
+    path: TerriGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .100000001
+        value: 37.6146812
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .200000003
+        value: 58.7155952
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .366666675
+        value: 41.070034
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .533333361
+        value: 5.96347666
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .600000024
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .699999988
+        value: 1.83486247
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1
+        value: 61.4678917
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.26666665
+        value: 28.6741467
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.36666667
+        value: 13.1210222
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.5
+        value: 1.83486247
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2
+        value: 61.4678917
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.0666666
+        value: 61.4477577
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.29999995
+        value: 59.6330299
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.5
+        value: 47.9103165
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.76666665
+        value: 16.5137615
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.head_blendShape.head_th
+    path: TerriGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .100000001
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .200000003
+        value: 6.42076492
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .366666675
+        value: 18.3040409
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .533333361
+        value: 28.4403687
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .600000024
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .699999988
+        value: 31.1926594
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .800000012
+        value: 37.6146812
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.26666665
+        value: -4.67631721
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.36666667
+        value: -4.5625453
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.5
+        value: -4.01912642
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.0666666
+        value: 3.70495653
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.29999995
+        value: 29.3577976
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.5
+        value: 24.3629036
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.76666665
+        value: 10.0917425
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.head_blendShape.head_ee
+    path: TerriGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .100000001
+        value: 39.4495392
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .200000003
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .366666675
+        value: 1.69265199
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .533333361
+        value: 7.50797319
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .600000024
+        value: 9.76189709
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .699999988
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1
+        value: 21.1009178
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.26666665
+        value: 23.5588188
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.36666667
+        value: 23.5095539
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.5
+        value: 23.2719784
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2
+        value: 21.1009178
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.0666666
+        value: 18.4379807
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.29999995
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.76666665
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.head_blendShape.head_sh
+    path: TerriGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.26666665
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.36666667
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.5
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.76666665
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.head_blendShape.head_F
+    path: TerriGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.26666665
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.36666667
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.5
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.76666665
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.head_blendShape.head_mm
+    path: TerriGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .100000001
+        value: 12.8440361
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .200000003
+        value: 9.57983208
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .266666681
+        value: 21.1009178
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .366666675
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .433333337
+        value: 22.0183487
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .533333361
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .600000024
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .699999988
+        value: 14.6788988
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.0666666
+        value: 22.0183487
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.29999995
+        value: 4.74828482
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.5
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.76666665
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.tongue_blendShape.tongue_mouth_open
+    path: TerriGeo/tongue
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .100000001
+        value: 12.8440361
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .200000003
+        value: 9.57983208
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .266666681
+        value: 21.1009178
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .366666675
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .433333337
+        value: 22.0183487
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .533333361
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .600000024
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .699999988
+        value: 14.6788988
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.0666666
+        value: 22.0183487
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.29999995
+        value: 4.74828482
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.5
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.76666665
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.teeth_blendShape.teeth_mouth_open
+    path: TerriGeo/teeth
+    classID: 137
+    script: {fileID: 0}
+  m_PPtrCurves: []
+  m_SampleRate: 1800
+  m_WrapMode: 0
+  m_Bounds:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  m_AnimationClipSettings:
+    serializedVersion: 2
+    m_StartTime: 0
+    m_StopTime: 2
+    m_OrientationOffsetY: 0
+    m_Level: 0
+    m_CycleOffset: 0
+    m_LoopTime: 0
+    m_LoopBlend: 0
+    m_LoopBlendOrientation: 0
+    m_LoopBlendPositionY: 0
+    m_LoopBlendPositionXZ: 0
+    m_KeepOriginalOrientation: 0
+    m_KeepOriginalPositionY: 1
+    m_KeepOriginalPositionXZ: 0
+    m_HeightFromFeet: 0
+    m_Mirror: 0
+  m_EditorCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .100000001
+        value: 12.8440361
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .200000003
+        value: 9.57983208
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .266666681
+        value: 21.1009178
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .366666675
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .433333337
+        value: 22.0183487
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .533333361
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .600000024
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .699999988
+        value: 14.6788988
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.0666666
+        value: 22.0183487
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.29999995
+        value: 4.74828482
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.5
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.76666665
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.gums_blendShape.gums_mouth_open
+    path: TerriGeo/gums
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .100000001
+        value: 12.8440361
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .200000003
+        value: 9.57983208
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .266666681
+        value: 21.1009178
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .366666675
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .433333337
+        value: 22.0183487
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .533333361
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .600000024
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .699999988
+        value: 14.6788988
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.26666665
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.36666667
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.5
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.0666666
+        value: 22.0183487
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.29999995
+        value: 4.74828482
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.5
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.76666665
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.head_blendShape.head_mouth_open
+    path: TerriGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 100
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .100000001
+        value: 100
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .200000003
+        value: 100
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .366666675
+        value: 100
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .533333361
+        value: 100
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .600000024
+        value: 100
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .699999988
+        value: 100
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1
+        value: 100
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.26666665
+        value: 100
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.36666667
+        value: 100
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.5
+        value: 100
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2
+        value: 100
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.0666666
+        value: 100
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.29999995
+        value: 100
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.5
+        value: 100
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.76666665
+        value: 100
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.head_blendShape.head_mouth_closed
+    path: TerriGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .100000001
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .200000003
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .366666675
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .533333361
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .600000024
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .699999988
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.26666665
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.36666667
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.5
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.0666666
+        value: 22.4369755
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.29999995
+        value: 22.4369755
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.5
+        value: 22.4369755
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.76666665
+        value: 22.4369755
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.head_blendShape.head_l_smile
+    path: TerriGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .100000001
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .200000003
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .366666675
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .533333361
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .600000024
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .699999988
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.26666665
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.36666667
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.5
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.0666666
+        value: 22.4369755
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.29999995
+        value: 22.4369755
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.5
+        value: 22.4369755
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.76666665
+        value: 22.4369755
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.head_blendShape.head_r_smile
+    path: TerriGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 14.3697481
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .100000001
+        value: 14.3697481
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .200000003
+        value: 14.3697481
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .366666675
+        value: 14.3697481
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .533333361
+        value: 14.3697481
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .600000024
+        value: 14.3697481
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .699999988
+        value: 14.3697481
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1
+        value: 14.3697481
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.26666665
+        value: 14.3697481
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.36666667
+        value: 100
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.5
+        value: 14.3697481
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2
+        value: 14.3697481
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.0666666
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.29999995
+        value: 14.3697481
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.5
+        value: 14.3697481
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.76666665
+        value: 14.3697481
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.head_blendShape.head_l_eye_blink
+    path: TerriGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 14.3697481
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .100000001
+        value: 14.3697481
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .200000003
+        value: 14.3697481
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .366666675
+        value: 14.3697481
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .533333361
+        value: 14.3697481
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .600000024
+        value: 14.3697481
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .699999988
+        value: 14.3697481
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1
+        value: 14.3697481
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.26666665
+        value: 14.3697481
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.36666667
+        value: 100
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.5
+        value: 14.3697481
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2
+        value: 14.3697481
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.0666666
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.29999995
+        value: 14.3697481
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.5
+        value: 14.3697481
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.76666665
+        value: 14.3697481
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.head_blendShape.head_r_eye_blink
+    path: TerriGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .100000001
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .200000003
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .366666675
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .533333361
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .600000024
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .699999988
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.26666665
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.36666667
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.5
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.0666666
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.29999995
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.5
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.76666665
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.head_blendShape.head_l_frown
+    path: TerriGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .100000001
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .200000003
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .366666675
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .533333361
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .600000024
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .699999988
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.26666665
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.36666667
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.5
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.0666666
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.29999995
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.5
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.76666665
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.head_blendShape.head_r_frown
+    path: TerriGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .100000001
+        value: 27.4789925
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .200000003
+        value: 27.4789925
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .366666675
+        value: 27.4789925
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .533333361
+        value: 27.4789925
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .600000024
+        value: 27.4789925
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .699999988
+        value: 27.4789925
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1
+        value: 27.4789925
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.26666665
+        value: 27.4789925
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.36666667
+        value: 27.4789925
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.5
+        value: 27.4789925
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.89999998
+        value: 27.4789925
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.0666666
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.29999995
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.5
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.76666665
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.head_blendShape.head_l_brow_up
+    path: TerriGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .100000001
+        value: 27.4789925
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .200000003
+        value: 27.4789925
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .366666675
+        value: 27.4789925
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .533333361
+        value: 27.4789925
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .600000024
+        value: 27.4789925
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .699999988
+        value: 27.4789925
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1
+        value: 27.4789925
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.26666665
+        value: 27.4789925
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.36666667
+        value: 27.4789925
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.5
+        value: 27.4789925
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.89999998
+        value: 27.4789925
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.0666666
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.29999995
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.5
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.76666665
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.head_blendShape.head_r_brow_up
+    path: TerriGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .100000001
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .200000003
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .366666675
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .533333361
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .600000024
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .699999988
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.26666665
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.36666667
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.5
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.0666666
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.29999995
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.5
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.76666665
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.head_blendShape.head_l_brow_dn
+    path: TerriGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .100000001
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .200000003
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .366666675
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .533333361
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .600000024
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .699999988
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.26666665
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.36666667
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.5
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.0666666
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.29999995
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.5
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.76666665
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.head_blendShape.head_r_brow_dn
+    path: TerriGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .100000001
+        value: 44.0366974
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .200000003
+        value: 35.0458717
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .366666675
+        value: 20.183485
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .533333361
+        value: 2.70098662
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .600000024
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .699999988
+        value: 1.86353123
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1
+        value: 11.9266052
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.26666665
+        value: 16.6549358
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.36666667
+        value: 17.8988495
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.5
+        value: 18.3486233
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2
+        value: 11.9266052
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.0666666
+        value: 9.49648571
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.29999995
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.5
+        value: 4.28133678
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.76666665
+        value: 16.5137615
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.head_blendShape.head_oo
+    path: TerriGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .100000001
+        value: 37.6146812
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .200000003
+        value: 58.7155952
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .366666675
+        value: 41.070034
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .533333361
+        value: 5.96347666
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .600000024
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .699999988
+        value: 1.83486247
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1
+        value: 61.4678917
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.26666665
+        value: 28.6741467
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.36666667
+        value: 13.1210222
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.5
+        value: 1.83486247
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2
+        value: 61.4678917
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.0666666
+        value: 61.4477577
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.29999995
+        value: 59.6330299
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.5
+        value: 47.9103165
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.76666665
+        value: 16.5137615
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.head_blendShape.head_th
+    path: TerriGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .100000001
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .200000003
+        value: 6.42076492
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .366666675
+        value: 18.3040409
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .533333361
+        value: 28.4403687
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .600000024
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .699999988
+        value: 31.1926594
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .800000012
+        value: 37.6146812
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.26666665
+        value: -4.67631721
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.36666667
+        value: -4.5625453
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.5
+        value: -4.01912642
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.0666666
+        value: 3.70495653
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.29999995
+        value: 29.3577976
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.5
+        value: 24.3629036
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.76666665
+        value: 10.0917425
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.head_blendShape.head_ee
+    path: TerriGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .100000001
+        value: 39.4495392
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .200000003
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .366666675
+        value: 1.69265199
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .533333361
+        value: 7.50797319
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .600000024
+        value: 9.76189709
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .699999988
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1
+        value: 21.1009178
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.26666665
+        value: 23.5588188
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.36666667
+        value: 23.5095539
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.5
+        value: 23.2719784
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2
+        value: 21.1009178
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.0666666
+        value: 18.4379807
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.29999995
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.76666665
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.head_blendShape.head_sh
+    path: TerriGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.26666665
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.36666667
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.5
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.76666665
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.head_blendShape.head_F
+    path: TerriGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.26666665
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.36666667
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.5
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.76666665
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.head_blendShape.head_mm
+    path: TerriGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .100000001
+        value: 12.8440361
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .200000003
+        value: 9.57983208
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .266666681
+        value: 21.1009178
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .366666675
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .433333337
+        value: 22.0183487
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .533333361
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .600000024
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .699999988
+        value: 14.6788988
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.0666666
+        value: 22.0183487
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.29999995
+        value: 4.74828482
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.5
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.76666665
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.tongue_blendShape.tongue_mouth_open
+    path: TerriGeo/tongue
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .100000001
+        value: 12.8440361
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .200000003
+        value: 9.57983208
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .266666681
+        value: 21.1009178
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .366666675
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .433333337
+        value: 22.0183487
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .533333361
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .600000024
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .699999988
+        value: 14.6788988
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.0666666
+        value: 22.0183487
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.29999995
+        value: 4.74828482
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.5
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.76666665
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.teeth_blendShape.teeth_mouth_open
+    path: TerriGeo/teeth
+    classID: 137
+    script: {fileID: 0}
+  m_EulerEditorCurves: []
+  m_Events: []

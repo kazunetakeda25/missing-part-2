@@ -1,0 +1,2091 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!74 &7400000
+AnimationClip:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: barola@barola_2-4_5b
+  serializedVersion: 4
+  m_AnimationType: 1
+  m_Compressed: 0
+  m_UseHighQualityCurve: 1
+  m_RotationCurves: []
+  m_CompressedRotationCurves: []
+  m_PositionCurves: []
+  m_ScaleCurves: []
+  m_FloatCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 0
+        inSlope: 302.752289
+        outSlope: 302.752289
+        tangentMode: 10
+      - time: .100000001
+        value: 20.183485
+        inSlope: 75.6880722
+        outSlope: 75.6880722
+        tangentMode: 10
+      - time: .233333334
+        value: 0
+        inSlope: -75.6880722
+        outSlope: -75.6880722
+        tangentMode: 10
+      - time: .333333343
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .433333337
+        value: 0
+        inSlope: 105.504562
+        outSlope: 105.504562
+        tangentMode: 10
+      - time: .533333361
+        value: 21.1009178
+        inSlope: 42.2017937
+        outSlope: 42.2017937
+        tangentMode: 10
+      - time: .699999988
+        value: 0
+        inSlope: -63.3027687
+        outSlope: -63.3027687
+        tangentMode: 10
+      - time: .833333313
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.barola_gumsBlendShape.gums_mouth_open
+    path: BarolaGeo/gums
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 15.8415842
+        inSlope: -245.049515
+        outSlope: -245.049515
+        tangentMode: 10
+      - time: .100000001
+        value: -.495049506
+        inSlope: -61.2623787
+        outSlope: -61.2623787
+        tangentMode: 10
+      - time: .233333334
+        value: 15.8415842
+        inSlope: 61.2623787
+        outSlope: 61.2623787
+        tangentMode: 10
+      - time: .333333343
+        value: 15.8415842
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .433333337
+        value: 15.8415842
+        inSlope: -69.3069153
+        outSlope: -69.3069153
+        tangentMode: 10
+      - time: .533333361
+        value: 1.98019803
+        inSlope: -27.7227478
+        outSlope: -27.7227478
+        tangentMode: 10
+      - time: .699999988
+        value: 15.8415842
+        inSlope: 672.772339
+        outSlope: 672.772339
+        tangentMode: 10
+      - time: .766666651
+        value: 100
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .833333313
+        value: 15.8415842
+        inSlope: -1262.37634
+        outSlope: -1262.37634
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.barola_headBlendShape.head_r_blink
+    path: BarolaGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 15.8415842
+        inSlope: -245.049515
+        outSlope: -245.049515
+        tangentMode: 10
+      - time: .100000001
+        value: -.495049506
+        inSlope: -61.2623787
+        outSlope: -61.2623787
+        tangentMode: 10
+      - time: .233333334
+        value: 15.8415842
+        inSlope: 61.2623787
+        outSlope: 61.2623787
+        tangentMode: 10
+      - time: .333333343
+        value: 15.8415842
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .433333337
+        value: 15.8415842
+        inSlope: -69.3069153
+        outSlope: -69.3069153
+        tangentMode: 10
+      - time: .533333361
+        value: 1.98019803
+        inSlope: -27.7227478
+        outSlope: -27.7227478
+        tangentMode: 10
+      - time: .699999988
+        value: 15.8415842
+        inSlope: 672.772339
+        outSlope: 672.772339
+        tangentMode: 10
+      - time: .766666651
+        value: 100
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .833333313
+        value: 15.8415842
+        inSlope: -1262.37634
+        outSlope: -1262.37634
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.barola_headBlendShape.head_l_blink
+    path: BarolaGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 19.7792721
+        inSlope: 288.990784
+        outSlope: 288.990784
+        tangentMode: 10
+      - time: .100000001
+        value: 39.0453224
+        inSlope: -1.92457581
+        outSlope: -1.92457581
+        tangentMode: 10
+      - time: .233333334
+        value: 0
+        inSlope: -146.419968
+        outSlope: -146.419968
+        tangentMode: 10
+      - time: .333333343
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .433333337
+        value: 0
+        inSlope: 37.2195435
+        outSlope: 37.2195435
+        tangentMode: 10
+      - time: .533333361
+        value: 7.44391012
+        inSlope: 14.8878078
+        outSlope: 14.8878078
+        tangentMode: 10
+      - time: .699999988
+        value: 0
+        inSlope: -22.3317356
+        outSlope: -22.3317356
+        tangentMode: 10
+      - time: .766666651
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .833333313
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.barola_headBlendShape.head_r_brow_up
+    path: BarolaGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 28.9535847
+        inSlope: 110.091682
+        outSlope: 110.091682
+        tangentMode: 10
+      - time: .100000001
+        value: 36.2930298
+        inSlope: -81.0530396
+        outSlope: -81.0530396
+        tangentMode: 10
+      - time: .233333334
+        value: 0
+        inSlope: -136.098877
+        outSlope: -136.098877
+        tangentMode: 10
+      - time: .333333343
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .433333337
+        value: 0
+        inSlope: 37.2195435
+        outSlope: 37.2195435
+        tangentMode: 10
+      - time: .533333361
+        value: 7.44391012
+        inSlope: 14.8878078
+        outSlope: 14.8878078
+        tangentMode: 10
+      - time: .699999988
+        value: 0
+        inSlope: -22.3317356
+        outSlope: -22.3317356
+        tangentMode: 10
+      - time: .766666651
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .833333313
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.barola_headBlendShape.head_l_brow_up
+    path: BarolaGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .100000001
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .233333334
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .333333343
+        value: 0
+        inSlope: 373.76239
+        outSlope: 373.76239
+        tangentMode: 10
+      - time: .433333337
+        value: 74.7524719
+        inSlope: 373.76239
+        outSlope: 373.76239
+        tangentMode: 10
+      - time: .533333361
+        value: 74.7524719
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .699999988
+        value: 74.7524719
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .766666651
+        value: 74.7524719
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .833333313
+        value: 74.7524719
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.barola_headBlendShape.head_r_brow_dn
+    path: BarolaGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .100000001
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .233333334
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .333333343
+        value: 0
+        inSlope: 373.76239
+        outSlope: 373.76239
+        tangentMode: 10
+      - time: .433333337
+        value: 74.7524719
+        inSlope: 373.76239
+        outSlope: 373.76239
+        tangentMode: 10
+      - time: .533333361
+        value: 74.7524719
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .699999988
+        value: 74.7524719
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .766666651
+        value: 74.7524719
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .833333313
+        value: 74.7524719
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.barola_headBlendShape.head_l_brow_dn
+    path: BarolaGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 0
+        inSlope: 302.752289
+        outSlope: 302.752289
+        tangentMode: 10
+      - time: .100000001
+        value: 20.183485
+        inSlope: 75.6880722
+        outSlope: 75.6880722
+        tangentMode: 10
+      - time: .233333334
+        value: 0
+        inSlope: -75.6880722
+        outSlope: -75.6880722
+        tangentMode: 10
+      - time: .333333343
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .433333337
+        value: 0
+        inSlope: 105.504562
+        outSlope: 105.504562
+        tangentMode: 10
+      - time: .533333361
+        value: 21.1009178
+        inSlope: 42.2017937
+        outSlope: 42.2017937
+        tangentMode: 10
+      - time: .699999988
+        value: 0
+        inSlope: -63.3027687
+        outSlope: -63.3027687
+        tangentMode: 10
+      - time: .833333313
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.barola_headBlendShape.head_mouth_open
+    path: BarolaGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .100000001
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .233333334
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .333333343
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .433333337
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .533333361
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .699999988
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .766666651
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .833333313
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.barola_headBlendShape.head_mouth_closed
+    path: BarolaGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .100000001
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .233333334
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .333333343
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .433333337
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .533333361
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .699999988
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .766666651
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .833333313
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.barola_headBlendShape.head_r_smile
+    path: BarolaGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .100000001
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .233333334
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .333333343
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .433333337
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .533333361
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .699999988
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .766666651
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .833333313
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.barola_headBlendShape.head_l_smile
+    path: BarolaGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 13.8613863
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .100000001
+        value: 13.8613863
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .233333334
+        value: 13.8613863
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .333333343
+        value: 13.8613863
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .433333337
+        value: 13.8613863
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .533333361
+        value: 13.8613863
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .699999988
+        value: 13.8613863
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .766666651
+        value: 13.8613863
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .833333313
+        value: 13.8613863
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.barola_headBlendShape.head_r_frown
+    path: BarolaGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 13.8613863
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .100000001
+        value: 13.8613863
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .233333334
+        value: 13.8613863
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .333333343
+        value: 13.8613863
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .433333337
+        value: 13.8613863
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .533333361
+        value: 13.8613863
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .699999988
+        value: 13.8613863
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .766666651
+        value: 13.8613863
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .833333313
+        value: 13.8613863
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.barola_headBlendShape.head_l_frown
+    path: BarolaGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 0
+        inSlope: 210.669388
+        outSlope: 210.669388
+        tangentMode: 10
+      - time: .233333334
+        value: 42.1338768
+        inSlope: 179.069
+        outSlope: 179.069
+        tangentMode: 10
+      - time: .333333343
+        value: 56.8807373
+        inSlope: 48.3143387
+        outSlope: 48.3143387
+        tangentMode: 10
+      - time: .433333337
+        value: 51.7967453
+        inSlope: -86.4150085
+        outSlope: -86.4150085
+        tangentMode: 10
+      - time: .699999988
+        value: 19.2660561
+        inSlope: -88.5179901
+        outSlope: -88.5179901
+        tangentMode: 10
+      - time: .833333313
+        value: 11.9266052
+        inSlope: -55.0458832
+        outSlope: -55.0458832
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.barola_headBlendShape.head_oo
+    path: BarolaGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 0
+        inSlope: 43.5963287
+        outSlope: 43.5963287
+        tangentMode: 10
+      - time: .233333334
+        value: 8.71926594
+        inSlope: 59.1726227
+        outSlope: 59.1726227
+        tangentMode: 10
+      - time: .333333343
+        value: 16.1941586
+        inSlope: 77.3755035
+        outSlope: 77.3755035
+        tangentMode: 10
+      - time: .433333337
+        value: 24.1943665
+        inSlope: 70.3246765
+        outSlope: 70.3246765
+        tangentMode: 10
+      - time: .699999988
+        value: 40.3669701
+        inSlope: -121.052513
+        outSlope: -121.052513
+        tangentMode: 10
+      - time: .833333313
+        value: 0
+        inSlope: -302.752289
+        outSlope: -302.752289
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.barola_headBlendShape.head_th
+    path: BarolaGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .233333334
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .333333343
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .433333337
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .699999988
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .833333313
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.barola_headBlendShape.head_ee
+    path: BarolaGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 0
+        inSlope: 227.658844
+        outSlope: 227.658844
+        tangentMode: 10
+      - time: .233333334
+        value: 45.5317688
+        inSlope: 193.51004
+        outSlope: 193.51004
+        tangentMode: 10
+      - time: .333333343
+        value: 61.4678917
+        inSlope: -108.392799
+        outSlope: -108.392799
+        tangentMode: 10
+      - time: .433333337
+        value: 23.8532104
+        inSlope: -215.647308
+        outSlope: -215.647308
+        tangentMode: 10
+      - time: .699999988
+        value: 9.14712906
+        inSlope: -30.9123344
+        outSlope: -30.9123344
+        tangentMode: 10
+      - time: .833333313
+        value: 8.25688076
+        inSlope: -6.67686272
+        outSlope: -6.67686272
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.barola_headBlendShape.head_sh
+    path: BarolaGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .233333334
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .333333343
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .433333337
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .699999988
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .833333313
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.barola_headBlendShape.head_ff
+    path: BarolaGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .233333334
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .333333343
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .433333337
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .699999988
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .833333313
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.barola_headBlendShape.head_mm
+    path: BarolaGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 0
+        inSlope: 302.752289
+        outSlope: 302.752289
+        tangentMode: 10
+      - time: .100000001
+        value: 20.183485
+        inSlope: 75.6880722
+        outSlope: 75.6880722
+        tangentMode: 10
+      - time: .233333334
+        value: 0
+        inSlope: -75.6880722
+        outSlope: -75.6880722
+        tangentMode: 10
+      - time: .333333343
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .433333337
+        value: 0
+        inSlope: 105.504562
+        outSlope: 105.504562
+        tangentMode: 10
+      - time: .533333361
+        value: 21.1009178
+        inSlope: 42.2017937
+        outSlope: 42.2017937
+        tangentMode: 10
+      - time: .699999988
+        value: 0
+        inSlope: -63.3027687
+        outSlope: -63.3027687
+        tangentMode: 10
+      - time: .833333313
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.barola_tongueBlendShape.tongue_mouth_open
+    path: BarolaGeo/tongue
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: -4.95049524
+        inSlope: 302.752289
+        outSlope: 302.752289
+        tangentMode: 10
+      - time: .100000001
+        value: 15.2329903
+        inSlope: 75.6880722
+        outSlope: 75.6880722
+        tangentMode: 10
+      - time: .233333334
+        value: -4.95049524
+        inSlope: -75.6880722
+        outSlope: -75.6880722
+        tangentMode: 10
+      - time: .333333343
+        value: -4.95049524
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .433333337
+        value: -4.95049524
+        inSlope: 105.504562
+        outSlope: 105.504562
+        tangentMode: 10
+      - time: .533333361
+        value: 16.150423
+        inSlope: 42.2017937
+        outSlope: 42.2017937
+        tangentMode: 10
+      - time: .699999988
+        value: -4.95049524
+        inSlope: -63.3027687
+        outSlope: -63.3027687
+        tangentMode: 10
+      - time: .833333313
+        value: -4.95049524
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.barola_teethBlendShape.teeth_mouth_open
+    path: BarolaGeo/teeth
+    classID: 137
+    script: {fileID: 0}
+  m_PPtrCurves: []
+  m_SampleRate: 1800
+  m_WrapMode: 0
+  m_Bounds:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  m_AnimationClipSettings:
+    serializedVersion: 2
+    m_StartTime: 0
+    m_StopTime: .833333313
+    m_OrientationOffsetY: 0
+    m_Level: 0
+    m_CycleOffset: 0
+    m_LoopTime: 0
+    m_LoopBlend: 0
+    m_LoopBlendOrientation: 0
+    m_LoopBlendPositionY: 0
+    m_LoopBlendPositionXZ: 0
+    m_KeepOriginalOrientation: 0
+    m_KeepOriginalPositionY: 1
+    m_KeepOriginalPositionXZ: 0
+    m_HeightFromFeet: 0
+    m_Mirror: 0
+  m_EditorCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 0
+        inSlope: 302.752289
+        outSlope: 302.752289
+        tangentMode: 10
+      - time: .100000001
+        value: 20.183485
+        inSlope: 75.6880722
+        outSlope: 75.6880722
+        tangentMode: 10
+      - time: .233333334
+        value: 0
+        inSlope: -75.6880722
+        outSlope: -75.6880722
+        tangentMode: 10
+      - time: .333333343
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .433333337
+        value: 0
+        inSlope: 105.504562
+        outSlope: 105.504562
+        tangentMode: 10
+      - time: .533333361
+        value: 21.1009178
+        inSlope: 42.2017937
+        outSlope: 42.2017937
+        tangentMode: 10
+      - time: .699999988
+        value: 0
+        inSlope: -63.3027687
+        outSlope: -63.3027687
+        tangentMode: 10
+      - time: .833333313
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.barola_gumsBlendShape.gums_mouth_open
+    path: BarolaGeo/gums
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 15.8415842
+        inSlope: -245.049515
+        outSlope: -245.049515
+        tangentMode: 10
+      - time: .100000001
+        value: -.495049506
+        inSlope: -61.2623787
+        outSlope: -61.2623787
+        tangentMode: 10
+      - time: .233333334
+        value: 15.8415842
+        inSlope: 61.2623787
+        outSlope: 61.2623787
+        tangentMode: 10
+      - time: .333333343
+        value: 15.8415842
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .433333337
+        value: 15.8415842
+        inSlope: -69.3069153
+        outSlope: -69.3069153
+        tangentMode: 10
+      - time: .533333361
+        value: 1.98019803
+        inSlope: -27.7227478
+        outSlope: -27.7227478
+        tangentMode: 10
+      - time: .699999988
+        value: 15.8415842
+        inSlope: 672.772339
+        outSlope: 672.772339
+        tangentMode: 10
+      - time: .766666651
+        value: 100
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .833333313
+        value: 15.8415842
+        inSlope: -1262.37634
+        outSlope: -1262.37634
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.barola_headBlendShape.head_r_blink
+    path: BarolaGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 15.8415842
+        inSlope: -245.049515
+        outSlope: -245.049515
+        tangentMode: 10
+      - time: .100000001
+        value: -.495049506
+        inSlope: -61.2623787
+        outSlope: -61.2623787
+        tangentMode: 10
+      - time: .233333334
+        value: 15.8415842
+        inSlope: 61.2623787
+        outSlope: 61.2623787
+        tangentMode: 10
+      - time: .333333343
+        value: 15.8415842
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .433333337
+        value: 15.8415842
+        inSlope: -69.3069153
+        outSlope: -69.3069153
+        tangentMode: 10
+      - time: .533333361
+        value: 1.98019803
+        inSlope: -27.7227478
+        outSlope: -27.7227478
+        tangentMode: 10
+      - time: .699999988
+        value: 15.8415842
+        inSlope: 672.772339
+        outSlope: 672.772339
+        tangentMode: 10
+      - time: .766666651
+        value: 100
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .833333313
+        value: 15.8415842
+        inSlope: -1262.37634
+        outSlope: -1262.37634
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.barola_headBlendShape.head_l_blink
+    path: BarolaGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 19.7792721
+        inSlope: 288.990784
+        outSlope: 288.990784
+        tangentMode: 10
+      - time: .100000001
+        value: 39.0453224
+        inSlope: -1.92457581
+        outSlope: -1.92457581
+        tangentMode: 10
+      - time: .233333334
+        value: 0
+        inSlope: -146.419968
+        outSlope: -146.419968
+        tangentMode: 10
+      - time: .333333343
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .433333337
+        value: 0
+        inSlope: 37.2195435
+        outSlope: 37.2195435
+        tangentMode: 10
+      - time: .533333361
+        value: 7.44391012
+        inSlope: 14.8878078
+        outSlope: 14.8878078
+        tangentMode: 10
+      - time: .699999988
+        value: 0
+        inSlope: -22.3317356
+        outSlope: -22.3317356
+        tangentMode: 10
+      - time: .766666651
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .833333313
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.barola_headBlendShape.head_r_brow_up
+    path: BarolaGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 28.9535847
+        inSlope: 110.091682
+        outSlope: 110.091682
+        tangentMode: 10
+      - time: .100000001
+        value: 36.2930298
+        inSlope: -81.0530396
+        outSlope: -81.0530396
+        tangentMode: 10
+      - time: .233333334
+        value: 0
+        inSlope: -136.098877
+        outSlope: -136.098877
+        tangentMode: 10
+      - time: .333333343
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .433333337
+        value: 0
+        inSlope: 37.2195435
+        outSlope: 37.2195435
+        tangentMode: 10
+      - time: .533333361
+        value: 7.44391012
+        inSlope: 14.8878078
+        outSlope: 14.8878078
+        tangentMode: 10
+      - time: .699999988
+        value: 0
+        inSlope: -22.3317356
+        outSlope: -22.3317356
+        tangentMode: 10
+      - time: .766666651
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .833333313
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.barola_headBlendShape.head_l_brow_up
+    path: BarolaGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .100000001
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .233333334
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .333333343
+        value: 0
+        inSlope: 373.76239
+        outSlope: 373.76239
+        tangentMode: 10
+      - time: .433333337
+        value: 74.7524719
+        inSlope: 373.76239
+        outSlope: 373.76239
+        tangentMode: 10
+      - time: .533333361
+        value: 74.7524719
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .699999988
+        value: 74.7524719
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .766666651
+        value: 74.7524719
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .833333313
+        value: 74.7524719
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.barola_headBlendShape.head_r_brow_dn
+    path: BarolaGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .100000001
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .233333334
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .333333343
+        value: 0
+        inSlope: 373.76239
+        outSlope: 373.76239
+        tangentMode: 10
+      - time: .433333337
+        value: 74.7524719
+        inSlope: 373.76239
+        outSlope: 373.76239
+        tangentMode: 10
+      - time: .533333361
+        value: 74.7524719
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .699999988
+        value: 74.7524719
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .766666651
+        value: 74.7524719
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .833333313
+        value: 74.7524719
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.barola_headBlendShape.head_l_brow_dn
+    path: BarolaGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 0
+        inSlope: 302.752289
+        outSlope: 302.752289
+        tangentMode: 10
+      - time: .100000001
+        value: 20.183485
+        inSlope: 75.6880722
+        outSlope: 75.6880722
+        tangentMode: 10
+      - time: .233333334
+        value: 0
+        inSlope: -75.6880722
+        outSlope: -75.6880722
+        tangentMode: 10
+      - time: .333333343
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .433333337
+        value: 0
+        inSlope: 105.504562
+        outSlope: 105.504562
+        tangentMode: 10
+      - time: .533333361
+        value: 21.1009178
+        inSlope: 42.2017937
+        outSlope: 42.2017937
+        tangentMode: 10
+      - time: .699999988
+        value: 0
+        inSlope: -63.3027687
+        outSlope: -63.3027687
+        tangentMode: 10
+      - time: .833333313
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.barola_headBlendShape.head_mouth_open
+    path: BarolaGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .100000001
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .233333334
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .333333343
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .433333337
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .533333361
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .699999988
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .766666651
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .833333313
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.barola_headBlendShape.head_mouth_closed
+    path: BarolaGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .100000001
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .233333334
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .333333343
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .433333337
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .533333361
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .699999988
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .766666651
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .833333313
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.barola_headBlendShape.head_r_smile
+    path: BarolaGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .100000001
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .233333334
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .333333343
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .433333337
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .533333361
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .699999988
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .766666651
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .833333313
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.barola_headBlendShape.head_l_smile
+    path: BarolaGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 13.8613863
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .100000001
+        value: 13.8613863
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .233333334
+        value: 13.8613863
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .333333343
+        value: 13.8613863
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .433333337
+        value: 13.8613863
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .533333361
+        value: 13.8613863
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .699999988
+        value: 13.8613863
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .766666651
+        value: 13.8613863
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .833333313
+        value: 13.8613863
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.barola_headBlendShape.head_r_frown
+    path: BarolaGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 13.8613863
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .100000001
+        value: 13.8613863
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .233333334
+        value: 13.8613863
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .333333343
+        value: 13.8613863
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .433333337
+        value: 13.8613863
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .533333361
+        value: 13.8613863
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .699999988
+        value: 13.8613863
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .766666651
+        value: 13.8613863
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .833333313
+        value: 13.8613863
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.barola_headBlendShape.head_l_frown
+    path: BarolaGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 0
+        inSlope: 210.669388
+        outSlope: 210.669388
+        tangentMode: 10
+      - time: .233333334
+        value: 42.1338768
+        inSlope: 179.069
+        outSlope: 179.069
+        tangentMode: 10
+      - time: .333333343
+        value: 56.8807373
+        inSlope: 48.3143387
+        outSlope: 48.3143387
+        tangentMode: 10
+      - time: .433333337
+        value: 51.7967453
+        inSlope: -86.4150085
+        outSlope: -86.4150085
+        tangentMode: 10
+      - time: .699999988
+        value: 19.2660561
+        inSlope: -88.5179901
+        outSlope: -88.5179901
+        tangentMode: 10
+      - time: .833333313
+        value: 11.9266052
+        inSlope: -55.0458832
+        outSlope: -55.0458832
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.barola_headBlendShape.head_oo
+    path: BarolaGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 0
+        inSlope: 43.5963287
+        outSlope: 43.5963287
+        tangentMode: 10
+      - time: .233333334
+        value: 8.71926594
+        inSlope: 59.1726227
+        outSlope: 59.1726227
+        tangentMode: 10
+      - time: .333333343
+        value: 16.1941586
+        inSlope: 77.3755035
+        outSlope: 77.3755035
+        tangentMode: 10
+      - time: .433333337
+        value: 24.1943665
+        inSlope: 70.3246765
+        outSlope: 70.3246765
+        tangentMode: 10
+      - time: .699999988
+        value: 40.3669701
+        inSlope: -121.052513
+        outSlope: -121.052513
+        tangentMode: 10
+      - time: .833333313
+        value: 0
+        inSlope: -302.752289
+        outSlope: -302.752289
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.barola_headBlendShape.head_th
+    path: BarolaGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .233333334
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .333333343
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .433333337
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .699999988
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .833333313
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.barola_headBlendShape.head_ee
+    path: BarolaGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 0
+        inSlope: 227.658844
+        outSlope: 227.658844
+        tangentMode: 10
+      - time: .233333334
+        value: 45.5317688
+        inSlope: 193.51004
+        outSlope: 193.51004
+        tangentMode: 10
+      - time: .333333343
+        value: 61.4678917
+        inSlope: -108.392799
+        outSlope: -108.392799
+        tangentMode: 10
+      - time: .433333337
+        value: 23.8532104
+        inSlope: -215.647308
+        outSlope: -215.647308
+        tangentMode: 10
+      - time: .699999988
+        value: 9.14712906
+        inSlope: -30.9123344
+        outSlope: -30.9123344
+        tangentMode: 10
+      - time: .833333313
+        value: 8.25688076
+        inSlope: -6.67686272
+        outSlope: -6.67686272
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.barola_headBlendShape.head_sh
+    path: BarolaGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .233333334
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .333333343
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .433333337
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .699999988
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .833333313
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.barola_headBlendShape.head_ff
+    path: BarolaGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .233333334
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .333333343
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .433333337
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .699999988
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .833333313
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.barola_headBlendShape.head_mm
+    path: BarolaGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 0
+        inSlope: 302.752289
+        outSlope: 302.752289
+        tangentMode: 10
+      - time: .100000001
+        value: 20.183485
+        inSlope: 75.6880722
+        outSlope: 75.6880722
+        tangentMode: 10
+      - time: .233333334
+        value: 0
+        inSlope: -75.6880722
+        outSlope: -75.6880722
+        tangentMode: 10
+      - time: .333333343
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .433333337
+        value: 0
+        inSlope: 105.504562
+        outSlope: 105.504562
+        tangentMode: 10
+      - time: .533333361
+        value: 21.1009178
+        inSlope: 42.2017937
+        outSlope: 42.2017937
+        tangentMode: 10
+      - time: .699999988
+        value: 0
+        inSlope: -63.3027687
+        outSlope: -63.3027687
+        tangentMode: 10
+      - time: .833333313
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.barola_tongueBlendShape.tongue_mouth_open
+    path: BarolaGeo/tongue
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: -4.95049524
+        inSlope: 302.752289
+        outSlope: 302.752289
+        tangentMode: 10
+      - time: .100000001
+        value: 15.2329903
+        inSlope: 75.6880722
+        outSlope: 75.6880722
+        tangentMode: 10
+      - time: .233333334
+        value: -4.95049524
+        inSlope: -75.6880722
+        outSlope: -75.6880722
+        tangentMode: 10
+      - time: .333333343
+        value: -4.95049524
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .433333337
+        value: -4.95049524
+        inSlope: 105.504562
+        outSlope: 105.504562
+        tangentMode: 10
+      - time: .533333361
+        value: 16.150423
+        inSlope: 42.2017937
+        outSlope: 42.2017937
+        tangentMode: 10
+      - time: .699999988
+        value: -4.95049524
+        inSlope: -63.3027687
+        outSlope: -63.3027687
+        tangentMode: 10
+      - time: .833333313
+        value: -4.95049524
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.barola_teethBlendShape.teeth_mouth_open
+    path: BarolaGeo/teeth
+    classID: 137
+    script: {fileID: 0}
+  m_EulerEditorCurves: []
+  m_Events: []

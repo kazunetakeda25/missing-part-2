@@ -1,0 +1,2367 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!74 &7400000
+AnimationClip:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: barola_head_m2a
+  serializedVersion: 4
+  m_AnimationType: 1
+  m_Compressed: 0
+  m_UseHighQualityCurve: 1
+  m_RotationCurves: []
+  m_CompressedRotationCurves: []
+  m_PositionCurves: []
+  m_ScaleCurves: []
+  m_FloatCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: -4
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 0
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 5
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 7
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 12
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 14
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 17
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 19
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 23
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 28
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 35
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.barola_headBlendShape.head_ee
+    path: 
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: -4
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 0
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 5
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 7
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 12
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 14
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 17
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 19
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 23
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 28
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 35
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.barola_headBlendShape.head_ff
+    path: 
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: -4
+        value: 17.4311924
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 0
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 5
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 7
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 12
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 14
+        value: 100
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 17
+        value: 13.7614679
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 19
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 23
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 28
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 35
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.barola_headBlendShape.head_l_blink
+    path: 
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: -4
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 12
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 17
+        value: 100
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.barola_headBlendShape.head_l_brow_dn
+    path: 
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: -4
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1
+        value: 62.0115509
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2
+        value: 66.9724731
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 12
+        value: 54.128437
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 17
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.barola_headBlendShape.head_l_brow_up
+    path: 
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: -4
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 0
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 5
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 7
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 12
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 14
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 17
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 19
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 23
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 28
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 35
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.barola_headBlendShape.head_l_frown
+    path: 
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: -4
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 0
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 5
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 7
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 12
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 14
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 17
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 19
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 23
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 28
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 35
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.barola_headBlendShape.head_l_smile
+    path: 
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: -4
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 0
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 5
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 7
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 12
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 14
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 17
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 19
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 23
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 28
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 35
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.barola_headBlendShape.head_mm
+    path: 
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: -4
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 0
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1
+        value: 12.5999975
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2
+        value: 35.1999931
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 5
+        value: 100
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 7
+        value: 100
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 12
+        value: 100
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 14
+        value: 100
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 17
+        value: 100
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 19
+        value: 100
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 23
+        value: 100
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 28
+        value: 100
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 35
+        value: 100
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.barola_headBlendShape.head_mouth_closed
+    path: 
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: -4
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 0
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1
+        value: 16.0550461
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2
+        value: 32.1100922
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 5
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 7
+        value: 18.3486233
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 12
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 14
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 17
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 19
+        value: 17.4311924
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 23
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 28
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 35
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.barola_headBlendShape.head_mouth_open
+    path: 
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: -4
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 0
+        value: 16.5137615
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1
+        value: 33.432724
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2
+        value: 50.4587173
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 5
+        value: 59.6330299
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 7
+        value: 16.5137615
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 12
+        value: 16.5137615
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 14
+        value: 32.7423172
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 17
+        value: 61.4678917
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 19
+        value: 57.8136101
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 23
+        value: 40.3669701
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 28
+        value: 16.5137615
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 35
+        value: 16.5137615
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.barola_headBlendShape.head_oo
+    path: 
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: -4
+        value: 19.2660561
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 0
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 5
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 7
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 12
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 14
+        value: 100
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 17
+        value: 17.4311924
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 19
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 23
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 28
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 35
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.barola_headBlendShape.head_r_blink
+    path: 
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: -4
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 12
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 17
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.barola_headBlendShape.head_r_brow_dn
+    path: 
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: -4
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1
+        value: 66.2589188
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2
+        value: 71.5596313
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 12
+        value: 55.9633026
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 17
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.barola_headBlendShape.head_r_brow_up
+    path: 
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: -4
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 0
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 5
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 7
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 12
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 14
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 17
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 19
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 23
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 28
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 35
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.barola_headBlendShape.head_r_frown
+    path: 
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: -4
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 0
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 5
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 7
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 12
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 14
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 17
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 19
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 23
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 28
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 35
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.barola_headBlendShape.head_r_smile
+    path: 
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: -4
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 0
+        value: 1.83486247
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1
+        value: 1.91131508
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2
+        value: 1.83486247
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 5
+        value: 1.83486247
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 7
+        value: 13.2933912
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 12
+        value: 59.6330299
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 14
+        value: 62.9694824
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 17
+        value: 59.6330299
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 19
+        value: 59.6330299
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 23
+        value: 59.6330299
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 28
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 35
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.barola_headBlendShape.head_sh
+    path: 
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: -4
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 0
+        value: 47.7064209
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1
+        value: 42.9834862
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2
+        value: 30.913765
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 5
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 7
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 12
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 14
+        value: -1.30479085
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 17
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 19
+        value: 19.028204
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 23
+        value: 73.3944931
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 28
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 35
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.barola_headBlendShape.head_th
+    path: 
+    classID: 137
+    script: {fileID: 0}
+  m_PPtrCurves: []
+  m_SampleRate: 60
+  m_WrapMode: 0
+  m_Bounds:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  m_AnimationClipSettings:
+    serializedVersion: 2
+    m_StartTime: 0
+    m_StopTime: 2
+    m_OrientationOffsetY: 0
+    m_Level: 0
+    m_CycleOffset: 0
+    m_LoopTime: 0
+    m_LoopBlend: 0
+    m_LoopBlendOrientation: 0
+    m_LoopBlendPositionY: 0
+    m_LoopBlendPositionXZ: 0
+    m_KeepOriginalOrientation: 0
+    m_KeepOriginalPositionY: 1
+    m_KeepOriginalPositionXZ: 0
+    m_HeightFromFeet: 0
+    m_Mirror: 0
+  m_EditorCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: -4
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 0
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 5
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 7
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 12
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 14
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 17
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 19
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 23
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 28
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 35
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.barola_headBlendShape.head_ee
+    path: 
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: -4
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 0
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 5
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 7
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 12
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 14
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 17
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 19
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 23
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 28
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 35
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.barola_headBlendShape.head_ff
+    path: 
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: -4
+        value: 17.4311924
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 0
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 5
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 7
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 12
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 14
+        value: 100
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 17
+        value: 13.7614679
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 19
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 23
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 28
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 35
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.barola_headBlendShape.head_l_blink
+    path: 
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: -4
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 12
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 17
+        value: 100
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.barola_headBlendShape.head_l_brow_dn
+    path: 
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: -4
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1
+        value: 62.0115509
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2
+        value: 66.9724731
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 12
+        value: 54.128437
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 17
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.barola_headBlendShape.head_l_brow_up
+    path: 
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: -4
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 0
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 5
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 7
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 12
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 14
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 17
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 19
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 23
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 28
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 35
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.barola_headBlendShape.head_l_frown
+    path: 
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: -4
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 0
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 5
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 7
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 12
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 14
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 17
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 19
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 23
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 28
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 35
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.barola_headBlendShape.head_l_smile
+    path: 
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: -4
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 0
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 5
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 7
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 12
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 14
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 17
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 19
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 23
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 28
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 35
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.barola_headBlendShape.head_mm
+    path: 
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: -4
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 0
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1
+        value: 12.5999975
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2
+        value: 35.1999931
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 5
+        value: 100
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 7
+        value: 100
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 12
+        value: 100
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 14
+        value: 100
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 17
+        value: 100
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 19
+        value: 100
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 23
+        value: 100
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 28
+        value: 100
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 35
+        value: 100
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.barola_headBlendShape.head_mouth_closed
+    path: 
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: -4
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 0
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1
+        value: 16.0550461
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2
+        value: 32.1100922
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 5
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 7
+        value: 18.3486233
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 12
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 14
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 17
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 19
+        value: 17.4311924
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 23
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 28
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 35
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.barola_headBlendShape.head_mouth_open
+    path: 
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: -4
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 0
+        value: 16.5137615
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1
+        value: 33.432724
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2
+        value: 50.4587173
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 5
+        value: 59.6330299
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 7
+        value: 16.5137615
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 12
+        value: 16.5137615
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 14
+        value: 32.7423172
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 17
+        value: 61.4678917
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 19
+        value: 57.8136101
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 23
+        value: 40.3669701
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 28
+        value: 16.5137615
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 35
+        value: 16.5137615
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.barola_headBlendShape.head_oo
+    path: 
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: -4
+        value: 19.2660561
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 0
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 5
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 7
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 12
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 14
+        value: 100
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 17
+        value: 17.4311924
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 19
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 23
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 28
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 35
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.barola_headBlendShape.head_r_blink
+    path: 
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: -4
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 12
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 17
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.barola_headBlendShape.head_r_brow_dn
+    path: 
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: -4
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1
+        value: 66.2589188
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2
+        value: 71.5596313
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 12
+        value: 55.9633026
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 17
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.barola_headBlendShape.head_r_brow_up
+    path: 
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: -4
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 0
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 5
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 7
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 12
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 14
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 17
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 19
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 23
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 28
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 35
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.barola_headBlendShape.head_r_frown
+    path: 
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: -4
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 0
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 5
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 7
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 12
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 14
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 17
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 19
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 23
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 28
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 35
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.barola_headBlendShape.head_r_smile
+    path: 
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: -4
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 0
+        value: 1.83486247
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1
+        value: 1.91131508
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2
+        value: 1.83486247
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 5
+        value: 1.83486247
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 7
+        value: 13.2933912
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 12
+        value: 59.6330299
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 14
+        value: 62.9694824
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 17
+        value: 59.6330299
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 19
+        value: 59.6330299
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 23
+        value: 59.6330299
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 28
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 35
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.barola_headBlendShape.head_sh
+    path: 
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: -4
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 0
+        value: 47.7064209
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1
+        value: 42.9834862
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2
+        value: 30.913765
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 5
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 7
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 12
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 14
+        value: -1.30479085
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 17
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 19
+        value: 19.028204
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 23
+        value: 73.3944931
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 28
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 35
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.barola_headBlendShape.head_th
+    path: 
+    classID: 137
+    script: {fileID: 0}
+  m_EulerEditorCurves: []
+  m_Events: []

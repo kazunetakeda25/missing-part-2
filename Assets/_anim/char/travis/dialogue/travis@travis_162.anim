@@ -1,0 +1,3321 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!74 &7400000
+AnimationClip:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: travis@travis_162
+  serializedVersion: 4
+  m_AnimationType: 1
+  m_Compressed: 0
+  m_UseHighQualityCurve: 1
+  m_RotationCurves: []
+  m_CompressedRotationCurves: []
+  m_PositionCurves: []
+  m_ScaleCurves: []
+  m_FloatCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 1
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 6
+        value: 22.0183487
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 10
+        value: 32.1100922
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 14
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 18
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 23
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 25
+        value: 3.24404097
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 28
+        value: 31.1926594
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 33
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 35
+        value: 2.29357433
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 37
+        value: 14.6788988
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 45
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 53
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 67
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.travis_gumsBlendShape.gums_mouth_open
+    path: TravisGeo/gums
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 1
+        value: 15.5963297
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3
+        value: 100
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 6
+        value: 15.5963297
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 8
+        value: 100
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 10
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 23
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 28
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 45
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 48
+        value: 100
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 53
+        value: 15.5963297
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 67
+        value: 15.5963297
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.travis_headBlendShape.head_r_blink
+    path: TravisGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 1
+        value: 15.5963297
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3
+        value: 100
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 6
+        value: 15.5963297
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 8
+        value: 100
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 10
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 23
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 28
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 45
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 48
+        value: 100
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 53
+        value: 14.6788988
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 67
+        value: 14.6788988
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.travis_headBlendShape.head_l_blink
+    path: TravisGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 1
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 6
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 10
+        value: 63.3027496
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 23
+        value: 63.3027496
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 28
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 67
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.travis_headBlendShape.head_r_brow_up
+    path: TravisGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 1
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 6
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 10
+        value: 64.2201843
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 23
+        value: 64.2201843
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 28
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 67
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.travis_headBlendShape.head_l_brow_up
+    path: TravisGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 1
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 6
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 8
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 10
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 14
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 18
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 23
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 25
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 28
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 33
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 35
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 37
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 45
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 48
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 53
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 67
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.travis_headBlendShape.head_r_brow_dn
+    path: TravisGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 1
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 6
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 8
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 10
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 14
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 18
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 23
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 25
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 28
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 33
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 35
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 37
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 45
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 48
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 53
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 67
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.travis_headBlendShape.head_l_brow_dn
+    path: TravisGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 1
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 6
+        value: 22.0183487
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 8
+        value: 27.0642223
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 10
+        value: 32.1100922
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 14
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 18
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 23
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 25
+        value: 3.24404097
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 28
+        value: 31.1926594
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 33
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 35
+        value: 2.29357433
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 37
+        value: 14.6788988
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 45
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 48
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 53
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 67
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.travis_headBlendShape.head_mouth_open
+    path: TravisGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 1
+        value: 100
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 6
+        value: 100
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 8
+        value: 100
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 10
+        value: 100
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 14
+        value: 100
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 18
+        value: 100
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 23
+        value: 100
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 25
+        value: 100
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 28
+        value: 100
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 33
+        value: 100
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 35
+        value: 100
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 37
+        value: 100
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 45
+        value: 100
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 48
+        value: 100
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 53
+        value: 100
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 67
+        value: 100
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.travis_headBlendShape.head_mouth_closed
+    path: TravisGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 1
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 6
+        value: 13.097414
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 8
+        value: 21.6311264
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 10
+        value: 30.3310242
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 15
+        value: 44.9241295
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 23
+        value: 27.5328693
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 28
+        value: 18.9671993
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 45
+        value: 37.1358261
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 48
+        value: 40.090847
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 53
+        value: 42.9257431
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 67
+        value: 31.3279667
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.travis_headBlendShape.head_r_smile
+    path: TravisGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 1
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 6
+        value: 13.097414
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 8
+        value: 21.6311264
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 10
+        value: 30.3310242
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 15
+        value: 44.9241295
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 23
+        value: 27.5328693
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 28
+        value: 18.9671993
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 45
+        value: 37.1358261
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 48
+        value: 40.090847
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 53
+        value: 42.9257431
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 67
+        value: 31.3279667
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.travis_headBlendShape.head_l_smile
+    path: TravisGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 1
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 6
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 8
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 10
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 14
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 18
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 23
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 25
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 28
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 33
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 35
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 37
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 45
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 48
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 53
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 67
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.travis_headBlendShape.head_r_frown
+    path: TravisGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 1
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 6
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 8
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 10
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 14
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 18
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 23
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 25
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 28
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 33
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 35
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 37
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 45
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 48
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 53
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 67
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.travis_headBlendShape.head_l_frown
+    path: TravisGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 1
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 6
+        value: 45.8715591
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 8
+        value: 38.4747696
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 10
+        value: 26.1467876
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 14
+        value: 6.42201805
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 18
+        value: 27.6349487
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 23
+        value: 60.550457
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 25
+        value: 66.0478821
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 28
+        value: 80.7339401
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 33
+        value: 65.1376114
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 35
+        value: 59.6396217
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 37
+        value: 39.8073196
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 45
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 48
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 53
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 67
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.travis_headBlendShape.head_oo
+    path: TravisGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 1
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 6
+        value: 2.76898026
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 8
+        value: 5.58794689
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 10
+        value: 9.09157658
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 14
+        value: 16.3276844
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 18
+        value: 59.6330299
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 23
+        value: 31.8854294
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 25
+        value: 24.7528248
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 28
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 33
+        value: 42.2018356
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 35
+        value: 42.2018356
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 37
+        value: 42.2018356
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 45
+        value: 42.2018356
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 48
+        value: 39.5377121
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 53
+        value: 29.5190907
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 67
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.travis_headBlendShape.head_th
+    path: TravisGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 1
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 6
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 8
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 10
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 14
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 18
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 23
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 25
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 28
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 33
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 35
+        value: 7.31076813
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 37
+        value: 46.78899
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 45
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 48
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 53
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 67
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.travis_headBlendShape.head_ee
+    path: TravisGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 1
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 6
+        value: 10.2530355
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 8
+        value: 21.4921818
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 10
+        value: 29.4581928
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 14
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 18
+        value: 88.9908218
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 23
+        value: 77.9816513
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 25
+        value: 68.9541245
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 28
+        value: 28.4403687
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 33
+        value: 45.8715591
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 35
+        value: 45.8715591
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 37
+        value: 45.8715591
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 45
+        value: 45.8715591
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 48
+        value: 45.8715591
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 53
+        value: 45.8715591
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 67
+        value: 45.8715591
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.travis_headBlendShape.head_sh
+    path: TravisGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 1
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 6
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 8
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 10
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 14
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 18
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 23
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 25
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 28
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 33
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 35
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 37
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 45
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 48
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 53
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 67
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.travis_headBlendShape.head_ff
+    path: TravisGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 1
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 6
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 8
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 10
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 14
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 18
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 23
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 25
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 28
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 33
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 35
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 37
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 45
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 48
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 53
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 67
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.travis_headBlendShape.head_mm
+    path: TravisGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 1
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 6
+        value: 22.0183487
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 10
+        value: 32.1100922
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 14
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 18
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 23
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 25
+        value: 3.24404097
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 28
+        value: 31.1926594
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 33
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 35
+        value: 2.29357433
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 37
+        value: 14.6788988
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 45
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 53
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 67
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.travis_tongueBlendShape.tongue_mouth_open
+    path: TravisGeo/tongue
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 1
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 6
+        value: 22.0183487
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 10
+        value: 32.1100922
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 14
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 18
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 23
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 25
+        value: 3.24404097
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 28
+        value: 31.1926594
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 33
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 35
+        value: 2.29357433
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 37
+        value: 14.6788988
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 45
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 53
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 67
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.travis_teethBlendShape.teeth_mouth_open
+    path: TravisGeo/teeth
+    classID: 137
+    script: {fileID: 0}
+  m_PPtrCurves: []
+  m_SampleRate: 60
+  m_WrapMode: 0
+  m_Bounds:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  m_AnimationClipSettings:
+    serializedVersion: 2
+    m_StartTime: 0
+    m_StopTime: 2
+    m_OrientationOffsetY: 0
+    m_Level: 0
+    m_CycleOffset: 0
+    m_LoopTime: 0
+    m_LoopBlend: 0
+    m_LoopBlendOrientation: 0
+    m_LoopBlendPositionY: 0
+    m_LoopBlendPositionXZ: 0
+    m_KeepOriginalOrientation: 0
+    m_KeepOriginalPositionY: 1
+    m_KeepOriginalPositionXZ: 0
+    m_HeightFromFeet: 0
+    m_Mirror: 0
+  m_EditorCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 1
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 6
+        value: 22.0183487
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 10
+        value: 32.1100922
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 14
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 18
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 23
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 25
+        value: 3.24404097
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 28
+        value: 31.1926594
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 33
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 35
+        value: 2.29357433
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 37
+        value: 14.6788988
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 45
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 53
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 67
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.travis_gumsBlendShape.gums_mouth_open
+    path: TravisGeo/gums
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 1
+        value: 15.5963297
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3
+        value: 100
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 6
+        value: 15.5963297
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 8
+        value: 100
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 10
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 23
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 28
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 45
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 48
+        value: 100
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 53
+        value: 15.5963297
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 67
+        value: 15.5963297
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.travis_headBlendShape.head_r_blink
+    path: TravisGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 1
+        value: 15.5963297
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3
+        value: 100
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 6
+        value: 15.5963297
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 8
+        value: 100
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 10
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 23
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 28
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 45
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 48
+        value: 100
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 53
+        value: 14.6788988
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 67
+        value: 14.6788988
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.travis_headBlendShape.head_l_blink
+    path: TravisGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 1
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 6
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 10
+        value: 63.3027496
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 23
+        value: 63.3027496
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 28
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 67
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.travis_headBlendShape.head_r_brow_up
+    path: TravisGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 1
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 6
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 10
+        value: 64.2201843
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 23
+        value: 64.2201843
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 28
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 67
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.travis_headBlendShape.head_l_brow_up
+    path: TravisGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 1
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 6
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 8
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 10
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 14
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 18
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 23
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 25
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 28
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 33
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 35
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 37
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 45
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 48
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 53
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 67
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.travis_headBlendShape.head_r_brow_dn
+    path: TravisGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 1
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 6
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 8
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 10
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 14
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 18
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 23
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 25
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 28
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 33
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 35
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 37
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 45
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 48
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 53
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 67
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.travis_headBlendShape.head_l_brow_dn
+    path: TravisGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 1
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 6
+        value: 22.0183487
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 8
+        value: 27.0642223
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 10
+        value: 32.1100922
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 14
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 18
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 23
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 25
+        value: 3.24404097
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 28
+        value: 31.1926594
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 33
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 35
+        value: 2.29357433
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 37
+        value: 14.6788988
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 45
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 48
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 53
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 67
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.travis_headBlendShape.head_mouth_open
+    path: TravisGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 1
+        value: 100
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 6
+        value: 100
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 8
+        value: 100
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 10
+        value: 100
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 14
+        value: 100
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 18
+        value: 100
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 23
+        value: 100
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 25
+        value: 100
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 28
+        value: 100
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 33
+        value: 100
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 35
+        value: 100
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 37
+        value: 100
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 45
+        value: 100
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 48
+        value: 100
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 53
+        value: 100
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 67
+        value: 100
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.travis_headBlendShape.head_mouth_closed
+    path: TravisGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 1
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 6
+        value: 13.097414
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 8
+        value: 21.6311264
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 10
+        value: 30.3310242
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 15
+        value: 44.9241295
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 23
+        value: 27.5328693
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 28
+        value: 18.9671993
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 45
+        value: 37.1358261
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 48
+        value: 40.090847
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 53
+        value: 42.9257431
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 67
+        value: 31.3279667
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.travis_headBlendShape.head_r_smile
+    path: TravisGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 1
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 6
+        value: 13.097414
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 8
+        value: 21.6311264
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 10
+        value: 30.3310242
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 15
+        value: 44.9241295
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 23
+        value: 27.5328693
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 28
+        value: 18.9671993
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 45
+        value: 37.1358261
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 48
+        value: 40.090847
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 53
+        value: 42.9257431
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 67
+        value: 31.3279667
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.travis_headBlendShape.head_l_smile
+    path: TravisGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 1
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 6
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 8
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 10
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 14
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 18
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 23
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 25
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 28
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 33
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 35
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 37
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 45
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 48
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 53
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 67
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.travis_headBlendShape.head_r_frown
+    path: TravisGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 1
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 6
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 8
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 10
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 14
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 18
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 23
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 25
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 28
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 33
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 35
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 37
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 45
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 48
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 53
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 67
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.travis_headBlendShape.head_l_frown
+    path: TravisGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 1
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 6
+        value: 45.8715591
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 8
+        value: 38.4747696
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 10
+        value: 26.1467876
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 14
+        value: 6.42201805
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 18
+        value: 27.6349487
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 23
+        value: 60.550457
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 25
+        value: 66.0478821
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 28
+        value: 80.7339401
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 33
+        value: 65.1376114
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 35
+        value: 59.6396217
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 37
+        value: 39.8073196
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 45
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 48
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 53
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 67
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.travis_headBlendShape.head_oo
+    path: TravisGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 1
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 6
+        value: 2.76898026
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 8
+        value: 5.58794689
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 10
+        value: 9.09157658
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 14
+        value: 16.3276844
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 18
+        value: 59.6330299
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 23
+        value: 31.8854294
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 25
+        value: 24.7528248
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 28
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 33
+        value: 42.2018356
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 35
+        value: 42.2018356
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 37
+        value: 42.2018356
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 45
+        value: 42.2018356
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 48
+        value: 39.5377121
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 53
+        value: 29.5190907
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 67
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.travis_headBlendShape.head_th
+    path: TravisGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 1
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 6
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 8
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 10
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 14
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 18
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 23
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 25
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 28
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 33
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 35
+        value: 7.31076813
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 37
+        value: 46.78899
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 45
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 48
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 53
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 67
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.travis_headBlendShape.head_ee
+    path: TravisGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 1
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 6
+        value: 10.2530355
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 8
+        value: 21.4921818
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 10
+        value: 29.4581928
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 14
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 18
+        value: 88.9908218
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 23
+        value: 77.9816513
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 25
+        value: 68.9541245
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 28
+        value: 28.4403687
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 33
+        value: 45.8715591
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 35
+        value: 45.8715591
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 37
+        value: 45.8715591
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 45
+        value: 45.8715591
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 48
+        value: 45.8715591
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 53
+        value: 45.8715591
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 67
+        value: 45.8715591
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.travis_headBlendShape.head_sh
+    path: TravisGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 1
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 6
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 8
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 10
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 14
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 18
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 23
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 25
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 28
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 33
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 35
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 37
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 45
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 48
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 53
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 67
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.travis_headBlendShape.head_ff
+    path: TravisGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 1
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 6
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 8
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 10
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 14
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 18
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 23
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 25
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 28
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 33
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 35
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 37
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 45
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 48
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 53
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 67
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.travis_headBlendShape.head_mm
+    path: TravisGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 1
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 6
+        value: 22.0183487
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 10
+        value: 32.1100922
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 14
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 18
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 23
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 25
+        value: 3.24404097
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 28
+        value: 31.1926594
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 33
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 35
+        value: 2.29357433
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 37
+        value: 14.6788988
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 45
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 53
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 67
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.travis_tongueBlendShape.tongue_mouth_open
+    path: TravisGeo/tongue
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 1
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 6
+        value: 22.0183487
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 10
+        value: 32.1100922
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 14
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 18
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 23
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 25
+        value: 3.24404097
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 28
+        value: 31.1926594
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 33
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 35
+        value: 2.29357433
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 37
+        value: 14.6788988
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 45
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 53
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 67
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.travis_teethBlendShape.teeth_mouth_open
+    path: TravisGeo/teeth
+    classID: 137
+    script: {fileID: 0}
+  m_EulerEditorCurves: []
+  m_Events: []

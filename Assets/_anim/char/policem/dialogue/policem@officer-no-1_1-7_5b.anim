@@ -1,0 +1,3787 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!74 &7400000
+AnimationClip:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: policem@officer-no-1_1-7_5b
+  serializedVersion: 4
+  m_AnimationType: 1
+  m_Compressed: 0
+  m_UseHighQualityCurve: 1
+  m_RotationCurves: []
+  m_CompressedRotationCurves: []
+  m_PositionCurves: []
+  m_ScaleCurves: []
+  m_FloatCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .733333349
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.86666667
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.66666675
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.9666667
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 7.33333349
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.blendShape1.NBM_Th_Th_Th
+    path: PolicemGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .333333343
+        value: 33.9449539
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .633333325
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .733333349
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.86666667
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.0333333
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.36666656
+        value: 23.8532104
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.70000005
+        value: 23.8532104
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.86666656
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.0999999
+        value: 50.4587173
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.4333334
+        value: 35.7798157
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.66666675
+        value: 35.7798157
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.9666667
+        value: 35.7798157
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 4.16666651
+        value: 50.0476761
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 4.30000019
+        value: 57.7981644
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 5.26666689
+        value: 57.7981644
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 5.4333334
+        value: 15.5963297
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 5.5999999
+        value: 15.5963297
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 5.80000019
+        value: 16.5137615
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 5.9666667
+        value: 55.0458717
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 6.30000019
+        value: 30.4073391
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 6.5666666
+        value: 55.0458717
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 6.80000019
+        value: 43.1192665
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 7.33333349
+        value: 43.1192665
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.blendShape1.NBM_I_E
+    path: PolicemGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .733333349
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.4666667
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.76666665
+        value: 48.6238556
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.86666667
+        value: 43.7559738
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.0333333
+        value: 33.2389565
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.36666656
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.0999999
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.4333334
+        value: 15.5963297
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.66666675
+        value: 15.5963297
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.9666667
+        value: 15.5963297
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 4.16666651
+        value: 5.48992777
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 4.30000019
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 4.83333349
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 5.26666689
+        value: 25.6880722
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 5.4333334
+        value: 27.5229359
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 5.5999999
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 7.33333349
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.blendShape1.NBM_D_S_T
+    path: PolicemGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 44.0366974
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .333333343
+        value: 33.027523
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .633333325
+        value: 33.027523
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .733333349
+        value: 37.3088722
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .933333337
+        value: 49.5412865
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.26666665
+        value: 38.5321121
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.4666667
+        value: 55.9633026
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.76666665
+        value: 33.027523
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.86666667
+        value: 34.7726135
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.0333333
+        value: 38.5428619
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.16666675
+        value: 12.8440361
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.36666656
+        value: 29.3577976
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.4666667
+        value: 46.78899
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.70000005
+        value: 21.1009178
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.86666656
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.0999999
+        value: 27.5229359
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.4333334
+        value: 12.8440361
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.66666675
+        value: 12.8440361
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.9666667
+        value: 12.8440361
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 5.26666689
+        value: 12.8440361
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 5.4333334
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 5.5999999
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 5.80000019
+        value: 40.3669701
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 5.9666667
+        value: 21.1009178
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 6.30000019
+        value: 33.5853233
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 6.5666666
+        value: 28.4403687
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 6.80000019
+        value: 13.7614679
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 7.23333311
+        value: 53.21101
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 7.33333349
+        value: 53.21101
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.blendShape1.NBM_J_CH_SH
+    path: PolicemGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .733333349
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.86666667
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.0333333
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.36666656
+        value: 34.8623848
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.4666667
+        value: 22.0183487
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.70000005
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.4333334
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.66666675
+        value: 11.1946344
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.9666667
+        value: 27.5229359
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 4.16666651
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 6.30000019
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 6.5666666
+        value: 8.2582283
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 6.80000019
+        value: 18.3486233
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 7.23333311
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 7.33333349
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.blendShape1.NBM_F_V
+    path: PolicemGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .733333349
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.86666667
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.66666675
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.9666667
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 7.33333349
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.blendShape1.NBM_B_M_P
+    path: PolicemGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .333333343
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .433333337
+        value: 36.6972466
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .633333325
+        value: 41.2844048
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .733333349
+        value: 35.100235
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .933333337
+        value: 17.4311924
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.26666665
+        value: 17.4311924
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.4666667
+        value: 29.3577976
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.76666665
+        value: 8.25688076
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.86666667
+        value: 11.1041317
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.0333333
+        value: 17.2555962
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.16666675
+        value: 49.5412865
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.36666656
+        value: 12.8440361
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.4666667
+        value: 27.5229359
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.70000005
+        value: 50.4587173
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.86666656
+        value: 49.5412865
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.0999999
+        value: 25.6880722
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.66666675
+        value: 25.6880722
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.9666667
+        value: 25.6880722
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 4.16666651
+        value: 14.3926811
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 4.30000019
+        value: 8.25688076
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 4.4666667
+        value: 31.1926594
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 4.63333321
+        value: 17.7172699
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 4.83333349
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 5.26666689
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 5.4333334
+        value: 30.2752285
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 5.5999999
+        value: .917431176
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 5.80000019
+        value: 29.3577976
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 6.30000019
+        value: 29.3577976
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 6.36666679
+        value: 58.7155952
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 6.5666666
+        value: 12.8440361
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 6.80000019
+        value: 5.45782089
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 7.23333311
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 7.33333349
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.blendShape1.NBM_Q_W
+    path: PolicemGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .733333349
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.86666667
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.66666675
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.9666667
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 7.33333349
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.blendShape1.NBM_U_U_U
+    path: PolicemGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .733333349
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.76666665
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.86666667
+        value: 2.57171059
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.0333333
+        value: 8.12787151
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.36666656
+        value: 25.6880722
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.66666675
+        value: 25.6880722
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.9666667
+        value: 25.6880722
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 4.16666651
+        value: 13.7981873
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 4.30000019
+        value: 7.33944941
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 4.4666667
+        value: 55.0458717
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 4.63333321
+        value: 31.2657738
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 4.83333349
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 5.5999999
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 5.80000019
+        value: 35.7798157
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 5.9666667
+        value: 17.4311924
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 6.30000019
+        value: 29.3211021
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 6.5666666
+        value: 24.7396851
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 6.69999981
+        value: 70.6422043
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 6.80000019
+        value: 49.5412865
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 7.23333311
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 7.33333349
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.blendShape1.NBM_O_O_O
+    path: PolicemGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .733333349
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.86666667
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.66666675
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.9666667
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 7.33333349
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.blendShape1.NBM_A_A_A
+    path: PolicemGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .733333349
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.86666667
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.66666675
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.9666667
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 7.33333349
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.blendShape1.NBM_frown_brow_L
+    path: PolicemGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .733333349
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.86666667
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.66666675
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.9666667
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 7.33333349
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.blendShape1.NBM_frown_brow_R
+    path: PolicemGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .733333349
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.86666667
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.66666675
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.9666667
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 7.33333349
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.blendShape1.NBM_frown
+    path: PolicemGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .733333349
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.86666667
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.66666675
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.9666667
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 7.33333349
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.blendShape1.NBM_fright
+    path: PolicemGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .733333349
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.86666667
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.66666675
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.9666667
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 7.33333349
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.blendShape1.NBM_anger
+    path: PolicemGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .733333349
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.86666667
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.66666675
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.9666667
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 7.33333349
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.blendShape1.NBM_smile_open
+    path: PolicemGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .733333349
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.86666667
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.66666675
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.9666667
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 7.33333349
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.blendShape1.NBM_smile_close
+    path: PolicemGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .733333349
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.86666667
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.66666675
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.9666667
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 7.33333349
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.blendShape1.NBM_brow_up_L
+    path: PolicemGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .733333349
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.86666667
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.66666675
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.9666667
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 7.33333349
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.blendShape1.NBM_brow_up_R
+    path: PolicemGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .733333349
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.86666667
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.66666675
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.9666667
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 7.33333349
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.blendShape1.NBM_brow_up
+    path: PolicemGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .733333349
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.86666667
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.66666675
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.9666667
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 7.33333349
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.blendShape1.NBM_jaw_L
+    path: PolicemGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .733333349
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.86666667
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.66666675
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.9666667
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 7.33333349
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.blendShape1.NBM_jaw_R
+    path: PolicemGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .733333349
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.86666667
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.66666675
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.9666667
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 7.33333349
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.blendShape1.NBM_jaw_forward
+    path: PolicemGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 13.7614679
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .13333334
+        value: 22.0183487
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .333333343
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .433333337
+        value: 10.0917425
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .633333325
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .733333349
+        value: 20.183485
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .933333337
+        value: 8.10423279
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1
+        value: 17.4311924
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.26666665
+        value: 1.16567731
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.36666667
+        value: 5.21316814
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.4666667
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.56666672
+        value: 14.6788988
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.76666665
+        value: 1.83177865
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.86666667
+        value: 1.64839387
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.0333333
+        value: 1.25219214
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.16666675
+        value: 13.7614679
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.26666665
+        value: 24.7706432
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.36666656
+        value: 2.27584624
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.4666667
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.5666666
+        value: 25.6880722
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.70000005
+        value: 9.38092518
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.86666656
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.9333334
+        value: 21.1009178
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.0999999
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.20000005
+        value: 18.3486233
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.4333334
+        value: 2.66440487
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.66666675
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.9666667
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 4.0666666
+        value: 19.2660561
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 4.16666651
+        value: 4.27414846
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 4.30000019
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 4.4666667
+        value: .666101098
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 4.63333321
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 4.69999981
+        value: 19.2660561
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 4.83333349
+        value: 10.2690582
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 5.0333333
+        value: 21.1009178
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 5.26666689
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 5.33333349
+        value: 10.0917425
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 5.4333334
+        value: 4.82923269
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 5.5
+        value: 12.8440361
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 5.5999999
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 5.69999981
+        value: 16.5137615
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 5.80000019
+        value: 3.77457404
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 5.9666667
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 6.0999999
+        value: 19.2660561
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 6.30000019
+        value: 3.66355848
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 6.4333334
+        value: 10.085577
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 6.5666666
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 6.69999981
+        value: 22.9357796
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 6.80000019
+        value: 8.10423565
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 6.9666667
+        value: 21.1009178
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 7.23333311
+        value: 5.88389683
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 7.33333349
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.blendShape1.NBM_mouth_open
+    path: PolicemGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .733333349
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.86666667
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.66666675
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.9666667
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 7.33333349
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.blendShape1.NBM_eyes_up
+    path: PolicemGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .733333349
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.86666667
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.66666675
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.9666667
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 7.33333349
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.blendShape1.NBM_eye_close_L
+    path: PolicemGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .733333349
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.86666667
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.66666675
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.9666667
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 7.33333349
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.blendShape1.NBM_eye_close_R
+    path: PolicemGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 33.9000015
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .733333349
+        value: 33.9000015
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.76666665
+        value: 33.9449539
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.86666667
+        value: 100
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.0333333
+        value: 24.7706432
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.66666675
+        value: 24.7706432
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.79999995
+        value: 100
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.9666667
+        value: 24.7706432
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.blendShape1.NBM_eyes_close
+    path: PolicemGeo/head
+    classID: 137
+    script: {fileID: 0}
+  m_PPtrCurves: []
+  m_SampleRate: 1800
+  m_WrapMode: 0
+  m_Bounds:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  m_AnimationClipSettings:
+    serializedVersion: 2
+    m_StartTime: 0
+    m_StopTime: 2
+    m_OrientationOffsetY: 0
+    m_Level: 0
+    m_CycleOffset: 0
+    m_LoopTime: 0
+    m_LoopBlend: 0
+    m_LoopBlendOrientation: 0
+    m_LoopBlendPositionY: 0
+    m_LoopBlendPositionXZ: 0
+    m_KeepOriginalOrientation: 0
+    m_KeepOriginalPositionY: 1
+    m_KeepOriginalPositionXZ: 0
+    m_HeightFromFeet: 0
+    m_Mirror: 0
+  m_EditorCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .733333349
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.86666667
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.66666675
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.9666667
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 7.33333349
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.blendShape1.NBM_Th_Th_Th
+    path: PolicemGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .333333343
+        value: 33.9449539
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .633333325
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .733333349
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.86666667
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.0333333
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.36666656
+        value: 23.8532104
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.70000005
+        value: 23.8532104
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.86666656
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.0999999
+        value: 50.4587173
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.4333334
+        value: 35.7798157
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.66666675
+        value: 35.7798157
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.9666667
+        value: 35.7798157
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 4.16666651
+        value: 50.0476761
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 4.30000019
+        value: 57.7981644
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 5.26666689
+        value: 57.7981644
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 5.4333334
+        value: 15.5963297
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 5.5999999
+        value: 15.5963297
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 5.80000019
+        value: 16.5137615
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 5.9666667
+        value: 55.0458717
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 6.30000019
+        value: 30.4073391
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 6.5666666
+        value: 55.0458717
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 6.80000019
+        value: 43.1192665
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 7.33333349
+        value: 43.1192665
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.blendShape1.NBM_I_E
+    path: PolicemGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .733333349
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.4666667
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.76666665
+        value: 48.6238556
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.86666667
+        value: 43.7559738
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.0333333
+        value: 33.2389565
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.36666656
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.0999999
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.4333334
+        value: 15.5963297
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.66666675
+        value: 15.5963297
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.9666667
+        value: 15.5963297
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 4.16666651
+        value: 5.48992777
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 4.30000019
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 4.83333349
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 5.26666689
+        value: 25.6880722
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 5.4333334
+        value: 27.5229359
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 5.5999999
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 7.33333349
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.blendShape1.NBM_D_S_T
+    path: PolicemGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 44.0366974
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .333333343
+        value: 33.027523
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .633333325
+        value: 33.027523
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .733333349
+        value: 37.3088722
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .933333337
+        value: 49.5412865
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.26666665
+        value: 38.5321121
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.4666667
+        value: 55.9633026
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.76666665
+        value: 33.027523
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.86666667
+        value: 34.7726135
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.0333333
+        value: 38.5428619
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.16666675
+        value: 12.8440361
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.36666656
+        value: 29.3577976
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.4666667
+        value: 46.78899
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.70000005
+        value: 21.1009178
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.86666656
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.0999999
+        value: 27.5229359
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.4333334
+        value: 12.8440361
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.66666675
+        value: 12.8440361
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.9666667
+        value: 12.8440361
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 5.26666689
+        value: 12.8440361
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 5.4333334
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 5.5999999
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 5.80000019
+        value: 40.3669701
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 5.9666667
+        value: 21.1009178
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 6.30000019
+        value: 33.5853233
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 6.5666666
+        value: 28.4403687
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 6.80000019
+        value: 13.7614679
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 7.23333311
+        value: 53.21101
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 7.33333349
+        value: 53.21101
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.blendShape1.NBM_J_CH_SH
+    path: PolicemGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .733333349
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.86666667
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.0333333
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.36666656
+        value: 34.8623848
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.4666667
+        value: 22.0183487
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.70000005
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.4333334
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.66666675
+        value: 11.1946344
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.9666667
+        value: 27.5229359
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 4.16666651
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 6.30000019
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 6.5666666
+        value: 8.2582283
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 6.80000019
+        value: 18.3486233
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 7.23333311
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 7.33333349
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.blendShape1.NBM_F_V
+    path: PolicemGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .733333349
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.86666667
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.66666675
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.9666667
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 7.33333349
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.blendShape1.NBM_B_M_P
+    path: PolicemGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .333333343
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .433333337
+        value: 36.6972466
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .633333325
+        value: 41.2844048
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .733333349
+        value: 35.100235
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .933333337
+        value: 17.4311924
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.26666665
+        value: 17.4311924
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.4666667
+        value: 29.3577976
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.76666665
+        value: 8.25688076
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.86666667
+        value: 11.1041317
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.0333333
+        value: 17.2555962
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.16666675
+        value: 49.5412865
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.36666656
+        value: 12.8440361
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.4666667
+        value: 27.5229359
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.70000005
+        value: 50.4587173
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.86666656
+        value: 49.5412865
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.0999999
+        value: 25.6880722
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.66666675
+        value: 25.6880722
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.9666667
+        value: 25.6880722
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 4.16666651
+        value: 14.3926811
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 4.30000019
+        value: 8.25688076
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 4.4666667
+        value: 31.1926594
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 4.63333321
+        value: 17.7172699
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 4.83333349
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 5.26666689
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 5.4333334
+        value: 30.2752285
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 5.5999999
+        value: .917431176
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 5.80000019
+        value: 29.3577976
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 6.30000019
+        value: 29.3577976
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 6.36666679
+        value: 58.7155952
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 6.5666666
+        value: 12.8440361
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 6.80000019
+        value: 5.45782089
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 7.23333311
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 7.33333349
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.blendShape1.NBM_Q_W
+    path: PolicemGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .733333349
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.86666667
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.66666675
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.9666667
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 7.33333349
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.blendShape1.NBM_U_U_U
+    path: PolicemGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .733333349
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.76666665
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.86666667
+        value: 2.57171059
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.0333333
+        value: 8.12787151
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.36666656
+        value: 25.6880722
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.66666675
+        value: 25.6880722
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.9666667
+        value: 25.6880722
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 4.16666651
+        value: 13.7981873
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 4.30000019
+        value: 7.33944941
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 4.4666667
+        value: 55.0458717
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 4.63333321
+        value: 31.2657738
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 4.83333349
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 5.5999999
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 5.80000019
+        value: 35.7798157
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 5.9666667
+        value: 17.4311924
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 6.30000019
+        value: 29.3211021
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 6.5666666
+        value: 24.7396851
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 6.69999981
+        value: 70.6422043
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 6.80000019
+        value: 49.5412865
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 7.23333311
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 7.33333349
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.blendShape1.NBM_O_O_O
+    path: PolicemGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .733333349
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.86666667
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.66666675
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.9666667
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 7.33333349
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.blendShape1.NBM_A_A_A
+    path: PolicemGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .733333349
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.86666667
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.66666675
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.9666667
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 7.33333349
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.blendShape1.NBM_frown_brow_L
+    path: PolicemGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .733333349
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.86666667
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.66666675
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.9666667
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 7.33333349
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.blendShape1.NBM_frown_brow_R
+    path: PolicemGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .733333349
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.86666667
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.66666675
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.9666667
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 7.33333349
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.blendShape1.NBM_frown
+    path: PolicemGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .733333349
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.86666667
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.66666675
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.9666667
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 7.33333349
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.blendShape1.NBM_fright
+    path: PolicemGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .733333349
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.86666667
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.66666675
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.9666667
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 7.33333349
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.blendShape1.NBM_anger
+    path: PolicemGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .733333349
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.86666667
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.66666675
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.9666667
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 7.33333349
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.blendShape1.NBM_smile_open
+    path: PolicemGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .733333349
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.86666667
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.66666675
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.9666667
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 7.33333349
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.blendShape1.NBM_smile_close
+    path: PolicemGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .733333349
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.86666667
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.66666675
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.9666667
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 7.33333349
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.blendShape1.NBM_brow_up_L
+    path: PolicemGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .733333349
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.86666667
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.66666675
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.9666667
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 7.33333349
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.blendShape1.NBM_brow_up_R
+    path: PolicemGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .733333349
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.86666667
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.66666675
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.9666667
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 7.33333349
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.blendShape1.NBM_brow_up
+    path: PolicemGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .733333349
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.86666667
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.66666675
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.9666667
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 7.33333349
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.blendShape1.NBM_jaw_L
+    path: PolicemGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .733333349
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.86666667
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.66666675
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.9666667
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 7.33333349
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.blendShape1.NBM_jaw_R
+    path: PolicemGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .733333349
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.86666667
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.66666675
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.9666667
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 7.33333349
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.blendShape1.NBM_jaw_forward
+    path: PolicemGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 13.7614679
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .13333334
+        value: 22.0183487
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .333333343
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .433333337
+        value: 10.0917425
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .633333325
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .733333349
+        value: 20.183485
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .933333337
+        value: 8.10423279
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1
+        value: 17.4311924
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.26666665
+        value: 1.16567731
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.36666667
+        value: 5.21316814
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.4666667
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.56666672
+        value: 14.6788988
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.76666665
+        value: 1.83177865
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.86666667
+        value: 1.64839387
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.0333333
+        value: 1.25219214
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.16666675
+        value: 13.7614679
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.26666665
+        value: 24.7706432
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.36666656
+        value: 2.27584624
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.4666667
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.5666666
+        value: 25.6880722
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.70000005
+        value: 9.38092518
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.86666656
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.9333334
+        value: 21.1009178
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.0999999
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.20000005
+        value: 18.3486233
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.4333334
+        value: 2.66440487
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.66666675
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.9666667
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 4.0666666
+        value: 19.2660561
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 4.16666651
+        value: 4.27414846
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 4.30000019
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 4.4666667
+        value: .666101098
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 4.63333321
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 4.69999981
+        value: 19.2660561
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 4.83333349
+        value: 10.2690582
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 5.0333333
+        value: 21.1009178
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 5.26666689
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 5.33333349
+        value: 10.0917425
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 5.4333334
+        value: 4.82923269
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 5.5
+        value: 12.8440361
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 5.5999999
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 5.69999981
+        value: 16.5137615
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 5.80000019
+        value: 3.77457404
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 5.9666667
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 6.0999999
+        value: 19.2660561
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 6.30000019
+        value: 3.66355848
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 6.4333334
+        value: 10.085577
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 6.5666666
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 6.69999981
+        value: 22.9357796
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 6.80000019
+        value: 8.10423565
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 6.9666667
+        value: 21.1009178
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 7.23333311
+        value: 5.88389683
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 7.33333349
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.blendShape1.NBM_mouth_open
+    path: PolicemGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .733333349
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.86666667
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.66666675
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.9666667
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 7.33333349
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.blendShape1.NBM_eyes_up
+    path: PolicemGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .733333349
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.86666667
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.66666675
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.9666667
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 7.33333349
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.blendShape1.NBM_eye_close_L
+    path: PolicemGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .733333349
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.86666667
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.66666675
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.9666667
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 7.33333349
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.blendShape1.NBM_eye_close_R
+    path: PolicemGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 33.9000015
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .733333349
+        value: 33.9000015
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.76666665
+        value: 33.9449539
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.86666667
+        value: 100
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.0333333
+        value: 24.7706432
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.66666675
+        value: 24.7706432
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.79999995
+        value: 100
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.9666667
+        value: 24.7706432
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.blendShape1.NBM_eyes_close
+    path: PolicemGeo/head
+    classID: 137
+    script: {fileID: 0}
+  m_EulerEditorCurves: []
+  m_Events: []

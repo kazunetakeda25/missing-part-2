@@ -1,0 +1,3297 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!74 &7400000
+AnimationClip:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: flaherty@flaherty_3-4_5a
+  serializedVersion: 4
+  m_AnimationType: 1
+  m_Compressed: 0
+  m_UseHighQualityCurve: 1
+  m_RotationCurves: []
+  m_CompressedRotationCurves: []
+  m_PositionCurves: []
+  m_ScaleCurves: []
+  m_FloatCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 30.198019
+        inSlope: 299.151306
+        outSlope: 299.151306
+        tangentMode: 10
+      - time: .266666681
+        value: 100
+        inSlope: 149.575653
+        outSlope: 149.575653
+        tangentMode: 10
+      - time: .400000006
+        value: 100
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .633333325
+        value: 100
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .766666651
+        value: 100
+        inSlope: -104.702957
+        outSlope: -104.702957
+        tangentMode: 10
+      - time: 1.10000002
+        value: 30.198019
+        inSlope: -104.702957
+        outSlope: -104.702957
+        tangentMode: 10
+      - time: 1.5
+        value: 30.198019
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1.60000002
+        value: 30.198019
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1.76666665
+        value: 30.198019
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1.83333337
+        value: 30.198019
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.0666666
+        value: 30.198019
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.13333344
+        value: 30.198019
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.23333335
+        value: 30.198019
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.33333325
+        value: 30.198019
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.4000001
+        value: 30.198019
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.4666667
+        value: 30.198019
+        inSlope: -150.990234
+        outSlope: -150.990234
+        tangentMode: 10
+      - time: 2.5666666
+        value: 0
+        inSlope: -150.990234
+        outSlope: -150.990234
+        tangentMode: 10
+      - time: 2.66666675
+        value: 0
+        inSlope: 56.6212883
+        outSlope: 56.6212883
+        tangentMode: 10
+      - time: 2.9333334
+        value: 30.198019
+        inSlope: 56.6228523
+        outSlope: 56.6228523
+        tangentMode: 10
+      - time: 3.5666666
+        value: 30.2000008
+        inSlope: 130.876587
+        outSlope: 130.876587
+        tangentMode: 10
+      - time: 3.83333325
+        value: 100
+        inSlope: 50.3343277
+        outSlope: 50.3343277
+        tangentMode: 10
+      - time: 4.26666689
+        value: 30.198019
+        inSlope: -161.081375
+        outSlope: -161.081375
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.flaherty_headBlendShape.head_r_blink
+    path: FlahertyGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 30.198019
+        inSlope: 299.151306
+        outSlope: 299.151306
+        tangentMode: 10
+      - time: .266666681
+        value: 100
+        inSlope: 149.575653
+        outSlope: 149.575653
+        tangentMode: 10
+      - time: .400000006
+        value: 100
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .633333325
+        value: 100
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .766666651
+        value: 100
+        inSlope: -104.702957
+        outSlope: -104.702957
+        tangentMode: 10
+      - time: 1.10000002
+        value: 30.198019
+        inSlope: -104.702957
+        outSlope: -104.702957
+        tangentMode: 10
+      - time: 1.5
+        value: 30.198019
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1.60000002
+        value: 30.198019
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1.76666665
+        value: 30.198019
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1.83333337
+        value: 30.198019
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.0666666
+        value: 30.198019
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.13333344
+        value: 30.198019
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.23333335
+        value: 30.198019
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.33333325
+        value: 30.198019
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.4000001
+        value: 30.198019
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.4666667
+        value: 30.198019
+        inSlope: -150.990234
+        outSlope: -150.990234
+        tangentMode: 10
+      - time: 2.5666666
+        value: 0
+        inSlope: -150.990234
+        outSlope: -150.990234
+        tangentMode: 10
+      - time: 2.66666675
+        value: 0
+        inSlope: 56.6212883
+        outSlope: 56.6212883
+        tangentMode: 10
+      - time: 2.9333334
+        value: 30.198019
+        inSlope: 56.6228523
+        outSlope: 56.6228523
+        tangentMode: 10
+      - time: 3.5666666
+        value: 30.2000008
+        inSlope: 130.876587
+        outSlope: 130.876587
+        tangentMode: 10
+      - time: 3.83333325
+        value: 100
+        inSlope: 50.3343277
+        outSlope: 50.3343277
+        tangentMode: 10
+      - time: 4.26666689
+        value: 30.198019
+        inSlope: -161.081375
+        outSlope: -161.081375
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.flaherty_headBlendShape.head_l_blink
+    path: FlahertyGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 26.7326736
+        inSlope: 297.029694
+        outSlope: 297.029694
+        tangentMode: 10
+      - time: .266666681
+        value: 96.0396042
+        inSlope: 148.514847
+        outSlope: 148.514847
+        tangentMode: 10
+      - time: .400000006
+        value: 96.0396042
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .633333325
+        value: 96.0396042
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .766666651
+        value: 96.0396042
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1.10000002
+        value: 96.0396042
+        inSlope: -86.633667
+        outSlope: -86.633667
+        tangentMode: 10
+      - time: 1.5
+        value: 26.7326736
+        inSlope: -86.633667
+        outSlope: -86.633667
+        tangentMode: 10
+      - time: 1.60000002
+        value: 26.7326736
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1.76666665
+        value: 26.7326736
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1.83333337
+        value: 26.7326736
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.0666666
+        value: 26.7326736
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.13333344
+        value: 26.7326736
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.23333335
+        value: 26.7326736
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.33333325
+        value: 26.7326736
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.4000001
+        value: 26.7326736
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.4666667
+        value: 26.7326736
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.5666666
+        value: 26.7326736
+        inSlope: 195.544266
+        outSlope: 195.544266
+        tangentMode: 10
+      - time: 2.66666675
+        value: 65.8415833
+        inSlope: 195.544266
+        outSlope: 195.544266
+        tangentMode: 10
+      - time: 2.9333334
+        value: 65.8415833
+        inSlope: -14.6658392
+        outSlope: -14.6658392
+        tangentMode: 10
+      - time: 4.26666689
+        value: 26.7326736
+        inSlope: -29.3316784
+        outSlope: -29.3316784
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.flaherty_headBlendShape.head_r_brow_up
+    path: FlahertyGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 0
+        inSlope: 297.029694
+        outSlope: 297.029694
+        tangentMode: 10
+      - time: .266666681
+        value: 69.3069305
+        inSlope: 148.514847
+        outSlope: 148.514847
+        tangentMode: 10
+      - time: .400000006
+        value: 69.3069305
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .633333325
+        value: 69.3069305
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .766666651
+        value: 69.3069305
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1.10000002
+        value: 69.3069305
+        inSlope: -86.633667
+        outSlope: -86.633667
+        tangentMode: 10
+      - time: 1.5
+        value: 0
+        inSlope: -86.633667
+        outSlope: -86.633667
+        tangentMode: 10
+      - time: 1.60000002
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1.76666665
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1.83333337
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.0666666
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.13333344
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.23333335
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.33333325
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.4000001
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.4666667
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.5666666
+        value: 0
+        inSlope: 195.544266
+        outSlope: 195.544266
+        tangentMode: 10
+      - time: 2.66666675
+        value: 39.1089096
+        inSlope: 195.544266
+        outSlope: 195.544266
+        tangentMode: 10
+      - time: 2.9333334
+        value: 39.1089096
+        inSlope: -14.6658392
+        outSlope: -14.6658392
+        tangentMode: 10
+      - time: 4.26666689
+        value: 0
+        inSlope: -29.3316784
+        outSlope: -29.3316784
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.flaherty_headBlendShape.head_l_brow_up
+    path: FlahertyGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .266666681
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .400000006
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .633333325
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .766666651
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1.10000002
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1.5
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1.60000002
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1.76666665
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1.83333337
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.0666666
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.13333344
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.23333335
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.33333325
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.4000001
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.4666667
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.5666666
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.66666675
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.9333334
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 4.26666689
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.flaherty_headBlendShape.head_r_brow_dn
+    path: FlahertyGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .266666681
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .400000006
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .633333325
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .766666651
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1.10000002
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1.5
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1.60000002
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1.76666665
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1.83333337
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.0666666
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.13333344
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.23333335
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.33333325
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.4000001
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.4666667
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.5666666
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.66666675
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.9333334
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 4.26666689
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.flaherty_headBlendShape.head_l_brow_dn
+    path: FlahertyGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .266666681
+        value: 0
+        inSlope: 134.174316
+        outSlope: 134.174316
+        tangentMode: 10
+      - time: .400000006
+        value: 35.7798157
+        inSlope: 68.1114807
+        outSlope: 68.1114807
+        tangentMode: 10
+      - time: .633333325
+        value: 4.95049524
+        inSlope: 73.6296997
+        outSlope: 73.6296997
+        tangentMode: 10
+      - time: .766666651
+        value: 42.2018356
+        inSlope: 76.3897858
+        outSlope: 76.3897858
+        tangentMode: 10
+      - time: 1.10000002
+        value: 0
+        inSlope: -63.3027458
+        outSlope: -63.3027458
+        tangentMode: 10
+      - time: 1.5
+        value: 0
+        inSlope: 87.1559448
+        outSlope: 87.1559448
+        tangentMode: 10
+      - time: 1.60000002
+        value: 17.4311924
+        inSlope: 34.8623543
+        outSlope: 34.8623543
+        tangentMode: 10
+      - time: 1.76666665
+        value: 0
+        inSlope: 188.531891
+        outSlope: 188.531891
+        tangentMode: 10
+      - time: 1.83333337
+        value: 32.1100922
+        inSlope: 180.70166
+        outSlope: 180.70166
+        tangentMode: 10
+      - time: 2.0666666
+        value: 4.05232
+        inSlope: -90.5161438
+        outSlope: -90.5161438
+        tangentMode: 10
+      - time: 2.13333344
+        value: 0
+        inSlope: 93.4610138
+        outSlope: 93.4610138
+        tangentMode: 10
+      - time: 2.23333335
+        value: 24.7706432
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.33333325
+        value: 0
+        inSlope: -123.853333
+        outSlope: -123.853333
+        tangentMode: 10
+      - time: 2.4000001
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.5666666
+        value: 0
+        inSlope: 77.9815369
+        outSlope: 77.9815369
+        tangentMode: 10
+      - time: 2.66666675
+        value: 15.5963297
+        inSlope: 48.7384186
+        outSlope: 48.7384186
+        tangentMode: 10
+      - time: 2.9333334
+        value: 0
+        inSlope: -58.4862404
+        outSlope: -58.4862404
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.flaherty_headBlendShape.head_mouth_open
+    path: FlahertyGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 100
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .266666681
+        value: 100
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .400000006
+        value: 100
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .633333325
+        value: 100
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .766666651
+        value: 100
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1.10000002
+        value: 100
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1.5
+        value: 100
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1.60000002
+        value: 100
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1.76666665
+        value: 100
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1.83333337
+        value: 100
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.0666666
+        value: 100
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.13333344
+        value: 100
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.23333335
+        value: 100
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.33333325
+        value: 100
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.4000001
+        value: 100
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.4666667
+        value: 100
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.5666666
+        value: 100
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.66666675
+        value: 100
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.9333334
+        value: 100
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 4.26666689
+        value: 100
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.flaherty_headBlendShape.head_mouth_closed
+    path: FlahertyGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: -33.1683159
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .266666681
+        value: -33.1683159
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .400000006
+        value: -33.1683159
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .633333325
+        value: -33.1683159
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .766666651
+        value: -33.1683159
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1.10000002
+        value: -33.1683159
+        inSlope: 44.5544548
+        outSlope: 44.5544548
+        tangentMode: 10
+      - time: 1.5
+        value: 2.47524762
+        inSlope: 44.5544548
+        outSlope: 44.5544548
+        tangentMode: 10
+      - time: 1.60000002
+        value: 2.47524762
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1.76666665
+        value: 2.47524762
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1.83333337
+        value: 2.47524762
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.0666666
+        value: 2.47524762
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.13333344
+        value: 2.47524762
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.23333335
+        value: 2.47524762
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.33333325
+        value: 2.47524762
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.4000001
+        value: 2.47524762
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.4666667
+        value: 2.47524762
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.5666666
+        value: 2.47524762
+        inSlope: 133.663162
+        outSlope: 133.663162
+        tangentMode: 10
+      - time: 2.66666675
+        value: 29.2079201
+        inSlope: 133.663162
+        outSlope: 133.663162
+        tangentMode: 10
+      - time: 2.9333334
+        value: 29.2079201
+        inSlope: -10.9529686
+        outSlope: -10.9529686
+        tangentMode: 10
+      - time: 4.26666689
+        value: 0
+        inSlope: -21.9059372
+        outSlope: -21.9059372
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.flaherty_headBlendShape.head_r_smile
+    path: FlahertyGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .266666681
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .400000006
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .633333325
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .766666651
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1.10000002
+        value: 0
+        inSlope: 44.5544586
+        outSlope: 44.5544586
+        tangentMode: 10
+      - time: 1.5
+        value: 35.6435661
+        inSlope: 44.5544586
+        outSlope: 44.5544586
+        tangentMode: 10
+      - time: 1.60000002
+        value: 35.6435661
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1.76666665
+        value: 35.6435661
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1.83333337
+        value: 35.6435661
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.0666666
+        value: 35.6435661
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.13333344
+        value: 35.6435661
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.23333335
+        value: 35.6435661
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.33333325
+        value: 35.6435661
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.4000001
+        value: 35.6435661
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.4666667
+        value: 35.6435661
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.5666666
+        value: 35.6435661
+        inSlope: 133.663162
+        outSlope: 133.663162
+        tangentMode: 10
+      - time: 2.66666675
+        value: 62.376236
+        inSlope: 133.663162
+        outSlope: 133.663162
+        tangentMode: 10
+      - time: 2.9333334
+        value: 62.376236
+        inSlope: -10.9529686
+        outSlope: -10.9529686
+        tangentMode: 10
+      - time: 4.26666689
+        value: 33.1683159
+        inSlope: -21.9059372
+        outSlope: -21.9059372
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.flaherty_headBlendShape.head_l_smile
+    path: FlahertyGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .266666681
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .400000006
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .633333325
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .766666651
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1.10000002
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1.5
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1.60000002
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1.76666665
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1.83333337
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.0666666
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.13333344
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.23333335
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.33333325
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.4000001
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.4666667
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.5666666
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.66666675
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.9333334
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 4.26666689
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.flaherty_headBlendShape.head_r_frown
+    path: FlahertyGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .266666681
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .400000006
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .633333325
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .766666651
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1.10000002
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1.5
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1.60000002
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1.76666665
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1.83333337
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.0666666
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.13333344
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.23333335
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.33333325
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.4000001
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.4666667
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.5666666
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.66666675
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.9333334
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 4.26666689
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.flaherty_headBlendShape.head_l_frown
+    path: FlahertyGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 0
+        inSlope: 98.2961884
+        outSlope: 98.2961884
+        tangentMode: 10
+      - time: .266666681
+        value: 22.9357796
+        inSlope: 141.529938
+        outSlope: 141.529938
+        tangentMode: 10
+      - time: .400000006
+        value: 47.5709381
+        inSlope: 163.445435
+        outSlope: 163.445435
+        tangentMode: 10
+      - time: .633333325
+        value: 80.7339401
+        inSlope: -59.6703491
+        outSlope: -59.6703491
+        tangentMode: 10
+      - time: .766666651
+        value: 45.8715591
+        inSlope: -57.7981567
+        outSlope: -57.7981567
+        tangentMode: 10
+      - time: 1.10000002
+        value: 94.4954147
+        inSlope: 15.5963249
+        outSlope: 15.5963249
+        tangentMode: 10
+      - time: 1.5
+        value: 48.6238556
+        inSlope: 57.3393974
+        outSlope: 57.3393974
+        tangentMode: 10
+      - time: 1.60000002
+        value: 71.5596313
+        inSlope: 114.678848
+        outSlope: 114.678848
+        tangentMode: 10
+      - time: 1.76666665
+        value: 71.5596313
+        inSlope: -81.0397644
+        outSlope: -81.0397644
+        tangentMode: 10
+      - time: 2.0666666
+        value: 22.9357796
+        inSlope: 111.6203
+        outSlope: 111.6203
+        tangentMode: 10
+      - time: 2.13333344
+        value: 48.6238556
+        inSlope: 140.624451
+        outSlope: 140.624451
+        tangentMode: 10
+      - time: 2.23333335
+        value: 38.2167435
+        inSlope: -119.266174
+        outSlope: -119.266174
+        tangentMode: 10
+      - time: 2.33333325
+        value: 24.7706432
+        inSlope: -95.1701584
+        outSlope: -95.1701584
+        tangentMode: 10
+      - time: 2.4000001
+        value: 21.0453548
+        inSlope: -52.830162
+        outSlope: -52.830162
+        tangentMode: 10
+      - time: 2.66666675
+        value: 7.77038479
+        inSlope: -39.460041
+        outSlope: -39.460041
+        tangentMode: 10
+      - time: 2.9333334
+        value: 0
+        inSlope: -.808001518
+        outSlope: -.808001518
+        tangentMode: 10
+      - time: 3.5666666
+        value: 17.4311924
+        inSlope: 27.5229416
+        outSlope: 27.5229416
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.flaherty_headBlendShape.head_oo
+    path: FlahertyGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 0
+        inSlope: 192.660538
+        outSlope: 192.660538
+        tangentMode: 10
+      - time: .266666681
+        value: 44.9541283
+        inSlope: 96.3302689
+        outSlope: 96.3302689
+        tangentMode: 10
+      - time: 1.10000002
+        value: 44.9541283
+        inSlope: -56.1926651
+        outSlope: -56.1926651
+        tangentMode: 10
+      - time: 1.5
+        value: 0
+        inSlope: -56.1926651
+        outSlope: -56.1926651
+        tangentMode: 10
+      - time: 1.60000002
+        value: 0
+        inSlope: 258.715668
+        outSlope: 258.715668
+        tangentMode: 10
+      - time: 1.76666665
+        value: 86.238533
+        inSlope: 127.511322
+        outSlope: 127.511322
+        tangentMode: 10
+      - time: 2.0666666
+        value: 7.51593685
+        inSlope: -187.57373
+        outSlope: -187.57373
+        tangentMode: 10
+      - time: 2.13333344
+        value: 0
+        inSlope: -56.3693771
+        outSlope: -56.3693771
+        tangentMode: 10
+      - time: 2.33333325
+        value: 0
+        inSlope: 660.548706
+        outSlope: 660.548706
+        tangentMode: 10
+      - time: 2.4000001
+        value: 88.0733948
+        inSlope: 553.209167
+        outSlope: 553.209167
+        tangentMode: 10
+      - time: 2.5666666
+        value: 52.2935791
+        inSlope: -107.339546
+        outSlope: -107.339546
+        tangentMode: 10
+      - time: 2.9333334
+        value: 52.2935791
+        inSlope: -41.2844124
+        outSlope: -41.2844124
+        tangentMode: 10
+      - time: 3.5666666
+        value: 0
+        inSlope: -82.5688248
+        outSlope: -82.5688248
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.flaherty_headBlendShape.head_th
+    path: FlahertyGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.9333334
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.flaherty_headBlendShape.head_ee
+    path: FlahertyGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 0
+        inSlope: 235.910858
+        outSlope: 235.910858
+        tangentMode: 10
+      - time: .266666681
+        value: 55.0458717
+        inSlope: 117.955429
+        outSlope: 117.955429
+        tangentMode: 10
+      - time: 1.10000002
+        value: 55.0458717
+        inSlope: -29.8165169
+        outSlope: -29.8165169
+        tangentMode: 10
+      - time: 1.5
+        value: 31.1926594
+        inSlope: -29.8165169
+        outSlope: -29.8165169
+        tangentMode: 10
+      - time: 1.76666665
+        value: 31.1926594
+        inSlope: -47.4568901
+        outSlope: -47.4568901
+        tangentMode: 10
+      - time: 2.0666666
+        value: 2.71853042
+        inSlope: -67.8458176
+        outSlope: -67.8458176
+        tangentMode: 10
+      - time: 2.13333344
+        value: 0
+        inSlope: 130.98735
+        outSlope: 130.98735
+        tangentMode: 10
+      - time: 2.33333325
+        value: 60.550457
+        inSlope: 233.94487
+        outSlope: 233.94487
+        tangentMode: 10
+      - time: 2.4000001
+        value: 71.5596313
+        inSlope: 49.5410347
+        outSlope: 49.5410347
+        tangentMode: 10
+      - time: 2.5666666
+        value: 60.550457
+        inSlope: -33.0275536
+        outSlope: -33.0275536
+        tangentMode: 10
+      - time: 2.9333334
+        value: 60.550457
+        inSlope: -39.1115456
+        outSlope: -39.1115456
+        tangentMode: 10
+      - time: 3.5666666
+        value: 11.0091743
+        inSlope: -78.2230911
+        outSlope: -78.2230911
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.flaherty_headBlendShape.head_sh
+    path: FlahertyGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1.60000002
+        value: 0
+        inSlope: 261.467957
+        outSlope: 261.467957
+        tangentMode: 10
+      - time: 1.76666665
+        value: 87.1559601
+        inSlope: 116.207993
+        outSlope: 116.207993
+        tangentMode: 10
+      - time: 2.0666666
+        value: 0
+        inSlope: -145.259964
+        outSlope: -145.259964
+        tangentMode: 10
+      - time: 2.9333334
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.flaherty_headBlendShape.head_ff
+    path: FlahertyGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.9333334
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.flaherty_headBlendShape.head_mm
+    path: FlahertyGeo/head
+    classID: 137
+    script: {fileID: 0}
+  m_PPtrCurves: []
+  m_SampleRate: 1800
+  m_WrapMode: 0
+  m_Bounds:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  m_AnimationClipSettings:
+    serializedVersion: 2
+    m_StartTime: 0
+    m_StopTime: 4.26666689
+    m_OrientationOffsetY: 0
+    m_Level: 0
+    m_CycleOffset: 0
+    m_LoopTime: 0
+    m_LoopBlend: 0
+    m_LoopBlendOrientation: 0
+    m_LoopBlendPositionY: 0
+    m_LoopBlendPositionXZ: 0
+    m_KeepOriginalOrientation: 0
+    m_KeepOriginalPositionY: 1
+    m_KeepOriginalPositionXZ: 0
+    m_HeightFromFeet: 0
+    m_Mirror: 0
+  m_EditorCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 30.198019
+        inSlope: 299.151306
+        outSlope: 299.151306
+        tangentMode: 10
+      - time: .266666681
+        value: 100
+        inSlope: 149.575653
+        outSlope: 149.575653
+        tangentMode: 10
+      - time: .400000006
+        value: 100
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .633333325
+        value: 100
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .766666651
+        value: 100
+        inSlope: -104.702957
+        outSlope: -104.702957
+        tangentMode: 10
+      - time: 1.10000002
+        value: 30.198019
+        inSlope: -104.702957
+        outSlope: -104.702957
+        tangentMode: 10
+      - time: 1.5
+        value: 30.198019
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1.60000002
+        value: 30.198019
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1.76666665
+        value: 30.198019
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1.83333337
+        value: 30.198019
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.0666666
+        value: 30.198019
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.13333344
+        value: 30.198019
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.23333335
+        value: 30.198019
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.33333325
+        value: 30.198019
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.4000001
+        value: 30.198019
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.4666667
+        value: 30.198019
+        inSlope: -150.990234
+        outSlope: -150.990234
+        tangentMode: 10
+      - time: 2.5666666
+        value: 0
+        inSlope: -150.990234
+        outSlope: -150.990234
+        tangentMode: 10
+      - time: 2.66666675
+        value: 0
+        inSlope: 56.6212883
+        outSlope: 56.6212883
+        tangentMode: 10
+      - time: 2.9333334
+        value: 30.198019
+        inSlope: 56.6228523
+        outSlope: 56.6228523
+        tangentMode: 10
+      - time: 3.5666666
+        value: 30.2000008
+        inSlope: 130.876587
+        outSlope: 130.876587
+        tangentMode: 10
+      - time: 3.83333325
+        value: 100
+        inSlope: 50.3343277
+        outSlope: 50.3343277
+        tangentMode: 10
+      - time: 4.26666689
+        value: 30.198019
+        inSlope: -161.081375
+        outSlope: -161.081375
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.flaherty_headBlendShape.head_r_blink
+    path: FlahertyGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 30.198019
+        inSlope: 299.151306
+        outSlope: 299.151306
+        tangentMode: 10
+      - time: .266666681
+        value: 100
+        inSlope: 149.575653
+        outSlope: 149.575653
+        tangentMode: 10
+      - time: .400000006
+        value: 100
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .633333325
+        value: 100
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .766666651
+        value: 100
+        inSlope: -104.702957
+        outSlope: -104.702957
+        tangentMode: 10
+      - time: 1.10000002
+        value: 30.198019
+        inSlope: -104.702957
+        outSlope: -104.702957
+        tangentMode: 10
+      - time: 1.5
+        value: 30.198019
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1.60000002
+        value: 30.198019
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1.76666665
+        value: 30.198019
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1.83333337
+        value: 30.198019
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.0666666
+        value: 30.198019
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.13333344
+        value: 30.198019
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.23333335
+        value: 30.198019
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.33333325
+        value: 30.198019
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.4000001
+        value: 30.198019
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.4666667
+        value: 30.198019
+        inSlope: -150.990234
+        outSlope: -150.990234
+        tangentMode: 10
+      - time: 2.5666666
+        value: 0
+        inSlope: -150.990234
+        outSlope: -150.990234
+        tangentMode: 10
+      - time: 2.66666675
+        value: 0
+        inSlope: 56.6212883
+        outSlope: 56.6212883
+        tangentMode: 10
+      - time: 2.9333334
+        value: 30.198019
+        inSlope: 56.6228523
+        outSlope: 56.6228523
+        tangentMode: 10
+      - time: 3.5666666
+        value: 30.2000008
+        inSlope: 130.876587
+        outSlope: 130.876587
+        tangentMode: 10
+      - time: 3.83333325
+        value: 100
+        inSlope: 50.3343277
+        outSlope: 50.3343277
+        tangentMode: 10
+      - time: 4.26666689
+        value: 30.198019
+        inSlope: -161.081375
+        outSlope: -161.081375
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.flaherty_headBlendShape.head_l_blink
+    path: FlahertyGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 26.7326736
+        inSlope: 297.029694
+        outSlope: 297.029694
+        tangentMode: 10
+      - time: .266666681
+        value: 96.0396042
+        inSlope: 148.514847
+        outSlope: 148.514847
+        tangentMode: 10
+      - time: .400000006
+        value: 96.0396042
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .633333325
+        value: 96.0396042
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .766666651
+        value: 96.0396042
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1.10000002
+        value: 96.0396042
+        inSlope: -86.633667
+        outSlope: -86.633667
+        tangentMode: 10
+      - time: 1.5
+        value: 26.7326736
+        inSlope: -86.633667
+        outSlope: -86.633667
+        tangentMode: 10
+      - time: 1.60000002
+        value: 26.7326736
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1.76666665
+        value: 26.7326736
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1.83333337
+        value: 26.7326736
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.0666666
+        value: 26.7326736
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.13333344
+        value: 26.7326736
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.23333335
+        value: 26.7326736
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.33333325
+        value: 26.7326736
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.4000001
+        value: 26.7326736
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.4666667
+        value: 26.7326736
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.5666666
+        value: 26.7326736
+        inSlope: 195.544266
+        outSlope: 195.544266
+        tangentMode: 10
+      - time: 2.66666675
+        value: 65.8415833
+        inSlope: 195.544266
+        outSlope: 195.544266
+        tangentMode: 10
+      - time: 2.9333334
+        value: 65.8415833
+        inSlope: -14.6658392
+        outSlope: -14.6658392
+        tangentMode: 10
+      - time: 4.26666689
+        value: 26.7326736
+        inSlope: -29.3316784
+        outSlope: -29.3316784
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.flaherty_headBlendShape.head_r_brow_up
+    path: FlahertyGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 0
+        inSlope: 297.029694
+        outSlope: 297.029694
+        tangentMode: 10
+      - time: .266666681
+        value: 69.3069305
+        inSlope: 148.514847
+        outSlope: 148.514847
+        tangentMode: 10
+      - time: .400000006
+        value: 69.3069305
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .633333325
+        value: 69.3069305
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .766666651
+        value: 69.3069305
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1.10000002
+        value: 69.3069305
+        inSlope: -86.633667
+        outSlope: -86.633667
+        tangentMode: 10
+      - time: 1.5
+        value: 0
+        inSlope: -86.633667
+        outSlope: -86.633667
+        tangentMode: 10
+      - time: 1.60000002
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1.76666665
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1.83333337
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.0666666
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.13333344
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.23333335
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.33333325
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.4000001
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.4666667
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.5666666
+        value: 0
+        inSlope: 195.544266
+        outSlope: 195.544266
+        tangentMode: 10
+      - time: 2.66666675
+        value: 39.1089096
+        inSlope: 195.544266
+        outSlope: 195.544266
+        tangentMode: 10
+      - time: 2.9333334
+        value: 39.1089096
+        inSlope: -14.6658392
+        outSlope: -14.6658392
+        tangentMode: 10
+      - time: 4.26666689
+        value: 0
+        inSlope: -29.3316784
+        outSlope: -29.3316784
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.flaherty_headBlendShape.head_l_brow_up
+    path: FlahertyGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .266666681
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .400000006
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .633333325
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .766666651
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1.10000002
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1.5
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1.60000002
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1.76666665
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1.83333337
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.0666666
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.13333344
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.23333335
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.33333325
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.4000001
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.4666667
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.5666666
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.66666675
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.9333334
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 4.26666689
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.flaherty_headBlendShape.head_r_brow_dn
+    path: FlahertyGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .266666681
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .400000006
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .633333325
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .766666651
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1.10000002
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1.5
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1.60000002
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1.76666665
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1.83333337
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.0666666
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.13333344
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.23333335
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.33333325
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.4000001
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.4666667
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.5666666
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.66666675
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.9333334
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 4.26666689
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.flaherty_headBlendShape.head_l_brow_dn
+    path: FlahertyGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .266666681
+        value: 0
+        inSlope: 134.174316
+        outSlope: 134.174316
+        tangentMode: 10
+      - time: .400000006
+        value: 35.7798157
+        inSlope: 68.1114807
+        outSlope: 68.1114807
+        tangentMode: 10
+      - time: .633333325
+        value: 4.95049524
+        inSlope: 73.6296997
+        outSlope: 73.6296997
+        tangentMode: 10
+      - time: .766666651
+        value: 42.2018356
+        inSlope: 76.3897858
+        outSlope: 76.3897858
+        tangentMode: 10
+      - time: 1.10000002
+        value: 0
+        inSlope: -63.3027458
+        outSlope: -63.3027458
+        tangentMode: 10
+      - time: 1.5
+        value: 0
+        inSlope: 87.1559448
+        outSlope: 87.1559448
+        tangentMode: 10
+      - time: 1.60000002
+        value: 17.4311924
+        inSlope: 34.8623543
+        outSlope: 34.8623543
+        tangentMode: 10
+      - time: 1.76666665
+        value: 0
+        inSlope: 188.531891
+        outSlope: 188.531891
+        tangentMode: 10
+      - time: 1.83333337
+        value: 32.1100922
+        inSlope: 180.70166
+        outSlope: 180.70166
+        tangentMode: 10
+      - time: 2.0666666
+        value: 4.05232
+        inSlope: -90.5161438
+        outSlope: -90.5161438
+        tangentMode: 10
+      - time: 2.13333344
+        value: 0
+        inSlope: 93.4610138
+        outSlope: 93.4610138
+        tangentMode: 10
+      - time: 2.23333335
+        value: 24.7706432
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.33333325
+        value: 0
+        inSlope: -123.853333
+        outSlope: -123.853333
+        tangentMode: 10
+      - time: 2.4000001
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.5666666
+        value: 0
+        inSlope: 77.9815369
+        outSlope: 77.9815369
+        tangentMode: 10
+      - time: 2.66666675
+        value: 15.5963297
+        inSlope: 48.7384186
+        outSlope: 48.7384186
+        tangentMode: 10
+      - time: 2.9333334
+        value: 0
+        inSlope: -58.4862404
+        outSlope: -58.4862404
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.flaherty_headBlendShape.head_mouth_open
+    path: FlahertyGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 100
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .266666681
+        value: 100
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .400000006
+        value: 100
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .633333325
+        value: 100
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .766666651
+        value: 100
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1.10000002
+        value: 100
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1.5
+        value: 100
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1.60000002
+        value: 100
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1.76666665
+        value: 100
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1.83333337
+        value: 100
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.0666666
+        value: 100
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.13333344
+        value: 100
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.23333335
+        value: 100
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.33333325
+        value: 100
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.4000001
+        value: 100
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.4666667
+        value: 100
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.5666666
+        value: 100
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.66666675
+        value: 100
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.9333334
+        value: 100
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 4.26666689
+        value: 100
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.flaherty_headBlendShape.head_mouth_closed
+    path: FlahertyGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: -33.1683159
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .266666681
+        value: -33.1683159
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .400000006
+        value: -33.1683159
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .633333325
+        value: -33.1683159
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .766666651
+        value: -33.1683159
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1.10000002
+        value: -33.1683159
+        inSlope: 44.5544548
+        outSlope: 44.5544548
+        tangentMode: 10
+      - time: 1.5
+        value: 2.47524762
+        inSlope: 44.5544548
+        outSlope: 44.5544548
+        tangentMode: 10
+      - time: 1.60000002
+        value: 2.47524762
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1.76666665
+        value: 2.47524762
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1.83333337
+        value: 2.47524762
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.0666666
+        value: 2.47524762
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.13333344
+        value: 2.47524762
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.23333335
+        value: 2.47524762
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.33333325
+        value: 2.47524762
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.4000001
+        value: 2.47524762
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.4666667
+        value: 2.47524762
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.5666666
+        value: 2.47524762
+        inSlope: 133.663162
+        outSlope: 133.663162
+        tangentMode: 10
+      - time: 2.66666675
+        value: 29.2079201
+        inSlope: 133.663162
+        outSlope: 133.663162
+        tangentMode: 10
+      - time: 2.9333334
+        value: 29.2079201
+        inSlope: -10.9529686
+        outSlope: -10.9529686
+        tangentMode: 10
+      - time: 4.26666689
+        value: 0
+        inSlope: -21.9059372
+        outSlope: -21.9059372
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.flaherty_headBlendShape.head_r_smile
+    path: FlahertyGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .266666681
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .400000006
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .633333325
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .766666651
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1.10000002
+        value: 0
+        inSlope: 44.5544586
+        outSlope: 44.5544586
+        tangentMode: 10
+      - time: 1.5
+        value: 35.6435661
+        inSlope: 44.5544586
+        outSlope: 44.5544586
+        tangentMode: 10
+      - time: 1.60000002
+        value: 35.6435661
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1.76666665
+        value: 35.6435661
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1.83333337
+        value: 35.6435661
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.0666666
+        value: 35.6435661
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.13333344
+        value: 35.6435661
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.23333335
+        value: 35.6435661
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.33333325
+        value: 35.6435661
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.4000001
+        value: 35.6435661
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.4666667
+        value: 35.6435661
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.5666666
+        value: 35.6435661
+        inSlope: 133.663162
+        outSlope: 133.663162
+        tangentMode: 10
+      - time: 2.66666675
+        value: 62.376236
+        inSlope: 133.663162
+        outSlope: 133.663162
+        tangentMode: 10
+      - time: 2.9333334
+        value: 62.376236
+        inSlope: -10.9529686
+        outSlope: -10.9529686
+        tangentMode: 10
+      - time: 4.26666689
+        value: 33.1683159
+        inSlope: -21.9059372
+        outSlope: -21.9059372
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.flaherty_headBlendShape.head_l_smile
+    path: FlahertyGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .266666681
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .400000006
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .633333325
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .766666651
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1.10000002
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1.5
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1.60000002
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1.76666665
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1.83333337
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.0666666
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.13333344
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.23333335
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.33333325
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.4000001
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.4666667
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.5666666
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.66666675
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.9333334
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 4.26666689
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.flaherty_headBlendShape.head_r_frown
+    path: FlahertyGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .266666681
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .400000006
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .633333325
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .766666651
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1.10000002
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1.5
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1.60000002
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1.76666665
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1.83333337
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.0666666
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.13333344
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.23333335
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.33333325
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.4000001
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.4666667
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.5666666
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.66666675
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.9333334
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 4.26666689
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.flaherty_headBlendShape.head_l_frown
+    path: FlahertyGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 0
+        inSlope: 98.2961884
+        outSlope: 98.2961884
+        tangentMode: 10
+      - time: .266666681
+        value: 22.9357796
+        inSlope: 141.529938
+        outSlope: 141.529938
+        tangentMode: 10
+      - time: .400000006
+        value: 47.5709381
+        inSlope: 163.445435
+        outSlope: 163.445435
+        tangentMode: 10
+      - time: .633333325
+        value: 80.7339401
+        inSlope: -59.6703491
+        outSlope: -59.6703491
+        tangentMode: 10
+      - time: .766666651
+        value: 45.8715591
+        inSlope: -57.7981567
+        outSlope: -57.7981567
+        tangentMode: 10
+      - time: 1.10000002
+        value: 94.4954147
+        inSlope: 15.5963249
+        outSlope: 15.5963249
+        tangentMode: 10
+      - time: 1.5
+        value: 48.6238556
+        inSlope: 57.3393974
+        outSlope: 57.3393974
+        tangentMode: 10
+      - time: 1.60000002
+        value: 71.5596313
+        inSlope: 114.678848
+        outSlope: 114.678848
+        tangentMode: 10
+      - time: 1.76666665
+        value: 71.5596313
+        inSlope: -81.0397644
+        outSlope: -81.0397644
+        tangentMode: 10
+      - time: 2.0666666
+        value: 22.9357796
+        inSlope: 111.6203
+        outSlope: 111.6203
+        tangentMode: 10
+      - time: 2.13333344
+        value: 48.6238556
+        inSlope: 140.624451
+        outSlope: 140.624451
+        tangentMode: 10
+      - time: 2.23333335
+        value: 38.2167435
+        inSlope: -119.266174
+        outSlope: -119.266174
+        tangentMode: 10
+      - time: 2.33333325
+        value: 24.7706432
+        inSlope: -95.1701584
+        outSlope: -95.1701584
+        tangentMode: 10
+      - time: 2.4000001
+        value: 21.0453548
+        inSlope: -52.830162
+        outSlope: -52.830162
+        tangentMode: 10
+      - time: 2.66666675
+        value: 7.77038479
+        inSlope: -39.460041
+        outSlope: -39.460041
+        tangentMode: 10
+      - time: 2.9333334
+        value: 0
+        inSlope: -.808001518
+        outSlope: -.808001518
+        tangentMode: 10
+      - time: 3.5666666
+        value: 17.4311924
+        inSlope: 27.5229416
+        outSlope: 27.5229416
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.flaherty_headBlendShape.head_oo
+    path: FlahertyGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 0
+        inSlope: 192.660538
+        outSlope: 192.660538
+        tangentMode: 10
+      - time: .266666681
+        value: 44.9541283
+        inSlope: 96.3302689
+        outSlope: 96.3302689
+        tangentMode: 10
+      - time: 1.10000002
+        value: 44.9541283
+        inSlope: -56.1926651
+        outSlope: -56.1926651
+        tangentMode: 10
+      - time: 1.5
+        value: 0
+        inSlope: -56.1926651
+        outSlope: -56.1926651
+        tangentMode: 10
+      - time: 1.60000002
+        value: 0
+        inSlope: 258.715668
+        outSlope: 258.715668
+        tangentMode: 10
+      - time: 1.76666665
+        value: 86.238533
+        inSlope: 127.511322
+        outSlope: 127.511322
+        tangentMode: 10
+      - time: 2.0666666
+        value: 7.51593685
+        inSlope: -187.57373
+        outSlope: -187.57373
+        tangentMode: 10
+      - time: 2.13333344
+        value: 0
+        inSlope: -56.3693771
+        outSlope: -56.3693771
+        tangentMode: 10
+      - time: 2.33333325
+        value: 0
+        inSlope: 660.548706
+        outSlope: 660.548706
+        tangentMode: 10
+      - time: 2.4000001
+        value: 88.0733948
+        inSlope: 553.209167
+        outSlope: 553.209167
+        tangentMode: 10
+      - time: 2.5666666
+        value: 52.2935791
+        inSlope: -107.339546
+        outSlope: -107.339546
+        tangentMode: 10
+      - time: 2.9333334
+        value: 52.2935791
+        inSlope: -41.2844124
+        outSlope: -41.2844124
+        tangentMode: 10
+      - time: 3.5666666
+        value: 0
+        inSlope: -82.5688248
+        outSlope: -82.5688248
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.flaherty_headBlendShape.head_th
+    path: FlahertyGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.9333334
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.flaherty_headBlendShape.head_ee
+    path: FlahertyGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 0
+        inSlope: 235.910858
+        outSlope: 235.910858
+        tangentMode: 10
+      - time: .266666681
+        value: 55.0458717
+        inSlope: 117.955429
+        outSlope: 117.955429
+        tangentMode: 10
+      - time: 1.10000002
+        value: 55.0458717
+        inSlope: -29.8165169
+        outSlope: -29.8165169
+        tangentMode: 10
+      - time: 1.5
+        value: 31.1926594
+        inSlope: -29.8165169
+        outSlope: -29.8165169
+        tangentMode: 10
+      - time: 1.76666665
+        value: 31.1926594
+        inSlope: -47.4568901
+        outSlope: -47.4568901
+        tangentMode: 10
+      - time: 2.0666666
+        value: 2.71853042
+        inSlope: -67.8458176
+        outSlope: -67.8458176
+        tangentMode: 10
+      - time: 2.13333344
+        value: 0
+        inSlope: 130.98735
+        outSlope: 130.98735
+        tangentMode: 10
+      - time: 2.33333325
+        value: 60.550457
+        inSlope: 233.94487
+        outSlope: 233.94487
+        tangentMode: 10
+      - time: 2.4000001
+        value: 71.5596313
+        inSlope: 49.5410347
+        outSlope: 49.5410347
+        tangentMode: 10
+      - time: 2.5666666
+        value: 60.550457
+        inSlope: -33.0275536
+        outSlope: -33.0275536
+        tangentMode: 10
+      - time: 2.9333334
+        value: 60.550457
+        inSlope: -39.1115456
+        outSlope: -39.1115456
+        tangentMode: 10
+      - time: 3.5666666
+        value: 11.0091743
+        inSlope: -78.2230911
+        outSlope: -78.2230911
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.flaherty_headBlendShape.head_sh
+    path: FlahertyGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1.60000002
+        value: 0
+        inSlope: 261.467957
+        outSlope: 261.467957
+        tangentMode: 10
+      - time: 1.76666665
+        value: 87.1559601
+        inSlope: 116.207993
+        outSlope: 116.207993
+        tangentMode: 10
+      - time: 2.0666666
+        value: 0
+        inSlope: -145.259964
+        outSlope: -145.259964
+        tangentMode: 10
+      - time: 2.9333334
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.flaherty_headBlendShape.head_ff
+    path: FlahertyGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.9333334
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.flaherty_headBlendShape.head_mm
+    path: FlahertyGeo/head
+    classID: 137
+    script: {fileID: 0}
+  m_EulerEditorCurves: []
+  m_Events: []

@@ -1,0 +1,4531 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!74 &7400000
+AnimationClip:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: megumi@megumi_2-1_6b
+  serializedVersion: 4
+  m_AnimationType: 1
+  m_Compressed: 0
+  m_UseHighQualityCurve: 1
+  m_RotationCurves: []
+  m_CompressedRotationCurves: []
+  m_PositionCurves: []
+  m_ScaleCurves: []
+  m_FloatCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .200000003
+        value: 17.4311924
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .366666675
+        value: 2.72362351
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .466666669
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .533333361
+        value: 3.66972494
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .699999988
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .800000012
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .866666675
+        value: 14.6788988
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .966666639
+        value: 2.99005628
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.06666672
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.20000005
+        value: 13.7614679
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.4666667
+        value: 3.3485446
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.56666672
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.66666663
+        value: 19.0332909
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.79999995
+        value: 5.88852024
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.86666667
+        value: 16.5137615
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.9666667
+        value: 4.39626884
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.0333333
+        value: 15.5963297
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.0999999
+        value: 2.53118491
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.26666665
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.36666656
+        value: 17.4311924
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.5333333
+        value: 2.39796543
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.63333344
+        value: 16.5137615
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.79999995
+        value: 3.26389718
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.9000001
+        value: 13.7614679
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.0999999
+        value: 1.66525364
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.26666665
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.blendShape2.gums_ee
+    path: MegumiGeo/gums
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .200000003
+        value: 17.4311924
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .366666675
+        value: 2.72362351
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .466666669
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .533333361
+        value: 3.66972494
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .699999988
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .800000012
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .866666675
+        value: 14.6788988
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .966666639
+        value: 2.99005628
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.06666672
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.20000005
+        value: 13.7614679
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.4666667
+        value: 3.3485446
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.56666672
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.66666663
+        value: 19.0332909
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.79999995
+        value: 5.88852024
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.86666667
+        value: 16.5137615
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.9666667
+        value: 4.39626884
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.0333333
+        value: 15.5963297
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.0999999
+        value: 2.53118491
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.26666665
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.36666656
+        value: 17.4311924
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.5333333
+        value: 2.39796543
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.63333344
+        value: 16.5137615
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.79999995
+        value: 3.26389718
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.9000001
+        value: 13.7614679
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.0999999
+        value: 1.66525364
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.26666665
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.blendShape1.head_mouth_open
+    path: MegumiGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 100
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .366666675
+        value: 100
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .466666669
+        value: 100
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .533333361
+        value: 100
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .699999988
+        value: 100
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .800000012
+        value: 100
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .966666639
+        value: 100
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.06666672
+        value: 100
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.20000005
+        value: 100
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.36666667
+        value: 100
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.56666672
+        value: 100
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.79999995
+        value: 100
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.9666667
+        value: 100
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.0999999
+        value: 100
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.26666665
+        value: 100
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.5333333
+        value: 100
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.79999995
+        value: 100
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.0999999
+        value: 100
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.26666665
+        value: 100
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.blendShape1.head_mouth_closed
+    path: MegumiGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 6.12363529
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .366666675
+        value: 20.2845421
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .466666669
+        value: 20.2845421
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .533333361
+        value: 20.2845421
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .699999988
+        value: 20.2845421
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .800000012
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .966666639
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.06666672
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.20000005
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.36666667
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.56666672
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.79999995
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.9666667
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.0999999
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.26666665
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.5333333
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.79999995
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.0999999
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.26666665
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.blendShape1.head_l_smile
+    path: MegumiGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 6.12363529
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .366666675
+        value: 20.2845421
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .466666669
+        value: 20.2845421
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .533333361
+        value: 20.2845421
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .699999988
+        value: 20.2845421
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .800000012
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .966666639
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.06666672
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.20000005
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.36666667
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.56666672
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.79999995
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.9666667
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.0999999
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.26666665
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.5333333
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.79999995
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.0999999
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.26666665
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.blendShape1.head_r_smile
+    path: MegumiGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 7.83825302
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .200000003
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .366666675
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .466666669
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .533333361
+        value: 1.55394053
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .600000024
+        value: 100
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .699999988
+        value: 7.83825302
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .800000012
+        value: 7.83825302
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .966666639
+        value: 7.83825302
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.06666672
+        value: 7.83825302
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.20000005
+        value: 7.83825302
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.36666667
+        value: 7.83825302
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.56666672
+        value: 7.83825302
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.79999995
+        value: 7.83825302
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.9666667
+        value: 7.83825302
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.0999999
+        value: 7.83825302
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.26666665
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.36666656
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.5333333
+        value: 7.83825302
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.79999995
+        value: 7.83825302
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.0999999
+        value: 7.83825302
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.16666675
+        value: 100
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.26666665
+        value: 7.83825302
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.blendShape1.head_l_eye_blink
+    path: MegumiGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 7.83825302
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .200000003
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .366666675
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .466666669
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .533333361
+        value: 1.55394053
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .600000024
+        value: 100
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .699999988
+        value: 7.83825302
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .800000012
+        value: 7.83825302
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .966666639
+        value: 7.83825302
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.06666672
+        value: 7.83825302
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.20000005
+        value: 7.83825302
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.36666667
+        value: 7.83825302
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.56666672
+        value: 7.83825302
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.79999995
+        value: 7.83825302
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.9666667
+        value: 7.83825302
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.0999999
+        value: 7.83825302
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.26666665
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.36666656
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.5333333
+        value: 7.83825302
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.79999995
+        value: 7.83825302
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.0999999
+        value: 7.83825302
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.16666675
+        value: 100
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.26666665
+        value: 7.83825302
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.blendShape1.head_r_eye_blink
+    path: MegumiGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .366666675
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .466666669
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .533333361
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .699999988
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .800000012
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .966666639
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.06666672
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.20000005
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.36666667
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.56666672
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.79999995
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.9666667
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.0999999
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.26666665
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.5333333
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.79999995
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.0999999
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.26666665
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.blendShape1.head_l_frown
+    path: MegumiGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .366666675
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .466666669
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .533333361
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .699999988
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .800000012
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .966666639
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.06666672
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.20000005
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.36666667
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.56666672
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.79999995
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.9666667
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.0999999
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.26666665
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.5333333
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.79999995
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.0999999
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.26666665
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.blendShape1.head_r_frown
+    path: MegumiGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .200000003
+        value: 41.2844048
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .533333361
+        value: 27.5433578
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .699999988
+        value: -17.6054516
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .800000012
+        value: -17.6054516
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .966666639
+        value: -17.6054516
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.06666672
+        value: -17.6054516
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.20000005
+        value: -17.6054516
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.36666667
+        value: -17.6054516
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.56666672
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.79999995
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.9666667
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.0999999
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.26666665
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.5333333
+        value: -8.0372715
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.79999995
+        value: -8.0372715
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.0999999
+        value: -8.0372715
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.26666665
+        value: -8.0372715
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.blendShape1.head_l_brow_up
+    path: MegumiGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .200000003
+        value: 46.78899
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .533333361
+        value: 28.9704723
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .699999988
+        value: -17.6054516
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .800000012
+        value: -17.6054516
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .966666639
+        value: -17.6054516
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.06666672
+        value: -17.6054516
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.20000005
+        value: -17.6054516
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.36666667
+        value: -17.6054516
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.56666672
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.79999995
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.9666667
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.0999999
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.26666665
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.5333333
+        value: -8.0372715
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.79999995
+        value: -8.0372715
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.0999999
+        value: -8.0372715
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.26666665
+        value: -8.0372715
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.blendShape1.head_r_brow_up
+    path: MegumiGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .366666675
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .466666669
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .533333361
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .699999988
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .800000012
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .966666639
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.06666672
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.20000005
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.36666667
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.56666672
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.79999995
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.9666667
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.0999999
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.26666665
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.5333333
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.79999995
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.0999999
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.26666665
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.blendShape1.head_l_brow_dn
+    path: MegumiGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .366666675
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .466666669
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .533333361
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .699999988
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .800000012
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .966666639
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.06666672
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.20000005
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.36666667
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.56666672
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.79999995
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.9666667
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.0999999
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.26666665
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.5333333
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.79999995
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.0999999
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.26666665
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.blendShape1.head_r_brow_dn
+    path: MegumiGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 47.7064209
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .366666675
+        value: 3.04000854
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .466666669
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .533333361
+        value: 5.38813591
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .699999988
+        value: 24.7706432
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .800000012
+        value: 42.6318855
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .966666639
+        value: 65.1376114
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.06666672
+        value: 41.3057823
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.20000005
+        value: 4.58715582
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.36666667
+        value: 27.5229359
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.56666672
+        value: 11.0091743
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.79999995
+        value: 38.5321121
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.9666667
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.0999999
+        value: 44.0366974
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.26666665
+        value: 44.0366974
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.5333333
+        value: 6.42201805
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.79999995
+        value: 6.42201805
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.0999999
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.26666665
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.blendShape1.head_oo
+    path: MegumiGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 17.4311924
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .366666675
+        value: 64.6745148
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .466666669
+        value: 67.8899078
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .533333361
+        value: 60.1967087
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .699999988
+        value: 34.8623848
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .800000012
+        value: 21.4234467
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .966666639
+        value: 7.33944941
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.06666672
+        value: 27.9214859
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.20000005
+        value: 59.6330299
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.36666667
+        value: 57.7981644
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.56666672
+        value: 34.8623848
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.79999995
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.9666667
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.0999999
+        value: 47.7064209
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.26666665
+        value: 47.7064209
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.5333333
+        value: 29.3577976
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.79999995
+        value: 12.8440361
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.0999999
+        value: 12.8440361
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.26666665
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.blendShape1.head_th
+    path: MegumiGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .366666675
+        value: 10.3076334
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .466666669
+        value: 11.0091743
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .533333361
+        value: 10.7582464
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .699999988
+        value: 9.17431164
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .800000012
+        value: 5.41140938
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .966666639
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.20000005
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.36666667
+        value: 11.9266052
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.56666672
+        value: 5.50458717
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.79999995
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.9666667
+        value: 12.8440361
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.0999999
+        value: 4.58715582
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.26666665
+        value: 8.25688076
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.5333333
+        value: 20.183485
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.79999995
+        value: 12.8440361
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.0999999
+        value: 33.027523
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.26666665
+        value: 33.027523
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.blendShape1.head_ee
+    path: MegumiGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 21.1009178
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .366666675
+        value: 14.2291622
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .466666669
+        value: 13.7614679
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .533333361
+        value: 13.613781
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .699999988
+        value: 13.4285822
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .966666639
+        value: 13.7614679
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.06666672
+        value: 16.6662235
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.20000005
+        value: 23.8532104
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.36666667
+        value: 31.1926594
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.56666672
+        value: 33.027523
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.79999995
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.9666667
+        value: 48.6238556
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.0999999
+        value: 11.0091743
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.26666665
+        value: 54.128437
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.5333333
+        value: 33.9449539
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.79999995
+        value: 47.7064209
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.0999999
+        value: 24.7706432
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.26666665
+        value: 24.7706432
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.blendShape1.head_sh
+    path: MegumiGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .533333361
+        value: -3.45376134
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .699999988
+        value: -3.87790728
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.9666667
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.0999999
+        value: 53.21101
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.26666665
+        value: 20.183485
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.26666665
+        value: 20.183485
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.blendShape1.head_F
+    path: MegumiGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .533333361
+        value: -2.12162304
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .699999988
+        value: -2.38217306
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.56666672
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.79999995
+        value: 25.6880722
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.9666667
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.26666665
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.blendShape1.head_mm
+    path: MegumiGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .200000003
+        value: 17.4311924
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .366666675
+        value: 2.72362351
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .466666669
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .533333361
+        value: 3.66972494
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .699999988
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .800000012
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .866666675
+        value: 14.6788988
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .966666639
+        value: 2.99005628
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.06666672
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.20000005
+        value: 13.7614679
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.4666667
+        value: 3.3485446
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.56666672
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.66666663
+        value: 19.0332909
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.79999995
+        value: 5.88852024
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.86666667
+        value: 16.5137615
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.9666667
+        value: 4.39626884
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.0333333
+        value: 15.5963297
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.0999999
+        value: 2.53118491
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.26666665
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.36666656
+        value: 17.4311924
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.5333333
+        value: 2.39796543
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.63333344
+        value: 16.5137615
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.79999995
+        value: 3.26389718
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.9000001
+        value: 13.7614679
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.0999999
+        value: 1.66525364
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.26666665
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.blendShape4.tongue_mouth_open
+    path: MegumiGeo/tongue
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 93.385437
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .200000003
+        value: 110.816628
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .366666675
+        value: 96.1090622
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .466666669
+        value: 93.385437
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .533333361
+        value: 97.0551605
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .699999988
+        value: 93.385437
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .800000012
+        value: 93.385437
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .866666675
+        value: 108.064339
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .966666639
+        value: 96.3754959
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.06666672
+        value: 93.385437
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.20000005
+        value: 107.146904
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.4666667
+        value: 96.7339859
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.56666672
+        value: 93.385437
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.66666663
+        value: 112.418732
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.79999995
+        value: 99.2739563
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.86666667
+        value: 109.8992
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.9666667
+        value: 97.7817078
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.0333333
+        value: 108.981766
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.0999999
+        value: 95.916626
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.26666665
+        value: 93.385437
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.36666656
+        value: 110.816628
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.5333333
+        value: 95.7834015
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.63333344
+        value: 109.8992
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.79999995
+        value: 96.6493378
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.9000001
+        value: 107.146904
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.0999999
+        value: 95.0506897
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.26666665
+        value: 93.385437
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.blendShape3.teeth_ee
+    path: MegumiGeo/teeth
+    classID: 137
+    script: {fileID: 0}
+  m_PPtrCurves: []
+  m_SampleRate: 1800
+  m_WrapMode: 0
+  m_Bounds:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  m_AnimationClipSettings:
+    serializedVersion: 2
+    m_StartTime: 0
+    m_StopTime: 2
+    m_OrientationOffsetY: 0
+    m_Level: 0
+    m_CycleOffset: 0
+    m_LoopTime: 0
+    m_LoopBlend: 0
+    m_LoopBlendOrientation: 0
+    m_LoopBlendPositionY: 0
+    m_LoopBlendPositionXZ: 0
+    m_KeepOriginalOrientation: 0
+    m_KeepOriginalPositionY: 1
+    m_KeepOriginalPositionXZ: 0
+    m_HeightFromFeet: 0
+    m_Mirror: 0
+  m_EditorCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .200000003
+        value: 17.4311924
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .366666675
+        value: 2.72362351
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .466666669
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .533333361
+        value: 3.66972494
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .699999988
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .800000012
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .866666675
+        value: 14.6788988
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .966666639
+        value: 2.99005628
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.06666672
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.20000005
+        value: 13.7614679
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.4666667
+        value: 3.3485446
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.56666672
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.66666663
+        value: 19.0332909
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.79999995
+        value: 5.88852024
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.86666667
+        value: 16.5137615
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.9666667
+        value: 4.39626884
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.0333333
+        value: 15.5963297
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.0999999
+        value: 2.53118491
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.26666665
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.36666656
+        value: 17.4311924
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.5333333
+        value: 2.39796543
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.63333344
+        value: 16.5137615
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.79999995
+        value: 3.26389718
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.9000001
+        value: 13.7614679
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.0999999
+        value: 1.66525364
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.26666665
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.blendShape2.gums_ee
+    path: MegumiGeo/gums
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .200000003
+        value: 17.4311924
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .366666675
+        value: 2.72362351
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .466666669
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .533333361
+        value: 3.66972494
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .699999988
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .800000012
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .866666675
+        value: 14.6788988
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .966666639
+        value: 2.99005628
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.06666672
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.20000005
+        value: 13.7614679
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.4666667
+        value: 3.3485446
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.56666672
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.66666663
+        value: 19.0332909
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.79999995
+        value: 5.88852024
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.86666667
+        value: 16.5137615
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.9666667
+        value: 4.39626884
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.0333333
+        value: 15.5963297
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.0999999
+        value: 2.53118491
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.26666665
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.36666656
+        value: 17.4311924
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.5333333
+        value: 2.39796543
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.63333344
+        value: 16.5137615
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.79999995
+        value: 3.26389718
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.9000001
+        value: 13.7614679
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.0999999
+        value: 1.66525364
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.26666665
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.blendShape1.head_mouth_open
+    path: MegumiGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 100
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .366666675
+        value: 100
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .466666669
+        value: 100
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .533333361
+        value: 100
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .699999988
+        value: 100
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .800000012
+        value: 100
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .966666639
+        value: 100
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.06666672
+        value: 100
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.20000005
+        value: 100
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.36666667
+        value: 100
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.56666672
+        value: 100
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.79999995
+        value: 100
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.9666667
+        value: 100
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.0999999
+        value: 100
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.26666665
+        value: 100
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.5333333
+        value: 100
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.79999995
+        value: 100
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.0999999
+        value: 100
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.26666665
+        value: 100
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.blendShape1.head_mouth_closed
+    path: MegumiGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 6.12363529
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .366666675
+        value: 20.2845421
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .466666669
+        value: 20.2845421
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .533333361
+        value: 20.2845421
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .699999988
+        value: 20.2845421
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .800000012
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .966666639
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.06666672
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.20000005
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.36666667
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.56666672
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.79999995
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.9666667
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.0999999
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.26666665
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.5333333
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.79999995
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.0999999
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.26666665
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.blendShape1.head_l_smile
+    path: MegumiGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 6.12363529
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .366666675
+        value: 20.2845421
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .466666669
+        value: 20.2845421
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .533333361
+        value: 20.2845421
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .699999988
+        value: 20.2845421
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .800000012
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .966666639
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.06666672
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.20000005
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.36666667
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.56666672
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.79999995
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.9666667
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.0999999
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.26666665
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.5333333
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.79999995
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.0999999
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.26666665
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.blendShape1.head_r_smile
+    path: MegumiGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 7.83825302
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .200000003
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .366666675
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .466666669
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .533333361
+        value: 1.55394053
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .600000024
+        value: 100
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .699999988
+        value: 7.83825302
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .800000012
+        value: 7.83825302
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .966666639
+        value: 7.83825302
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.06666672
+        value: 7.83825302
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.20000005
+        value: 7.83825302
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.36666667
+        value: 7.83825302
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.56666672
+        value: 7.83825302
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.79999995
+        value: 7.83825302
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.9666667
+        value: 7.83825302
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.0999999
+        value: 7.83825302
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.26666665
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.36666656
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.5333333
+        value: 7.83825302
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.79999995
+        value: 7.83825302
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.0999999
+        value: 7.83825302
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.16666675
+        value: 100
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.26666665
+        value: 7.83825302
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.blendShape1.head_l_eye_blink
+    path: MegumiGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 7.83825302
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .200000003
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .366666675
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .466666669
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .533333361
+        value: 1.55394053
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .600000024
+        value: 100
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .699999988
+        value: 7.83825302
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .800000012
+        value: 7.83825302
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .966666639
+        value: 7.83825302
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.06666672
+        value: 7.83825302
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.20000005
+        value: 7.83825302
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.36666667
+        value: 7.83825302
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.56666672
+        value: 7.83825302
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.79999995
+        value: 7.83825302
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.9666667
+        value: 7.83825302
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.0999999
+        value: 7.83825302
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.26666665
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.36666656
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.5333333
+        value: 7.83825302
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.79999995
+        value: 7.83825302
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.0999999
+        value: 7.83825302
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.16666675
+        value: 100
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.26666665
+        value: 7.83825302
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.blendShape1.head_r_eye_blink
+    path: MegumiGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .366666675
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .466666669
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .533333361
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .699999988
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .800000012
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .966666639
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.06666672
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.20000005
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.36666667
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.56666672
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.79999995
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.9666667
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.0999999
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.26666665
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.5333333
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.79999995
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.0999999
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.26666665
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.blendShape1.head_l_frown
+    path: MegumiGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .366666675
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .466666669
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .533333361
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .699999988
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .800000012
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .966666639
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.06666672
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.20000005
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.36666667
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.56666672
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.79999995
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.9666667
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.0999999
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.26666665
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.5333333
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.79999995
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.0999999
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.26666665
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.blendShape1.head_r_frown
+    path: MegumiGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .200000003
+        value: 41.2844048
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .533333361
+        value: 27.5433578
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .699999988
+        value: -17.6054516
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .800000012
+        value: -17.6054516
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .966666639
+        value: -17.6054516
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.06666672
+        value: -17.6054516
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.20000005
+        value: -17.6054516
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.36666667
+        value: -17.6054516
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.56666672
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.79999995
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.9666667
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.0999999
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.26666665
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.5333333
+        value: -8.0372715
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.79999995
+        value: -8.0372715
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.0999999
+        value: -8.0372715
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.26666665
+        value: -8.0372715
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.blendShape1.head_l_brow_up
+    path: MegumiGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .200000003
+        value: 46.78899
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .533333361
+        value: 28.9704723
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .699999988
+        value: -17.6054516
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .800000012
+        value: -17.6054516
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .966666639
+        value: -17.6054516
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.06666672
+        value: -17.6054516
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.20000005
+        value: -17.6054516
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.36666667
+        value: -17.6054516
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.56666672
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.79999995
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.9666667
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.0999999
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.26666665
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.5333333
+        value: -8.0372715
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.79999995
+        value: -8.0372715
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.0999999
+        value: -8.0372715
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.26666665
+        value: -8.0372715
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.blendShape1.head_r_brow_up
+    path: MegumiGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .366666675
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .466666669
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .533333361
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .699999988
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .800000012
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .966666639
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.06666672
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.20000005
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.36666667
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.56666672
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.79999995
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.9666667
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.0999999
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.26666665
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.5333333
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.79999995
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.0999999
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.26666665
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.blendShape1.head_l_brow_dn
+    path: MegumiGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .366666675
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .466666669
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .533333361
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .699999988
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .800000012
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .966666639
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.06666672
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.20000005
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.36666667
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.56666672
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.79999995
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.9666667
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.0999999
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.26666665
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.5333333
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.79999995
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.0999999
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.26666665
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.blendShape1.head_r_brow_dn
+    path: MegumiGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 47.7064209
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .366666675
+        value: 3.04000854
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .466666669
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .533333361
+        value: 5.38813591
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .699999988
+        value: 24.7706432
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .800000012
+        value: 42.6318855
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .966666639
+        value: 65.1376114
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.06666672
+        value: 41.3057823
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.20000005
+        value: 4.58715582
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.36666667
+        value: 27.5229359
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.56666672
+        value: 11.0091743
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.79999995
+        value: 38.5321121
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.9666667
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.0999999
+        value: 44.0366974
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.26666665
+        value: 44.0366974
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.5333333
+        value: 6.42201805
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.79999995
+        value: 6.42201805
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.0999999
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.26666665
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.blendShape1.head_oo
+    path: MegumiGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 17.4311924
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .366666675
+        value: 64.6745148
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .466666669
+        value: 67.8899078
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .533333361
+        value: 60.1967087
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .699999988
+        value: 34.8623848
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .800000012
+        value: 21.4234467
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .966666639
+        value: 7.33944941
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.06666672
+        value: 27.9214859
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.20000005
+        value: 59.6330299
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.36666667
+        value: 57.7981644
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.56666672
+        value: 34.8623848
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.79999995
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.9666667
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.0999999
+        value: 47.7064209
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.26666665
+        value: 47.7064209
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.5333333
+        value: 29.3577976
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.79999995
+        value: 12.8440361
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.0999999
+        value: 12.8440361
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.26666665
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.blendShape1.head_th
+    path: MegumiGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .366666675
+        value: 10.3076334
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .466666669
+        value: 11.0091743
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .533333361
+        value: 10.7582464
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .699999988
+        value: 9.17431164
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .800000012
+        value: 5.41140938
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .966666639
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.20000005
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.36666667
+        value: 11.9266052
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.56666672
+        value: 5.50458717
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.79999995
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.9666667
+        value: 12.8440361
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.0999999
+        value: 4.58715582
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.26666665
+        value: 8.25688076
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.5333333
+        value: 20.183485
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.79999995
+        value: 12.8440361
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.0999999
+        value: 33.027523
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.26666665
+        value: 33.027523
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.blendShape1.head_ee
+    path: MegumiGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 21.1009178
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .366666675
+        value: 14.2291622
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .466666669
+        value: 13.7614679
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .533333361
+        value: 13.613781
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .699999988
+        value: 13.4285822
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .966666639
+        value: 13.7614679
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.06666672
+        value: 16.6662235
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.20000005
+        value: 23.8532104
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.36666667
+        value: 31.1926594
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.56666672
+        value: 33.027523
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.79999995
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.9666667
+        value: 48.6238556
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.0999999
+        value: 11.0091743
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.26666665
+        value: 54.128437
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.5333333
+        value: 33.9449539
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.79999995
+        value: 47.7064209
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.0999999
+        value: 24.7706432
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.26666665
+        value: 24.7706432
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.blendShape1.head_sh
+    path: MegumiGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .533333361
+        value: -3.45376134
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .699999988
+        value: -3.87790728
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.9666667
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.0999999
+        value: 53.21101
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.26666665
+        value: 20.183485
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.26666665
+        value: 20.183485
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.blendShape1.head_F
+    path: MegumiGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .533333361
+        value: -2.12162304
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .699999988
+        value: -2.38217306
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.56666672
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.79999995
+        value: 25.6880722
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.9666667
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.26666665
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.blendShape1.head_mm
+    path: MegumiGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .200000003
+        value: 17.4311924
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .366666675
+        value: 2.72362351
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .466666669
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .533333361
+        value: 3.66972494
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .699999988
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .800000012
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .866666675
+        value: 14.6788988
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .966666639
+        value: 2.99005628
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.06666672
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.20000005
+        value: 13.7614679
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.4666667
+        value: 3.3485446
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.56666672
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.66666663
+        value: 19.0332909
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.79999995
+        value: 5.88852024
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.86666667
+        value: 16.5137615
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.9666667
+        value: 4.39626884
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.0333333
+        value: 15.5963297
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.0999999
+        value: 2.53118491
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.26666665
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.36666656
+        value: 17.4311924
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.5333333
+        value: 2.39796543
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.63333344
+        value: 16.5137615
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.79999995
+        value: 3.26389718
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.9000001
+        value: 13.7614679
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.0999999
+        value: 1.66525364
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.26666665
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.blendShape4.tongue_mouth_open
+    path: MegumiGeo/tongue
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 93.385437
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .200000003
+        value: 110.816628
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .366666675
+        value: 96.1090622
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .466666669
+        value: 93.385437
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .533333361
+        value: 97.0551605
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .699999988
+        value: 93.385437
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .800000012
+        value: 93.385437
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .866666675
+        value: 108.064339
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .966666639
+        value: 96.3754959
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.06666672
+        value: 93.385437
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.20000005
+        value: 107.146904
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.4666667
+        value: 96.7339859
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.56666672
+        value: 93.385437
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.66666663
+        value: 112.418732
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.79999995
+        value: 99.2739563
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.86666667
+        value: 109.8992
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.9666667
+        value: 97.7817078
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.0333333
+        value: 108.981766
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.0999999
+        value: 95.916626
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.26666665
+        value: 93.385437
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.36666656
+        value: 110.816628
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.5333333
+        value: 95.7834015
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.63333344
+        value: 109.8992
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.79999995
+        value: 96.6493378
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 2.9000001
+        value: 107.146904
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.0999999
+        value: 95.0506897
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 3.26666665
+        value: 93.385437
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.blendShape3.teeth_ee
+    path: MegumiGeo/teeth
+    classID: 137
+    script: {fileID: 0}
+  m_EulerEditorCurves: []
+  m_Events: []

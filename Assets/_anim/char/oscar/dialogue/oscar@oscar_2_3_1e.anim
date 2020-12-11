@@ -1,0 +1,2087 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!74 &7400000
+AnimationClip:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: oscar@oscar_2_3_1e
+  serializedVersion: 4
+  m_AnimationType: 1
+  m_Compressed: 0
+  m_UseHighQualityCurve: 1
+  m_RotationCurves: []
+  m_CompressedRotationCurves: []
+  m_PositionCurves: []
+  m_ScaleCurves: []
+  m_FloatCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .166666672
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .233333334
+        value: 11.9266052
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .400000006
+        value: 4.5960989
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .566666663
+        value: 18.3575668
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .733333349
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .800000012
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .866666675
+        value: 15.709197
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.16666663
+        value: 1.53203297
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.56666672
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.blendShape3.gums_mouth_open
+    path: OscarGeo/gums
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 14.8096514
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .166666672
+        value: 14.8096514
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .400000006
+        value: 14.8096514
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .733333349
+        value: 14.8096514
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .800000012
+        value: 14.8096514
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.16666663
+        value: 14.8096514
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.56666672
+        value: 14.8096514
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.oscar_headBlendShape.head_r_blink
+    path: OscarGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 14.8096514
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .166666672
+        value: 14.8096514
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .400000006
+        value: 14.8096514
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .733333349
+        value: 14.8096514
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .800000012
+        value: 14.8096514
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.16666663
+        value: 14.8096514
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.56666672
+        value: 14.8096514
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.oscar_headBlendShape.head_l_blink
+    path: OscarGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .166666672
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .400000006
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .633333325
+        value: 1.78737175
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .733333349
+        value: 35.4920959
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .800000012
+        value: 35.4920959
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.16666663
+        value: 35.4920959
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.56666672
+        value: 29.8746414
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.oscar_headBlendShape.head_r_brow_up
+    path: OscarGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .166666672
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .400000006
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .633333325
+        value: 1.78737175
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .733333349
+        value: 35.4920959
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .800000012
+        value: 35.4920959
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.16666663
+        value: 35.4920959
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.56666672
+        value: 29.8746414
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.oscar_headBlendShape.head_l_brow_up
+    path: OscarGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .166666672
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .400000006
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .733333349
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .800000012
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.16666663
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.56666672
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.oscar_headBlendShape.head_l_brow_dn
+    path: OscarGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .166666672
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .400000006
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .733333349
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .800000012
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.16666663
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.56666672
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.oscar_headBlendShape.head_r_brow_dn
+    path: OscarGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .166666672
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .233333334
+        value: 11.9266052
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .400000006
+        value: 4.5960989
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .566666663
+        value: 18.3575668
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .733333349
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .800000012
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .866666675
+        value: 15.709197
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.16666663
+        value: 1.53203297
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.56666672
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.oscar_headBlendShape.head_mouth_open
+    path: OscarGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 100
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .166666672
+        value: 100
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .400000006
+        value: 100
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .733333349
+        value: 100
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .800000012
+        value: 100
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.16666663
+        value: 100
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.56666672
+        value: 100
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.oscar_headBlendShape.head_mouth_closed
+    path: OscarGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .166666672
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .400000006
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .733333349
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .800000012
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.16666663
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.56666672
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.oscar_headBlendShape.head_r_smile
+    path: OscarGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .166666672
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .400000006
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .733333349
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .800000012
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.16666663
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.56666672
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.oscar_headBlendShape.head_l_smile
+    path: OscarGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 15.3203297
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .166666672
+        value: 15.3203297
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .400000006
+        value: 15.3203297
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .733333349
+        value: 15.3203297
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .800000012
+        value: 15.3203297
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.16666663
+        value: 15.3203297
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.56666672
+        value: 15.3203297
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.oscar_headBlendShape.head_r_frown
+    path: OscarGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 15.3203297
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .166666672
+        value: 15.3203297
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .400000006
+        value: 15.3203297
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .733333349
+        value: 15.3203297
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .800000012
+        value: 15.3203297
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.16666663
+        value: 15.3203297
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.56666672
+        value: 15.3203297
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.oscar_headBlendShape.head_l_frown
+    path: OscarGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .166666672
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .400000006
+        value: 41.2844048
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .800000012
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.16666663
+        value: 6.42201805
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.56666672
+        value: 6.42201805
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.oscar_headBlendShape.head_oo
+    path: OscarGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .166666672
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .400000006
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .733333349
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .800000012
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.16666663
+        value: 41.2844048
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.56666672
+        value: 21.1009178
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.oscar_headBlendShape.head_th
+    path: OscarGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 10.550458
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .166666672
+        value: 21.1009178
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .400000006
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .733333349
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .800000012
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.16666663
+        value: 26.605505
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.56666672
+        value: 26.605505
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.oscar_headBlendShape.head_ee
+    path: OscarGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 16.5137615
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .166666672
+        value: 33.027523
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .400000006
+        value: 18.3486233
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .733333349
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .800000012
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .866666675
+        value: 48.6238556
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.16666663
+        value: 18.3486233
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.56666672
+        value: 18.3486233
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.oscar_headBlendShape.head_sh
+    path: OscarGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .166666672
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .400000006
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .733333349
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .800000012
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.16666663
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.56666672
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.oscar_headBlendShape.head_ff
+    path: OscarGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .166666672
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .400000006
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .733333349
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .800000012
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.16666663
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.56666672
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.oscar_headBlendShape.head_mm
+    path: OscarGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .166666672
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .233333334
+        value: 11.9266052
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .400000006
+        value: 4.5960989
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .566666663
+        value: 18.3575668
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .733333349
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .800000012
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .866666675
+        value: 15.709197
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.16666663
+        value: 1.53203297
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.56666672
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.blendShape2.tongue_mouth_open
+    path: OscarGeo/tongue
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .733333349
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.blendShape2.tongue_th
+    path: OscarGeo/tongue
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .733333349
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.blendShape2.tongue_ee
+    path: OscarGeo/tongue
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .166666672
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .233333334
+        value: 11.9266052
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .400000006
+        value: 4.5960989
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .566666663
+        value: 18.3575668
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .733333349
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .800000012
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .866666675
+        value: 15.709197
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.16666663
+        value: 1.53203297
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.56666672
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.blendShape4.teeth_mouth_open
+    path: OscarGeo/teeth
+    classID: 137
+    script: {fileID: 0}
+  m_PPtrCurves: []
+  m_SampleRate: 1800
+  m_WrapMode: 0
+  m_Bounds:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  m_AnimationClipSettings:
+    serializedVersion: 2
+    m_StartTime: 0
+    m_StopTime: 2
+    m_OrientationOffsetY: 0
+    m_Level: 0
+    m_CycleOffset: 0
+    m_LoopTime: 0
+    m_LoopBlend: 0
+    m_LoopBlendOrientation: 0
+    m_LoopBlendPositionY: 0
+    m_LoopBlendPositionXZ: 0
+    m_KeepOriginalOrientation: 0
+    m_KeepOriginalPositionY: 1
+    m_KeepOriginalPositionXZ: 0
+    m_HeightFromFeet: 0
+    m_Mirror: 0
+  m_EditorCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .166666672
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .233333334
+        value: 11.9266052
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .400000006
+        value: 4.5960989
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .566666663
+        value: 18.3575668
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .733333349
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .800000012
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .866666675
+        value: 15.709197
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.16666663
+        value: 1.53203297
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.56666672
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.blendShape3.gums_mouth_open
+    path: OscarGeo/gums
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 14.8096514
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .166666672
+        value: 14.8096514
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .400000006
+        value: 14.8096514
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .733333349
+        value: 14.8096514
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .800000012
+        value: 14.8096514
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.16666663
+        value: 14.8096514
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.56666672
+        value: 14.8096514
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.oscar_headBlendShape.head_r_blink
+    path: OscarGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 14.8096514
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .166666672
+        value: 14.8096514
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .400000006
+        value: 14.8096514
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .733333349
+        value: 14.8096514
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .800000012
+        value: 14.8096514
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.16666663
+        value: 14.8096514
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.56666672
+        value: 14.8096514
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.oscar_headBlendShape.head_l_blink
+    path: OscarGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .166666672
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .400000006
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .633333325
+        value: 1.78737175
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .733333349
+        value: 35.4920959
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .800000012
+        value: 35.4920959
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.16666663
+        value: 35.4920959
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.56666672
+        value: 29.8746414
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.oscar_headBlendShape.head_r_brow_up
+    path: OscarGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .166666672
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .400000006
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .633333325
+        value: 1.78737175
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .733333349
+        value: 35.4920959
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .800000012
+        value: 35.4920959
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.16666663
+        value: 35.4920959
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.56666672
+        value: 29.8746414
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.oscar_headBlendShape.head_l_brow_up
+    path: OscarGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .166666672
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .400000006
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .733333349
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .800000012
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.16666663
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.56666672
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.oscar_headBlendShape.head_l_brow_dn
+    path: OscarGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .166666672
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .400000006
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .733333349
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .800000012
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.16666663
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.56666672
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.oscar_headBlendShape.head_r_brow_dn
+    path: OscarGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .166666672
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .233333334
+        value: 11.9266052
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .400000006
+        value: 4.5960989
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .566666663
+        value: 18.3575668
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .733333349
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .800000012
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .866666675
+        value: 15.709197
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.16666663
+        value: 1.53203297
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.56666672
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.oscar_headBlendShape.head_mouth_open
+    path: OscarGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 100
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .166666672
+        value: 100
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .400000006
+        value: 100
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .733333349
+        value: 100
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .800000012
+        value: 100
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.16666663
+        value: 100
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.56666672
+        value: 100
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.oscar_headBlendShape.head_mouth_closed
+    path: OscarGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .166666672
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .400000006
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .733333349
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .800000012
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.16666663
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.56666672
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.oscar_headBlendShape.head_r_smile
+    path: OscarGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .166666672
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .400000006
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .733333349
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .800000012
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.16666663
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.56666672
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.oscar_headBlendShape.head_l_smile
+    path: OscarGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 15.3203297
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .166666672
+        value: 15.3203297
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .400000006
+        value: 15.3203297
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .733333349
+        value: 15.3203297
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .800000012
+        value: 15.3203297
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.16666663
+        value: 15.3203297
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.56666672
+        value: 15.3203297
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.oscar_headBlendShape.head_r_frown
+    path: OscarGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 15.3203297
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .166666672
+        value: 15.3203297
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .400000006
+        value: 15.3203297
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .733333349
+        value: 15.3203297
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .800000012
+        value: 15.3203297
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.16666663
+        value: 15.3203297
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.56666672
+        value: 15.3203297
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.oscar_headBlendShape.head_l_frown
+    path: OscarGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .166666672
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .400000006
+        value: 41.2844048
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .800000012
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.16666663
+        value: 6.42201805
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.56666672
+        value: 6.42201805
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.oscar_headBlendShape.head_oo
+    path: OscarGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .166666672
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .400000006
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .733333349
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .800000012
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.16666663
+        value: 41.2844048
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.56666672
+        value: 21.1009178
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.oscar_headBlendShape.head_th
+    path: OscarGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 10.550458
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .166666672
+        value: 21.1009178
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .400000006
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .733333349
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .800000012
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.16666663
+        value: 26.605505
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.56666672
+        value: 26.605505
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.oscar_headBlendShape.head_ee
+    path: OscarGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 16.5137615
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .166666672
+        value: 33.027523
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .400000006
+        value: 18.3486233
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .733333349
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .800000012
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .866666675
+        value: 48.6238556
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.16666663
+        value: 18.3486233
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.56666672
+        value: 18.3486233
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.oscar_headBlendShape.head_sh
+    path: OscarGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .166666672
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .400000006
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .733333349
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .800000012
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.16666663
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.56666672
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.oscar_headBlendShape.head_ff
+    path: OscarGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .166666672
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .400000006
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .733333349
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .800000012
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.16666663
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.56666672
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.oscar_headBlendShape.head_mm
+    path: OscarGeo/head
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .166666672
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .233333334
+        value: 11.9266052
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .400000006
+        value: 4.5960989
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .566666663
+        value: 18.3575668
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .733333349
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .800000012
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .866666675
+        value: 15.709197
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.16666663
+        value: 1.53203297
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.56666672
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.blendShape2.tongue_mouth_open
+    path: OscarGeo/tongue
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .733333349
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.blendShape2.tongue_th
+    path: OscarGeo/tongue
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .733333349
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.blendShape2.tongue_ee
+    path: OscarGeo/tongue
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .166666672
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .233333334
+        value: 11.9266052
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .400000006
+        value: 4.5960989
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .566666663
+        value: 18.3575668
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .733333349
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .800000012
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: .866666675
+        value: 15.709197
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.16666663
+        value: 1.53203297
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      - time: 1.56666672
+        value: 0
+        inSlope: 50
+        outSlope: 50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.blendShape4.teeth_mouth_open
+    path: OscarGeo/teeth
+    classID: 137
+    script: {fileID: 0}
+  m_EulerEditorCurves: []
+  m_Events: []
