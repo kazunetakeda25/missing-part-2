@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Mod_OfficePartyitems_052112_05_barprops_Glass
+  m_Shader: {fileID: 4800000, guid: 706f35475039b2c48933851bf0486512, type: 1}
+  m_SavedProperties:
+    serializedVersion: 2
+    m_TexEnvs:
+      data:
+        first:
+          name: _MainTex
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _Cube
+        second:
+          m_Texture: {fileID: 8900000, guid: a2370a9a7acf8492b8c0048a9efa44db, type: 2}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+    m_Floats:
+      data:
+        first:
+          name: _Reflection
+        second: .74626863
+      data:
+        first:
+          name: _Shininess
+        second: 3.00000072
+      data:
+        first:
+          name: _Gloss
+        second: 1
+      data:
+        first:
+          name: _FrezPow
+        second: .895522356
+      data:
+        first:
+          name: _FrezFalloff
+        second: 8.62686539
+      data:
+        first:
+          name: _EdgeAlpha
+        second: 1
+      data:
+        first:
+          name: _Metalics
+        second: 1
+    m_Colors:
+      data:
+        first:
+          name: _Color
+        second: {r: .99999994, g: .99999994, b: .99999994, a: .0862745121}
+      data:
+        first:
+          name: _SpecColor
+        second: {r: .611940265, g: .611940265, b: .611940265, a: 1}

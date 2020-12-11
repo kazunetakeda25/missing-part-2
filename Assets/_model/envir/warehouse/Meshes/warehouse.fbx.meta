@@ -1,0 +1,2568 @@
+fileFormatVersion: 2
+guid: 44997f48fe20044bea0e74d2e75fc3cd
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: blue_holed_columns
+    100002: blue_holed_columns 1
+    100004: blue_holed_columns 2
+    100006: blue_holed_columns 3
+    100008: blue_metal_bars
+    100010: blue_metal_bars 1
+    100012: blue_metal_bars 2
+    100014: blue_metal_bars 3
+    100016: box
+    100018: box_A1
+    100020: box_A1 1
+    100022: box_A1 2
+    100024: box_A1 3
+    100026: box_A10
+    100028: box_A10 1
+    100030: box_A11
+    100032: box_A11 1
+    100034: box_A12
+    100036: box_A12 1
+    100038: box_A13
+    100040: box_A13 1
+    100042: box_A2
+    100044: box_A2 1
+    100046: box_A2 2
+    100048: box_A2 3
+    100050: box_A3
+    100052: box_A3 1
+    100054: box_A3 2
+    100056: box_A3 3
+    100058: box_A4
+    100060: box_A4 1
+    100062: box_A4 2
+    100064: box_A4 3
+    100066: box_A5
+    100068: box_A5 1
+    100070: box_A5 2
+    100072: box_A5 3
+    100074: box_A6
+    100076: box_A6 1
+    100078: box_A6 2
+    100080: box_A6 3
+    100082: box_A7
+    100084: box_A7 1
+    100086: box_A8
+    100088: box_A8 1
+    100090: box_A8 2
+    100092: box_A8 3
+    100094: box_A9
+    100096: box_A9 1
+    100098: box_A9 2
+    100100: box_A9 3
+    100102: box_A_group_low
+    100104: box_A_group_low1
+    100106: box_B
+    100108: box_B 1
+    100110: box_B 2
+    100112: box_B 3
+    100114: box_B 4
+    100116: box_B 5
+    100118: box_B1
+    100120: box_B1 1
+    100122: box_B1 2
+    100124: box_B1 3
+    100126: box_B1 4
+    100128: box_B1 5
+    100130: box_B10
+    100132: box_B10 1
+    100134: box_B10 2
+    100136: box_B2
+    100138: box_B2 1
+    100140: box_B2 2
+    100142: box_B2 3
+    100144: box_B2 4
+    100146: box_B2 5
+    100148: box_B21
+    100150: box_B21 1
+    100152: box_B21 2
+    100154: box_B21 3
+    100156: box_B21 4
+    100158: box_B21 5
+    100160: box_B22
+    100162: box_B22 1
+    100164: box_B22 2
+    100166: box_B22 3
+    100168: box_B22 4
+    100170: box_B22 5
+    100172: box_B23
+    100174: box_B23 1
+    100176: box_B23 2
+    100178: box_B24
+    100180: box_B24 1
+    100182: box_B24 2
+    100184: box_B27
+    100186: box_B27 1
+    100188: box_B28
+    100190: box_B28 1
+    100192: box_B29
+    100194: box_B29 1
+    100196: box_B3
+    100198: box_B3 1
+    100200: box_B3 2
+    100202: box_B3 3
+    100204: box_B3 4
+    100206: box_B3 5
+    100208: box_B30
+    100210: box_B30 1
+    100212: box_B31
+    100214: box_B31 1
+    100216: box_B32
+    100218: box_B32 1
+    100220: box_B33
+    100222: box_B33 1
+    100224: box_B34
+    100226: box_B34 1
+    100228: box_B35
+    100230: box_B35 1
+    100232: box_B36
+    100234: box_B36 1
+    100236: box_B37
+    100238: box_B37 1
+    100240: box_B38
+    100242: box_B38 1
+    100244: box_B39
+    100246: box_B39 1
+    100248: box_B4
+    100250: box_B4 1
+    100252: box_B4 2
+    100254: box_B4 3
+    100256: box_B4 4
+    100258: box_B4 5
+    100260: box_B40
+    100262: box_B40 1
+    100264: box_B41
+    100266: box_B41 1
+    100268: box_B42
+    100270: box_B42 1
+    100272: box_B43
+    100274: box_B43 1
+    100276: box_B44
+    100278: box_B44 1
+    100280: box_B45
+    100282: box_B45 1
+    100284: box_B46
+    100286: box_B46 1
+    100288: box_B47
+    100290: box_B47 1
+    100292: box_B48
+    100294: box_B48 1
+    100296: box_B49
+    100298: box_B49 1
+    100300: box_B5
+    100302: box_B5 1
+    100304: box_B5 2
+    100306: box_B5 3
+    100308: box_B5 4
+    100310: box_B5 5
+    100312: box_B6
+    100314: box_B6 1
+    100316: box_B6 2
+    100318: box_B6 3
+    100320: box_B6 4
+    100322: box_B6 5
+    100324: box_B7
+    100326: box_B7 1
+    100328: box_B7 2
+    100330: box_B7 3
+    100332: box_B7 4
+    100334: box_B7 5
+    100336: box_B8
+    100338: box_B8 1
+    100340: box_B8 2
+    100342: box_B8 3
+    100344: box_B8 4
+    100346: box_B8 5
+    100348: box_B9
+    100350: box_B9 1
+    100352: box_B9 2
+    100354: box_B_group1
+    100356: box_B_group1 1
+    100358: box_B_group2
+    100360: box_B_group2 1
+    100362: box_B_group3
+    100364: box_B_group4
+    100366: box_B_group_low
+    100368: box_B_group_low 1
+    100370: box_B_group_low1
+    100372: box_C_group1
+    100374: box_C_group1 1
+    100376: box_C_group2
+    100378: box_C_group2 1
+    100380: box_C_group3
+    100382: box_C_group4
+    100384: box_C_group5
+    100386: box_C_group6
+    100388: box_C_group_low
+    100390: box_C_group_low 1
+    100392: box_C_group_low1
+    100394: box_C_group_low2
+    100396: box_D
+    100398: box_D 1
+    100400: box_D1
+    100402: box_D1 1
+    100404: box_D10
+    100406: box_D10 1
+    100408: box_D11
+    100410: box_D11 1
+    100412: box_D17
+    100414: box_D17 1
+    100416: box_D19
+    100418: box_D19 1
+    100420: box_D20
+    100422: box_D20 1
+    100424: box_D21
+    100426: box_D21 1
+    100428: box_D22
+    100430: box_D22 1
+    100432: box_D23
+    100434: box_D23 1
+    100436: box_D24
+    100438: box_D24 1
+    100440: box_D25
+    100442: box_D25 1
+    100444: box_D26
+    100446: box_D26 1
+    100448: box_D27
+    100450: box_D27 1
+    100452: box_D28
+    100454: box_D28 1
+    100456: box_D29
+    100458: box_D29 1
+    100460: box_D4
+    100462: box_D4 1
+    100464: box_D7
+    100466: box_D7 1
+    100468: box_D8
+    100470: box_D8 1
+    100472: box_D9
+    100474: box_D9 1
+    100476: box_D_group1
+    100478: box_D_group2
+    100480: box_D_group3
+    100482: box_D_group4
+    100484: box_D_group_low
+    100486: box_D_group_low1
+    100488: box_E10
+    100490: box_E10 1
+    100492: box_E10 2
+    100494: box_E10 3
+    100496: box_E11
+    100498: box_E11 1
+    100500: box_E11 2
+    100502: box_E11 3
+    100504: box_E2
+    100506: box_E2 1
+    100508: box_E2 2
+    100510: box_E2 3
+    100512: box_E2 4
+    100514: box_E2 5
+    100516: box_E3
+    100518: box_E3 1
+    100520: box_E3 2
+    100522: box_E3 3
+    100524: box_E3 4
+    100526: box_E3 5
+    100528: box_E4
+    100530: box_E4 1
+    100532: box_E4 2
+    100534: box_E4 3
+    100536: box_E4 4
+    100538: box_E4 5
+    100540: box_E45
+    100542: box_E45 1
+    100544: box_E46
+    100546: box_E46 1
+    100548: box_E47
+    100550: box_E47 1
+    100552: box_E48
+    100554: box_E48 1
+    100556: box_E49
+    100558: box_E49 1
+    100560: box_E5
+    100562: box_E5 1
+    100564: box_E5 2
+    100566: box_E5 3
+    100568: box_E5 4
+    100570: box_E5 5
+    100572: box_E50
+    100574: box_E50 1
+    100576: box_E51
+    100578: box_E51 1
+    100580: box_E52
+    100582: box_E52 1
+    100584: box_E53
+    100586: box_E53 1
+    100588: box_E54
+    100590: box_E54 1
+    100592: box_E55
+    100594: box_E55 1
+    100596: box_E56
+    100598: box_E56 1
+    100600: box_E57
+    100602: box_E57 1
+    100604: box_E58
+    100606: box_E58 1
+    100608: box_E59
+    100610: box_E59 1
+    100612: box_E60
+    100614: box_E60 1
+    100616: box_E_group1
+    100618: box_E_group2
+    100620: box_E_group3
+    100622: box_E_group4
+    100624: box_E_group_low
+    100626: box_E_group_low1
+    100628: box_F1
+    100630: box_F1 1
+    100632: box_F1 2
+    100634: box_F1 3
+    100636: box_F10
+    100638: box_F10 1
+    100640: box_F11
+    100642: box_F11 1
+    100644: box_F12
+    100646: box_F12 1
+    100648: box_F2
+    100650: box_F2 1
+    100652: box_F2 2
+    100654: box_F2 3
+    100656: box_F3
+    100658: box_F3 1
+    100660: box_F4
+    100662: box_F4 1
+    100664: box_F4 2
+    100666: box_F4 3
+    100668: box_F5
+    100670: box_F5 1
+    100672: box_F5 2
+    100674: box_F5 3
+    100676: box_F6
+    100678: box_F6 1
+    100680: box_F6 2
+    100682: box_F6 3
+    100684: box_F7
+    100686: box_F7 1
+    100688: box_F7 2
+    100690: box_F7 3
+    100692: box_F8
+    100694: box_F8 1
+    100696: box_F8 2
+    100698: box_F8 3
+    100700: box_F9
+    100702: box_F9 1
+    100704: boxA_group1
+    100706: boxA_group2
+    100708: boxA_group3
+    100710: boxA_group4
+    100712: boxC
+    100714: boxC 1
+    100716: boxC 2
+    100718: boxC 3
+    100720: boxC 4
+    100722: boxC 5
+    100724: boxC 6
+    100726: boxC 7
+    100728: boxC1
+    100730: boxC1 1
+    100732: boxC1 2
+    100734: boxC1 3
+    100736: boxC1 4
+    100738: boxC1 5
+    100740: boxC1 6
+    100742: boxC1 7
+    100744: boxC10
+    100746: boxC10 1
+    100748: boxC10 2
+    100750: boxC10 3
+    100752: boxC2
+    100754: boxC2 1
+    100756: boxC2 2
+    100758: boxC2 3
+    100760: boxC2 4
+    100762: boxC2 5
+    100764: boxC2 6
+    100766: boxC2 7
+    100768: boxC3
+    100770: boxC3 1
+    100772: boxC3 2
+    100774: boxC3 3
+    100776: boxC3 4
+    100778: boxC3 5
+    100780: boxC3 6
+    100782: boxC3 7
+    100784: boxC4
+    100786: boxC4 1
+    100788: boxC4 2
+    100790: boxC4 3
+    100792: boxC4 4
+    100794: boxC4 5
+    100796: boxC4 6
+    100798: boxC4 7
+    100800: boxC5
+    100802: boxC5 1
+    100804: boxC5 2
+    100806: boxC5 3
+    100808: boxC5 4
+    100810: boxC5 5
+    100812: boxC5 6
+    100814: boxC5 7
+    100816: boxC6
+    100818: boxC6 1
+    100820: boxC6 2
+    100822: boxC6 3
+    100824: boxC6 4
+    100826: boxC6 5
+    100828: boxC6 6
+    100830: boxC6 7
+    100832: boxC7
+    100834: boxC7 1
+    100836: boxC7 2
+    100838: boxC7 3
+    100840: boxC8
+    100842: boxC8 1
+    100844: boxC8 2
+    100846: boxC8 3
+    100848: boxC9
+    100850: boxC9 1
+    100852: boxC9 2
+    100854: boxC9 3
+    100856: boxes_A
+    100858: Boxes_B
+    100860: Boxes_B2
+    100862: boxes_C
+    100864: boxes_C2
+    100866: boxes_D
+    100868: boxes_E
+    100870: boxes_F
+    100872: boxes_F_group1
+    100874: boxes_F_group2
+    100876: boxes_F_group3
+    100878: boxes_F_group4
+    100880: boxes_F_group_low
+    100882: boxes_F_group_low1
+    100884: ceiling
+    100886: columns_L
+    100888: columns_R
+    100890: dexion_fronts
+    100892: dexion_fronts 1
+    100894: dexion_fronts 2
+    100896: dexion_fronts 3
+    100898: dexion_stand1
+    100900: dexion_stand2
+    100902: dexion_stand3
+    100904: dexion_stand4
+    100906: door
+    100908: door_frame
+    100910: door_L
+    100912: door_R
+    100914: doorjamb
+    100916: elec_box0
+    100918: elec_box0 1
+    100920: elec_box1
+    100922: elec_box1 1
+    100924: elec_box2
+    100926: elec_box2 1
+    100928: Electricity_board
+    100930: electrics
+    100932: Electrics_L_wall
+    100934: Electrics_R_wall
+    100936: end_wall
+    100938: floor_wh
+    100940: handles
+    100942: master_wires
+    100944: masterWire_L2
+    100946: masterWire_R1
+    100948: palette_A
+    100950: palette_A1
+    100952: palette_A1 1
+    100954: palette_A1 2
+    100956: palette_A1 3
+    100958: palette_A2
+    100960: palette_A2 1
+    100962: palette_A2 2
+    100964: palette_B
+    100966: palette_B1
+    100968: palette_B1 1
+    100970: palette_B2
+    100972: palette_B2 1
+    100974: palette_C
+    100976: palette_C2
+    100978: palette_C2 1
+    100980: palette_D
+    100982: palette_D1
+    100984: palette_D1 1
+    100986: palettes
+    100988: platforms
+    100990: platforms 1
+    100992: platforms 2
+    100994: platforms 3
+    100996: reference
+    100998: roof
+    101000: roof_glasses
+    101002: roof_sceletons
+    101004: shelf_A1
+    101006: shelf_A2
+    101008: shelf_A3
+    101010: shelf_A4
+    101012: walls
+    101014: walls2
+    101016: //RootNode
+    101018: win_frames_borders_back
+    101020: win_frames_borders_front
+    101022: win_frames_borders_L
+    101024: win_frames_borders_R
+    101026: wins
+    101028: wins_back
+    101030: wins_back 1
+    101032: wins_front
+    101034: wins_front 1
+    101036: wins_L
+    101038: wins_L 1
+    101040: wins_R
+    101042: wins_R 1
+    101044: wire_clips_front
+    101046: wire_fat1
+    101048: wire_fat1 1
+    101050: L01
+    101052: L02
+    101054: L03
+    101056: L04
+    101058: L05
+    101060: L06
+    101062: L07
+    101064: L08
+    101066: L09
+    101068: L10
+    101070: L11
+    101072: L12
+    101074: L13
+    101076: L14
+    101078: L15
+    101080: lamp01
+    101082: lamp010
+    101084: lamp011
+    101086: lamp012
+    101088: lamp013
+    101090: lamp014
+    101092: lamp015
+    101094: lamp02
+    101096: lamp03
+    101098: lamp04
+    101100: lamp05
+    101102: lamp06
+    101104: lamp07
+    101106: lamp08
+    101108: lamp09
+    101110: lights
+    101112: lights_C
+    101114: lights_L
+    101116: lights_R
+    400000: blue_holed_columns
+    400002: blue_holed_columns 1
+    400004: blue_holed_columns 2
+    400006: blue_holed_columns 3
+    400008: blue_metal_bars
+    400010: blue_metal_bars 1
+    400012: blue_metal_bars 2
+    400014: blue_metal_bars 3
+    400016: box
+    400018: box_A1
+    400020: box_A1 1
+    400022: box_A1 2
+    400024: box_A1 3
+    400026: box_A10
+    400028: box_A10 1
+    400030: box_A11
+    400032: box_A11 1
+    400034: box_A12
+    400036: box_A12 1
+    400038: box_A13
+    400040: box_A13 1
+    400042: box_A2
+    400044: box_A2 1
+    400046: box_A2 2
+    400048: box_A2 3
+    400050: box_A3
+    400052: box_A3 1
+    400054: box_A3 2
+    400056: box_A3 3
+    400058: box_A4
+    400060: box_A4 1
+    400062: box_A4 2
+    400064: box_A4 3
+    400066: box_A5
+    400068: box_A5 1
+    400070: box_A5 2
+    400072: box_A5 3
+    400074: box_A6
+    400076: box_A6 1
+    400078: box_A6 2
+    400080: box_A6 3
+    400082: box_A7
+    400084: box_A7 1
+    400086: box_A8
+    400088: box_A8 1
+    400090: box_A8 2
+    400092: box_A8 3
+    400094: box_A9
+    400096: box_A9 1
+    400098: box_A9 2
+    400100: box_A9 3
+    400102: box_A_group_low
+    400104: box_A_group_low1
+    400106: box_B
+    400108: box_B 1
+    400110: box_B 2
+    400112: box_B 3
+    400114: box_B 4
+    400116: box_B 5
+    400118: box_B1
+    400120: box_B1 1
+    400122: box_B1 2
+    400124: box_B1 3
+    400126: box_B1 4
+    400128: box_B1 5
+    400130: box_B10
+    400132: box_B10 1
+    400134: box_B10 2
+    400136: box_B2
+    400138: box_B2 1
+    400140: box_B2 2
+    400142: box_B2 3
+    400144: box_B2 4
+    400146: box_B2 5
+    400148: box_B21
+    400150: box_B21 1
+    400152: box_B21 2
+    400154: box_B21 3
+    400156: box_B21 4
+    400158: box_B21 5
+    400160: box_B22
+    400162: box_B22 1
+    400164: box_B22 2
+    400166: box_B22 3
+    400168: box_B22 4
+    400170: box_B22 5
+    400172: box_B23
+    400174: box_B23 1
+    400176: box_B23 2
+    400178: box_B24
+    400180: box_B24 1
+    400182: box_B24 2
+    400184: box_B27
+    400186: box_B27 1
+    400188: box_B28
+    400190: box_B28 1
+    400192: box_B29
+    400194: box_B29 1
+    400196: box_B3
+    400198: box_B3 1
+    400200: box_B3 2
+    400202: box_B3 3
+    400204: box_B3 4
+    400206: box_B3 5
+    400208: box_B30
+    400210: box_B30 1
+    400212: box_B31
+    400214: box_B31 1
+    400216: box_B32
+    400218: box_B32 1
+    400220: box_B33
+    400222: box_B33 1
+    400224: box_B34
+    400226: box_B34 1
+    400228: box_B35
+    400230: box_B35 1
+    400232: box_B36
+    400234: box_B36 1
+    400236: box_B37
+    400238: box_B37 1
+    400240: box_B38
+    400242: box_B38 1
+    400244: box_B39
+    400246: box_B39 1
+    400248: box_B4
+    400250: box_B4 1
+    400252: box_B4 2
+    400254: box_B4 3
+    400256: box_B4 4
+    400258: box_B4 5
+    400260: box_B40
+    400262: box_B40 1
+    400264: box_B41
+    400266: box_B41 1
+    400268: box_B42
+    400270: box_B42 1
+    400272: box_B43
+    400274: box_B43 1
+    400276: box_B44
+    400278: box_B44 1
+    400280: box_B45
+    400282: box_B45 1
+    400284: box_B46
+    400286: box_B46 1
+    400288: box_B47
+    400290: box_B47 1
+    400292: box_B48
+    400294: box_B48 1
+    400296: box_B49
+    400298: box_B49 1
+    400300: box_B5
+    400302: box_B5 1
+    400304: box_B5 2
+    400306: box_B5 3
+    400308: box_B5 4
+    400310: box_B5 5
+    400312: box_B6
+    400314: box_B6 1
+    400316: box_B6 2
+    400318: box_B6 3
+    400320: box_B6 4
+    400322: box_B6 5
+    400324: box_B7
+    400326: box_B7 1
+    400328: box_B7 2
+    400330: box_B7 3
+    400332: box_B7 4
+    400334: box_B7 5
+    400336: box_B8
+    400338: box_B8 1
+    400340: box_B8 2
+    400342: box_B8 3
+    400344: box_B8 4
+    400346: box_B8 5
+    400348: box_B9
+    400350: box_B9 1
+    400352: box_B9 2
+    400354: box_B_group1
+    400356: box_B_group1 1
+    400358: box_B_group2
+    400360: box_B_group2 1
+    400362: box_B_group3
+    400364: box_B_group4
+    400366: box_B_group_low
+    400368: box_B_group_low 1
+    400370: box_B_group_low1
+    400372: box_C_group1
+    400374: box_C_group1 1
+    400376: box_C_group2
+    400378: box_C_group2 1
+    400380: box_C_group3
+    400382: box_C_group4
+    400384: box_C_group5
+    400386: box_C_group6
+    400388: box_C_group_low
+    400390: box_C_group_low 1
+    400392: box_C_group_low1
+    400394: box_C_group_low2
+    400396: box_D
+    400398: box_D 1
+    400400: box_D1
+    400402: box_D1 1
+    400404: box_D10
+    400406: box_D10 1
+    400408: box_D11
+    400410: box_D11 1
+    400412: box_D17
+    400414: box_D17 1
+    400416: box_D19
+    400418: box_D19 1
+    400420: box_D20
+    400422: box_D20 1
+    400424: box_D21
+    400426: box_D21 1
+    400428: box_D22
+    400430: box_D22 1
+    400432: box_D23
+    400434: box_D23 1
+    400436: box_D24
+    400438: box_D24 1
+    400440: box_D25
+    400442: box_D25 1
+    400444: box_D26
+    400446: box_D26 1
+    400448: box_D27
+    400450: box_D27 1
+    400452: box_D28
+    400454: box_D28 1
+    400456: box_D29
+    400458: box_D29 1
+    400460: box_D4
+    400462: box_D4 1
+    400464: box_D7
+    400466: box_D7 1
+    400468: box_D8
+    400470: box_D8 1
+    400472: box_D9
+    400474: box_D9 1
+    400476: box_D_group1
+    400478: box_D_group2
+    400480: box_D_group3
+    400482: box_D_group4
+    400484: box_D_group_low
+    400486: box_D_group_low1
+    400488: box_E10
+    400490: box_E10 1
+    400492: box_E10 2
+    400494: box_E10 3
+    400496: box_E11
+    400498: box_E11 1
+    400500: box_E11 2
+    400502: box_E11 3
+    400504: box_E2
+    400506: box_E2 1
+    400508: box_E2 2
+    400510: box_E2 3
+    400512: box_E2 4
+    400514: box_E2 5
+    400516: box_E3
+    400518: box_E3 1
+    400520: box_E3 2
+    400522: box_E3 3
+    400524: box_E3 4
+    400526: box_E3 5
+    400528: box_E4
+    400530: box_E4 1
+    400532: box_E4 2
+    400534: box_E4 3
+    400536: box_E4 4
+    400538: box_E4 5
+    400540: box_E45
+    400542: box_E45 1
+    400544: box_E46
+    400546: box_E46 1
+    400548: box_E47
+    400550: box_E47 1
+    400552: box_E48
+    400554: box_E48 1
+    400556: box_E49
+    400558: box_E49 1
+    400560: box_E5
+    400562: box_E5 1
+    400564: box_E5 2
+    400566: box_E5 3
+    400568: box_E5 4
+    400570: box_E5 5
+    400572: box_E50
+    400574: box_E50 1
+    400576: box_E51
+    400578: box_E51 1
+    400580: box_E52
+    400582: box_E52 1
+    400584: box_E53
+    400586: box_E53 1
+    400588: box_E54
+    400590: box_E54 1
+    400592: box_E55
+    400594: box_E55 1
+    400596: box_E56
+    400598: box_E56 1
+    400600: box_E57
+    400602: box_E57 1
+    400604: box_E58
+    400606: box_E58 1
+    400608: box_E59
+    400610: box_E59 1
+    400612: box_E60
+    400614: box_E60 1
+    400616: box_E_group1
+    400618: box_E_group2
+    400620: box_E_group3
+    400622: box_E_group4
+    400624: box_E_group_low
+    400626: box_E_group_low1
+    400628: box_F1
+    400630: box_F1 1
+    400632: box_F1 2
+    400634: box_F1 3
+    400636: box_F10
+    400638: box_F10 1
+    400640: box_F11
+    400642: box_F11 1
+    400644: box_F12
+    400646: box_F12 1
+    400648: box_F2
+    400650: box_F2 1
+    400652: box_F2 2
+    400654: box_F2 3
+    400656: box_F3
+    400658: box_F3 1
+    400660: box_F4
+    400662: box_F4 1
+    400664: box_F4 2
+    400666: box_F4 3
+    400668: box_F5
+    400670: box_F5 1
+    400672: box_F5 2
+    400674: box_F5 3
+    400676: box_F6
+    400678: box_F6 1
+    400680: box_F6 2
+    400682: box_F6 3
+    400684: box_F7
+    400686: box_F7 1
+    400688: box_F7 2
+    400690: box_F7 3
+    400692: box_F8
+    400694: box_F8 1
+    400696: box_F8 2
+    400698: box_F8 3
+    400700: box_F9
+    400702: box_F9 1
+    400704: boxA_group1
+    400706: boxA_group2
+    400708: boxA_group3
+    400710: boxA_group4
+    400712: boxC
+    400714: boxC 1
+    400716: boxC 2
+    400718: boxC 3
+    400720: boxC 4
+    400722: boxC 5
+    400724: boxC 6
+    400726: boxC 7
+    400728: boxC1
+    400730: boxC1 1
+    400732: boxC1 2
+    400734: boxC1 3
+    400736: boxC1 4
+    400738: boxC1 5
+    400740: boxC1 6
+    400742: boxC1 7
+    400744: boxC10
+    400746: boxC10 1
+    400748: boxC10 2
+    400750: boxC10 3
+    400752: boxC2
+    400754: boxC2 1
+    400756: boxC2 2
+    400758: boxC2 3
+    400760: boxC2 4
+    400762: boxC2 5
+    400764: boxC2 6
+    400766: boxC2 7
+    400768: boxC3
+    400770: boxC3 1
+    400772: boxC3 2
+    400774: boxC3 3
+    400776: boxC3 4
+    400778: boxC3 5
+    400780: boxC3 6
+    400782: boxC3 7
+    400784: boxC4
+    400786: boxC4 1
+    400788: boxC4 2
+    400790: boxC4 3
+    400792: boxC4 4
+    400794: boxC4 5
+    400796: boxC4 6
+    400798: boxC4 7
+    400800: boxC5
+    400802: boxC5 1
+    400804: boxC5 2
+    400806: boxC5 3
+    400808: boxC5 4
+    400810: boxC5 5
+    400812: boxC5 6
+    400814: boxC5 7
+    400816: boxC6
+    400818: boxC6 1
+    400820: boxC6 2
+    400822: boxC6 3
+    400824: boxC6 4
+    400826: boxC6 5
+    400828: boxC6 6
+    400830: boxC6 7
+    400832: boxC7
+    400834: boxC7 1
+    400836: boxC7 2
+    400838: boxC7 3
+    400840: boxC8
+    400842: boxC8 1
+    400844: boxC8 2
+    400846: boxC8 3
+    400848: boxC9
+    400850: boxC9 1
+    400852: boxC9 2
+    400854: boxC9 3
+    400856: boxes_A
+    400858: Boxes_B
+    400860: Boxes_B2
+    400862: boxes_C
+    400864: boxes_C2
+    400866: boxes_D
+    400868: boxes_E
+    400870: boxes_F
+    400872: boxes_F_group1
+    400874: boxes_F_group2
+    400876: boxes_F_group3
+    400878: boxes_F_group4
+    400880: boxes_F_group_low
+    400882: boxes_F_group_low1
+    400884: ceiling
+    400886: columns_L
+    400888: columns_R
+    400890: dexion_fronts
+    400892: dexion_fronts 1
+    400894: dexion_fronts 2
+    400896: dexion_fronts 3
+    400898: dexion_stand1
+    400900: dexion_stand2
+    400902: dexion_stand3
+    400904: dexion_stand4
+    400906: door
+    400908: door_frame
+    400910: door_L
+    400912: door_R
+    400914: doorjamb
+    400916: elec_box0
+    400918: elec_box0 1
+    400920: elec_box1
+    400922: elec_box1 1
+    400924: elec_box2
+    400926: elec_box2 1
+    400928: Electricity_board
+    400930: electrics
+    400932: Electrics_L_wall
+    400934: Electrics_R_wall
+    400936: end_wall
+    400938: floor_wh
+    400940: handles
+    400942: master_wires
+    400944: masterWire_L2
+    400946: masterWire_R1
+    400948: palette_A
+    400950: palette_A1
+    400952: palette_A1 1
+    400954: palette_A1 2
+    400956: palette_A1 3
+    400958: palette_A2
+    400960: palette_A2 1
+    400962: palette_A2 2
+    400964: palette_B
+    400966: palette_B1
+    400968: palette_B1 1
+    400970: palette_B2
+    400972: palette_B2 1
+    400974: palette_C
+    400976: palette_C2
+    400978: palette_C2 1
+    400980: palette_D
+    400982: palette_D1
+    400984: palette_D1 1
+    400986: palettes
+    400988: platforms
+    400990: platforms 1
+    400992: platforms 2
+    400994: platforms 3
+    400996: reference
+    400998: roof
+    401000: roof_glasses
+    401002: roof_sceletons
+    401004: shelf_A1
+    401006: shelf_A2
+    401008: shelf_A3
+    401010: shelf_A4
+    401012: walls
+    401014: walls2
+    401016: //RootNode
+    401018: win_frames_borders_back
+    401020: win_frames_borders_front
+    401022: win_frames_borders_L
+    401024: win_frames_borders_R
+    401026: wins
+    401028: wins_back
+    401030: wins_back 1
+    401032: wins_front
+    401034: wins_front 1
+    401036: wins_L
+    401038: wins_L 1
+    401040: wins_R
+    401042: wins_R 1
+    401044: wire_clips_front
+    401046: wire_fat1
+    401048: wire_fat1 1
+    401050: L01
+    401052: L02
+    401054: L03
+    401056: L04
+    401058: L05
+    401060: L06
+    401062: L07
+    401064: L08
+    401066: L09
+    401068: L10
+    401070: L11
+    401072: L12
+    401074: L13
+    401076: L14
+    401078: L15
+    401080: lamp01
+    401082: lamp010
+    401084: lamp011
+    401086: lamp012
+    401088: lamp013
+    401090: lamp014
+    401092: lamp015
+    401094: lamp02
+    401096: lamp03
+    401098: lamp04
+    401100: lamp05
+    401102: lamp06
+    401104: lamp07
+    401106: lamp08
+    401108: lamp09
+    401110: lights
+    401112: lights_C
+    401114: lights_L
+    401116: lights_R
+    2300000: blue_holed_columns
+    2300002: blue_holed_columns 1
+    2300004: blue_holed_columns 2
+    2300006: blue_holed_columns 3
+    2300008: blue_metal_bars
+    2300010: blue_metal_bars 1
+    2300012: blue_metal_bars 2
+    2300014: blue_metal_bars 3
+    2300016: box
+    2300018: box_A1
+    2300020: box_A1 1
+    2300022: box_A1 2
+    2300024: box_A1 3
+    2300026: box_A10
+    2300028: box_A10 1
+    2300030: box_A11
+    2300032: box_A11 1
+    2300034: box_A12
+    2300036: box_A12 1
+    2300038: box_A13
+    2300040: box_A13 1
+    2300042: box_A2
+    2300044: box_A2 1
+    2300046: box_A2 2
+    2300048: box_A2 3
+    2300050: box_A3
+    2300052: box_A3 1
+    2300054: box_A3 2
+    2300056: box_A3 3
+    2300058: box_A4
+    2300060: box_A4 1
+    2300062: box_A4 2
+    2300064: box_A4 3
+    2300066: box_A5
+    2300068: box_A5 1
+    2300070: box_A5 2
+    2300072: box_A5 3
+    2300074: box_A6
+    2300076: box_A6 1
+    2300078: box_A6 2
+    2300080: box_A6 3
+    2300082: box_A7
+    2300084: box_A7 1
+    2300086: box_A8
+    2300088: box_A8 1
+    2300090: box_A8 2
+    2300092: box_A8 3
+    2300094: box_A9
+    2300096: box_A9 1
+    2300098: box_A9 2
+    2300100: box_A9 3
+    2300102: box_B
+    2300104: box_B 1
+    2300106: box_B 2
+    2300108: box_B 3
+    2300110: box_B 4
+    2300112: box_B 5
+    2300114: box_B1
+    2300116: box_B1 1
+    2300118: box_B1 2
+    2300120: box_B1 3
+    2300122: box_B1 4
+    2300124: box_B1 5
+    2300126: box_B10
+    2300128: box_B10 1
+    2300130: box_B10 2
+    2300132: box_B2
+    2300134: box_B2 1
+    2300136: box_B2 2
+    2300138: box_B2 3
+    2300140: box_B2 4
+    2300142: box_B2 5
+    2300144: box_B21
+    2300146: box_B21 1
+    2300148: box_B21 2
+    2300150: box_B21 3
+    2300152: box_B21 4
+    2300154: box_B21 5
+    2300156: box_B22
+    2300158: box_B22 1
+    2300160: box_B22 2
+    2300162: box_B22 3
+    2300164: box_B22 4
+    2300166: box_B22 5
+    2300168: box_B23
+    2300170: box_B23 1
+    2300172: box_B23 2
+    2300174: box_B24
+    2300176: box_B24 1
+    2300178: box_B24 2
+    2300180: box_B27
+    2300182: box_B27 1
+    2300184: box_B28
+    2300186: box_B28 1
+    2300188: box_B29
+    2300190: box_B29 1
+    2300192: box_B3
+    2300194: box_B3 1
+    2300196: box_B3 2
+    2300198: box_B3 3
+    2300200: box_B3 4
+    2300202: box_B3 5
+    2300204: box_B30
+    2300206: box_B30 1
+    2300208: box_B31
+    2300210: box_B31 1
+    2300212: box_B32
+    2300214: box_B32 1
+    2300216: box_B33
+    2300218: box_B33 1
+    2300220: box_B34
+    2300222: box_B34 1
+    2300224: box_B35
+    2300226: box_B35 1
+    2300228: box_B36
+    2300230: box_B36 1
+    2300232: box_B37
+    2300234: box_B37 1
+    2300236: box_B38
+    2300238: box_B38 1
+    2300240: box_B39
+    2300242: box_B39 1
+    2300244: box_B4
+    2300246: box_B4 1
+    2300248: box_B4 2
+    2300250: box_B4 3
+    2300252: box_B4 4
+    2300254: box_B4 5
+    2300256: box_B40
+    2300258: box_B40 1
+    2300260: box_B41
+    2300262: box_B41 1
+    2300264: box_B42
+    2300266: box_B42 1
+    2300268: box_B43
+    2300270: box_B43 1
+    2300272: box_B44
+    2300274: box_B44 1
+    2300276: box_B45
+    2300278: box_B45 1
+    2300280: box_B46
+    2300282: box_B46 1
+    2300284: box_B47
+    2300286: box_B47 1
+    2300288: box_B48
+    2300290: box_B48 1
+    2300292: box_B49
+    2300294: box_B49 1
+    2300296: box_B5
+    2300298: box_B5 1
+    2300300: box_B5 2
+    2300302: box_B5 3
+    2300304: box_B5 4
+    2300306: box_B5 5
+    2300308: box_B6
+    2300310: box_B6 1
+    2300312: box_B6 2
+    2300314: box_B6 3
+    2300316: box_B6 4
+    2300318: box_B6 5
+    2300320: box_B7
+    2300322: box_B7 1
+    2300324: box_B7 2
+    2300326: box_B7 3
+    2300328: box_B7 4
+    2300330: box_B7 5
+    2300332: box_B8
+    2300334: box_B8 1
+    2300336: box_B8 2
+    2300338: box_B8 3
+    2300340: box_B8 4
+    2300342: box_B8 5
+    2300344: box_B9
+    2300346: box_B9 1
+    2300348: box_B9 2
+    2300350: box_D
+    2300352: box_D 1
+    2300354: box_D1
+    2300356: box_D1 1
+    2300358: box_D10
+    2300360: box_D10 1
+    2300362: box_D11
+    2300364: box_D11 1
+    2300366: box_D17
+    2300368: box_D17 1
+    2300370: box_D19
+    2300372: box_D19 1
+    2300374: box_D20
+    2300376: box_D20 1
+    2300378: box_D21
+    2300380: box_D21 1
+    2300382: box_D22
+    2300384: box_D22 1
+    2300386: box_D23
+    2300388: box_D23 1
+    2300390: box_D24
+    2300392: box_D24 1
+    2300394: box_D25
+    2300396: box_D25 1
+    2300398: box_D26
+    2300400: box_D26 1
+    2300402: box_D27
+    2300404: box_D27 1
+    2300406: box_D28
+    2300408: box_D28 1
+    2300410: box_D29
+    2300412: box_D29 1
+    2300414: box_D4
+    2300416: box_D4 1
+    2300418: box_D7
+    2300420: box_D7 1
+    2300422: box_D8
+    2300424: box_D8 1
+    2300426: box_D9
+    2300428: box_D9 1
+    2300430: box_E10
+    2300432: box_E10 1
+    2300434: box_E10 2
+    2300436: box_E10 3
+    2300438: box_E11
+    2300440: box_E11 1
+    2300442: box_E11 2
+    2300444: box_E11 3
+    2300446: box_E2
+    2300448: box_E2 1
+    2300450: box_E2 2
+    2300452: box_E2 3
+    2300454: box_E2 4
+    2300456: box_E2 5
+    2300458: box_E3
+    2300460: box_E3 1
+    2300462: box_E3 2
+    2300464: box_E3 3
+    2300466: box_E3 4
+    2300468: box_E3 5
+    2300470: box_E4
+    2300472: box_E4 1
+    2300474: box_E4 2
+    2300476: box_E4 3
+    2300478: box_E4 4
+    2300480: box_E4 5
+    2300482: box_E45
+    2300484: box_E45 1
+    2300486: box_E46
+    2300488: box_E46 1
+    2300490: box_E47
+    2300492: box_E47 1
+    2300494: box_E48
+    2300496: box_E48 1
+    2300498: box_E49
+    2300500: box_E49 1
+    2300502: box_E5
+    2300504: box_E5 1
+    2300506: box_E5 2
+    2300508: box_E5 3
+    2300510: box_E5 4
+    2300512: box_E5 5
+    2300514: box_E50
+    2300516: box_E50 1
+    2300518: box_E51
+    2300520: box_E51 1
+    2300522: box_E52
+    2300524: box_E52 1
+    2300526: box_E53
+    2300528: box_E53 1
+    2300530: box_E54
+    2300532: box_E54 1
+    2300534: box_E55
+    2300536: box_E55 1
+    2300538: box_E56
+    2300540: box_E56 1
+    2300542: box_E57
+    2300544: box_E57 1
+    2300546: box_E58
+    2300548: box_E58 1
+    2300550: box_E59
+    2300552: box_E59 1
+    2300554: box_E60
+    2300556: box_E60 1
+    2300558: box_F1
+    2300560: box_F1 1
+    2300562: box_F1 2
+    2300564: box_F1 3
+    2300566: box_F10
+    2300568: box_F10 1
+    2300570: box_F11
+    2300572: box_F11 1
+    2300574: box_F12
+    2300576: box_F12 1
+    2300578: box_F2
+    2300580: box_F2 1
+    2300582: box_F2 2
+    2300584: box_F2 3
+    2300586: box_F3
+    2300588: box_F3 1
+    2300590: box_F4
+    2300592: box_F4 1
+    2300594: box_F4 2
+    2300596: box_F4 3
+    2300598: box_F5
+    2300600: box_F5 1
+    2300602: box_F5 2
+    2300604: box_F5 3
+    2300606: box_F6
+    2300608: box_F6 1
+    2300610: box_F6 2
+    2300612: box_F6 3
+    2300614: box_F7
+    2300616: box_F7 1
+    2300618: box_F7 2
+    2300620: box_F7 3
+    2300622: box_F8
+    2300624: box_F8 1
+    2300626: box_F8 2
+    2300628: box_F8 3
+    2300630: box_F9
+    2300632: box_F9 1
+    2300634: boxC
+    2300636: boxC 1
+    2300638: boxC 2
+    2300640: boxC 3
+    2300642: boxC 4
+    2300644: boxC 5
+    2300646: boxC 6
+    2300648: boxC 7
+    2300650: boxC1
+    2300652: boxC1 1
+    2300654: boxC1 2
+    2300656: boxC1 3
+    2300658: boxC1 4
+    2300660: boxC1 5
+    2300662: boxC1 6
+    2300664: boxC1 7
+    2300666: boxC10
+    2300668: boxC10 1
+    2300670: boxC10 2
+    2300672: boxC10 3
+    2300674: boxC2
+    2300676: boxC2 1
+    2300678: boxC2 2
+    2300680: boxC2 3
+    2300682: boxC2 4
+    2300684: boxC2 5
+    2300686: boxC2 6
+    2300688: boxC2 7
+    2300690: boxC3
+    2300692: boxC3 1
+    2300694: boxC3 2
+    2300696: boxC3 3
+    2300698: boxC3 4
+    2300700: boxC3 5
+    2300702: boxC3 6
+    2300704: boxC3 7
+    2300706: boxC4
+    2300708: boxC4 1
+    2300710: boxC4 2
+    2300712: boxC4 3
+    2300714: boxC4 4
+    2300716: boxC4 5
+    2300718: boxC4 6
+    2300720: boxC4 7
+    2300722: boxC5
+    2300724: boxC5 1
+    2300726: boxC5 2
+    2300728: boxC5 3
+    2300730: boxC5 4
+    2300732: boxC5 5
+    2300734: boxC5 6
+    2300736: boxC5 7
+    2300738: boxC6
+    2300740: boxC6 1
+    2300742: boxC6 2
+    2300744: boxC6 3
+    2300746: boxC6 4
+    2300748: boxC6 5
+    2300750: boxC6 6
+    2300752: boxC6 7
+    2300754: boxC7
+    2300756: boxC7 1
+    2300758: boxC7 2
+    2300760: boxC7 3
+    2300762: boxC8
+    2300764: boxC8 1
+    2300766: boxC8 2
+    2300768: boxC8 3
+    2300770: boxC9
+    2300772: boxC9 1
+    2300774: boxC9 2
+    2300776: boxC9 3
+    2300778: ceiling
+    2300780: columns_L
+    2300782: columns_R
+    2300784: dexion_fronts
+    2300786: dexion_fronts 1
+    2300788: dexion_fronts 2
+    2300790: dexion_fronts 3
+    2300792: door
+    2300794: door_frame
+    2300796: door_L
+    2300798: door_R
+    2300800: doorjamb
+    2300802: elec_box0
+    2300804: elec_box0 1
+    2300806: elec_box1
+    2300808: elec_box1 1
+    2300810: elec_box2
+    2300812: elec_box2 1
+    2300814: end_wall
+    2300816: floor_wh
+    2300818: handles
+    2300820: masterWire_L2
+    2300822: masterWire_R1
+    2300824: palette_A
+    2300826: palette_A1
+    2300828: palette_A1 1
+    2300830: palette_A1 2
+    2300832: palette_A1 3
+    2300834: palette_A2
+    2300836: palette_A2 1
+    2300838: palette_A2 2
+    2300840: palette_B
+    2300842: palette_B1
+    2300844: palette_B1 1
+    2300846: palette_B2
+    2300848: palette_B2 1
+    2300850: palette_C
+    2300852: palette_C2
+    2300854: palette_C2 1
+    2300856: palette_D
+    2300858: palette_D1
+    2300860: palette_D1 1
+    2300862: platforms
+    2300864: platforms 1
+    2300866: platforms 2
+    2300868: platforms 3
+    2300870: roof_glasses
+    2300872: roof_sceletons
+    2300874: walls
+    2300876: win_frames_borders_back
+    2300878: win_frames_borders_front
+    2300880: win_frames_borders_L
+    2300882: win_frames_borders_R
+    2300884: wins_back 1
+    2300886: wins_front 1
+    2300888: wins_L 1
+    2300890: wins_R 1
+    2300892: wire_clips_front
+    2300894: wire_fat1
+    2300896: wire_fat1 1
+    2300898: lamp01
+    2300900: lamp010
+    2300902: lamp011
+    2300904: lamp012
+    2300906: lamp013
+    2300908: lamp014
+    2300910: lamp015
+    2300912: lamp02
+    2300914: lamp03
+    2300916: lamp04
+    2300918: lamp05
+    2300920: lamp06
+    2300922: lamp07
+    2300924: lamp08
+    2300926: lamp09
+    3300000: blue_holed_columns
+    3300002: blue_holed_columns 1
+    3300004: blue_holed_columns 2
+    3300006: blue_holed_columns 3
+    3300008: blue_metal_bars
+    3300010: blue_metal_bars 1
+    3300012: blue_metal_bars 2
+    3300014: blue_metal_bars 3
+    3300016: box
+    3300018: box_A1
+    3300020: box_A1 1
+    3300022: box_A1 2
+    3300024: box_A1 3
+    3300026: box_A10
+    3300028: box_A10 1
+    3300030: box_A11
+    3300032: box_A11 1
+    3300034: box_A12
+    3300036: box_A12 1
+    3300038: box_A13
+    3300040: box_A13 1
+    3300042: box_A2
+    3300044: box_A2 1
+    3300046: box_A2 2
+    3300048: box_A2 3
+    3300050: box_A3
+    3300052: box_A3 1
+    3300054: box_A3 2
+    3300056: box_A3 3
+    3300058: box_A4
+    3300060: box_A4 1
+    3300062: box_A4 2
+    3300064: box_A4 3
+    3300066: box_A5
+    3300068: box_A5 1
+    3300070: box_A5 2
+    3300072: box_A5 3
+    3300074: box_A6
+    3300076: box_A6 1
+    3300078: box_A6 2
+    3300080: box_A6 3
+    3300082: box_A7
+    3300084: box_A7 1
+    3300086: box_A8
+    3300088: box_A8 1
+    3300090: box_A8 2
+    3300092: box_A8 3
+    3300094: box_A9
+    3300096: box_A9 1
+    3300098: box_A9 2
+    3300100: box_A9 3
+    3300102: box_B
+    3300104: box_B 1
+    3300106: box_B 2
+    3300108: box_B 3
+    3300110: box_B 4
+    3300112: box_B 5
+    3300114: box_B1
+    3300116: box_B1 1
+    3300118: box_B1 2
+    3300120: box_B1 3
+    3300122: box_B1 4
+    3300124: box_B1 5
+    3300126: box_B10
+    3300128: box_B10 1
+    3300130: box_B10 2
+    3300132: box_B2
+    3300134: box_B2 1
+    3300136: box_B2 2
+    3300138: box_B2 3
+    3300140: box_B2 4
+    3300142: box_B2 5
+    3300144: box_B21
+    3300146: box_B21 1
+    3300148: box_B21 2
+    3300150: box_B21 3
+    3300152: box_B21 4
+    3300154: box_B21 5
+    3300156: box_B22
+    3300158: box_B22 1
+    3300160: box_B22 2
+    3300162: box_B22 3
+    3300164: box_B22 4
+    3300166: box_B22 5
+    3300168: box_B23
+    3300170: box_B23 1
+    3300172: box_B23 2
+    3300174: box_B24
+    3300176: box_B24 1
+    3300178: box_B24 2
+    3300180: box_B27
+    3300182: box_B27 1
+    3300184: box_B28
+    3300186: box_B28 1
+    3300188: box_B29
+    3300190: box_B29 1
+    3300192: box_B3
+    3300194: box_B3 1
+    3300196: box_B3 2
+    3300198: box_B3 3
+    3300200: box_B3 4
+    3300202: box_B3 5
+    3300204: box_B30
+    3300206: box_B30 1
+    3300208: box_B31
+    3300210: box_B31 1
+    3300212: box_B32
+    3300214: box_B32 1
+    3300216: box_B33
+    3300218: box_B33 1
+    3300220: box_B34
+    3300222: box_B34 1
+    3300224: box_B35
+    3300226: box_B35 1
+    3300228: box_B36
+    3300230: box_B36 1
+    3300232: box_B37
+    3300234: box_B37 1
+    3300236: box_B38
+    3300238: box_B38 1
+    3300240: box_B39
+    3300242: box_B39 1
+    3300244: box_B4
+    3300246: box_B4 1
+    3300248: box_B4 2
+    3300250: box_B4 3
+    3300252: box_B4 4
+    3300254: box_B4 5
+    3300256: box_B40
+    3300258: box_B40 1
+    3300260: box_B41
+    3300262: box_B41 1
+    3300264: box_B42
+    3300266: box_B42 1
+    3300268: box_B43
+    3300270: box_B43 1
+    3300272: box_B44
+    3300274: box_B44 1
+    3300276: box_B45
+    3300278: box_B45 1
+    3300280: box_B46
+    3300282: box_B46 1
+    3300284: box_B47
+    3300286: box_B47 1
+    3300288: box_B48
+    3300290: box_B48 1
+    3300292: box_B49
+    3300294: box_B49 1
+    3300296: box_B5
+    3300298: box_B5 1
+    3300300: box_B5 2
+    3300302: box_B5 3
+    3300304: box_B5 4
+    3300306: box_B5 5
+    3300308: box_B6
+    3300310: box_B6 1
+    3300312: box_B6 2
+    3300314: box_B6 3
+    3300316: box_B6 4
+    3300318: box_B6 5
+    3300320: box_B7
+    3300322: box_B7 1
+    3300324: box_B7 2
+    3300326: box_B7 3
+    3300328: box_B7 4
+    3300330: box_B7 5
+    3300332: box_B8
+    3300334: box_B8 1
+    3300336: box_B8 2
+    3300338: box_B8 3
+    3300340: box_B8 4
+    3300342: box_B8 5
+    3300344: box_B9
+    3300346: box_B9 1
+    3300348: box_B9 2
+    3300350: box_D
+    3300352: box_D 1
+    3300354: box_D1
+    3300356: box_D1 1
+    3300358: box_D10
+    3300360: box_D10 1
+    3300362: box_D11
+    3300364: box_D11 1
+    3300366: box_D17
+    3300368: box_D17 1
+    3300370: box_D19
+    3300372: box_D19 1
+    3300374: box_D20
+    3300376: box_D20 1
+    3300378: box_D21
+    3300380: box_D21 1
+    3300382: box_D22
+    3300384: box_D22 1
+    3300386: box_D23
+    3300388: box_D23 1
+    3300390: box_D24
+    3300392: box_D24 1
+    3300394: box_D25
+    3300396: box_D25 1
+    3300398: box_D26
+    3300400: box_D26 1
+    3300402: box_D27
+    3300404: box_D27 1
+    3300406: box_D28
+    3300408: box_D28 1
+    3300410: box_D29
+    3300412: box_D29 1
+    3300414: box_D4
+    3300416: box_D4 1
+    3300418: box_D7
+    3300420: box_D7 1
+    3300422: box_D8
+    3300424: box_D8 1
+    3300426: box_D9
+    3300428: box_D9 1
+    3300430: box_E10
+    3300432: box_E10 1
+    3300434: box_E10 2
+    3300436: box_E10 3
+    3300438: box_E11
+    3300440: box_E11 1
+    3300442: box_E11 2
+    3300444: box_E11 3
+    3300446: box_E2
+    3300448: box_E2 1
+    3300450: box_E2 2
+    3300452: box_E2 3
+    3300454: box_E2 4
+    3300456: box_E2 5
+    3300458: box_E3
+    3300460: box_E3 1
+    3300462: box_E3 2
+    3300464: box_E3 3
+    3300466: box_E3 4
+    3300468: box_E3 5
+    3300470: box_E4
+    3300472: box_E4 1
+    3300474: box_E4 2
+    3300476: box_E4 3
+    3300478: box_E4 4
+    3300480: box_E4 5
+    3300482: box_E45
+    3300484: box_E45 1
+    3300486: box_E46
+    3300488: box_E46 1
+    3300490: box_E47
+    3300492: box_E47 1
+    3300494: box_E48
+    3300496: box_E48 1
+    3300498: box_E49
+    3300500: box_E49 1
+    3300502: box_E5
+    3300504: box_E5 1
+    3300506: box_E5 2
+    3300508: box_E5 3
+    3300510: box_E5 4
+    3300512: box_E5 5
+    3300514: box_E50
+    3300516: box_E50 1
+    3300518: box_E51
+    3300520: box_E51 1
+    3300522: box_E52
+    3300524: box_E52 1
+    3300526: box_E53
+    3300528: box_E53 1
+    3300530: box_E54
+    3300532: box_E54 1
+    3300534: box_E55
+    3300536: box_E55 1
+    3300538: box_E56
+    3300540: box_E56 1
+    3300542: box_E57
+    3300544: box_E57 1
+    3300546: box_E58
+    3300548: box_E58 1
+    3300550: box_E59
+    3300552: box_E59 1
+    3300554: box_E60
+    3300556: box_E60 1
+    3300558: box_F1
+    3300560: box_F1 1
+    3300562: box_F1 2
+    3300564: box_F1 3
+    3300566: box_F10
+    3300568: box_F10 1
+    3300570: box_F11
+    3300572: box_F11 1
+    3300574: box_F12
+    3300576: box_F12 1
+    3300578: box_F2
+    3300580: box_F2 1
+    3300582: box_F2 2
+    3300584: box_F2 3
+    3300586: box_F3
+    3300588: box_F3 1
+    3300590: box_F4
+    3300592: box_F4 1
+    3300594: box_F4 2
+    3300596: box_F4 3
+    3300598: box_F5
+    3300600: box_F5 1
+    3300602: box_F5 2
+    3300604: box_F5 3
+    3300606: box_F6
+    3300608: box_F6 1
+    3300610: box_F6 2
+    3300612: box_F6 3
+    3300614: box_F7
+    3300616: box_F7 1
+    3300618: box_F7 2
+    3300620: box_F7 3
+    3300622: box_F8
+    3300624: box_F8 1
+    3300626: box_F8 2
+    3300628: box_F8 3
+    3300630: box_F9
+    3300632: box_F9 1
+    3300634: boxC
+    3300636: boxC 1
+    3300638: boxC 2
+    3300640: boxC 3
+    3300642: boxC 4
+    3300644: boxC 5
+    3300646: boxC 6
+    3300648: boxC 7
+    3300650: boxC1
+    3300652: boxC1 1
+    3300654: boxC1 2
+    3300656: boxC1 3
+    3300658: boxC1 4
+    3300660: boxC1 5
+    3300662: boxC1 6
+    3300664: boxC1 7
+    3300666: boxC10
+    3300668: boxC10 1
+    3300670: boxC10 2
+    3300672: boxC10 3
+    3300674: boxC2
+    3300676: boxC2 1
+    3300678: boxC2 2
+    3300680: boxC2 3
+    3300682: boxC2 4
+    3300684: boxC2 5
+    3300686: boxC2 6
+    3300688: boxC2 7
+    3300690: boxC3
+    3300692: boxC3 1
+    3300694: boxC3 2
+    3300696: boxC3 3
+    3300698: boxC3 4
+    3300700: boxC3 5
+    3300702: boxC3 6
+    3300704: boxC3 7
+    3300706: boxC4
+    3300708: boxC4 1
+    3300710: boxC4 2
+    3300712: boxC4 3
+    3300714: boxC4 4
+    3300716: boxC4 5
+    3300718: boxC4 6
+    3300720: boxC4 7
+    3300722: boxC5
+    3300724: boxC5 1
+    3300726: boxC5 2
+    3300728: boxC5 3
+    3300730: boxC5 4
+    3300732: boxC5 5
+    3300734: boxC5 6
+    3300736: boxC5 7
+    3300738: boxC6
+    3300740: boxC6 1
+    3300742: boxC6 2
+    3300744: boxC6 3
+    3300746: boxC6 4
+    3300748: boxC6 5
+    3300750: boxC6 6
+    3300752: boxC6 7
+    3300754: boxC7
+    3300756: boxC7 1
+    3300758: boxC7 2
+    3300760: boxC7 3
+    3300762: boxC8
+    3300764: boxC8 1
+    3300766: boxC8 2
+    3300768: boxC8 3
+    3300770: boxC9
+    3300772: boxC9 1
+    3300774: boxC9 2
+    3300776: boxC9 3
+    3300778: ceiling
+    3300780: columns_L
+    3300782: columns_R
+    3300784: dexion_fronts
+    3300786: dexion_fronts 1
+    3300788: dexion_fronts 2
+    3300790: dexion_fronts 3
+    3300792: door
+    3300794: door_frame
+    3300796: door_L
+    3300798: door_R
+    3300800: doorjamb
+    3300802: elec_box0
+    3300804: elec_box0 1
+    3300806: elec_box1
+    3300808: elec_box1 1
+    3300810: elec_box2
+    3300812: elec_box2 1
+    3300814: end_wall
+    3300816: floor_wh
+    3300818: handles
+    3300820: masterWire_L2
+    3300822: masterWire_R1
+    3300824: palette_A
+    3300826: palette_A1
+    3300828: palette_A1 1
+    3300830: palette_A1 2
+    3300832: palette_A1 3
+    3300834: palette_A2
+    3300836: palette_A2 1
+    3300838: palette_A2 2
+    3300840: palette_B
+    3300842: palette_B1
+    3300844: palette_B1 1
+    3300846: palette_B2
+    3300848: palette_B2 1
+    3300850: palette_C
+    3300852: palette_C2
+    3300854: palette_C2 1
+    3300856: palette_D
+    3300858: palette_D1
+    3300860: palette_D1 1
+    3300862: platforms
+    3300864: platforms 1
+    3300866: platforms 2
+    3300868: platforms 3
+    3300870: roof_glasses
+    3300872: roof_sceletons
+    3300874: walls
+    3300876: win_frames_borders_back
+    3300878: win_frames_borders_front
+    3300880: win_frames_borders_L
+    3300882: win_frames_borders_R
+    3300884: wins_back 1
+    3300886: wins_front 1
+    3300888: wins_L 1
+    3300890: wins_R 1
+    3300892: wire_clips_front
+    3300894: wire_fat1
+    3300896: wire_fat1 1
+    3300898: lamp01
+    3300900: lamp010
+    3300902: lamp011
+    3300904: lamp012
+    3300906: lamp013
+    3300908: lamp014
+    3300910: lamp015
+    3300912: lamp02
+    3300914: lamp03
+    3300916: lamp04
+    3300918: lamp05
+    3300920: lamp06
+    3300922: lamp07
+    3300924: lamp08
+    3300926: lamp09
+    4300000: door_frame
+    4300002: doorjamb
+    4300004: door
+    4300006: end_wall
+    4300008: columns_L
+    4300010: columns_R
+    4300012: floor_wh
+    4300014: walls
+    4300016: wins_front
+    4300018: win_frames_borders_front
+    4300020: wins_back
+    4300022: win_frames_borders_back
+    4300024: wins_R
+    4300026: win_frames_borders_R
+    4300028: wins_L
+    4300030: win_frames_borders_L
+    4300032: masterWire_L2
+    4300034: masterWire_R1
+    4300036: wire_clips_front
+    4300038: wire_fat1
+    4300040: elec_box0
+    4300042: elec_box1
+    4300044: elec_box2
+    4300046: wire_fat1
+    4300048: elec_box2
+    4300050: elec_box1
+    4300052: elec_box0
+    4300054: box
+    4300056: door_R
+    4300058: door_L
+    4300060: handles
+    4300062: roof_glasses
+    4300064: ceiling
+    4300066: roof_sceletons
+    4300068: palette_A
+    4300070: palette_B
+    4300072: palette_C
+    4300074: palette_D
+    4300076: platforms
+    4300078: blue_holed_columns
+    4300080: blue_metal_bars
+    4300082: dexion_fronts
+    4300084: boxC
+    4300086: boxC4
+    4300088: boxC5
+    4300090: boxC1
+    4300092: boxC2
+    4300094: boxC3
+    4300096: boxC6
+    4300098: boxC9
+    4300100: boxC
+    4300102: boxC4
+    4300104: boxC5
+    4300106: boxC1
+    4300108: boxC2
+    4300110: boxC3
+    4300112: boxC6
+    4300114: boxC8
+    4300116: boxC7
+    4300118: boxC10
+    4300120: palette_A1
+    4300122: boxC
+    4300124: boxC4
+    4300126: boxC5
+    4300128: boxC1
+    4300130: boxC2
+    4300132: boxC3
+    4300134: boxC6
+    4300136: boxC
+    4300138: boxC4
+    4300140: boxC5
+    4300142: boxC1
+    4300144: boxC2
+    4300146: boxC3
+    4300148: boxC6
+    4300150: boxC9
+    4300152: boxC8
+    4300154: boxC7
+    4300156: boxC10
+    4300158: palette_A1
+    4300160: box_B6
+    4300162: box_B7
+    4300164: box_B8
+    4300166: box_B3
+    4300168: box_B4
+    4300170: box_B5
+    4300172: box_B2
+    4300174: box_B1
+    4300176: box_B
+    4300178: box_B21
+    4300180: box_B22
+    4300182: box_B23
+    4300184: box_B38
+    4300186: box_B39
+    4300188: box_B40
+    4300190: box_B41
+    4300192: box_B42
+    4300194: box_B43
+    4300196: box_B44
+    4300198: box_B45
+    4300200: box_B46
+    4300202: box_B47
+    4300204: box_B48
+    4300206: box_B49
+    4300208: box_B6
+    4300210: box_B7
+    4300212: box_B8
+    4300214: box_B3
+    4300216: box_B4
+    4300218: box_B5
+    4300220: box_B2
+    4300222: box_B1
+    4300224: box_B
+    4300226: box_B21
+    4300228: box_B22
+    4300230: box_B27
+    4300232: box_B28
+    4300234: box_B29
+    4300236: box_B30
+    4300238: box_B31
+    4300240: box_B32
+    4300242: box_B33
+    4300244: box_B34
+    4300246: box_B35
+    4300248: box_B36
+    4300250: box_B37
+    4300252: box_B9
+    4300254: box_B10
+    4300256: palette_A2
+    4300258: box_B24
+    4300260: platforms
+    4300262: blue_holed_columns
+    4300264: blue_metal_bars
+    4300266: dexion_fronts
+    4300268: box_E10
+    4300270: box_E11
+    4300272: box_E5
+    4300274: box_E4
+    4300276: box_E2
+    4300278: box_E3
+    4300280: box_E55
+    4300282: box_E56
+    4300284: box_E57
+    4300286: box_E58
+    4300288: box_E59
+    4300290: box_E60
+    4300292: box_E10
+    4300294: box_E11
+    4300296: box_E5
+    4300298: box_E4
+    4300300: box_E2
+    4300302: box_E3
+    4300304: box_E49
+    4300306: box_E50
+    4300308: box_E51
+    4300310: box_E52
+    4300312: box_E53
+    4300314: box_E54
+    4300316: box_E5
+    4300318: box_E4
+    4300320: box_E2
+    4300322: box_E3
+    4300324: palette_B2
+    4300326: box_E45
+    4300328: box_E46
+    4300330: box_E47
+    4300332: box_E48
+    4300334: box_E10
+    4300336: box_E11
+    4300338: box_E5
+    4300340: box_E4
+    4300342: box_E2
+    4300344: box_E3
+    4300346: box_E55
+    4300348: box_E56
+    4300350: box_E57
+    4300352: box_E58
+    4300354: box_E59
+    4300356: box_E60
+    4300358: box_E10
+    4300360: box_E11
+    4300362: box_E5
+    4300364: box_E4
+    4300366: box_E2
+    4300368: box_E3
+    4300370: box_E49
+    4300372: box_E50
+    4300374: box_E51
+    4300376: box_E52
+    4300378: box_E53
+    4300380: box_E54
+    4300382: box_E5
+    4300384: box_E4
+    4300386: box_E2
+    4300388: box_E3
+    4300390: palette_B2
+    4300392: box_E45
+    4300394: box_E46
+    4300396: box_E47
+    4300398: box_E48
+    4300400: box_F4
+    4300402: box_F6
+    4300404: box_F8
+    4300406: palette_C2
+    4300408: box_F7
+    4300410: box_F5
+    4300412: box_F3
+    4300414: box_F2
+    4300416: box_F1
+    4300418: box_F4
+    4300420: box_F6
+    4300422: box_F8
+    4300424: box_F7
+    4300426: box_F5
+    4300428: box_F2
+    4300430: box_F1
+    4300432: box_F9
+    4300434: box_F10
+    4300436: box_F11
+    4300438: box_F12
+    4300440: box_F7
+    4300442: box_F5
+    4300444: box_F3
+    4300446: box_F2
+    4300448: box_F1
+    4300450: box_F4
+    4300452: box_F6
+    4300454: box_F8
+    4300456: box_F7
+    4300458: box_F5
+    4300460: box_F2
+    4300462: box_F1
+    4300464: box_F9
+    4300466: box_F10
+    4300468: box_F11
+    4300470: box_F12
+    4300472: box_F4
+    4300474: box_F6
+    4300476: box_F8
+    4300478: palette_C2
+    4300480: platforms
+    4300482: blue_holed_columns
+    4300484: blue_metal_bars
+    4300486: dexion_fronts
+    4300488: boxC
+    4300490: boxC4
+    4300492: boxC5
+    4300494: boxC1
+    4300496: boxC2
+    4300498: boxC3
+    4300500: boxC6
+    4300502: boxC9
+    4300504: boxC
+    4300506: boxC4
+    4300508: boxC5
+    4300510: boxC1
+    4300512: boxC2
+    4300514: boxC3
+    4300516: boxC6
+    4300518: boxC8
+    4300520: boxC7
+    4300522: boxC10
+    4300524: palette_A1
+    4300526: boxC
+    4300528: boxC4
+    4300530: boxC5
+    4300532: boxC1
+    4300534: boxC2
+    4300536: boxC3
+    4300538: boxC6
+    4300540: boxC9
+    4300542: boxC
+    4300544: boxC4
+    4300546: boxC5
+    4300548: boxC1
+    4300550: boxC2
+    4300552: boxC3
+    4300554: boxC6
+    4300556: boxC8
+    4300558: boxC7
+    4300560: boxC10
+    4300562: palette_A1
+    4300564: box_D17
+    4300566: box_D19
+    4300568: palette_B1
+    4300570: box_D28
+    4300572: box_D29
+    4300574: box_D11
+    4300576: box_D8
+    4300578: box_D9
+    4300580: box_D10
+    4300582: box_D20
+    4300584: box_D21
+    4300586: box_D22
+    4300588: box_D23
+    4300590: box_D4
+    4300592: box_D7
+    4300594: box_D
+    4300596: box_D1
+    4300598: box_D24
+    4300600: box_D25
+    4300602: box_D26
+    4300604: box_D27
+    4300606: box_D11
+    4300608: box_D8
+    4300610: box_D9
+    4300612: box_D10
+    4300614: box_D20
+    4300616: box_D21
+    4300618: box_D22
+    4300620: box_D23
+    4300622: box_D4
+    4300624: box_D7
+    4300626: box_D
+    4300628: box_D1
+    4300630: box_D24
+    4300632: box_D25
+    4300634: box_D26
+    4300636: box_D27
+    4300638: box_D17
+    4300640: box_D19
+    4300642: palette_B1
+    4300644: box_D28
+    4300646: box_D29
+    4300648: platforms
+    4300650: blue_holed_columns
+    4300652: blue_metal_bars
+    4300654: dexion_fronts
+    4300656: box_A1
+    4300658: box_A2
+    4300660: box_A3
+    4300662: box_A6
+    4300664: box_A4
+    4300666: box_A5
+    4300668: box_A7
+    4300670: box_A8
+    4300672: box_A9
+    4300674: box_A1
+    4300676: box_A2
+    4300678: box_A3
+    4300680: box_A6
+    4300682: box_A4
+    4300684: box_A5
+    4300686: box_A8
+    4300688: box_A9
+    4300690: box_A10
+    4300692: box_A11
+    4300694: box_A12
+    4300696: box_A13
+    4300698: palette_D1
+    4300700: box_A1
+    4300702: box_A2
+    4300704: box_A3
+    4300706: box_A6
+    4300708: box_A4
+    4300710: box_A5
+    4300712: box_A8
+    4300714: box_A9
+    4300716: box_A1
+    4300718: box_A2
+    4300720: box_A3
+    4300722: box_A6
+    4300724: box_A4
+    4300726: box_A5
+    4300728: box_A7
+    4300730: box_A8
+    4300732: box_A9
+    4300734: box_A10
+    4300736: box_A11
+    4300738: box_A12
+    4300740: box_A13
+    4300742: palette_D1
+    4300744: box_B6
+    4300746: box_B7
+    4300748: box_B8
+    4300750: box_B3
+    4300752: box_B4
+    4300754: box_B5
+    4300756: box_B2
+    4300758: box_B1
+    4300760: box_B
+    4300762: box_B21
+    4300764: box_B22
+    4300766: box_B23
+    4300768: box_B38
+    4300770: box_B39
+    4300772: box_B40
+    4300774: box_B41
+    4300776: box_B42
+    4300778: box_B43
+    4300780: box_B44
+    4300782: box_B45
+    4300784: box_B46
+    4300786: box_B47
+    4300788: box_B48
+    4300790: box_B49
+    4300792: box_B6
+    4300794: box_B7
+    4300796: box_B8
+    4300798: box_B3
+    4300800: box_B4
+    4300802: box_B5
+    4300804: box_B2
+    4300806: box_B1
+    4300808: box_B
+    4300810: box_B21
+    4300812: box_B22
+    4300814: box_B27
+    4300816: box_B28
+    4300818: box_B29
+    4300820: box_B30
+    4300822: box_B31
+    4300824: box_B32
+    4300826: box_B33
+    4300828: box_B34
+    4300830: box_B35
+    4300832: box_B36
+    4300834: box_B37
+    4300836: box_B9
+    4300838: box_B10
+    4300840: palette_A2
+    4300842: box_B24
+    4300844: box_B6
+    4300846: box_B7
+    4300848: box_B8
+    4300850: box_B3
+    4300852: box_B4
+    4300854: box_B5
+    4300856: box_B2
+    4300858: box_B1
+    4300860: box_B
+    4300862: box_B21
+    4300864: box_B22
+    4300866: box_B6
+    4300868: box_B7
+    4300870: box_B8
+    4300872: box_B3
+    4300874: box_B4
+    4300876: box_B5
+    4300878: box_B2
+    4300880: box_B1
+    4300882: box_B
+    4300884: box_B21
+    4300886: box_B22
+    4300888: box_B23
+    4300890: box_B9
+    4300892: box_B10
+    4300894: palette_A2
+    4300896: box_B24
+    4300898: lamp06
+    4300900: lamp07
+    4300902: lamp08
+    4300904: lamp09
+    4300906: lamp010
+    4300908: lamp01
+    4300910: lamp02
+    4300912: lamp03
+    4300914: lamp04
+    4300916: lamp05
+    4300918: lamp015
+    4300920: lamp014
+    4300922: lamp013
+    4300924: lamp012
+    4300926: lamp011
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  userData: 

@@ -1,0 +1,127 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: floorReflective
+  m_Shader: {fileID: 4800000, guid: dcc6c60d4452a4ef9bee9417ce9a5931, type: 3}
+  m_ShaderKeywords: []
+  m_CustomRenderQueue: -1
+  m_SavedProperties:
+    serializedVersion: 2
+    m_TexEnvs:
+      data:
+        first:
+          name: _MainTex
+        second:
+          m_Texture: {fileID: 2800000, guid: feadeb3c301114d6da7ecbf193762fc4, type: 3}
+          m_Scale: {x: 2, y: 2}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _BumpMap
+        second:
+          m_Texture: {fileID: 2800000, guid: 6277d04c73d09474d96b45f2b0162167, type: 3}
+          m_Scale: {x: 2, y: 2}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _Fresnel
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _ReflectiveColor
+        second:
+          m_Texture: {fileID: 2800000, guid: 84f8d9df71d564e9a9243ac3f8cd0a68, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _ReflectiveColorCube
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _ReflectionTex
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _DiffCubeIBL
+        second:
+          m_Texture: {fileID: 8900000, guid: 738ab8083a0d1456e8b3ebc25b61bfe9, type: 2}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _SpecCubeIBL
+        second:
+          m_Texture: {fileID: 8900000, guid: 7819fcfff7b64416680755fa1cdcecda, type: 2}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _SpecTex
+        second:
+          m_Texture: {fileID: 2800000, guid: 4f35f46ec467f4d5c88ed582964302b3, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _Cube
+        second:
+          m_Texture: {fileID: 8900000, guid: 21a9abfa8efb04cc7adaa40f45702bc9, type: 2}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+    m_Floats:
+      data:
+        first:
+          name: _Fresnel
+        second: 1
+      data:
+        first:
+          name: _Shininess
+        second: 7.49441338
+      data:
+        first:
+          name: _SpecInt
+        second: 4
+    m_Colors:
+      data:
+        first:
+          name: _Color
+        second: {r: .507352948, g: .507352948, b: .507352948, a: 1}
+      data:
+        first:
+          name: _RefrColor
+        second: {r: .340006202, g: .850002229, b: .920001268, a: 1}
+      data:
+        first:
+          name: _HorizonColor
+        second: {r: 0, g: 0, b: 0, a: 1}
+      data:
+        first:
+          name: _SpecColor
+        second: {r: .517733574, g: .526995599, b: .529411793, a: 1}
+      data:
+        first:
+          name: _ReflectColor
+        second: {r: .523086071, g: .544423401, b: .551470578, a: .545098066}
+      data:
+        first:
+          name: _EnvBoxStart
+        second: {r: -2.5999999, g: 0, b: -7.03139114, a: 1}
+      data:
+        first:
+          name: _EnvBoxSize
+        second: {r: 13.3799562, g: 6.50858402, b: 29.8400002, a: 1}
