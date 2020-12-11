@@ -1,0 +1,319 @@
+fileFormatVersion: 2
+guid: e3c1500b4b40679419781555e6172648
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Barola_Head
+    100004: Barola_Hips
+    100006: Barola_LeftArm
+    100008: Barola_LeftFoot
+    100010: Barola_LeftForeArm
+    100012: Barola_LeftHand
+    100014: Barola_LeftHandIndex1
+    100016: Barola_LeftHandIndex2
+    100018: Barola_LeftHandIndex3
+    100020: Barola_LeftHandIndex4
+    100022: Barola_LeftHandMiddle1
+    100024: Barola_LeftHandMiddle2
+    100026: Barola_LeftHandMiddle3
+    100028: Barola_LeftHandMiddle4
+    100030: Barola_LeftHandPinky1
+    100032: Barola_LeftHandPinky2
+    100034: Barola_LeftHandPinky3
+    100036: Barola_LeftHandPinky4
+    100038: Barola_LeftHandRing1
+    100040: Barola_LeftHandRing2
+    100042: Barola_LeftHandRing3
+    100044: Barola_LeftHandRing4
+    100046: Barola_LeftHandThumb1
+    100048: Barola_LeftHandThumb2
+    100050: Barola_LeftHandThumb3
+    100052: Barola_LeftHandThumb4
+    100054: Barola_LeftLeg
+    100056: Barola_LeftShoulder
+    100058: Barola_LeftToeBase
+    100060: Barola_LeftUpLeg
+    100062: Barola_Neck
+    100064: Barola_Reference
+    100066: Barola_RightArm
+    100068: Barola_RightFoot
+    100070: Barola_RightForeArm
+    100072: Barola_RightHand
+    100074: Barola_RightHandIndex1
+    100076: Barola_RightHandIndex2
+    100078: Barola_RightHandIndex3
+    100080: Barola_RightHandIndex4
+    100082: Barola_RightHandMiddle1
+    100084: Barola_RightHandMiddle2
+    100086: Barola_RightHandMiddle3
+    100088: Barola_RightHandMiddle4
+    100090: Barola_RightHandPinky1
+    100092: Barola_RightHandPinky2
+    100094: Barola_RightHandPinky3
+    100096: Barola_RightHandPinky4
+    100098: Barola_RightHandRing1
+    100100: Barola_RightHandRing2
+    100102: Barola_RightHandRing3
+    100104: Barola_RightHandRing4
+    100106: Barola_RightHandThumb1
+    100108: Barola_RightHandThumb2
+    100110: Barola_RightHandThumb3
+    100112: Barola_RightHandThumb4
+    100114: Barola_RightLeg
+    100116: Barola_RightShoulder
+    100118: Barola_RightToeBase
+    100120: Barola_RightUpLeg
+    100122: Barola_Spine
+    100124: Barola_Spine1
+    100126: Barola_Spine2
+    100128: BarolaGeo
+    100130: blends
+    100132: gums
+    100134: gums 1
+    100136: head
+    100138: head 1
+    100140: l_eye
+    100142: l_eye_highlight
+    100144: l_foot
+    100146: l_hand
+    100148: neutral
+    100150: r_eye
+    100152: r_eye_highlight
+    100154: r_foot
+    100156: r_hand
+    100158: shapes
+    100160: suit
+    100162: teeth
+    100164: teeth 1
+    100166: tongue
+    100168: tongue 1
+    400000: //RootNode
+    400002: Barola_Head
+    400004: Barola_Hips
+    400006: Barola_LeftArm
+    400008: Barola_LeftFoot
+    400010: Barola_LeftForeArm
+    400012: Barola_LeftHand
+    400014: Barola_LeftHandIndex1
+    400016: Barola_LeftHandIndex2
+    400018: Barola_LeftHandIndex3
+    400020: Barola_LeftHandIndex4
+    400022: Barola_LeftHandMiddle1
+    400024: Barola_LeftHandMiddle2
+    400026: Barola_LeftHandMiddle3
+    400028: Barola_LeftHandMiddle4
+    400030: Barola_LeftHandPinky1
+    400032: Barola_LeftHandPinky2
+    400034: Barola_LeftHandPinky3
+    400036: Barola_LeftHandPinky4
+    400038: Barola_LeftHandRing1
+    400040: Barola_LeftHandRing2
+    400042: Barola_LeftHandRing3
+    400044: Barola_LeftHandRing4
+    400046: Barola_LeftHandThumb1
+    400048: Barola_LeftHandThumb2
+    400050: Barola_LeftHandThumb3
+    400052: Barola_LeftHandThumb4
+    400054: Barola_LeftLeg
+    400056: Barola_LeftShoulder
+    400058: Barola_LeftToeBase
+    400060: Barola_LeftUpLeg
+    400062: Barola_Neck
+    400064: Barola_Reference
+    400066: Barola_RightArm
+    400068: Barola_RightFoot
+    400070: Barola_RightForeArm
+    400072: Barola_RightHand
+    400074: Barola_RightHandIndex1
+    400076: Barola_RightHandIndex2
+    400078: Barola_RightHandIndex3
+    400080: Barola_RightHandIndex4
+    400082: Barola_RightHandMiddle1
+    400084: Barola_RightHandMiddle2
+    400086: Barola_RightHandMiddle3
+    400088: Barola_RightHandMiddle4
+    400090: Barola_RightHandPinky1
+    400092: Barola_RightHandPinky2
+    400094: Barola_RightHandPinky3
+    400096: Barola_RightHandPinky4
+    400098: Barola_RightHandRing1
+    400100: Barola_RightHandRing2
+    400102: Barola_RightHandRing3
+    400104: Barola_RightHandRing4
+    400106: Barola_RightHandThumb1
+    400108: Barola_RightHandThumb2
+    400110: Barola_RightHandThumb3
+    400112: Barola_RightHandThumb4
+    400114: Barola_RightLeg
+    400116: Barola_RightShoulder
+    400118: Barola_RightToeBase
+    400120: Barola_RightUpLeg
+    400122: Barola_Spine
+    400124: Barola_Spine1
+    400126: Barola_Spine2
+    400128: BarolaGeo
+    400130: blends
+    400132: gums
+    400134: gums 1
+    400136: head
+    400138: head 1
+    400140: l_eye
+    400142: l_eye_highlight
+    400144: l_foot
+    400146: l_hand
+    400148: neutral
+    400150: r_eye
+    400152: r_eye_highlight
+    400154: r_foot
+    400156: r_hand
+    400158: shapes
+    400160: suit
+    400162: teeth
+    400164: teeth 1
+    400166: tongue
+    400168: tongue 1
+    4300000: tongue
+    4300002: gums
+    4300004: teeth
+    4300006: l_eye
+    4300008: l_eye_highlight
+    4300010: suit
+    4300012: r_eye
+    4300014: r_eye_highlight
+    4300016: head
+    4300018: l_foot
+    4300020: r_foot
+    4300022: l_hand
+    4300024: r_hand
+    4300026: head
+    4300028: tongue
+    4300030: gums
+    4300032: teeth
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: gums
+    13700002: gums 1
+    13700004: head
+    13700006: head 1
+    13700008: l_eye
+    13700010: l_eye_highlight
+    13700012: l_foot
+    13700014: l_hand
+    13700016: r_eye
+    13700018: r_eye_highlight
+    13700020: r_foot
+    13700022: r_hand
+    13700024: suit
+    13700026: teeth
+    13700028: teeth 1
+    13700030: tongue
+    13700032: tongue 1
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bob_eye_texture1
+    second: {fileID: 2100000, guid: a118bdc9db20c483cb8e8d033a7a27ac, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bob_lambert4
+    second: {fileID: 2100000, guid: 9e2889777d04e41ffbaad3848a7bbe8c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bob_phong2
+    second: {fileID: 2100000, guid: feb8827994b904957b55f016dff9e3ad, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert1
+    second: {fileID: 2100000, guid: 14f828d5e9e00484f8f8bd512ff3ea29, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

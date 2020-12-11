@@ -1,0 +1,361 @@
+fileFormatVersion: 2
+guid: d10ae76c6a6924a9687e5db7ddaeab6d
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: gums
+    100002: hair
+    100004: hair_in
+    100006: head
+    100008: l_eye
+    100010: l_eye_highlight
+    100012: l_eyelash
+    100014: l_foot
+    100016: l_hand
+    100018: l_shoe
+    100020: pants
+    100022: r_eye
+    100024: r_eye_highlight
+    100026: r_eyelash
+    100028: r_foot
+    100030: r_hand
+    100032: r_shoe
+    100034: shirt
+    100036: teeth
+    100038: //RootNode
+    100040: TerriGeo
+    100042: TerriSkeleton_Head
+    100044: TerriSkeleton_Hips
+    100046: TerriSkeleton_LeftArm
+    100048: TerriSkeleton_LeftFoot
+    100050: TerriSkeleton_LeftForeArm
+    100052: TerriSkeleton_LeftHand
+    100054: TerriSkeleton_LeftHandIndex1
+    100056: TerriSkeleton_LeftHandIndex2
+    100058: TerriSkeleton_LeftHandIndex3
+    100060: TerriSkeleton_LeftHandIndex4
+    100062: TerriSkeleton_LeftHandMiddle1
+    100064: TerriSkeleton_LeftHandMiddle2
+    100066: TerriSkeleton_LeftHandMiddle3
+    100068: TerriSkeleton_LeftHandMiddle4
+    100070: TerriSkeleton_LeftHandPinky1
+    100072: TerriSkeleton_LeftHandPinky2
+    100074: TerriSkeleton_LeftHandPinky3
+    100076: TerriSkeleton_LeftHandPinky4
+    100078: TerriSkeleton_LeftHandRing1
+    100080: TerriSkeleton_LeftHandRing2
+    100082: TerriSkeleton_LeftHandRing3
+    100084: TerriSkeleton_LeftHandRing4
+    100086: TerriSkeleton_LeftHandThumb1
+    100088: TerriSkeleton_LeftHandThumb2
+    100090: TerriSkeleton_LeftHandThumb3
+    100092: TerriSkeleton_LeftHandThumb4
+    100094: TerriSkeleton_LeftLeg
+    100096: TerriSkeleton_LeftShoulder
+    100098: TerriSkeleton_LeftToeBase
+    100100: TerriSkeleton_LeftUpLeg
+    100102: TerriSkeleton_Neck
+    100104: TerriSkeleton_Reference
+    100106: TerriSkeleton_RightArm
+    100108: TerriSkeleton_RightFoot
+    100110: TerriSkeleton_RightForeArm
+    100112: TerriSkeleton_RightHand
+    100114: TerriSkeleton_RightHandIndex1
+    100116: TerriSkeleton_RightHandIndex2
+    100118: TerriSkeleton_RightHandIndex3
+    100120: TerriSkeleton_RightHandIndex4
+    100122: TerriSkeleton_RightHandMiddle1
+    100124: TerriSkeleton_RightHandMiddle2
+    100126: TerriSkeleton_RightHandMiddle3
+    100128: TerriSkeleton_RightHandMiddle4
+    100130: TerriSkeleton_RightHandPinky1
+    100132: TerriSkeleton_RightHandPinky2
+    100134: TerriSkeleton_RightHandPinky3
+    100136: TerriSkeleton_RightHandPinky4
+    100138: TerriSkeleton_RightHandRing1
+    100140: TerriSkeleton_RightHandRing2
+    100142: TerriSkeleton_RightHandRing3
+    100144: TerriSkeleton_RightHandRing4
+    100146: TerriSkeleton_RightHandThumb1
+    100148: TerriSkeleton_RightHandThumb2
+    100150: TerriSkeleton_RightHandThumb3
+    100152: TerriSkeleton_RightHandThumb4
+    100154: TerriSkeleton_RightLeg
+    100156: TerriSkeleton_RightShoulder
+    100158: TerriSkeleton_RightToeBase
+    100160: TerriSkeleton_RightUpLeg
+    100162: TerriSkeleton_Spine
+    100164: TerriSkeleton_Spine1
+    100166: TerriSkeleton_Spine2
+    100168: tongue
+    100170: blends
+    100172: gums 1
+    100174: head 1
+    100176: teeth 1
+    100178: terri_neutral
+    100180: terri_shapes
+    100182: tongue 1
+    400000: gums
+    400002: hair
+    400004: hair_in
+    400006: head
+    400008: l_eye
+    400010: l_eye_highlight
+    400012: l_eyelash
+    400014: l_foot
+    400016: l_hand
+    400018: l_shoe
+    400020: pants
+    400022: r_eye
+    400024: r_eye_highlight
+    400026: r_eyelash
+    400028: r_foot
+    400030: r_hand
+    400032: r_shoe
+    400034: shirt
+    400036: teeth
+    400038: //RootNode
+    400040: TerriGeo
+    400042: TerriSkeleton_Head
+    400044: TerriSkeleton_Hips
+    400046: TerriSkeleton_LeftArm
+    400048: TerriSkeleton_LeftFoot
+    400050: TerriSkeleton_LeftForeArm
+    400052: TerriSkeleton_LeftHand
+    400054: TerriSkeleton_LeftHandIndex1
+    400056: TerriSkeleton_LeftHandIndex2
+    400058: TerriSkeleton_LeftHandIndex3
+    400060: TerriSkeleton_LeftHandIndex4
+    400062: TerriSkeleton_LeftHandMiddle1
+    400064: TerriSkeleton_LeftHandMiddle2
+    400066: TerriSkeleton_LeftHandMiddle3
+    400068: TerriSkeleton_LeftHandMiddle4
+    400070: TerriSkeleton_LeftHandPinky1
+    400072: TerriSkeleton_LeftHandPinky2
+    400074: TerriSkeleton_LeftHandPinky3
+    400076: TerriSkeleton_LeftHandPinky4
+    400078: TerriSkeleton_LeftHandRing1
+    400080: TerriSkeleton_LeftHandRing2
+    400082: TerriSkeleton_LeftHandRing3
+    400084: TerriSkeleton_LeftHandRing4
+    400086: TerriSkeleton_LeftHandThumb1
+    400088: TerriSkeleton_LeftHandThumb2
+    400090: TerriSkeleton_LeftHandThumb3
+    400092: TerriSkeleton_LeftHandThumb4
+    400094: TerriSkeleton_LeftLeg
+    400096: TerriSkeleton_LeftShoulder
+    400098: TerriSkeleton_LeftToeBase
+    400100: TerriSkeleton_LeftUpLeg
+    400102: TerriSkeleton_Neck
+    400104: TerriSkeleton_Reference
+    400106: TerriSkeleton_RightArm
+    400108: TerriSkeleton_RightFoot
+    400110: TerriSkeleton_RightForeArm
+    400112: TerriSkeleton_RightHand
+    400114: TerriSkeleton_RightHandIndex1
+    400116: TerriSkeleton_RightHandIndex2
+    400118: TerriSkeleton_RightHandIndex3
+    400120: TerriSkeleton_RightHandIndex4
+    400122: TerriSkeleton_RightHandMiddle1
+    400124: TerriSkeleton_RightHandMiddle2
+    400126: TerriSkeleton_RightHandMiddle3
+    400128: TerriSkeleton_RightHandMiddle4
+    400130: TerriSkeleton_RightHandPinky1
+    400132: TerriSkeleton_RightHandPinky2
+    400134: TerriSkeleton_RightHandPinky3
+    400136: TerriSkeleton_RightHandPinky4
+    400138: TerriSkeleton_RightHandRing1
+    400140: TerriSkeleton_RightHandRing2
+    400142: TerriSkeleton_RightHandRing3
+    400144: TerriSkeleton_RightHandRing4
+    400146: TerriSkeleton_RightHandThumb1
+    400148: TerriSkeleton_RightHandThumb2
+    400150: TerriSkeleton_RightHandThumb3
+    400152: TerriSkeleton_RightHandThumb4
+    400154: TerriSkeleton_RightLeg
+    400156: TerriSkeleton_RightShoulder
+    400158: TerriSkeleton_RightToeBase
+    400160: TerriSkeleton_RightUpLeg
+    400162: TerriSkeleton_Spine
+    400164: TerriSkeleton_Spine1
+    400166: TerriSkeleton_Spine2
+    400168: tongue
+    400170: blends
+    400172: gums 1
+    400174: head 1
+    400176: teeth 1
+    400178: terri_neutral
+    400180: terri_shapes
+    400182: tongue 1
+    2300000: gums 1
+    2300002: head 1
+    2300004: teeth 1
+    2300006: tongue 1
+    3300000: gums 1
+    3300002: head 1
+    3300004: teeth 1
+    3300006: tongue 1
+    4300000: l_shoe
+    4300002: r_shoe
+    4300004: tongue
+    4300006: head
+    4300008: l_eye
+    4300010: r_eye
+    4300012: hair
+    4300014: pants
+    4300016: shirt
+    4300018: gums
+    4300020: teeth
+    4300022: hair_in
+    4300024: l_eyelash
+    4300026: r_eyelash
+    4300028: r_eye_highlight
+    4300030: l_eye_highlight
+    4300032: l_hand
+    4300034: r_hand
+    4300036: l_foot
+    4300038: r_foot
+    4300040: tongue
+    4300042: head
+    4300044: gums
+    4300046: teeth
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: gums
+    13700002: hair
+    13700004: hair_in
+    13700006: head
+    13700008: l_eye
+    13700010: l_eye_highlight
+    13700012: l_eyelash
+    13700014: l_foot
+    13700016: l_hand
+    13700018: l_shoe
+    13700020: pants
+    13700022: r_eye
+    13700024: r_eye_highlight
+    13700026: r_eyelash
+    13700028: r_foot
+    13700030: r_hand
+    13700032: r_shoe
+    13700034: shirt
+    13700036: teeth
+    13700038: tongue
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bob_eye_texture
+    second: {fileID: 2100000, guid: c419de9b2f7924a13ba89c262770a482, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bob_eyelash_texture
+    second: {fileID: 2100000, guid: b71ceb27c539c425fb04154a59416b7d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bob_hair_color
+    second: {fileID: 2100000, guid: dc0d64c7a193b4a968d67d69c342d6dd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bob_phong1
+    second: {fileID: 2100000, guid: 2c394825a61d34e26b43456fe342aa31, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bob_terri_color
+    second: {fileID: 2100000, guid: 21e973478c21b46449ab1f490485effc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bob_terri_color1
+    second: {fileID: 2100000, guid: 21e973478c21b46449ab1f490485effc, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

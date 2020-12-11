@@ -1,0 +1,454 @@
+fileFormatVersion: 2
+guid: 8f6179b3df3234f51bd42218195983ed
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: belt
+    100002: blends
+    100004: flashlight
+    100006: handgun
+    100008: handgun_skin
+    100010: hat
+    100012: head
+    100014: holster
+    100016: l_arm
+    100018: l_eye
+    100020: l_shoe
+    100022: lashes
+    100024: //RootNode
+    100026: Policem_Head
+    100028: Policem_Hips
+    100030: Policem_LeftArm
+    100032: Policem_LeftFoot
+    100034: Policem_LeftForeArm
+    100036: Policem_LeftHand
+    100038: Policem_LeftHandIndex1
+    100040: Policem_LeftHandIndex2
+    100042: Policem_LeftHandIndex3
+    100044: Policem_LeftHandIndex4
+    100046: Policem_LeftHandMiddle1
+    100048: Policem_LeftHandMiddle2
+    100050: Policem_LeftHandMiddle3
+    100052: Policem_LeftHandMiddle4
+    100054: Policem_LeftHandPinky1
+    100056: Policem_LeftHandPinky2
+    100058: Policem_LeftHandPinky3
+    100060: Policem_LeftHandPinky4
+    100062: Policem_LeftHandRing1
+    100064: Policem_LeftHandRing2
+    100066: Policem_LeftHandRing3
+    100068: Policem_LeftHandRing4
+    100070: Policem_LeftHandThumb1
+    100072: Policem_LeftHandThumb2
+    100074: Policem_LeftHandThumb3
+    100076: Policem_LeftHandThumb4
+    100078: Policem_LeftLeg
+    100080: Policem_LeftShoulder
+    100082: Policem_LeftToeBase
+    100084: Policem_LeftUpLeg
+    100086: Policem_Neck
+    100088: Policem_Reference
+    100090: Policem_RightArm
+    100092: Policem_RightFoot
+    100094: Policem_RightForeArm
+    100096: Policem_RightHand
+    100098: Policem_RightHandIndex1
+    100100: Policem_RightHandIndex2
+    100102: Policem_RightHandIndex3
+    100104: Policem_RightHandIndex4
+    100106: Policem_RightHandMiddle1
+    100108: Policem_RightHandMiddle2
+    100110: Policem_RightHandMiddle3
+    100112: Policem_RightHandMiddle4
+    100114: Policem_RightHandPinky1
+    100116: Policem_RightHandPinky2
+    100118: Policem_RightHandPinky3
+    100120: Policem_RightHandPinky4
+    100122: Policem_RightHandRing1
+    100124: Policem_RightHandRing2
+    100126: Policem_RightHandRing3
+    100128: Policem_RightHandRing4
+    100130: Policem_RightHandThumb1
+    100132: Policem_RightHandThumb2
+    100134: Policem_RightHandThumb3
+    100136: Policem_RightHandThumb4
+    100138: Policem_RightLeg
+    100140: Policem_RightShoulder
+    100142: Policem_RightToeBase
+    100144: Policem_RightUpLeg
+    100146: Policem_Spine
+    100148: Policem_Spine1
+    100150: Policem_Spine2
+    100152: PolicemGeo
+    100154: r_arm
+    100156: r_eye
+    100158: r_shoe
+    100160: radio
+    100162: radiobase
+    100164: radioholster
+    100166: radiowire
+    100168: shield
+    100170: shieldbase
+    100172: tongue
+    100174: uniform
+    100176: watch_band
+    100178: watch_face
+    400000: belt
+    400002: blends
+    400004: flashlight
+    400006: handgun
+    400008: handgun_skin
+    400010: hat
+    400012: head
+    400014: holster
+    400016: l_arm
+    400018: l_eye
+    400020: l_shoe
+    400022: lashes
+    400024: //RootNode
+    400026: Policem_Head
+    400028: Policem_Hips
+    400030: Policem_LeftArm
+    400032: Policem_LeftFoot
+    400034: Policem_LeftForeArm
+    400036: Policem_LeftHand
+    400038: Policem_LeftHandIndex1
+    400040: Policem_LeftHandIndex2
+    400042: Policem_LeftHandIndex3
+    400044: Policem_LeftHandIndex4
+    400046: Policem_LeftHandMiddle1
+    400048: Policem_LeftHandMiddle2
+    400050: Policem_LeftHandMiddle3
+    400052: Policem_LeftHandMiddle4
+    400054: Policem_LeftHandPinky1
+    400056: Policem_LeftHandPinky2
+    400058: Policem_LeftHandPinky3
+    400060: Policem_LeftHandPinky4
+    400062: Policem_LeftHandRing1
+    400064: Policem_LeftHandRing2
+    400066: Policem_LeftHandRing3
+    400068: Policem_LeftHandRing4
+    400070: Policem_LeftHandThumb1
+    400072: Policem_LeftHandThumb2
+    400074: Policem_LeftHandThumb3
+    400076: Policem_LeftHandThumb4
+    400078: Policem_LeftLeg
+    400080: Policem_LeftShoulder
+    400082: Policem_LeftToeBase
+    400084: Policem_LeftUpLeg
+    400086: Policem_Neck
+    400088: Policem_Reference
+    400090: Policem_RightArm
+    400092: Policem_RightFoot
+    400094: Policem_RightForeArm
+    400096: Policem_RightHand
+    400098: Policem_RightHandIndex1
+    400100: Policem_RightHandIndex2
+    400102: Policem_RightHandIndex3
+    400104: Policem_RightHandIndex4
+    400106: Policem_RightHandMiddle1
+    400108: Policem_RightHandMiddle2
+    400110: Policem_RightHandMiddle3
+    400112: Policem_RightHandMiddle4
+    400114: Policem_RightHandPinky1
+    400116: Policem_RightHandPinky2
+    400118: Policem_RightHandPinky3
+    400120: Policem_RightHandPinky4
+    400122: Policem_RightHandRing1
+    400124: Policem_RightHandRing2
+    400126: Policem_RightHandRing3
+    400128: Policem_RightHandRing4
+    400130: Policem_RightHandThumb1
+    400132: Policem_RightHandThumb2
+    400134: Policem_RightHandThumb3
+    400136: Policem_RightHandThumb4
+    400138: Policem_RightLeg
+    400140: Policem_RightShoulder
+    400142: Policem_RightToeBase
+    400144: Policem_RightUpLeg
+    400146: Policem_Spine
+    400148: Policem_Spine1
+    400150: Policem_Spine2
+    400152: PolicemGeo
+    400154: r_arm
+    400156: r_eye
+    400158: r_shoe
+    400160: radio
+    400162: radiobase
+    400164: radioholster
+    400166: radiowire
+    400168: shield
+    400170: shieldbase
+    400172: tongue
+    400174: uniform
+    400176: watch_band
+    400178: watch_face
+    2300000: handgun
+    3300000: handgun
+    4300000: lashes
+    4300002: uniform
+    4300004: belt
+    4300006: radiobase
+    4300008: radioholster
+    4300010: flashlight
+    4300012: handgun
+    4300014: holster
+    4300016: shield
+    4300018: shieldbase
+    4300020: watch_face
+    4300022: watch_band
+    4300024: radio
+    4300026: head
+    4300028: radiowire
+    4300030: handgun_skin
+    4300032: tongue
+    4300034: hat
+    4300036: r_eye
+    4300038: l_eye
+    4300040: l_arm
+    4300042: r_arm
+    4300044: r_shoe
+    4300046: l_shoe
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: belt
+    13700002: flashlight
+    13700004: handgun_skin
+    13700006: hat
+    13700008: head
+    13700010: holster
+    13700012: l_arm
+    13700014: l_eye
+    13700016: l_shoe
+    13700018: lashes
+    13700020: r_arm
+    13700022: r_eye
+    13700024: r_shoe
+    13700026: radio
+    13700028: radiobase
+    13700030: radioholster
+    13700032: radiowire
+    13700034: shield
+    13700036: shieldbase
+    13700038: tongue
+    13700040: uniform
+    13700042: watch_band
+    13700044: watch_face
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Badge
+    second: {fileID: 2100000, guid: 07965df2b1d334f76887e533a6221b7c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BadgeName
+    second: {fileID: 2100000, guid: e1d64255d882b4570afd9a4fdb53329c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Belt
+    second: {fileID: 2100000, guid: 6975134d69184469390481db4d750a30, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Buttons
+    second: {fileID: 2100000, guid: e5d06e87094e242dea8794cd6ef30a77, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CapBadge
+    second: {fileID: 2100000, guid: ce80f699811d24c70a5ebd46a0014860, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CapDetails1
+    second: {fileID: 2100000, guid: 6740dc8da82ab4c9492b996f5623fa59, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CapDetails2
+    second: {fileID: 2100000, guid: 60d0365fa7de34e6a917d68dcbf66c9e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CapTex
+    second: {fileID: 2100000, guid: a3978fdf594ea49abbb9b31d93dc1699, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FabricDark
+    second: {fileID: 2100000, guid: db8162128e1d64208a8bb6fe893d3179, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Flashlight
+    second: {fileID: 2100000, guid: 6975134d69184469390481db4d750a30, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass
+    second: {fileID: 2100000, guid: ea0a85c71391b4d93b6c9bcd6c0561e9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Handgun
+    second: {fileID: 2100000, guid: 6975134d69184469390481db4d750a30, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lashes_BM
+    second: {fileID: 2100000, guid: fcb978983a99e4ded909d35982d9166c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal
+    second: {fileID: 2100000, guid: e7e277c3f3c744ed5ab77723817e489f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: NYPD_BM_Skin
+    second: {fileID: 2100000, guid: 135264ab6973c4ec681821c9484a290b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: NYPD_BM_Skin2
+    second: {fileID: 2100000, guid: 135264ab6973c4ec681821c9484a290b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plastic
+    second: {fileID: 2100000, guid: d09fa586c52ba4ab7b51cf9bb65f3b13, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pockets
+    second: {fileID: 2100000, guid: 6975134d69184469390481db4d750a30, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Radio
+    second: {fileID: 2100000, guid: 6975134d69184469390481db4d750a30, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RadioWire
+    second: {fileID: 2100000, guid: 3a9c9a0acc24745568043e249b815da1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ShoeLaces
+    second: {fileID: 2100000, guid: 11912180574694a028a41afb521eb572, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ShoeSole
+    second: {fileID: 2100000, guid: 17c2f4d47169b42bcaf393f77e59390e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ShoeTex
+    second: {fileID: 2100000, guid: 3052eed8acf83411799da69d4955a414, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Uniform
+    second: {fileID: 2100000, guid: e5d06e87094e242dea8794cd6ef30a77, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Watch
+    second: {fileID: 2100000, guid: 6975134d69184469390481db4d750a30, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: phong11
+    second: {fileID: 2100000, guid: aca1a25d29cf545bb90c405f98bfa3a9, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

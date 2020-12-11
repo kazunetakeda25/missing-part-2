@@ -1,0 +1,324 @@
+fileFormatVersion: 2
+guid: 162d262e389a84eb597860b2d7c42c34
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: blends
+    100002: gums
+    100004: gums 1
+    100006: head
+    100008: head 1
+    100010: l_eye
+    100012: l_eye_highlight
+    100014: l_foot
+    100016: l_hand
+    100018: neutral
+    100020: pants
+    100022: r_eye
+    100024: r_eye_highlight
+    100026: r_foot
+    100028: r_hand
+    100030: shapes
+    100032: shirt
+    100034: teeth
+    100036: teeth 1
+    100038: tongue
+    100040: tongue 1
+    100042: //RootNode
+    100044: Travis_Head
+    100046: Travis_Hips
+    100048: Travis_LeftArm
+    100050: Travis_LeftFoot
+    100052: Travis_LeftForeArm
+    100054: Travis_LeftHand
+    100056: Travis_LeftHandIndex1
+    100058: Travis_LeftHandIndex2
+    100060: Travis_LeftHandIndex3
+    100062: Travis_LeftHandIndex4
+    100064: Travis_LeftHandMiddle1
+    100066: Travis_LeftHandMiddle2
+    100068: Travis_LeftHandMiddle3
+    100070: Travis_LeftHandMiddle4
+    100072: Travis_LeftHandPinky1
+    100074: Travis_LeftHandPinky2
+    100076: Travis_LeftHandPinky3
+    100078: Travis_LeftHandPinky4
+    100080: Travis_LeftHandRing1
+    100082: Travis_LeftHandRing2
+    100084: Travis_LeftHandRing3
+    100086: Travis_LeftHandRing4
+    100088: Travis_LeftHandThumb1
+    100090: Travis_LeftHandThumb2
+    100092: Travis_LeftHandThumb3
+    100094: Travis_LeftHandThumb4
+    100096: Travis_LeftLeg
+    100098: Travis_LeftShoulder
+    100100: Travis_LeftToeBase
+    100102: Travis_LeftUpLeg
+    100104: Travis_Neck
+    100106: Travis_Reference
+    100108: Travis_RightArm
+    100110: Travis_RightFoot
+    100112: Travis_RightForeArm
+    100114: Travis_RightHand
+    100116: Travis_RightHandIndex1
+    100118: Travis_RightHandIndex2
+    100120: Travis_RightHandIndex3
+    100122: Travis_RightHandIndex4
+    100124: Travis_RightHandMiddle1
+    100126: Travis_RightHandMiddle2
+    100128: Travis_RightHandMiddle3
+    100130: Travis_RightHandMiddle4
+    100132: Travis_RightHandPinky1
+    100134: Travis_RightHandPinky2
+    100136: Travis_RightHandPinky3
+    100138: Travis_RightHandPinky4
+    100140: Travis_RightHandRing1
+    100142: Travis_RightHandRing2
+    100144: Travis_RightHandRing3
+    100146: Travis_RightHandRing4
+    100148: Travis_RightHandThumb1
+    100150: Travis_RightHandThumb2
+    100152: Travis_RightHandThumb3
+    100154: Travis_RightHandThumb4
+    100156: Travis_RightLeg
+    100158: Travis_RightShoulder
+    100160: Travis_RightToeBase
+    100162: Travis_RightUpLeg
+    100164: Travis_Spine
+    100166: Travis_Spine1
+    100168: Travis_Spine2
+    100170: TravisGeo
+    400000: blends
+    400002: gums
+    400004: gums 1
+    400006: head
+    400008: head 1
+    400010: l_eye
+    400012: l_eye_highlight
+    400014: l_foot
+    400016: l_hand
+    400018: neutral
+    400020: pants
+    400022: r_eye
+    400024: r_eye_highlight
+    400026: r_foot
+    400028: r_hand
+    400030: shapes
+    400032: shirt
+    400034: teeth
+    400036: teeth 1
+    400038: tongue
+    400040: tongue 1
+    400042: //RootNode
+    400044: Travis_Head
+    400046: Travis_Hips
+    400048: Travis_LeftArm
+    400050: Travis_LeftFoot
+    400052: Travis_LeftForeArm
+    400054: Travis_LeftHand
+    400056: Travis_LeftHandIndex1
+    400058: Travis_LeftHandIndex2
+    400060: Travis_LeftHandIndex3
+    400062: Travis_LeftHandIndex4
+    400064: Travis_LeftHandMiddle1
+    400066: Travis_LeftHandMiddle2
+    400068: Travis_LeftHandMiddle3
+    400070: Travis_LeftHandMiddle4
+    400072: Travis_LeftHandPinky1
+    400074: Travis_LeftHandPinky2
+    400076: Travis_LeftHandPinky3
+    400078: Travis_LeftHandPinky4
+    400080: Travis_LeftHandRing1
+    400082: Travis_LeftHandRing2
+    400084: Travis_LeftHandRing3
+    400086: Travis_LeftHandRing4
+    400088: Travis_LeftHandThumb1
+    400090: Travis_LeftHandThumb2
+    400092: Travis_LeftHandThumb3
+    400094: Travis_LeftHandThumb4
+    400096: Travis_LeftLeg
+    400098: Travis_LeftShoulder
+    400100: Travis_LeftToeBase
+    400102: Travis_LeftUpLeg
+    400104: Travis_Neck
+    400106: Travis_Reference
+    400108: Travis_RightArm
+    400110: Travis_RightFoot
+    400112: Travis_RightForeArm
+    400114: Travis_RightHand
+    400116: Travis_RightHandIndex1
+    400118: Travis_RightHandIndex2
+    400120: Travis_RightHandIndex3
+    400122: Travis_RightHandIndex4
+    400124: Travis_RightHandMiddle1
+    400126: Travis_RightHandMiddle2
+    400128: Travis_RightHandMiddle3
+    400130: Travis_RightHandMiddle4
+    400132: Travis_RightHandPinky1
+    400134: Travis_RightHandPinky2
+    400136: Travis_RightHandPinky3
+    400138: Travis_RightHandPinky4
+    400140: Travis_RightHandRing1
+    400142: Travis_RightHandRing2
+    400144: Travis_RightHandRing3
+    400146: Travis_RightHandRing4
+    400148: Travis_RightHandThumb1
+    400150: Travis_RightHandThumb2
+    400152: Travis_RightHandThumb3
+    400154: Travis_RightHandThumb4
+    400156: Travis_RightLeg
+    400158: Travis_RightShoulder
+    400160: Travis_RightToeBase
+    400162: Travis_RightUpLeg
+    400164: Travis_Spine
+    400166: Travis_Spine1
+    400168: Travis_Spine2
+    400170: TravisGeo
+    2300000: teeth 1
+    3300000: teeth 1
+    4300000: tongue
+    4300002: gums
+    4300004: teeth
+    4300006: l_eye
+    4300008: head
+    4300010: r_eye
+    4300012: shirt
+    4300014: pants
+    4300016: r_eye_highlight
+    4300018: l_eye_highlight
+    4300020: l_hand
+    4300022: r_hand
+    4300024: l_foot
+    4300026: r_foot
+    4300028: tongue
+    4300030: gums
+    4300032: teeth
+    4300034: head
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: gums
+    13700002: gums 1
+    13700004: head
+    13700006: head 1
+    13700008: l_eye
+    13700010: l_eye_highlight
+    13700012: l_foot
+    13700014: l_hand
+    13700016: pants
+    13700018: r_eye
+    13700020: r_eye_highlight
+    13700022: r_foot
+    13700024: r_hand
+    13700026: shirt
+    13700028: teeth
+    13700030: tongue
+    13700032: tongue 1
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: eye_glass_phong1
+    second: {fileID: 2100000, guid: f507a782efabd4a30b21f62dc91981e0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: eye_textures
+    second: {fileID: 2100000, guid: 07d2e38cf5c074607886021705581e0c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert1
+    second: {fileID: 2100000, guid: 61c9239818b8c45d988caab8b18d400b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: travis_textures
+    second: {fileID: 2100000, guid: 257eaa1908278444599d05cbfc3a2a30, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

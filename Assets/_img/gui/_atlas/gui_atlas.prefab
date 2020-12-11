@@ -1,0 +1,700 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &100000
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 400000}
+  - 114: {fileID: 11400000}
+  m_Layer: 0
+  m_Name: gui_atlas
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &400000
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100000}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100000}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f514313262e3d141ad017b60809752a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  material: {fileID: 2100000, guid: 41cf56956a9824b4e8d22a06a8c09144, type: 2}
+  items:
+  - name: Heiro-OpenSans-Regular-24px
+    region:
+      serializedVersion: 2
+      x: .216796875
+      y: .375976562
+      width: .25
+      height: .125
+    border:
+      m_Left: 0
+      m_Right: 0
+      m_Top: 0
+      m_Bottom: 0
+    rotated: 0
+    sizeInPixels: {x: 512, y: 256}
+    textureGUID: 36401aaa38c3e438c80ecf377b112f81
+    deleted: 0
+    texture: {fileID: 0}
+  - name: interface_bg
+    region:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: .5
+      height: .28125
+    border:
+      m_Left: 0
+      m_Right: 0
+      m_Top: 0
+      m_Bottom: 0
+    rotated: 0
+    sizeInPixels: {x: 1024, y: 576}
+    textureGUID: 5b0d08fd590f248ddb4a30bdf60c0759
+    deleted: 0
+    texture: {fileID: 0}
+  - name: interface_black
+    region:
+      serializedVersion: 2
+      x: .476074219
+      y: .41796875
+      width: .00390625
+      height: .00390625
+    border:
+      m_Left: 2
+      m_Right: 2
+      m_Top: 2
+      m_Bottom: 2
+    rotated: 0
+    sizeInPixels: {x: 8, y: 8}
+    textureGUID: 93d37815e7d3a46e6a9980be443b9274
+    deleted: 0
+    texture: {fileID: 0}
+  - name: interface_blank
+    region:
+      serializedVersion: 2
+      x: .480957031
+      y: .41796875
+      width: .00390625
+      height: .00390625
+    border:
+      m_Left: 3
+      m_Right: 3
+      m_Top: 3
+      m_Bottom: 3
+    rotated: 0
+    sizeInPixels: {x: 8, y: 8}
+    textureGUID: 009060cdc415e4f3b96b63bd43593276
+    deleted: 0
+    texture: {fileID: 0}
+  - name: interface_button
+    region:
+      serializedVersion: 2
+      x: .500976562
+      y: .245117188
+      width: .485839844
+      height: .0927734375
+    border:
+      m_Left: 75
+      m_Right: 75
+      m_Top: 80
+      m_Bottom: 80
+    rotated: 0
+    sizeInPixels: {x: 995, y: 190}
+    textureGUID: 864437929d10d4d74bd43d001992ec64
+    deleted: 0
+    texture: {fileID: 0}
+  - name: interface_button_2
+    region:
+      serializedVersion: 2
+      x: .615234375
+      y: .42578125
+      width: .309082031
+      height: .0561523438
+    border:
+      m_Left: 22
+      m_Right: 22
+      m_Top: 23
+      m_Bottom: 27
+    rotated: 0
+    sizeInPixels: {x: 633, y: 115}
+    textureGUID: 84afe1d636ebb4ccb8f54727ca5fee94
+    deleted: 0
+    texture: {fileID: 0}
+  - name: interface_button_3
+    region:
+      serializedVersion: 2
+      x: 0
+      y: .552734375
+      width: .0551757812
+      height: .0551757812
+    border:
+      m_Left: 23
+      m_Right: 23
+      m_Top: 21
+      m_Bottom: 20
+    rotated: 0
+    sizeInPixels: {x: 113, y: 113}
+    textureGUID: 33245b88a3e89426a95ddc3e9210685e
+    deleted: 0
+    texture: {fileID: 0}
+  - name: interface_button_4
+    region:
+      serializedVersion: 2
+      x: .422851562
+      y: .501953125
+      width: .0395507812
+      height: .0551757812
+    border:
+      m_Left: 21
+      m_Right: 21
+      m_Top: 25
+      m_Bottom: 26
+    rotated: 0
+    sizeInPixels: {x: 81, y: 113}
+    textureGUID: c93dd04cf6449455ea7088c2963cd205
+    deleted: 0
+    texture: {fileID: 0}
+  - name: interface_button_next
+    region:
+      serializedVersion: 2
+      x: .0883789062
+      y: .580566406
+      width: .0771484375
+      height: .025390625
+    border:
+      m_Left: 13
+      m_Right: 34
+      m_Top: 24
+      m_Bottom: 28
+    rotated: 0
+    sizeInPixels: {x: 158, y: 52}
+    textureGUID: 4a738eddeb56e4a88af215eb665e6659
+    deleted: 0
+    texture: {fileID: 0}
+  - name: interface_button_next_bg_gradient
+    region:
+      serializedVersion: 2
+      x: .0883789062
+      y: .606933594
+      width: .0703125
+      height: .0190429688
+    border:
+      m_Left: 20
+      m_Right: 62
+      m_Top: 17
+      m_Bottom: 22
+    rotated: 0
+    sizeInPixels: {x: 144, y: 39}
+    textureGUID: 8d77a64aa25d14f2cb58073b7384fc56
+    deleted: 0
+    texture: {fileID: 0}
+  - name: interface_button_prev
+    region:
+      serializedVersion: 2
+      x: .0883789062
+      y: .552734375
+      width: .0771484375
+      height: .0268554688
+    border:
+      m_Left: 37
+      m_Right: 15
+      m_Top: 27
+      m_Bottom: 29
+    rotated: 0
+    sizeInPixels: {x: 158, y: 55}
+    textureGUID: b8d0051f03a8a4d7180d2bf76dbfd8ed
+    deleted: 0
+    texture: {fileID: 0}
+  - name: interface_button_selected
+    region:
+      serializedVersion: 2
+      x: 0
+      y: .282226562
+      width: .485839844
+      height: .0927734375
+    border:
+      m_Left: 75
+      m_Right: 75
+      m_Top: 80
+      m_Bottom: 80
+    rotated: 0
+    sizeInPixels: {x: 995, y: 190}
+    textureGUID: aae68c77e3d3842c682118daac559ada
+    deleted: 0
+    texture: {fileID: 0}
+  - name: interface_container_bg
+    region:
+      serializedVersion: 2
+      x: .467773438
+      y: .41796875
+      width: .00732421875
+      height: .00634765625
+    border:
+      m_Left: 0
+      m_Right: 0
+      m_Top: 0
+      m_Bottom: 0
+    rotated: 0
+    sizeInPixels: {x: 15, y: 13}
+    textureGUID: 18912e886df364773be2ba42a731232c
+    deleted: 0
+    texture: {fileID: 0}
+  - name: interface_container_outer
+    region:
+      serializedVersion: 2
+      x: 0
+      y: .375976562
+      width: .215820312
+      height: .17578125
+    border:
+      m_Left: 62
+      m_Right: 62
+      m_Top: 62
+      m_Bottom: 62
+    rotated: 0
+    sizeInPixels: {x: 442, y: 360}
+    textureGUID: bf4574abd117a40feb9ea17d54c6036a
+    deleted: 0
+    texture: {fileID: 0}
+  - name: interface_container_outer_medium
+    region:
+      serializedVersion: 2
+      x: .467773438
+      y: .42578125
+      width: .146484375
+      height: .119140625
+    border:
+      m_Left: 40
+      m_Right: 40
+      m_Top: 40
+      m_Bottom: 40
+    rotated: 0
+    sizeInPixels: {x: 300, y: 244}
+    textureGUID: 5ab5f82a2988d4e988f5c26a37a29c2b
+    deleted: 0
+    texture: {fileID: 0}
+  - name: interface_container_outer_small
+    region:
+      serializedVersion: 2
+      x: .348632812
+      y: .501953125
+      width: .0732421875
+      height: .0595703125
+    border:
+      m_Left: 20
+      m_Right: 20
+      m_Top: 20
+      m_Bottom: 20
+    rotated: 0
+    sizeInPixels: {x: 150, y: 122}
+    textureGUID: 1b140f21df459400294fb3b17ad0af7c
+    deleted: 0
+    texture: {fileID: 0}
+  - name: interface_counter_bullet
+    region:
+      serializedVersion: 2
+      x: .927246094
+      y: .42578125
+      width: .0551757812
+      height: .15625
+    border:
+      m_Left: 0
+      m_Right: 0
+      m_Top: 0
+      m_Bottom: 0
+    rotated: 0
+    sizeInPixels: {x: 113, y: 320}
+    textureGUID: 16420e5255dce45f790213faa7564ff0
+    deleted: 0
+    texture: {fileID: 0}
+  - name: interface_dropdown
+    region:
+      serializedVersion: 2
+      x: .467773438
+      y: .375976562
+      width: .0170898438
+      height: .0200195312
+    border:
+      m_Left: 0
+      m_Right: 0
+      m_Top: 0
+      m_Bottom: 0
+    rotated: 0
+    sizeInPixels: {x: 35, y: 41}
+    textureGUID: 9d9dcdb4e09b5486fa74d88c89f312b5
+    deleted: 0
+    texture: {fileID: 0}
+  - name: interface_dropdown_selected
+    region:
+      serializedVersion: 2
+      x: .467773438
+      y: .396972656
+      width: .0170898438
+      height: .0200195312
+    border:
+      m_Left: 0
+      m_Right: 0
+      m_Top: 0
+      m_Bottom: 0
+    rotated: 0
+    sizeInPixels: {x: 35, y: 41}
+    textureGUID: bc7483fb9a1944be0a75b30e50f4675f
+    deleted: 0
+    texture: {fileID: 0}
+  - name: interface_gradient
+    region:
+      serializedVersion: 2
+      x: .615234375
+      y: .537597656
+      width: .13671875
+      height: .0009765625
+    border:
+      m_Left: 0
+      m_Right: 0
+      m_Top: 0
+      m_Bottom: 0
+    rotated: 0
+    sizeInPixels: {x: 280, y: 2}
+    textureGUID: a62ceea9b0e2d48d195f5093b35cc64a
+    deleted: 0
+    texture: {fileID: 0}
+  - name: interface_inlay
+    region:
+      serializedVersion: 2
+      x: .983398438
+      y: .458007812
+      width: .0146484375
+      height: .0146484375
+    border:
+      m_Left: 12
+      m_Right: 12
+      m_Top: 12
+      m_Bottom: 12
+    rotated: 0
+    sizeInPixels: {x: 30, y: 30}
+    textureGUID: df77bc1fa5e0c4aea9f5953b7e4637ee
+    deleted: 0
+    texture: {fileID: 0}
+  - name: interface_radio
+    region:
+      serializedVersion: 2
+      x: .166503906
+      y: .600097656
+      width: .0317382812
+      height: .0327148438
+    border:
+      m_Left: 32
+      m_Right: 32
+      m_Top: 32
+      m_Bottom: 34
+    rotated: 0
+    sizeInPixels: {x: 65, y: 67}
+    textureGUID: ba824438f09c14481965cac59fd34b68
+    deleted: 0
+    texture: {fileID: 0}
+  - name: interface_radio_selected
+    region:
+      serializedVersion: 2
+      x: .033203125
+      y: .62109375
+      width: .0317382812
+      height: .0327148438
+    border:
+      m_Left: 0
+      m_Right: 0
+      m_Top: 0
+      m_Bottom: 0
+    rotated: 0
+    sizeInPixels: {x: 65, y: 67}
+    textureGUID: e3999650545d048fdbf8815ee6d5709d
+    deleted: 0
+    texture: {fileID: 0}
+  - name: interface_radio_selected_small
+    region:
+      serializedVersion: 2
+      x: .199707031
+      y: .569824219
+      width: .0146484375
+      height: .0151367188
+    border:
+      m_Left: 0
+      m_Right: 0
+      m_Top: 0
+      m_Bottom: 0
+    rotated: 0
+    sizeInPixels: {x: 30, y: 31}
+    textureGUID: ab803964fe159410b8940206cc45b82f
+    deleted: 0
+    texture: {fileID: 0}
+  - name: interface_radio_small
+    region:
+      serializedVersion: 2
+      x: .983398438
+      y: .42578125
+      width: .0146484375
+      height: .0151367188
+    border:
+      m_Left: 0
+      m_Right: 0
+      m_Top: 0
+      m_Bottom: 0
+    rotated: 0
+    sizeInPixels: {x: 30, y: 31}
+    textureGUID: d1c85280a982749828a6b6244156a9c3
+    deleted: 0
+    texture: {fileID: 0}
+  - name: interface_slider
+    region:
+      serializedVersion: 2
+      x: .486816406
+      y: .338867188
+      width: .5
+      height: .0859375
+    border:
+      m_Left: 119
+      m_Right: 116
+      m_Top: 0
+      m_Bottom: 0
+    rotated: 0
+    sizeInPixels: {x: 1024, y: 176}
+    textureGUID: 4511476fa6bc9474e8a7d7ee53dde649
+    deleted: 0
+    texture: {fileID: 0}
+  - name: interface_slider_dot_selected
+    region:
+      serializedVersion: 2
+      x: .199707031
+      y: .552734375
+      width: .0161132812
+      height: .0161132812
+    border:
+      m_Left: 0
+      m_Right: 0
+      m_Top: 0
+      m_Bottom: 0
+    rotated: 0
+    sizeInPixels: {x: 33, y: 33}
+    textureGUID: 899d3648cef1d41f68a3ac5894597e53
+    deleted: 0
+    texture: {fileID: 0}
+  - name: interface_slider_dot_unselected
+    region:
+      serializedVersion: 2
+      x: .199707031
+      y: .5859375
+      width: .0122070312
+      height: .0126953125
+    border:
+      m_Left: 13
+      m_Right: 13
+      m_Top: 13
+      m_Bottom: 13
+    rotated: 0
+    sizeInPixels: {x: 25, y: 26}
+    textureGUID: a506184767a884f44900975b3fa6c31b
+    deleted: 0
+    texture: {fileID: 0}
+  - name: interface_slider_increment
+    region:
+      serializedVersion: 2
+      x: .486816406
+      y: .282226562
+      width: .0029296875
+      height: .0131835938
+    border:
+      m_Left: 0
+      m_Right: 0
+      m_Top: 0
+      m_Bottom: 0
+    rotated: 0
+    sizeInPixels: {x: 6, y: 27}
+    textureGUID: 22d27846295a4437698f9e1a3fb30c5b
+    deleted: 0
+    texture: {fileID: 0}
+  - name: interface_slider_small
+    region:
+      serializedVersion: 2
+      x: .615234375
+      y: .482910156
+      width: .311035156
+      height: .0537109375
+    border:
+      m_Left: 69
+      m_Right: 69
+      m_Top: 0
+      m_Bottom: 0
+    rotated: 0
+    sizeInPixels: {x: 637, y: 110}
+    textureGUID: ec79c654bf2b443e8b2d5e09a3e3a7de
+    deleted: 0
+    texture: {fileID: 0}
+  - name: interface_slider_thumb
+    region:
+      serializedVersion: 2
+      x: .0561523438
+      y: .552734375
+      width: .03125
+      height: .0673828125
+    border:
+      m_Left: 0
+      m_Right: 0
+      m_Top: 0
+      m_Bottom: 0
+    rotated: 0
+    sizeInPixels: {x: 64, y: 138}
+    textureGUID: 6463165a60cce46aca04c1bc7341839c
+    deleted: 0
+    texture: {fileID: 0}
+  - name: interface_slider_thumb_small
+    region:
+      serializedVersion: 2
+      x: .0659179688
+      y: .62109375
+      width: .01953125
+      height: .0419921875
+    border:
+      m_Left: 0
+      m_Right: 0
+      m_Top: 0
+      m_Bottom: 0
+    rotated: 0
+    sizeInPixels: {x: 40, y: 86}
+    textureGUID: f98827cc605b54ebb9989493e76a1633
+    deleted: 0
+    texture: {fileID: 0}
+  - name: interface_speedometer_bg
+    region:
+      serializedVersion: 2
+      x: .216796875
+      y: .501953125
+      width: .130859375
+      height: .130371094
+    border:
+      m_Left: 0
+      m_Right: 0
+      m_Top: 0
+      m_Bottom: 0
+    rotated: 0
+    sizeInPixels: {x: 268, y: 267}
+    textureGUID: a3f25eb24b8524df7a6316cda670127f
+    deleted: 0
+    texture: {fileID: 0}
+  - name: interface_speedometer_needle
+    region:
+      serializedVersion: 2
+      x: .19921875
+      y: .600097656
+      width: .0102539062
+      height: .060546875
+    border:
+      m_Left: 0
+      m_Right: 0
+      m_Top: 0
+      m_Bottom: 0
+    rotated: 0
+    sizeInPixels: {x: 21, y: 124}
+    textureGUID: 77a9ea4c166474346ae4991c25e95b1c
+    deleted: 0
+    texture: {fileID: 0}
+  - name: interface_text_bubble_blue
+    region:
+      serializedVersion: 2
+      x: 0
+      y: .608886719
+      width: .0322265625
+      height: .0463867188
+    border:
+      m_Left: 48
+      m_Right: 16
+      m_Top: 13
+      m_Bottom: 31
+    rotated: 0
+    sizeInPixels: {x: 66, y: 95}
+    textureGUID: 1b2eeaf0d6aea4ea395c817e142156c6
+    deleted: 0
+    texture: {fileID: 0}
+  - name: interface_text_bubble_green
+    region:
+      serializedVersion: 2
+      x: .166503906
+      y: .552734375
+      width: .0322265625
+      height: .0463867188
+    border:
+      m_Left: 48
+      m_Right: 16
+      m_Top: 13
+      m_Bottom: 31
+    rotated: 0
+    sizeInPixels: {x: 66, y: 95}
+    textureGUID: b28cb5cf3358746798a4d9802b0cf17e
+    deleted: 0
+    texture: {fileID: 0}
+  - name: interface_white_border
+    region:
+      serializedVersion: 2
+      x: .983398438
+      y: .441894531
+      width: .0146484375
+      height: .0151367188
+    border:
+      m_Left: 11
+      m_Right: 11
+      m_Top: 10
+      m_Bottom: 14
+    rotated: 0
+    sizeInPixels: {x: 30, y: 31}
+    textureGUID: d89e6e0c8b08a49abba3a8e66cd0d44a
+    deleted: 0
+    texture: {fileID: 0}
+  - name: logo
+    region:
+      serializedVersion: 2
+      x: .500976562
+      y: 0
+      width: .48828125
+      height: .244140625
+    border:
+      m_Left: 0
+      m_Right: 0
+      m_Top: 0
+      m_Bottom: 0
+    rotated: 0
+    sizeInPixels: {x: 1000, y: 500}
+    textureGUID: 8d3b183eb9af654438837d4e835e6c47
+    deleted: 0
+    texture: {fileID: 0}
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 100000}
+  m_IsPrefabParent: 1
+  m_IsExploded: 1
