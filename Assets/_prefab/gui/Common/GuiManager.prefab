@@ -1,0 +1,103 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &100000
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 400000}
+  - 114: {fileID: 11400002}
+  - 114: {fileID: 11400000}
+  m_Layer: 0
+  m_Name: GuiManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &400000
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100000}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100000}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a883859c66de04b4bab37720cabefe4c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  acComm: {fileID: 0}
+  createSession: {fileID: 11400056, guid: cbaf21ed87e6c46479b66694962fbb66, type: 2}
+--- !u!114 &11400002
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100000}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d7e5a6e06840e4265abe36de41c620bd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  uiRootPrefab: {fileID: 100004, guid: 6f8537972920d462a9cd32c0a7bf22cb, type: 2}
+  sliderContainer: {fileID: 100000, guid: 9b10f0075c4b94444bd916e2f2530c75, type: 2}
+  slider: {fileID: 100022, guid: 4a7d7d57e19fe4545a1142df9835aab1, type: 2}
+  sliderWithIncrements: {fileID: 100000, guid: a2feddc003e15459394a2a9a93cdb175, type: 2}
+  blackOverlay: {fileID: 100000, guid: 9f5c04b2f86264f66903f0e92e089341, type: 2}
+  genericContainer: {fileID: 100002, guid: 854bbe1775a1340ea90f765fa1582f9e, type: 2}
+  multipleChoiceOption: {fileID: 11400010, guid: 0a88d15b0abb04bdf938dda5750f91e6,
+    type: 2}
+  mainMenu: {fileID: 11400028, guid: 9c9a498ad48a849dcb672df995c1d10c, type: 2}
+  bulletCount: {fileID: 11400020, guid: 4fc41334521de467da78e5540c52dede, type: 2}
+  uiContainer: {fileID: 0}
+  createSession: {fileID: 11400056, guid: cbaf21ed87e6c46479b66694962fbb66, type: 2}
+  aboutPage: {fileID: 11400056, guid: 72d3a3a185cca4e6d8443e6ba83d1791, type: 2}
+  dialogContainer: {fileID: 11400000, guid: 4eda5fe96f87d436892e65b1d314ac45, type: 2}
+  multipleChoiceContainer: {fileID: 11400000, guid: 7ef9fdfd93d0542fab6ec4f02f944536,
+    type: 2}
+  textMessageContainer: {fileID: 11400000, guid: 146ce40158c0a4dcea5f3276f0adfbd3,
+    type: 2}
+  dialogLabel: {fileID: 11400000, guid: 4841b47daf9d44e84a5ac4d12a500967, type: 2}
+  textMessage: {fileID: 11400000, guid: e8de7765b97294a3c9002d466d32d103, type: 2}
+  hints: {fileID: 11400004, guid: 111e06f9d1ae141109085943fafabe2d, type: 2}
+  textMessageSound: {fileID: 8300000, guid: 081ac521ea032412abd0585a00f70dfe, type: 3}
+  downscaler: .000750000007
+  downscaler4by3: 9.99999975e-05
+  font: 1
+  font4by3: 1
+  font16by9: 1
+  IS4BY3: 0
+  USE_TEMP_RESOLUTION: 0
+  TESTING_MULT_CHOICE: 0
+  TESTING_SLIDER_W_INCREMENTS: 0
+  TESTING_SLIDER: 0
+  TESTING_MAIN_MENU: 0
+  TESTING_DIALOG: 0
+  TESTING_TEXTS: 0
+  TESTING_HINTS: 0
+  TESTING_BULLETS: 0
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 100000}
+  m_IsPrefabParent: 1
+  m_IsExploded: 1
