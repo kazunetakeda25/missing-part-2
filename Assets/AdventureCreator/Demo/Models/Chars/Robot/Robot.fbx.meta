@@ -1,0 +1,1212 @@
+fileFormatVersion: 2
+guid: 554d449a9517f40a0850abaa04f70d7a
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Arm_L
+    100002: Arm_R
+    100004: Base
+    100006: Chest
+    100008: Elbow_L
+    100010: Elbow_R
+    100012: Eye_L
+    100014: Eye_R
+    100016: Fingers_L
+    100018: Fingers_R
+    100020: Forearm_L
+    100022: Forearm_R
+    100024: Hand_L
+    100026: Hand_R
+    100028: Head
+    100030: Jaw
+    100032: Leg
+    100034: Neck
+    100036: Robot
+    100038: //RootNode
+    100040: rRobot
+    100042: Tail
+    100044: Thumb_L
+    100046: Thumb_R
+    100048: Wheel
+    100050: WheelPosition
+    100052: Hold_L
+    100054: Hold_R
+    100056: Sword
+    400000: Arm_L
+    400002: Arm_R
+    400004: Base
+    400006: Chest
+    400008: Elbow_L
+    400010: Elbow_R
+    400012: Eye_L
+    400014: Eye_R
+    400016: Fingers_L
+    400018: Fingers_R
+    400020: Forearm_L
+    400022: Forearm_R
+    400024: Hand_L
+    400026: Hand_R
+    400028: Head
+    400030: Jaw
+    400032: Leg
+    400034: Neck
+    400036: //RootNode
+    400038: Robot
+    400040: rRobot
+    400042: Tail
+    400044: Thumb_L
+    400046: Thumb_R
+    400048: Wheel
+    400050: WheelPosition
+    400052: Hold_L
+    400054: Hold_R
+    400056: Sword
+    2300000: Sword
+    3300000: Sword
+    4300000: Robot
+    4300002: Sword
+    7400000: Robot_Shudder
+    7400002: Robot_Idle
+    7400004: Robot_Jaw
+    7400006: Robot_Run
+    7400008: Robot_Spin
+    7400010: Robot_Talk
+    7400012: Robot_Walk
+    7400014: Robot_Wave
+    7400016: Robot_Appear
+    7400018: Robot_AppearIdle
+    7400020: Robot_TakeSword
+    7400022: Robot_Push
+    7400024: Robot_PushStart
+    7400026: Robot_PushCancel
+    7400028: Robot_ReadySword
+    7400030: Robot_PriseBarrel
+    7400032: Robot_Strain
+    7400034: Robot_ArmPop
+    7400036: Robot_ShakeHead
+    7400038: Robot_HopAlong
+    7400040: Robot_PriseCanvas
+    7400042: Robot_LiftCanvas
+    7400044: Robot_LookDown
+    7400046: Robot_LookUp
+    7400048: Robot_HopUp
+    7400050: Robot_HopDown
+    7400052: Robot_ShowSword
+    7400054: Robot_Sleep
+    7400056: Robot_LookLeft
+    7400058: Robot_LookRight
+    7400060: Robot_LookDownIdle
+    7400062: Robot_LookUpIdle
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Robot
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 0
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Robot_Idle
+      takeName: Robot_Idle
+      firstFrame: 0
+      lastFrame: 200
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Robot_Jaw
+      takeName: Robot_Jaw
+      firstFrame: 0
+      lastFrame: 2
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Robot_Run
+      takeName: Robot_Run
+      firstFrame: 0
+      lastFrame: 6
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Robot_Spin
+      takeName: Robot_Spin
+      firstFrame: 0
+      lastFrame: 39
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Robot_Talk
+      takeName: Robot_Talk
+      firstFrame: 0
+      lastFrame: 34
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Robot_Walk
+      takeName: Robot_Walk
+      firstFrame: 0
+      lastFrame: 16
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Robot_Wave
+      takeName: Robot_Wave
+      firstFrame: 0
+      lastFrame: 64
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Robot_Appear
+      takeName: Robot_Appear
+      firstFrame: 0
+      lastFrame: 147
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Robot_AppearIdle
+      takeName: Robot_AppearIdle
+      firstFrame: 1
+      lastFrame: 113
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Robot_TakeSword
+      takeName: Robot_TakeSword
+      firstFrame: 0
+      lastFrame: 97
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Robot_Push
+      takeName: Robot_Push
+      firstFrame: 0
+      lastFrame: 56
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Robot_PushStart
+      takeName: Robot_PushStart
+      firstFrame: 0
+      lastFrame: 44
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Robot_PushCancel
+      takeName: Robot_PushCancel
+      firstFrame: 0
+      lastFrame: 34
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Robot_ReadySword
+      takeName: Robot_ReadySword
+      firstFrame: 0
+      lastFrame: 60
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Robot_PriseBarrel
+      takeName: Robot_PriseBarrel
+      firstFrame: 0
+      lastFrame: 63
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Robot_Strain
+      takeName: Robot_Strain
+      firstFrame: 0
+      lastFrame: 163
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Robot_ArmPop
+      takeName: Robot_ArmPop
+      firstFrame: 0
+      lastFrame: 95
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Robot_ShakeHead
+      takeName: Robot_ShakeHead
+      firstFrame: 0
+      lastFrame: 82
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Robot_HopAlong
+      takeName: Robot_HopAlong
+      firstFrame: 0
+      lastFrame: 59
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Robot_PriseCanvas
+      takeName: Robot_PriseCanvas
+      firstFrame: 0
+      lastFrame: 141
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Robot_LiftCanvas
+      takeName: Robot_LiftCanvas
+      firstFrame: 0
+      lastFrame: 125
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Robot_LookDownIdle
+      takeName: Robot_LookDownIdle
+      firstFrame: 0
+      lastFrame: 23
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Robot_Shudder
+      takeName: Robot_Shudder
+      firstFrame: 0
+      lastFrame: 34
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Robot_LookUpIdle
+      takeName: Robot_LookUpIdle
+      firstFrame: 0
+      lastFrame: 58
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Robot_HopUp
+      takeName: Robot_HopUp
+      firstFrame: 0
+      lastFrame: 34
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Robot_HopDown
+      takeName: Robot_HopDown
+      firstFrame: 0
+      lastFrame: 28
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Robot_ShowSword
+      takeName: Robot_ShowSword
+      firstFrame: 0
+      lastFrame: 73
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Robot_Sleep
+      takeName: Robot_Sleep
+      firstFrame: 0
+      lastFrame: 100
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Robot_LookLeft
+      takeName: Robot_LookLeft
+      firstFrame: 0
+      lastFrame: 23
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Robot
+        weight: 1
+      - path: rRobot
+        weight: 1
+      - path: rRobot/Base
+        weight: 1
+      - path: rRobot/Base/WheelPosition
+        weight: 1
+      - path: rRobot/Base/WheelPosition/Leg
+        weight: 1
+      - path: rRobot/Base/WheelPosition/Leg/Chest
+        weight: 1
+      - path: rRobot/Base/WheelPosition/Leg/Chest/Arm_L
+        weight: 1
+      - path: rRobot/Base/WheelPosition/Leg/Chest/Arm_L/Elbow_L
+        weight: 1
+      - path: rRobot/Base/WheelPosition/Leg/Chest/Arm_L/Forearm_L
+        weight: 1
+      - path: rRobot/Base/WheelPosition/Leg/Chest/Arm_L/Forearm_L/Hand_L
+        weight: 1
+      - path: rRobot/Base/WheelPosition/Leg/Chest/Arm_L/Forearm_L/Hand_L/Fingers_L
+        weight: 1
+      - path: rRobot/Base/WheelPosition/Leg/Chest/Arm_L/Forearm_L/Hand_L/Hold_L
+        weight: 1
+      - path: rRobot/Base/WheelPosition/Leg/Chest/Arm_L/Forearm_L/Hand_L/Thumb_L
+        weight: 1
+      - path: rRobot/Base/WheelPosition/Leg/Chest/Arm_R
+        weight: 1
+      - path: rRobot/Base/WheelPosition/Leg/Chest/Arm_R/Elbow_R
+        weight: 1
+      - path: rRobot/Base/WheelPosition/Leg/Chest/Arm_R/Forearm_R
+        weight: 1
+      - path: rRobot/Base/WheelPosition/Leg/Chest/Arm_R/Forearm_R/Hand_R
+        weight: 1
+      - path: rRobot/Base/WheelPosition/Leg/Chest/Arm_R/Forearm_R/Hand_R/Fingers_R
+        weight: 1
+      - path: rRobot/Base/WheelPosition/Leg/Chest/Arm_R/Forearm_R/Hand_R/Hold_R
+        weight: 1
+      - path: rRobot/Base/WheelPosition/Leg/Chest/Arm_R/Forearm_R/Hand_R/Thumb_R
+        weight: 1
+      - path: rRobot/Base/WheelPosition/Leg/Chest/Neck
+        weight: 1
+      - path: rRobot/Base/WheelPosition/Leg/Chest/Neck/Head
+        weight: 1
+      - path: rRobot/Base/WheelPosition/Leg/Chest/Neck/Head/Eye_L
+        weight: 1
+      - path: rRobot/Base/WheelPosition/Leg/Chest/Neck/Head/Eye_R
+        weight: 1
+      - path: rRobot/Base/WheelPosition/Leg/Chest/Neck/Head/Jaw
+        weight: 1
+      - path: rRobot/Base/WheelPosition/Leg/Chest/Neck/Head/Tail
+        weight: 1
+      - path: rRobot/Base/WheelPosition/Wheel
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Robot_LookRight
+      takeName: Robot_LookRight
+      firstFrame: 0
+      lastFrame: 23
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Robot
+        weight: 1
+      - path: rRobot
+        weight: 1
+      - path: rRobot/Base
+        weight: 1
+      - path: rRobot/Base/WheelPosition
+        weight: 1
+      - path: rRobot/Base/WheelPosition/Leg
+        weight: 1
+      - path: rRobot/Base/WheelPosition/Leg/Chest
+        weight: 1
+      - path: rRobot/Base/WheelPosition/Leg/Chest/Arm_L
+        weight: 1
+      - path: rRobot/Base/WheelPosition/Leg/Chest/Arm_L/Elbow_L
+        weight: 1
+      - path: rRobot/Base/WheelPosition/Leg/Chest/Arm_L/Forearm_L
+        weight: 1
+      - path: rRobot/Base/WheelPosition/Leg/Chest/Arm_L/Forearm_L/Hand_L
+        weight: 1
+      - path: rRobot/Base/WheelPosition/Leg/Chest/Arm_L/Forearm_L/Hand_L/Fingers_L
+        weight: 1
+      - path: rRobot/Base/WheelPosition/Leg/Chest/Arm_L/Forearm_L/Hand_L/Hold_L
+        weight: 1
+      - path: rRobot/Base/WheelPosition/Leg/Chest/Arm_L/Forearm_L/Hand_L/Thumb_L
+        weight: 1
+      - path: rRobot/Base/WheelPosition/Leg/Chest/Arm_R
+        weight: 1
+      - path: rRobot/Base/WheelPosition/Leg/Chest/Arm_R/Elbow_R
+        weight: 1
+      - path: rRobot/Base/WheelPosition/Leg/Chest/Arm_R/Forearm_R
+        weight: 1
+      - path: rRobot/Base/WheelPosition/Leg/Chest/Arm_R/Forearm_R/Hand_R
+        weight: 1
+      - path: rRobot/Base/WheelPosition/Leg/Chest/Arm_R/Forearm_R/Hand_R/Fingers_R
+        weight: 1
+      - path: rRobot/Base/WheelPosition/Leg/Chest/Arm_R/Forearm_R/Hand_R/Hold_R
+        weight: 1
+      - path: rRobot/Base/WheelPosition/Leg/Chest/Arm_R/Forearm_R/Hand_R/Thumb_R
+        weight: 1
+      - path: rRobot/Base/WheelPosition/Leg/Chest/Neck
+        weight: 1
+      - path: rRobot/Base/WheelPosition/Leg/Chest/Neck/Head
+        weight: 1
+      - path: rRobot/Base/WheelPosition/Leg/Chest/Neck/Head/Eye_L
+        weight: 1
+      - path: rRobot/Base/WheelPosition/Leg/Chest/Neck/Head/Eye_R
+        weight: 1
+      - path: rRobot/Base/WheelPosition/Leg/Chest/Neck/Head/Jaw
+        weight: 1
+      - path: rRobot/Base/WheelPosition/Leg/Chest/Neck/Head/Tail
+        weight: 1
+      - path: rRobot/Base/WheelPosition/Wheel
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Robot_LookDown
+      takeName: Robot_LookDown
+      firstFrame: 0
+      lastFrame: 23
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Robot
+        weight: 1
+      - path: rRobot
+        weight: 1
+      - path: rRobot/Base
+        weight: 1
+      - path: rRobot/Base/WheelPosition
+        weight: 1
+      - path: rRobot/Base/WheelPosition/Leg
+        weight: 1
+      - path: rRobot/Base/WheelPosition/Leg/Chest
+        weight: 1
+      - path: rRobot/Base/WheelPosition/Leg/Chest/Arm_L
+        weight: 1
+      - path: rRobot/Base/WheelPosition/Leg/Chest/Arm_L/Elbow_L
+        weight: 1
+      - path: rRobot/Base/WheelPosition/Leg/Chest/Arm_L/Forearm_L
+        weight: 1
+      - path: rRobot/Base/WheelPosition/Leg/Chest/Arm_L/Forearm_L/Hand_L
+        weight: 1
+      - path: rRobot/Base/WheelPosition/Leg/Chest/Arm_L/Forearm_L/Hand_L/Fingers_L
+        weight: 1
+      - path: rRobot/Base/WheelPosition/Leg/Chest/Arm_L/Forearm_L/Hand_L/Hold_L
+        weight: 1
+      - path: rRobot/Base/WheelPosition/Leg/Chest/Arm_L/Forearm_L/Hand_L/Thumb_L
+        weight: 1
+      - path: rRobot/Base/WheelPosition/Leg/Chest/Arm_R
+        weight: 1
+      - path: rRobot/Base/WheelPosition/Leg/Chest/Arm_R/Elbow_R
+        weight: 1
+      - path: rRobot/Base/WheelPosition/Leg/Chest/Arm_R/Forearm_R
+        weight: 1
+      - path: rRobot/Base/WheelPosition/Leg/Chest/Arm_R/Forearm_R/Hand_R
+        weight: 1
+      - path: rRobot/Base/WheelPosition/Leg/Chest/Arm_R/Forearm_R/Hand_R/Fingers_R
+        weight: 1
+      - path: rRobot/Base/WheelPosition/Leg/Chest/Arm_R/Forearm_R/Hand_R/Hold_R
+        weight: 1
+      - path: rRobot/Base/WheelPosition/Leg/Chest/Arm_R/Forearm_R/Hand_R/Thumb_R
+        weight: 1
+      - path: rRobot/Base/WheelPosition/Leg/Chest/Neck
+        weight: 1
+      - path: rRobot/Base/WheelPosition/Leg/Chest/Neck/Head
+        weight: 1
+      - path: rRobot/Base/WheelPosition/Leg/Chest/Neck/Head/Eye_L
+        weight: 1
+      - path: rRobot/Base/WheelPosition/Leg/Chest/Neck/Head/Eye_R
+        weight: 1
+      - path: rRobot/Base/WheelPosition/Leg/Chest/Neck/Head/Jaw
+        weight: 1
+      - path: rRobot/Base/WheelPosition/Leg/Chest/Neck/Head/Tail
+        weight: 1
+      - path: rRobot/Base/WheelPosition/Wheel
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Robot_LookUp
+      takeName: Robot_LookUp
+      firstFrame: 0
+      lastFrame: 23
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Robot
+        weight: 1
+      - path: rRobot
+        weight: 1
+      - path: rRobot/Base
+        weight: 1
+      - path: rRobot/Base/WheelPosition
+        weight: 1
+      - path: rRobot/Base/WheelPosition/Leg
+        weight: 1
+      - path: rRobot/Base/WheelPosition/Leg/Chest
+        weight: 1
+      - path: rRobot/Base/WheelPosition/Leg/Chest/Arm_L
+        weight: 1
+      - path: rRobot/Base/WheelPosition/Leg/Chest/Arm_L/Elbow_L
+        weight: 1
+      - path: rRobot/Base/WheelPosition/Leg/Chest/Arm_L/Forearm_L
+        weight: 1
+      - path: rRobot/Base/WheelPosition/Leg/Chest/Arm_L/Forearm_L/Hand_L
+        weight: 1
+      - path: rRobot/Base/WheelPosition/Leg/Chest/Arm_L/Forearm_L/Hand_L/Fingers_L
+        weight: 1
+      - path: rRobot/Base/WheelPosition/Leg/Chest/Arm_L/Forearm_L/Hand_L/Hold_L
+        weight: 1
+      - path: rRobot/Base/WheelPosition/Leg/Chest/Arm_L/Forearm_L/Hand_L/Thumb_L
+        weight: 1
+      - path: rRobot/Base/WheelPosition/Leg/Chest/Arm_R
+        weight: 1
+      - path: rRobot/Base/WheelPosition/Leg/Chest/Arm_R/Elbow_R
+        weight: 1
+      - path: rRobot/Base/WheelPosition/Leg/Chest/Arm_R/Forearm_R
+        weight: 1
+      - path: rRobot/Base/WheelPosition/Leg/Chest/Arm_R/Forearm_R/Hand_R
+        weight: 1
+      - path: rRobot/Base/WheelPosition/Leg/Chest/Arm_R/Forearm_R/Hand_R/Fingers_R
+        weight: 1
+      - path: rRobot/Base/WheelPosition/Leg/Chest/Arm_R/Forearm_R/Hand_R/Hold_R
+        weight: 1
+      - path: rRobot/Base/WheelPosition/Leg/Chest/Arm_R/Forearm_R/Hand_R/Thumb_R
+        weight: 1
+      - path: rRobot/Base/WheelPosition/Leg/Chest/Neck
+        weight: 1
+      - path: rRobot/Base/WheelPosition/Leg/Chest/Neck/Head
+        weight: 1
+      - path: rRobot/Base/WheelPosition/Leg/Chest/Neck/Head/Eye_L
+        weight: 1
+      - path: rRobot/Base/WheelPosition/Leg/Chest/Neck/Head/Eye_R
+        weight: 1
+      - path: rRobot/Base/WheelPosition/Leg/Chest/Neck/Head/Jaw
+        weight: 1
+      - path: rRobot/Base/WheelPosition/Leg/Chest/Neck/Head/Tail
+        weight: 1
+      - path: rRobot/Base/WheelPosition/Wheel
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 

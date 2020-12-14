@@ -1,0 +1,114 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &100000
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 400000}
+  - 114: {fileID: 11400002}
+  - 114: {fileID: 11400004}
+  m_Layer: 2
+  m_Name: ConversationDaikon
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &400000
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100000}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+--- !u!114 &11400002
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100000}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 78b1b97fe2b064fe387b7909723534cd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  constantID: -1612950
+--- !u!114 &11400004
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100000}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d8c6f7081f1af424fb8bb544fb171ebf, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  isTimed: 0
+  quizType: 0
+  timer: 5
+  defaultOption:
+    label: (Not set)
+    isOn: 0
+    isLocked: 0
+    returnToConversation: 0
+    dialogueOption: {fileID: 0}
+  options:
+  - label: The price tomorrow seems like it should go to 55.5.
+    isOn: 1
+    isLocked: 0
+    returnToConversation: 0
+    dialogueOption: {fileID: 0}
+  - label: The price tomorrow seems like it should go to 57.
+    isOn: 1
+    isLocked: 0
+    returnToConversation: 0
+    dialogueOption: {fileID: 0}
+  - label: The price tomorrow seems like it should go to 54.
+    isOn: 1
+    isLocked: 0
+    returnToConversation: 0
+    dialogueOption: {fileID: 0}
+  - label: The price tomorrow seems like it should go to 54 as 56.5.
+    isOn: 1
+    isLocked: 0
+    returnToConversation: 0
+    dialogueOption: {fileID: 0}
+  - label: Repeat
+    isOn: 1
+    isLocked: 0
+    returnToConversation: 0
+    dialogueOption: {fileID: 0}
+  position:
+  - {x: 345, y: 0, z: 0}
+  - {x: 2345, y: 0, z: 0}
+  - {x: 21, y: 0, z: 0}
+  - {x: 6531, y: 0, z: 0}
+  - {x: 0, y: 0, z: 0}
+  height:
+  - 65
+  - 65432
+  - 5123
+  - 5134
+  - 0
+  pos: {x: 30, y: 13}
+  hei: 40
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 100000}
+  m_IsPrefabParent: 1
+  m_IsExploded: 1
