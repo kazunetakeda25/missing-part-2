@@ -1,0 +1,31 @@
+Daikon Forge GUI v1.0.11
+
+* Create GUI Wizard no longer allows the use of layer 31 for GUI 
+* Modified Game Menu demo to use replacement shader at runtime
+* Explicitly disabled occlusion culling on UI camera at runtime
+* Added ability to replace UI camera with another camera - useful for 3D interfaces
+* Added ability to pan UI camera
+* Added example of adding FlowLayout ability to Panel control
+* Added "follow object" example
+* Added Coverflow example
+* Controls now have kinematic rigidbody added at runtime to reduce costs of moving collider
+* Added background colors to several controls - Controls color of background sprite
+* Resolved some issues with control layout when using prefabs
+* Can now use embedded brackets in text markup
+* Fixed Label size when AutoHeight enabled but text is empty
+* Added BackgroundColor property for dfLabel control (background sprite color)
+* Controls that implement IDFMultiRender no longer render child controls when not visible
+* Control resize handles in Editor are no longer drawn in screen-space 
+* Added BackgroundColor and ProgressColor properties to ProgressBar control
+* Added ConsumeMouseEvents property to dfGUIManager - Allows disabling of "click-through" prevention
+* Change default Touch Click Radius to 20 (was 10, too narrow)
+* Removed "Copy" button from component inspectors in favor of more universally-available context menu
+* Event handlers can now be declared to return an IEnumerator, will automatically call StartCoroutine()
+* Fixed incorrect colors when rendering text (was darker)
+* Fixed incorrect colliders when creating controls, and in some other instances
+* Fixed exception when instantiating dfGUIManager prefab or enabling dfGUIManager instance
+* Fixed control anchor and screen size problems with non-pixel-perfect mode and different aspect ratios
+* Fixed issue with rich text - opacity not correct when specifying element color
+
+The most up-to-date changeload and roadmap can be found on our website at
+http://daikonforge.com/issues/changelog_page.php
