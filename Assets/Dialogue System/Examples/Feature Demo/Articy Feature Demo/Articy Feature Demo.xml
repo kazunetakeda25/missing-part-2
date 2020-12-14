@@ -1,0 +1,2292 @@
+﻿<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<Export xmlns="http://www.nevigo.com/schemas/articydraft/2.2/XmlContentExport_FullProject.xsd" Version="2.2" CreatorTool="articy:draft" CreatorVersion="2.2.3" CreatedOn="2013-12-09T01:50:42Z">
+  <Content>
+    <Project Id="0x0100000000000001">
+      <DisplayName>Feature Demo</DisplayName>
+    </Project>
+    <Assets Id="0x030000004C3DAF54">
+      <DisplayName>Assets</DisplayName>
+      <Color>#C8E2E7</Color>
+    </Assets>
+    <AssetsUserFolder Id="0x01000000000000FB">
+      <DisplayName Count="1">
+        <LocalizedString Lang="">Images</LocalizedString>
+      </DisplayName>
+      <Color>#C8E2E7</Color>
+      <TechnicalName>Ufo_322A14D9</TechnicalName>
+      <ExternalId/>
+      <ShortId>0x322A14D9</ShortId>
+    </AssetsUserFolder>
+    <AssetsUserFolder Id="0x01000000000000FD">
+      <DisplayName Count="1">
+        <LocalizedString Lang="">Videos</LocalizedString>
+      </DisplayName>
+      <Color>#C8E2E7</Color>
+      <TechnicalName>Ufo_7BB8DB05</TechnicalName>
+      <ExternalId/>
+      <ShortId>0x7BB8DB05</ShortId>
+    </AssetsUserFolder>
+    <AssetsUserFolder Id="0x01000000000000FF">
+      <DisplayName Count="1">
+        <LocalizedString Lang="">Audio</LocalizedString>
+      </DisplayName>
+      <Color>#C8E2E7</Color>
+      <TechnicalName>Ufo_157284C0</TechnicalName>
+      <ExternalId/>
+      <ShortId>0x157284C0</ShortId>
+    </AssetsUserFolder>
+    <AssetsUserFolder Id="0x0100000000000101">
+      <DisplayName Count="1">
+        <LocalizedString Lang="">Documents</LocalizedString>
+      </DisplayName>
+      <Color>#C8E2E7</Color>
+      <TechnicalName>Ufo_FEB921D2</TechnicalName>
+      <ExternalId/>
+      <ShortId>0xFEB921D2</ShortId>
+    </AssetsUserFolder>
+    <AssetsUserFolder Id="0x0100000000000103">
+      <DisplayName Count="1">
+        <LocalizedString Lang="">Miscellaneous</LocalizedString>
+      </DisplayName>
+      <Color>#C8E2E7</Color>
+      <TechnicalName>Ufo_94AFF16C</TechnicalName>
+      <ExternalId/>
+      <ShortId>0x94AFF16C</ShortId>
+    </AssetsUserFolder>
+    <Documents Id="0x03000000103AA2F0">
+      <DisplayName>Documents</DisplayName>
+      <Color>#C8E2E7</Color>
+    </Documents>
+    <Entities Id="0x03000000AC61A2B3">
+      <DisplayName>Entities</DisplayName>
+      <Color>#C8E2E7</Color>
+    </Entities>
+    <Features Id="0x03000000D2404DC0">
+      <DisplayName>Features</DisplayName>
+      <Color>#C8E2E7</Color>
+    </Features>
+    <Flow Id="0x0300000043CE43F7">
+      <DisplayName>Flow</DisplayName>
+      <Color>#C8E2E7</Color>
+    </Flow>
+    <GlobalVariables Id="0x030000002B4F4C54">
+      <DisplayName>Global Variables</DisplayName>
+      <Color>#C8E2E7</Color>
+    </GlobalVariables>
+    <Journeys Id="0x03000000236F7272">
+      <DisplayName>Journeys</DisplayName>
+      <Color>#C8E2E7</Color>
+    </Journeys>
+    <Locations Id="0x030000003140D3AC">
+      <DisplayName>Locations</DisplayName>
+      <Color>#C8E2E7</Color>
+    </Locations>
+    <ObjectCustomization Id="0x0300000029CF057C">
+      <DisplayName>Template Design</DisplayName>
+      <Color>#C8E2E7</Color>
+    </ObjectCustomization>
+    <ObjectTemplates Id="0x030000009AF68DCD">
+      <DisplayName>Templates</DisplayName>
+      <Color>#C8E2E7</Color>
+    </ObjectTemplates>
+    <PropertyTemplates Id="0x030000002C0951AE">
+      <DisplayName>Property Definitions</DisplayName>
+      <Color>#C8E2E7</Color>
+    </PropertyTemplates>
+    <TypedObjectTemplates Id="0x0300000078B45A71">
+      <DisplayName>Entities</DisplayName>
+      <Color>#C8E2E7</Color>
+    </TypedObjectTemplates>
+    <TypedObjectTemplates Id="0x030000006D1BC275">
+      <DisplayName>Flow Fragments</DisplayName>
+      <Color>#C8E2E7</Color>
+    </TypedObjectTemplates>
+    <TypedObjectTemplates Id="0x03000000030B5ACF">
+      <DisplayName>Dialogue Fragments</DisplayName>
+      <Color>#C8E2E7</Color>
+    </TypedObjectTemplates>
+    <TypedObjectTemplates Id="0x030000008DD5C0F2">
+      <DisplayName>Dialogues</DisplayName>
+      <Color>#C8E2E7</Color>
+    </TypedObjectTemplates>
+    <TypedObjectTemplates Id="0x0300000092CF598E">
+      <DisplayName>Locations</DisplayName>
+      <Color>#C8E2E7</Color>
+    </TypedObjectTemplates>
+    <TypedObjectTemplates Id="0x0300000030635118">
+      <DisplayName>Assets</DisplayName>
+      <Color>#C8E2E7</Color>
+    </TypedObjectTemplates>
+    <TypedObjectTemplates Id="0x03000000A715C057">
+      <DisplayName>Zones</DisplayName>
+      <Color>#C8E2E7</Color>
+    </TypedObjectTemplates>
+    <TypedObjectTemplates Id="0x030000005314E813">
+      <DisplayName>Paths</DisplayName>
+      <Color>#C8E2E7</Color>
+    </TypedObjectTemplates>
+    <TypedObjectTemplates Id="0x030000004264B29C">
+      <DisplayName>Spots</DisplayName>
+      <Color>#C8E2E7</Color>
+    </TypedObjectTemplates>
+    <TypedObjectTemplates Id="0x03000000FB371D5C">
+      <DisplayName>Links</DisplayName>
+      <Color>#C8E2E7</Color>
+    </TypedObjectTemplates>
+    <TypedObjectTemplates Id="0x0300000013DF3A1A">
+      <DisplayName>Hubs</DisplayName>
+      <Color>#C8E2E7</Color>
+    </TypedObjectTemplates>
+    <TypedObjectTemplates Id="0x03000000ADA9FA17">
+      <DisplayName>Jumps</DisplayName>
+      <Color>#C8E2E7</Color>
+    </TypedObjectTemplates>
+    <TypedObjectTemplates Id="0x03000000ECC00F83">
+      <DisplayName>Documents</DisplayName>
+      <Color>#C8E2E7</Color>
+    </TypedObjectTemplates>
+    <TypedObjectTemplates Id="0x03000000F514339C">
+      <DisplayName>Texts</DisplayName>
+      <Color>#C8E2E7</Color>
+    </TypedObjectTemplates>
+    <TypedObjectTemplates Id="0x03000000DCC67F9D">
+      <DisplayName>Conditions</DisplayName>
+      <Color>#C8E2E7</Color>
+    </TypedObjectTemplates>
+    <TypedObjectTemplates Id="0x03000000BA022E2F">
+      <DisplayName>Instructions</DisplayName>
+      <Color>#C8E2E7</Color>
+    </TypedObjectTemplates>
+    <TypedPropertyTemplates Id="0x030000006E2C178B">
+      <DisplayName>Numbers</DisplayName>
+      <Color>#C8E2E7</Color>
+    </TypedPropertyTemplates>
+    <TypedPropertyTemplates Id="0x03000000BB12F1B8">
+      <DisplayName>Booleans</DisplayName>
+      <Color>#C8E2E7</Color>
+    </TypedPropertyTemplates>
+    <TypedPropertyTemplates Id="0x030000006F82D78E">
+      <DisplayName>Texts</DisplayName>
+      <Color>#C8E2E7</Color>
+    </TypedPropertyTemplates>
+    <TypedPropertyTemplates Id="0x0300000037DCE3F0">
+      <DisplayName>Drop-down lists</DisplayName>
+      <Color>#C8E2E7</Color>
+    </TypedPropertyTemplates>
+    <TypedPropertyTemplates Id="0x030000003630A240">
+      <DisplayName><![CDATA[Slots & Strips]]></DisplayName>
+      <Color>#C8E2E7</Color>
+    </TypedPropertyTemplates>
+    <TypedPropertyTemplates Id="0x03000000D745C449">
+      <DisplayName>Scripts</DisplayName>
+      <Color>#C8E2E7</Color>
+    </TypedPropertyTemplates>
+    <Connection Id="0x0100000000000145">
+      <Color>#C8E2E7</Color>
+      <TechnicalName>Con_14ABAD9C</TechnicalName>
+      <Label Count="0"/>
+      <Source IdRef="0x0100000000000139" PinRef="0x010000000000013D"/>
+      <Target IdRef="0x0100000000000140" PinRef="0x0100000000000143"/>
+    </Connection>
+    <Connection Id="0x010000000000014C">
+      <Color>#C8E2E7</Color>
+      <TechnicalName>Con_79C08DDE</TechnicalName>
+      <Label Count="0"/>
+      <Source IdRef="0x0100000000000140" PinRef="0x0100000000000144"/>
+      <Target IdRef="0x0100000000000147" PinRef="0x010000000000014A"/>
+    </Connection>
+    <Connection Id="0x0100000000000153">
+      <Color>#C8E2E7</Color>
+      <TechnicalName>Con_14717A1F</TechnicalName>
+      <Label Count="0"/>
+      <Source IdRef="0x0100000000000147" PinRef="0x010000000000014B"/>
+      <Target IdRef="0x010000000000014E" PinRef="0x0100000000000151"/>
+    </Connection>
+    <Connection Id="0x0100000000000181">
+      <Color>#C8E2E7</Color>
+      <TechnicalName>Con_4BE6BD74</TechnicalName>
+      <Label Count="0"/>
+      <Source IdRef="0x0100000000000175" PinRef="0x0100000000000179"/>
+      <Target IdRef="0x010000000000017C" PinRef="0x010000000000017F"/>
+    </Connection>
+    <Connection Id="0x0100000000000188">
+      <Color>#C8E2E7</Color>
+      <TechnicalName>Con_677F9BDF</TechnicalName>
+      <Label Count="0"/>
+      <Source IdRef="0x010000000000016E" PinRef="0x0100000000000172"/>
+      <Target IdRef="0x0100000000000183" PinRef="0x0100000000000186"/>
+    </Connection>
+    <Connection Id="0x010000000000018F">
+      <Color>#C8E2E7</Color>
+      <TechnicalName>Con_3C7119D2</TechnicalName>
+      <Label Count="0"/>
+      <Source IdRef="0x010000000000016E" PinRef="0x0100000000000172"/>
+      <Target IdRef="0x010000000000018A" PinRef="0x010000000000018D"/>
+    </Connection>
+    <Connection Id="0x0100000000000196">
+      <Color>#C8E2E7</Color>
+      <TechnicalName>Con_693C7EDD</TechnicalName>
+      <Label Count="0"/>
+      <Source IdRef="0x0100000000000167" PinRef="0x010000000000016B"/>
+      <Target IdRef="0x0100000000000191" PinRef="0x0100000000000194"/>
+    </Connection>
+    <Connection Id="0x01000000000001A2">
+      <Color>#C8E2E7</Color>
+      <TechnicalName>Con_D44E7B14</TechnicalName>
+      <Label Count="0"/>
+      <Source IdRef="0x0100000000000139" PinRef="0x010000000000013D"/>
+      <Target IdRef="0x010000000000019D" PinRef="0x01000000000001A0"/>
+    </Connection>
+    <Connection Id="0x01000000000001A9">
+      <Color>#C8E2E7</Color>
+      <TechnicalName>Con_7747288C</TechnicalName>
+      <Label Count="0"/>
+      <Source IdRef="0x0100000000000139" PinRef="0x010000000000013D"/>
+      <Target IdRef="0x01000000000001A4" PinRef="0x01000000000001A7"/>
+    </Connection>
+    <Connection Id="0x01000000000001AB">
+      <Color>#C8E2E7</Color>
+      <TechnicalName>Con_C657485C</TechnicalName>
+      <Label Count="0"/>
+      <Source IdRef="0x010000000000019D" PinRef="0x01000000000001A1"/>
+      <Target IdRef="0x0100000000000147" PinRef="0x010000000000014A"/>
+    </Connection>
+    <Connection Id="0x01000000000001B1">
+      <Color>#C8E2E7</Color>
+      <TechnicalName>Con_EBCDB5BE</TechnicalName>
+      <Label Count="0"/>
+      <Source IdRef="0x0100000000000147" PinRef="0x010000000000014B"/>
+      <Target IdRef="0x01000000000001AC" PinRef="0x01000000000001AF"/>
+    </Connection>
+    <Connection Id="0x01000000000001B8">
+      <Color>#C8E2E7</Color>
+      <TechnicalName>Con_ECD86025</TechnicalName>
+      <Label Count="0"/>
+      <Source IdRef="0x010000000000014E" PinRef="0x0100000000000152"/>
+      <Target IdRef="0x01000000000001B3" PinRef="0x01000000000001B6"/>
+    </Connection>
+    <Connection Id="0x01000000000001BA">
+      <Color>#C8E2E7</Color>
+      <TechnicalName>Con_63E6E850</TechnicalName>
+      <Label Count="0"/>
+      <Source IdRef="0x01000000000001AC" PinRef="0x01000000000001B0"/>
+      <Target IdRef="0x01000000000001B3" PinRef="0x01000000000001B6"/>
+    </Connection>
+    <Connection Id="0x01000000000001CE">
+      <Color>#C8E2E7</Color>
+      <TechnicalName>Con_4188F8A8</TechnicalName>
+      <Label Count="0"/>
+      <Source IdRef="0x01000000000001C2" PinRef="0x01000000000001C6"/>
+      <Target IdRef="0x01000000000001C9" PinRef="0x01000000000001CC"/>
+    </Connection>
+    <Connection Id="0x01000000000001DA">
+      <Color>#C8E2E7</Color>
+      <TechnicalName>Con_5070EAFB</TechnicalName>
+      <Label Count="0"/>
+      <Source IdRef="0x01000000000001C9" PinRef="0x01000000000001CD"/>
+      <Target IdRef="0x01000000000001D5" PinRef="0x01000000000001D8"/>
+    </Connection>
+    <Connection Id="0x01000000000001E1">
+      <Color>#C8E2E7</Color>
+      <TechnicalName>Con_714869BF</TechnicalName>
+      <Label Count="0"/>
+      <Source IdRef="0x01000000000001C9" PinRef="0x01000000000001CD"/>
+      <Target IdRef="0x01000000000001DC" PinRef="0x01000000000001DF"/>
+    </Connection>
+    <Connection Id="0x01000000000001E8">
+      <Color>#C8E2E7</Color>
+      <TechnicalName>Con_BEB8C140</TechnicalName>
+      <Label Count="0"/>
+      <Source IdRef="0x01000000000001D5" PinRef="0x01000000000001D9"/>
+      <Target IdRef="0x01000000000001E3" PinRef="0x01000000000001E6"/>
+    </Connection>
+    <Connection Id="0x01000000000001EF">
+      <Color>#C8E2E7</Color>
+      <TechnicalName>Con_A37BC3DC</TechnicalName>
+      <Label Count="0"/>
+      <Source IdRef="0x01000000000001E3" PinRef="0x01000000000001E7"/>
+      <Target IdRef="0x01000000000001EA" PinRef="0x01000000000001ED"/>
+    </Connection>
+    <Connection Id="0x01000000000001FA">
+      <Color>#C8E2E7</Color>
+      <TechnicalName>Con_E88BD128</TechnicalName>
+      <Label Count="0"/>
+      <Source IdRef="0x01000000000001EA" PinRef="0x01000000000001EE"/>
+      <Target IdRef="0x01000000000001F5" PinRef="0x01000000000001F8"/>
+    </Connection>
+    <Connection Id="0x0100000000000201">
+      <Color>#C8E2E7</Color>
+      <TechnicalName>Con_4CB7258B</TechnicalName>
+      <Label Count="0"/>
+      <Source IdRef="0x01000000000001EA" PinRef="0x01000000000001EE"/>
+      <Target IdRef="0x01000000000001FC" PinRef="0x01000000000001FF"/>
+    </Connection>
+    <Connection Id="0x0100000000000208">
+      <Color>#C8E2E7</Color>
+      <TechnicalName>Con_4A24D713</TechnicalName>
+      <Label Count="0"/>
+      <Source IdRef="0x01000000000001EA" PinRef="0x01000000000001EE"/>
+      <Target IdRef="0x0100000000000203" PinRef="0x0100000000000206"/>
+    </Connection>
+    <Connection Id="0x0100000000000270">
+      <Color>#C8E2E7</Color>
+      <TechnicalName>Con_DD2E9F00</TechnicalName>
+      <Label Count="0"/>
+      <Source IdRef="0x0100000000000128" PinRef="0x010000000000012B"/>
+      <Target IdRef="0x0100000000000139" PinRef="0x010000000000013C"/>
+    </Connection>
+    <Connection Id="0x0100000000000271">
+      <Color>#C8E2E7</Color>
+      <TechnicalName>Con_25C7DBB5</TechnicalName>
+      <Label Count="0"/>
+      <Source IdRef="0x0100000000000128" PinRef="0x010000000000012B"/>
+      <Target IdRef="0x010000000000016E" PinRef="0x0100000000000171"/>
+    </Connection>
+    <Connection Id="0x0100000000000272">
+      <Color>#C8E2E7</Color>
+      <TechnicalName>Con_D9D8AD98</TechnicalName>
+      <Label Count="0"/>
+      <Source IdRef="0x0100000000000128" PinRef="0x010000000000012B"/>
+      <Target IdRef="0x0100000000000175" PinRef="0x0100000000000178"/>
+    </Connection>
+    <Connection Id="0x0100000000000273">
+      <Color>#C8E2E7</Color>
+      <TechnicalName>Con_53C286E7</TechnicalName>
+      <Label Count="0"/>
+      <Source IdRef="0x0100000000000128" PinRef="0x010000000000012B"/>
+      <Target IdRef="0x0100000000000167" PinRef="0x010000000000016A"/>
+    </Connection>
+    <Connection Id="0x0100000000000274">
+      <Color>#C8E2E7</Color>
+      <TechnicalName>Con_F6132374</TechnicalName>
+      <Label Count="0"/>
+      <Source IdRef="0x01000000000001B3" PinRef="0x01000000000001B7"/>
+      <Target IdRef="0x01000000000001BB" PinRef="0x01000000000001BE"/>
+    </Connection>
+    <Connection Id="0x0100000000000275">
+      <Color>#C8E2E7</Color>
+      <TechnicalName>Con_4BE0C009</TechnicalName>
+      <Label Count="0"/>
+      <Source IdRef="0x01000000000001B3" PinRef="0x01000000000001B7"/>
+      <Target IdRef="0x01000000000001C2" PinRef="0x01000000000001C5"/>
+    </Connection>
+    <Connection Id="0x010000000000027D">
+      <Color>#C8E2E7</Color>
+      <TechnicalName>Con_28252981</TechnicalName>
+      <Label Count="0"/>
+      <Source IdRef="0x0100000000000167" PinRef="0x010000000000016B"/>
+      <Target IdRef="0x01000000000001BB" PinRef="0x01000000000001BE"/>
+    </Connection>
+    <Connection Id="0x010000000000027E">
+      <Color>#C8E2E7</Color>
+      <TechnicalName>Con_0A361028</TechnicalName>
+      <Label Count="0"/>
+      <Source IdRef="0x01000000000001C9" PinRef="0x01000000000001CD"/>
+      <Target IdRef="0x01000000000001BB" PinRef="0x01000000000001BE"/>
+    </Connection>
+    <Connection Id="0x010000000000027F">
+      <Color>#C8E2E7</Color>
+      <TechnicalName>Con_49CE7C1B</TechnicalName>
+      <Label Count="0"/>
+      <Source IdRef="0x01000000000001EA" PinRef="0x01000000000001EE"/>
+      <Target IdRef="0x01000000000001BB" PinRef="0x01000000000001BE"/>
+    </Connection>
+    <Connection Id="0x010000000000030C">
+      <Color>#C8E2E7</Color>
+      <TechnicalName>Con_409E40E4</TechnicalName>
+      <Label Count="0"/>
+      <Source IdRef="0x01000000000001DC" PinRef="0x01000000000001E0"/>
+      <Target IdRef="0x01000000000001E3" PinRef="0x01000000000001E6"/>
+    </Connection>
+    <Connection Id="0x0100000000000312">
+      <Color>#C8E2E7</Color>
+      <TechnicalName>Con_601017E6</TechnicalName>
+      <Label Count="0"/>
+      <Source IdRef="0x01000000000001F5" PinRef="0x01000000000001F9"/>
+      <Target IdRef="0x010000000000030D" PinRef="0x0100000000000310"/>
+    </Connection>
+    <Connection Id="0x0100000000000276">
+      <Color>#C8E2E7</Color>
+      <TechnicalName>Con_9BA06980</TechnicalName>
+      <Label Count="0"/>
+      <Source IdRef="0x010000000000020F" PinRef="0x0100000000000212"/>
+      <Target IdRef="0x0100000000000218" PinRef="0x010000000000021B"/>
+    </Connection>
+    <Connection Id="0x0100000000000277">
+      <Color>#C8E2E7</Color>
+      <TechnicalName>Con_71E1B573</TechnicalName>
+      <Label Count="0"/>
+      <Source IdRef="0x010000000000020F" PinRef="0x0100000000000212"/>
+      <Target IdRef="0x010000000000021D" PinRef="0x0100000000000220"/>
+    </Connection>
+    <Connection Id="0x0100000000000278">
+      <Color>#C8E2E7</Color>
+      <TechnicalName>Con_0116A428</TechnicalName>
+      <Label Count="0"/>
+      <Source IdRef="0x010000000000020F" PinRef="0x0100000000000212"/>
+      <Target IdRef="0x0100000000000224" PinRef="0x0100000000000227"/>
+    </Connection>
+    <Connection Id="0x0100000000000279">
+      <Color>#C8E2E7</Color>
+      <TechnicalName>Con_9A86D358</TechnicalName>
+      <Label Count="0"/>
+      <Source IdRef="0x010000000000020F" PinRef="0x0100000000000212"/>
+      <Target IdRef="0x010000000000022A" PinRef="0x010000000000022D"/>
+    </Connection>
+    <Connection Id="0x010000000000027A">
+      <Color>#C8E2E7</Color>
+      <TechnicalName>Con_B3DFD05B</TechnicalName>
+      <Label Count="0"/>
+      <Source IdRef="0x010000000000020F" PinRef="0x0100000000000212"/>
+      <Target IdRef="0x0100000000000230" PinRef="0x0100000000000233"/>
+    </Connection>
+    <Connection Id="0x010000000000027B">
+      <Color>#C8E2E7</Color>
+      <TechnicalName>Con_E61BBE6E</TechnicalName>
+      <Label Count="0"/>
+      <Source IdRef="0x010000000000020F" PinRef="0x0100000000000212"/>
+      <Target IdRef="0x0100000000000235" PinRef="0x0100000000000238"/>
+    </Connection>
+    <Connection Id="0x010000000000027C">
+      <Color>#C8E2E7</Color>
+      <TechnicalName>Con_69855C2A</TechnicalName>
+      <Label Count="0"/>
+      <Source IdRef="0x010000000000020F" PinRef="0x0100000000000212"/>
+      <Target IdRef="0x010000000000023A" PinRef="0x010000000000023D"/>
+    </Connection>
+    <Connection Id="0x010000000000029A">
+      <Color>#C8E2E7</Color>
+      <TechnicalName>Con_327FD8C4</TechnicalName>
+      <Label Count="0"/>
+      <Source IdRef="0x0100000000000285" PinRef="0x0100000000000288"/>
+      <Target IdRef="0x010000000000028C" PinRef="0x010000000000028F"/>
+    </Connection>
+    <Connection Id="0x010000000000029B">
+      <Color>#C8E2E7</Color>
+      <TechnicalName>Con_41E86063</TechnicalName>
+      <Label Count="0"/>
+      <Source IdRef="0x0100000000000285" PinRef="0x0100000000000288"/>
+      <Target IdRef="0x0100000000000291" PinRef="0x0100000000000294"/>
+    </Connection>
+    <Connection Id="0x01000000000002A2">
+      <Color>#C8E2E7</Color>
+      <TechnicalName>Con_3D0E3244</TechnicalName>
+      <Label Count="0"/>
+      <Source IdRef="0x010000000000028C" PinRef="0x0100000000000290"/>
+      <Target IdRef="0x010000000000029D" PinRef="0x01000000000002A0"/>
+    </Connection>
+    <Connection Id="0x01000000000002A8">
+      <Color>#C8E2E7</Color>
+      <TechnicalName>Con_A7C05709</TechnicalName>
+      <Label Count="0"/>
+      <Source IdRef="0x010000000000028C" PinRef="0x0100000000000290"/>
+      <Target IdRef="0x01000000000002A3" PinRef="0x01000000000002A6"/>
+    </Connection>
+    <Connection Id="0x01000000000002AE">
+      <Color>#C8E2E7</Color>
+      <TechnicalName>Con_1F8737FD</TechnicalName>
+      <Label Count="0"/>
+      <Source IdRef="0x010000000000028C" PinRef="0x0100000000000290"/>
+      <Target IdRef="0x01000000000002A9" PinRef="0x01000000000002AC"/>
+    </Connection>
+    <Connection Id="0x01000000000002B4">
+      <Color>#C8E2E7</Color>
+      <TechnicalName>Con_60591385</TechnicalName>
+      <Label Count="0"/>
+      <Source IdRef="0x010000000000028C" PinRef="0x0100000000000290"/>
+      <Target IdRef="0x01000000000002AF" PinRef="0x01000000000002B2"/>
+    </Connection>
+    <Connection Id="0x01000000000002BE">
+      <Color>#C8E2E7</Color>
+      <TechnicalName>Con_326AD8DC</TechnicalName>
+      <Label Count="0"/>
+      <Source IdRef="0x010000000000029D" PinRef="0x01000000000002A1"/>
+      <Target IdRef="0x01000000000002B9" PinRef="0x01000000000002BC"/>
+    </Connection>
+    <Connection Id="0x01000000000002C0">
+      <Color>#C8E2E7</Color>
+      <TechnicalName>Con_2873133B</TechnicalName>
+      <Label Count="0"/>
+      <Source IdRef="0x01000000000002A3" PinRef="0x01000000000002A7"/>
+      <Target IdRef="0x01000000000002B9" PinRef="0x01000000000002BC"/>
+    </Connection>
+    <Connection Id="0x01000000000002C1">
+      <Color>#C8E2E7</Color>
+      <TechnicalName>Con_B07E1ABC</TechnicalName>
+      <Label Count="0"/>
+      <Source IdRef="0x01000000000002B9" PinRef="0x01000000000002BD"/>
+      <Target IdRef="0x010000000000028C" PinRef="0x010000000000028F"/>
+    </Connection>
+    <Connection Id="0x01000000000002C7">
+      <Color>#C8E2E7</Color>
+      <TechnicalName>Con_B934B54E</TechnicalName>
+      <Label Count="0"/>
+      <Source IdRef="0x01000000000002A9" PinRef="0x01000000000002AD"/>
+      <Target IdRef="0x01000000000002C2" PinRef="0x01000000000002C5"/>
+    </Connection>
+    <Connection Id="0x01000000000002D4">
+      <Color>#C8E2E7</Color>
+      <TechnicalName>Con_AF83C981</TechnicalName>
+      <Label Count="0"/>
+      <Source IdRef="0x01000000000002C2" PinRef="0x01000000000002C6"/>
+      <Target IdRef="0x01000000000002CF" PinRef="0x01000000000002D2"/>
+    </Connection>
+    <Connection Id="0x01000000000002DA">
+      <Color>#C8E2E7</Color>
+      <TechnicalName>Con_00E10D0C</TechnicalName>
+      <Label Count="0"/>
+      <Source IdRef="0x01000000000002C2" PinRef="0x01000000000002C6"/>
+      <Target IdRef="0x01000000000002D5" PinRef="0x01000000000002D8"/>
+    </Connection>
+    <Connection Id="0x01000000000002DE">
+      <Color>#C8E2E7</Color>
+      <TechnicalName>Con_B69829AD</TechnicalName>
+      <Label Count="0"/>
+      <Source IdRef="0x01000000000002C2" PinRef="0x01000000000002C6"/>
+      <Target IdRef="0x01000000000002AF" PinRef="0x01000000000002B2"/>
+    </Connection>
+    <Connection Id="0x01000000000002E5">
+      <Color>#C8E2E7</Color>
+      <TechnicalName>Con_FF05A119</TechnicalName>
+      <Label Count="0"/>
+      <Source IdRef="0x01000000000002CF" PinRef="0x01000000000002D3"/>
+      <Target IdRef="0x01000000000002E0" PinRef="0x01000000000002E3"/>
+    </Connection>
+    <Connection Id="0x01000000000002E7">
+      <Color>#C8E2E7</Color>
+      <TechnicalName>Con_7B2C28FC</TechnicalName>
+      <Label Count="0"/>
+      <Source IdRef="0x01000000000002E0" PinRef="0x01000000000002E4"/>
+      <Target IdRef="0x01000000000002C2" PinRef="0x01000000000002C5"/>
+    </Connection>
+    <Connection Id="0x01000000000002ED">
+      <Color>#C8E2E7</Color>
+      <TechnicalName>Con_27F3D044</TechnicalName>
+      <Label Count="0"/>
+      <Source IdRef="0x01000000000002D5" PinRef="0x01000000000002D9"/>
+      <Target IdRef="0x01000000000002E8" PinRef="0x01000000000002EB"/>
+    </Connection>
+    <Connection Id="0x01000000000002F4">
+      <Color>#C8E2E7</Color>
+      <TechnicalName>Con_E8B5F954</TechnicalName>
+      <Label Count="0"/>
+      <Source IdRef="0x01000000000002E8" PinRef="0x01000000000002EC"/>
+      <Target IdRef="0x01000000000002EF" PinRef="0x01000000000002F2"/>
+    </Connection>
+    <Connection Id="0x01000000000002FA">
+      <Color>#C8E2E7</Color>
+      <TechnicalName>Con_D39F17CB</TechnicalName>
+      <Label Count="0"/>
+      <Source IdRef="0x01000000000002E8" PinRef="0x01000000000002EC"/>
+      <Target IdRef="0x01000000000002F5" PinRef="0x01000000000002F8"/>
+    </Connection>
+    <Connection Id="0x01000000000002FD">
+      <Color>#C8E2E7</Color>
+      <TechnicalName>Con_6EFB68FF</TechnicalName>
+      <Label Count="0"/>
+      <Source IdRef="0x01000000000002F5" PinRef="0x01000000000002F9"/>
+      <Target IdRef="0x01000000000002C2" PinRef="0x01000000000002C5"/>
+    </Connection>
+    <Connection Id="0x0100000000000303">
+      <Color>#C8E2E7</Color>
+      <TechnicalName>Con_DB7D7115</TechnicalName>
+      <Label Count="0"/>
+      <Source IdRef="0x01000000000002EF" PinRef="0x01000000000002F3"/>
+      <Target IdRef="0x01000000000002FE" PinRef="0x0100000000000301"/>
+    </Connection>
+    <Dialogue Id="0x0100000000000128">
+      <DisplayName Count="1">
+        <LocalizedString Lang="">Private Hart</LocalizedString>
+      </DisplayName>
+      <Color>#C8E2E7</Color>
+      <TechnicalName>Dlg_F8732A79</TechnicalName>
+      <ExternalId/>
+      <ShortId>0xF8732A79</ShortId>
+      <Features Count="0"/>
+      <References Count="2">
+        <Reference IdRef="0x010000000000010D"/>
+        <Reference IdRef="0x0100000000000111"/>
+      </References>
+      <Pins Count="2">
+        <Pin Id="0x010000000000012B" Index="0" Semantic="Input">
+          <Expression/>
+        </Pin>
+        <Pin Id="0x010000000000012C" Index="0" Semantic="Output">
+          <Expression/>
+        </Pin>
+      </Pins>
+    </Dialogue>
+    <Dialogue Id="0x010000000000020F">
+      <DisplayName Count="1">
+        <LocalizedString Lang="">Sergeant Graves Barks</LocalizedString>
+      </DisplayName>
+      <Color>#C8E2E7</Color>
+      <TechnicalName>Dlg_9CE97017</TechnicalName>
+      <ExternalId/>
+      <ShortId>0x9CE97017</ShortId>
+      <Features Count="0"/>
+      <References Count="1">
+        <Reference IdRef="0x0100000000000115"/>
+      </References>
+      <Pins Count="2">
+        <Pin Id="0x0100000000000212" Index="0" Semantic="Input">
+          <Expression/>
+        </Pin>
+        <Pin Id="0x0100000000000213" Index="0" Semantic="Output">
+          <Expression/>
+        </Pin>
+      </Pins>
+    </Dialogue>
+    <Dialogue Id="0x0100000000000285">
+      <DisplayName Count="1">
+        <LocalizedString Lang="">Terminal</LocalizedString>
+      </DisplayName>
+      <Color>#C8E2E7</Color>
+      <TechnicalName>Dlg_24B72B79</TechnicalName>
+      <ExternalId/>
+      <ShortId>0x24B72B79</ShortId>
+      <Features Count="0"/>
+      <References Count="2">
+        <Reference IdRef="0x0100000000000242"/>
+        <Reference IdRef="0x010000000000010D"/>
+      </References>
+      <Pins Count="2">
+        <Pin Id="0x0100000000000288" Index="0" Semantic="Input">
+          <Expression/>
+        </Pin>
+        <Pin Id="0x0100000000000289" Index="0" Semantic="Output">
+          <Expression/>
+        </Pin>
+      </Pins>
+    </Dialogue>
+    <DialogueFragment Id="0x0100000000000139">
+      <DisplayName><![CDATA[Private Hart: "Lieutenant! We have a problem,..."]]></DisplayName>
+      <Text Count="1" HasMarkup="1">
+        <LocalizedString Lang=""><![CDATA[<html><head><style>#s0 {text-align:left;} #s1 {font-size:11pt;} </style></head><body><p id="s0"><span id="s1">Lieutenant! We have a problem, sir!</span></p></body></html>]]></LocalizedString>
+      </Text>
+      <Color>#C8E2E7</Color>
+      <TechnicalName>DFr_DBB1E4B3</TechnicalName>
+      <ExternalId/>
+      <ShortId>0xDBB1E4B3</ShortId>
+      <Features Count="0"/>
+      <Pins Count="2">
+        <Pin Id="0x010000000000013C" Index="0" Semantic="Input">
+          <Expression>GameState.ToldEmperorIsHere == false</Expression>
+        </Pin>
+        <Pin Id="0x010000000000013D" Index="0" Semantic="Output">
+          <Expression/>
+        </Pin>
+      </Pins>
+      <Speaker IdRef="0x0100000000000111"/>
+      <StageDirections Count="1">
+        <LocalizedString Lang="">LookAt(listener,speaker); LookAt(speaker,listener); Camera(Medium); Camera(Closeup,speaker,1)@0.1; require Camera(Closeup,listener)@2</LocalizedString>
+      </StageDirections>
+      <MenuText Count="0"/>
+    </DialogueFragment>
+    <DialogueFragment Id="0x0100000000000140">
+      <DisplayName><![CDATA[Player: "Calm down. What's the problem?"]]></DisplayName>
+      <Text Count="1" HasMarkup="1">
+        <LocalizedString Lang=""><![CDATA[<html><head><style>#s0 {text-align:left;} #s1 {font-size:11pt;} </style></head><body><p id="s0"><span id="s1">Calm down. What&#39;s the problem?</span></p></body></html>]]></LocalizedString>
+      </Text>
+      <Color>#C8E2E7</Color>
+      <TechnicalName>DFr_8AE9DE9E</TechnicalName>
+      <ExternalId/>
+      <ShortId>0x8AE9DE9E</ShortId>
+      <Features Count="0"/>
+      <Pins Count="2">
+        <Pin Id="0x0100000000000143" Index="0" Semantic="Input">
+          <Expression/>
+        </Pin>
+        <Pin Id="0x0100000000000144" Index="0" Semantic="Output">
+          <Expression/>
+        </Pin>
+      </Pins>
+      <Speaker IdRef="0x010000000000010D"/>
+      <StageDirections Count="0"/>
+      <MenuText Count="0"/>
+    </DialogueFragment>
+    <DialogueFragment Id="0x0100000000000147">
+      <DisplayName><![CDATA[Private Hart: "The Emperor is in the hangar,..."]]></DisplayName>
+      <Text Count="1" HasMarkup="1">
+        <LocalizedString Lang=""><![CDATA[<html><head><style>#s0 {text-align:left;} #s1 {font-size:11pt;} </style></head><body><p id="s0"><span id="s1">The Emperor is in the hangar, sir.</span></p></body></html>]]></LocalizedString>
+      </Text>
+      <Color>#C8E2E7</Color>
+      <TechnicalName>DFr_0C3C01DA</TechnicalName>
+      <ExternalId/>
+      <ShortId>0x0C3C01DA</ShortId>
+      <Features Count="0"/>
+      <Pins Count="2">
+        <Pin Id="0x010000000000014A" Index="0" Semantic="Input">
+          <Expression/>
+        </Pin>
+        <Pin Id="0x010000000000014B" Index="0" Semantic="Output">
+          <Expression/>
+        </Pin>
+      </Pins>
+      <Speaker IdRef="0x0100000000000111"/>
+      <StageDirections Count="0"/>
+      <MenuText Count="0"/>
+    </DialogueFragment>
+    <DialogueFragment Id="0x010000000000014E">
+      <DisplayName><![CDATA[Player: "Good. Our spies were right."]]></DisplayName>
+      <Text Count="1" HasMarkup="1">
+        <LocalizedString Lang=""><![CDATA[<html><head><style>#s0 {text-align:left;} #s1 {font-size:11pt;} </style></head><body><p id="s0"><span id="s1">Good. Our spies were right.</span></p></body></html>]]></LocalizedString>
+      </Text>
+      <Color>#C8E2E7</Color>
+      <TechnicalName>DFr_A3FFF2EF</TechnicalName>
+      <ExternalId/>
+      <ShortId>0xA3FFF2EF</ShortId>
+      <Features Count="0"/>
+      <Pins Count="2">
+        <Pin Id="0x0100000000000151" Index="0" Semantic="Input">
+          <Expression/>
+        </Pin>
+        <Pin Id="0x0100000000000152" Index="0" Semantic="Output">
+          <Expression/>
+        </Pin>
+      </Pins>
+      <Speaker IdRef="0x010000000000010D"/>
+      <StageDirections Count="0"/>
+      <MenuText Count="0"/>
+    </DialogueFragment>
+    <DialogueFragment Id="0x0100000000000167">
+      <DisplayName><![CDATA[Private Hart: "We can't murder those bystande..."]]></DisplayName>
+      <Text Count="1" HasMarkup="1">
+        <LocalizedString Lang=""><![CDATA[<html><head><style>#s0 {text-align:left;} #s1 {font-size:11pt;} </style></head><body><p id="s0"><span id="s1">We can&#39;t murder those bystanders, sir. It&#39;s not right.</span></p></body></html>]]></LocalizedString>
+      </Text>
+      <Color>#C8E2E7</Color>
+      <TechnicalName>DFr_4206DA6E</TechnicalName>
+      <ExternalId/>
+      <ShortId>0x4206DA6E</ShortId>
+      <Features Count="0"/>
+      <Pins Count="2">
+        <Pin Id="0x010000000000016A" Index="0" Semantic="Input">
+          <Expression><![CDATA[GameState.ToldEmperorIsHere == true && GameState.OpenedHangar == false && GameState.LockedHangar == false]]></Expression>
+        </Pin>
+        <Pin Id="0x010000000000016B" Index="0" Semantic="Output">
+          <Expression/>
+        </Pin>
+      </Pins>
+      <Speaker IdRef="0x0100000000000111"/>
+      <StageDirections Count="0"/>
+      <MenuText Count="0"/>
+    </DialogueFragment>
+    <DialogueFragment Id="0x010000000000016E">
+      <DisplayName><![CDATA[Private Hart: "I... I can't believe you kille..."]]></DisplayName>
+      <Text Count="1" HasMarkup="1">
+        <LocalizedString Lang=""><![CDATA[<html><head><style>#s0 {text-align:left;} #s1 {font-size:11pt;} </style></head><body><p id="s0"><span id="s1">I... I can&#39;t believe you killed all those people!</span></p></body></html>]]></LocalizedString>
+      </Text>
+      <Color>#C8E2E7</Color>
+      <TechnicalName>DFr_21800C7C</TechnicalName>
+      <ExternalId/>
+      <ShortId>0x21800C7C</ShortId>
+      <Features Count="0"/>
+      <Pins Count="2">
+        <Pin Id="0x0100000000000171" Index="0" Semantic="Input">
+          <Expression>GameState.OpenedHangar == true</Expression>
+        </Pin>
+        <Pin Id="0x0100000000000172" Index="0" Semantic="Output">
+          <Expression/>
+        </Pin>
+      </Pins>
+      <Speaker IdRef="0x0100000000000111"/>
+      <StageDirections Count="0"/>
+      <MenuText Count="0"/>
+    </DialogueFragment>
+    <DialogueFragment Id="0x0100000000000175">
+      <DisplayName><![CDATA[Private Hart: "You did the right thing, sir."]]></DisplayName>
+      <Text Count="1" HasMarkup="1">
+        <LocalizedString Lang=""><![CDATA[<html><head><style>#s0 {text-align:left;} #s1 {font-size:11pt;} </style></head><body><p id="s0"><span id="s1">You did the right thing, sir.</span></p></body></html>]]></LocalizedString>
+      </Text>
+      <Color>#C8E2E7</Color>
+      <TechnicalName>DFr_11A90785</TechnicalName>
+      <ExternalId/>
+      <ShortId>0x11A90785</ShortId>
+      <Features Count="0"/>
+      <Pins Count="2">
+        <Pin Id="0x0100000000000178" Index="0" Semantic="Input">
+          <Expression>GameState.LockedHangar == true</Expression>
+        </Pin>
+        <Pin Id="0x0100000000000179" Index="0" Semantic="Output">
+          <Expression/>
+        </Pin>
+      </Pins>
+      <Speaker IdRef="0x0100000000000111"/>
+      <StageDirections Count="0"/>
+      <MenuText Count="0"/>
+    </DialogueFragment>
+    <DialogueFragment Id="0x010000000000017C">
+      <DisplayName><![CDATA[Player: "[f]We're no better than him ot..."]]></DisplayName>
+      <Text Count="1" HasMarkup="1">
+        <LocalizedString Lang=""><![CDATA[<html><head><style>#s0 {text-align:left;} #s1 {font-size:11pt;} </style></head><body><p id="s0"><span id="s1">[f]We&#39;re no better than him otherwise.</span></p></body></html>]]></LocalizedString>
+      </Text>
+      <Color>#C8E2E7</Color>
+      <TechnicalName>DFr_2798BB5B</TechnicalName>
+      <ExternalId/>
+      <ShortId>0x2798BB5B</ShortId>
+      <Features Count="0"/>
+      <Pins Count="2">
+        <Pin Id="0x010000000000017F" Index="0" Semantic="Input">
+          <Expression/>
+        </Pin>
+        <Pin Id="0x0100000000000180" Index="0" Semantic="Output">
+          <Expression/>
+        </Pin>
+      </Pins>
+      <Speaker IdRef="0x010000000000010D"/>
+      <StageDirections Count="0"/>
+      <MenuText Count="0"/>
+    </DialogueFragment>
+    <DialogueFragment Id="0x0100000000000183">
+      <DisplayName><![CDATA[Player: "We're soldiers. We follow orde..."]]></DisplayName>
+      <Text Count="1" HasMarkup="1">
+        <LocalizedString Lang=""><![CDATA[<html><head><style>#s0 {text-align:left;} #s1 {font-size:11pt;} </style></head><body><p id="s0"><span id="s1">We&#39;re soldiers. We follow orders.</span></p></body></html>]]></LocalizedString>
+      </Text>
+      <Color>#C8E2E7</Color>
+      <TechnicalName>DFr_54C5D999</TechnicalName>
+      <ExternalId/>
+      <ShortId>0x54C5D999</ShortId>
+      <Features Count="0"/>
+      <Pins Count="2">
+        <Pin Id="0x0100000000000186" Index="0" Semantic="Input">
+          <Expression/>
+        </Pin>
+        <Pin Id="0x0100000000000187" Index="0" Semantic="Output">
+          <Expression/>
+        </Pin>
+      </Pins>
+      <Speaker IdRef="0x010000000000010D"/>
+      <StageDirections Count="0"/>
+      <MenuText Count="0"/>
+    </DialogueFragment>
+    <DialogueFragment Id="0x010000000000018A">
+      <DisplayName><![CDATA[Player: "Their sacrifice freed us all."]]></DisplayName>
+      <Text Count="1" HasMarkup="1">
+        <LocalizedString Lang=""><![CDATA[<html><head><style>#s0 {text-align:left;} #s1 {font-size:11pt;} </style></head><body><p id="s0"><span id="s1">Their sacrifice freed us all.</span></p></body></html>]]></LocalizedString>
+      </Text>
+      <Color>#C8E2E7</Color>
+      <TechnicalName>DFr_3208CC13</TechnicalName>
+      <ExternalId/>
+      <ShortId>0x3208CC13</ShortId>
+      <Features Count="0"/>
+      <Pins Count="2">
+        <Pin Id="0x010000000000018D" Index="0" Semantic="Input">
+          <Expression/>
+        </Pin>
+        <Pin Id="0x010000000000018E" Index="0" Semantic="Output">
+          <Expression/>
+        </Pin>
+      </Pins>
+      <Speaker IdRef="0x010000000000010D"/>
+      <StageDirections Count="0"/>
+      <MenuText Count="0"/>
+    </DialogueFragment>
+    <DialogueFragment Id="0x0100000000000191">
+      <DisplayName><![CDATA[Player: "We have orders. I'll handle yo..."]]></DisplayName>
+      <Text Count="1" HasMarkup="1">
+        <LocalizedString Lang=""><![CDATA[<html><head><style>#s0 {text-align:left;} #s1 {font-size:11pt;} </style></head><body><p id="s0"><span id="s1">We have orders. I&#39;ll handle you later.</span></p></body></html>]]></LocalizedString>
+      </Text>
+      <Color>#C8E2E7</Color>
+      <TechnicalName>DFr_0424C830</TechnicalName>
+      <ExternalId/>
+      <ShortId>0x0424C830</ShortId>
+      <Features Count="0"/>
+      <Pins Count="2">
+        <Pin Id="0x0100000000000194" Index="0" Semantic="Input">
+          <Expression/>
+        </Pin>
+        <Pin Id="0x0100000000000195" Index="0" Semantic="Output">
+          <Expression/>
+        </Pin>
+      </Pins>
+      <Speaker IdRef="0x010000000000010D"/>
+      <StageDirections Count="0"/>
+      <MenuText Count="0"/>
+    </DialogueFragment>
+    <DialogueFragment Id="0x010000000000019D">
+      <DisplayName><![CDATA[Player: "Report, private."]]></DisplayName>
+      <Text Count="1" HasMarkup="1">
+        <LocalizedString Lang=""><![CDATA[<html><head><style>#s0 {text-align:left;} #s1 {font-size:11pt;} </style></head><body><p id="s0"><span id="s1">Report, private.</span></p></body></html>]]></LocalizedString>
+      </Text>
+      <Color>#C8E2E7</Color>
+      <TechnicalName>DFr_834A0D92</TechnicalName>
+      <ExternalId/>
+      <ShortId>0x834A0D92</ShortId>
+      <Features Count="0"/>
+      <Pins Count="2">
+        <Pin Id="0x01000000000001A0" Index="0" Semantic="Input">
+          <Expression/>
+        </Pin>
+        <Pin Id="0x01000000000001A1" Index="0" Semantic="Output">
+          <Expression/>
+        </Pin>
+      </Pins>
+      <Speaker IdRef="0x010000000000010D"/>
+      <StageDirections Count="0"/>
+      <MenuText Count="0"/>
+    </DialogueFragment>
+    <DialogueFragment Id="0x01000000000001A4">
+      <DisplayName><![CDATA[Player: "Stand by. I'll be right back."]]></DisplayName>
+      <Text Count="1" HasMarkup="1">
+        <LocalizedString Lang=""><![CDATA[<html><head><style>#s0 {text-align:left;} #s1 {font-size:11pt;} </style></head><body><p id="s0"><span id="s1">Stand by. I&#39;ll be right back.</span></p></body></html>]]></LocalizedString>
+      </Text>
+      <Color>#C8E2E7</Color>
+      <TechnicalName>DFr_B24840A3</TechnicalName>
+      <ExternalId/>
+      <ShortId>0xB24840A3</ShortId>
+      <Features Count="0"/>
+      <Pins Count="2">
+        <Pin Id="0x01000000000001A7" Index="0" Semantic="Input">
+          <Expression/>
+        </Pin>
+        <Pin Id="0x01000000000001A8" Index="0" Semantic="Output">
+          <Expression/>
+        </Pin>
+      </Pins>
+      <Speaker IdRef="0x010000000000010D"/>
+      <StageDirections Count="0"/>
+      <MenuText Count="0"/>
+    </DialogueFragment>
+    <DialogueFragment Id="0x01000000000001AC">
+      <DisplayName><![CDATA[Player: "Open the airlock. Take him out..."]]></DisplayName>
+      <Text Count="1" HasMarkup="1">
+        <LocalizedString Lang=""><![CDATA[<html><head><style>#s0 {text-align:left;} #s1 {font-size:11pt;} </style></head><body><p id="s0"><span id="s1">Open the airlock. Take him out!</span></p></body></html>]]></LocalizedString>
+      </Text>
+      <Color>#C8E2E7</Color>
+      <TechnicalName>DFr_D70C4226</TechnicalName>
+      <ExternalId/>
+      <ShortId>0xD70C4226</ShortId>
+      <Features Count="0"/>
+      <Pins Count="2">
+        <Pin Id="0x01000000000001AF" Index="0" Semantic="Input">
+          <Expression/>
+        </Pin>
+        <Pin Id="0x01000000000001B0" Index="0" Semantic="Output">
+          <Expression/>
+        </Pin>
+      </Pins>
+      <Speaker IdRef="0x010000000000010D"/>
+      <StageDirections Count="0"/>
+      <MenuText Count="0"/>
+    </DialogueFragment>
+    <DialogueFragment Id="0x01000000000001B3">
+      <DisplayName><![CDATA[Private Hart: "Sir, one hundred innocent civi..."]]></DisplayName>
+      <Text Count="1" HasMarkup="1">
+        <LocalizedString Lang=""><![CDATA[<html><head><style>#s0 {text-align:left;} #s1 {font-size:11pt;} </style></head><body><p id="s0"><span id="s1">Sir, one hundred innocent civilians are with him for the star carrier&#39;s launch ceremony.</span></p></body></html>]]></LocalizedString>
+      </Text>
+      <Color>#C8E2E7</Color>
+      <TechnicalName>DFr_13CB077E</TechnicalName>
+      <ExternalId/>
+      <ShortId>0x13CB077E</ShortId>
+      <Features Count="0"/>
+      <Pins Count="2">
+        <Pin Id="0x01000000000001B6" Index="0" Semantic="Input">
+          <Expression/>
+        </Pin>
+        <Pin Id="0x01000000000001B7" Index="0" Semantic="Output">
+          <Expression><![CDATA[Item["Assassinate_the_Emperor"].State = "active"; Variable["Alert"] = "Mission Update: Assassinate the Emperor"; Variable["GameState.ToldEmperorIsHere"] = true]]></Expression>
+        </Pin>
+      </Pins>
+      <Speaker IdRef="0x0100000000000111"/>
+      <StageDirections Count="1">
+        <LocalizedString Lang="">Camera(Medium Right); required Camera(Closeup,listener)@3; required SetActive(Terminal inactive,false); required SetActive(Terminal active,true)</LocalizedString>
+      </StageDirections>
+      <MenuText Count="0"/>
+    </DialogueFragment>
+    <DialogueFragment Id="0x01000000000001BB">
+      <DisplayName><![CDATA[Player: "Damn. Hold until I return."]]></DisplayName>
+      <Text Count="1" HasMarkup="1">
+        <LocalizedString Lang=""><![CDATA[<html><head><style>#s0 {text-align:left;} #s1 {font-size:11pt;} </style></head><body><p id="s0"><span id="s1">Damn. Hold until I return.</span></p></body></html>]]></LocalizedString>
+      </Text>
+      <Color>#C8E2E7</Color>
+      <TechnicalName>DFr_E777F48E</TechnicalName>
+      <ExternalId/>
+      <ShortId>0xE777F48E</ShortId>
+      <Features Count="0"/>
+      <Pins Count="2">
+        <Pin Id="0x01000000000001BE" Index="0" Semantic="Input">
+          <Expression>GameState.KickHart == false</Expression>
+        </Pin>
+        <Pin Id="0x01000000000001BF" Index="0" Semantic="Output">
+          <Expression/>
+        </Pin>
+      </Pins>
+      <Speaker IdRef="0x010000000000010D"/>
+      <StageDirections Count="0"/>
+      <MenuText Count="0"/>
+    </DialogueFragment>
+    <DialogueFragment Id="0x01000000000001C2">
+      <DisplayName><![CDATA[Player: "Collateral damage. Open it."]]></DisplayName>
+      <Text Count="1" HasMarkup="1">
+        <LocalizedString Lang=""><![CDATA[<html><head><style>#s0 {text-align:left;} #s1 {font-size:11pt;} </style></head><body><p id="s0"><span id="s1">Collateral damage. Open it.</span></p></body></html>]]></LocalizedString>
+      </Text>
+      <Color>#C8E2E7</Color>
+      <TechnicalName>DFr_BA3B0571</TechnicalName>
+      <ExternalId/>
+      <ShortId>0xBA3B0571</ShortId>
+      <Features Count="0"/>
+      <Pins Count="2">
+        <Pin Id="0x01000000000001C5" Index="0" Semantic="Input">
+          <Expression/>
+        </Pin>
+        <Pin Id="0x01000000000001C6" Index="0" Semantic="Output">
+          <Expression/>
+        </Pin>
+      </Pins>
+      <Speaker IdRef="0x010000000000010D"/>
+      <StageDirections Count="0"/>
+      <MenuText Count="0"/>
+    </DialogueFragment>
+    <DialogueFragment Id="0x01000000000001C9">
+      <DisplayName><![CDATA[Private Hart: "But... innocent families and c..."]]></DisplayName>
+      <Text Count="1" HasMarkup="1">
+        <LocalizedString Lang=""><![CDATA[<html><head><style>#s0 {text-align:left;} #s1 {font-size:11pt;} </style></head><body><p id="s0"><span id="s1">But... innocent families and children, sir!</span></p></body></html>]]></LocalizedString>
+      </Text>
+      <Color>#C8E2E7</Color>
+      <TechnicalName>DFr_262C9255</TechnicalName>
+      <ExternalId/>
+      <ShortId>0x262C9255</ShortId>
+      <Features Count="0"/>
+      <Pins Count="2">
+        <Pin Id="0x01000000000001CC" Index="0" Semantic="Input">
+          <Expression/>
+        </Pin>
+        <Pin Id="0x01000000000001CD" Index="0" Semantic="Output">
+          <Expression/>
+        </Pin>
+      </Pins>
+      <Speaker IdRef="0x0100000000000111"/>
+      <StageDirections Count="0"/>
+      <MenuText Count="0"/>
+    </DialogueFragment>
+    <DialogueFragment Id="0x01000000000001D5">
+      <DisplayName><![CDATA[Player: "Small price to free our star s..."]]></DisplayName>
+      <Text Count="1" HasMarkup="1">
+        <LocalizedString Lang=""><![CDATA[<html><head><style>#s0 {text-align:left;} #s1 {font-size:11pt;} </style></head><body><p id="s0"><span id="s1">Small price to free our star system.</span></p></body></html>]]></LocalizedString>
+      </Text>
+      <Color>#C8E2E7</Color>
+      <TechnicalName>DFr_42934641</TechnicalName>
+      <ExternalId/>
+      <ShortId>0x42934641</ShortId>
+      <Features Count="0"/>
+      <Pins Count="2">
+        <Pin Id="0x01000000000001D8" Index="0" Semantic="Input">
+          <Expression/>
+        </Pin>
+        <Pin Id="0x01000000000001D9" Index="0" Semantic="Output">
+          <Expression/>
+        </Pin>
+      </Pins>
+      <Speaker IdRef="0x010000000000010D"/>
+      <StageDirections Count="0"/>
+      <MenuText Count="0"/>
+    </DialogueFragment>
+    <DialogueFragment Id="0x01000000000001DC">
+      <DisplayName><![CDATA[Player: "Good! Kill 'em all!"]]></DisplayName>
+      <Text Count="1" HasMarkup="1">
+        <LocalizedString Lang=""><![CDATA[<html><head><style>#s0 {text-align:left;} #s1 {font-size:11pt;} </style></head><body><p id="s0"><span id="s1">Good! Kill &#39;em all!</span></p></body></html>]]></LocalizedString>
+      </Text>
+      <Color>#C8E2E7</Color>
+      <TechnicalName>DFr_639B3B92</TechnicalName>
+      <ExternalId/>
+      <ShortId>0x639B3B92</ShortId>
+      <Features Count="0"/>
+      <Pins Count="2">
+        <Pin Id="0x01000000000001DF" Index="0" Semantic="Input">
+          <Expression/>
+        </Pin>
+        <Pin Id="0x01000000000001E0" Index="0" Semantic="Output">
+          <Expression/>
+        </Pin>
+      </Pins>
+      <Speaker IdRef="0x010000000000010D"/>
+      <StageDirections Count="0"/>
+      <MenuText Count="0"/>
+    </DialogueFragment>
+    <DialogueFragment Id="0x01000000000001E3">
+      <DisplayName><![CDATA[Private Hart: "I won't do it, sir."]]></DisplayName>
+      <Text Count="1" HasMarkup="1">
+        <LocalizedString Lang=""><![CDATA[<html><head><style>#s0 {text-align:left;} #s1 {font-size:11pt;} </style></head><body><p id="s0"><span id="s1">I won&#39;t do it, sir.</span></p></body></html>]]></LocalizedString>
+      </Text>
+      <Color>#C8E2E7</Color>
+      <TechnicalName>DFr_5E2D8DF6</TechnicalName>
+      <ExternalId/>
+      <ShortId>0x5E2D8DF6</ShortId>
+      <Features Count="0"/>
+      <Pins Count="2">
+        <Pin Id="0x01000000000001E6" Index="0" Semantic="Input">
+          <Expression/>
+        </Pin>
+        <Pin Id="0x01000000000001E7" Index="0" Semantic="Output">
+          <Expression/>
+        </Pin>
+      </Pins>
+      <Speaker IdRef="0x0100000000000111"/>
+      <StageDirections Count="1">
+        <LocalizedString Lang="">Camera(Medium); QTE(1,2,GameState.KickHart,true); required Camera(Closeup, listener)@2</LocalizedString>
+      </StageDirections>
+      <MenuText Count="0"/>
+    </DialogueFragment>
+    <DialogueFragment Id="0x01000000000001EA">
+      <DisplayName><![CDATA[Private Hart: "..."]]></DisplayName>
+      <Color>#C8E2E7</Color>
+      <TechnicalName>DFr_66477F09</TechnicalName>
+      <ExternalId/>
+      <ShortId>0x66477F09</ShortId>
+      <Features Count="0"/>
+      <Pins Count="2">
+        <Pin Id="0x01000000000001ED" Index="0" Semantic="Input">
+          <Expression/>
+        </Pin>
+        <Pin Id="0x01000000000001EE" Index="0" Semantic="Output">
+          <Expression/>
+        </Pin>
+      </Pins>
+      <Speaker IdRef="0x0100000000000111"/>
+      <StageDirections Count="1">
+        <LocalizedString Lang="">None()</LocalizedString>
+      </StageDirections>
+      <MenuText Count="0"/>
+    </DialogueFragment>
+    <DialogueFragment Id="0x01000000000001F5">
+      <DisplayName><![CDATA[Private Hart: "Oof!"]]></DisplayName>
+      <Text Count="1" HasMarkup="1">
+        <LocalizedString Lang=""><![CDATA[<html><head><style>#s0 {text-align:left;} #s1 {font-size:11pt;} </style></head><body><p id="s0"><span id="s1">Oof!</span></p></body></html>]]></LocalizedString>
+      </Text>
+      <Color>#C8E2E7</Color>
+      <TechnicalName>DFr_3ECEAF00</TechnicalName>
+      <ExternalId/>
+      <ShortId>0x3ECEAF00</ShortId>
+      <Features Count="0"/>
+      <Pins Count="2">
+        <Pin Id="0x01000000000001F8" Index="0" Semantic="Input">
+          <Expression>GameState.KickHart == true</Expression>
+        </Pin>
+        <Pin Id="0x01000000000001F9" Index="0" Semantic="Output">
+          <Expression>GameState.KickHart = false</Expression>
+        </Pin>
+      </Pins>
+      <Speaker IdRef="0x0100000000000111"/>
+      <StageDirections Count="1">
+        <LocalizedString Lang="">Camera(Medium Left,listener,0.25); Animation(TwoHandGunIButtkick,listener); Audio(Sounds/Bonecrush)@0.3; Camera(Down)@0.75; Camera(Medium,speaker,1)@0.8; Animation(HandGunIDyingback)@0.5; require Animation(TwoHandGunIdle,listener)@1; Animation(TwoHandGunFromLayingToStanding)@1.5; require Animation(PistolCombatIdle)@2; require Camera(Closeup,listener)@3</LocalizedString>
+      </StageDirections>
+      <MenuText Count="0"/>
+    </DialogueFragment>
+    <DialogueFragment Id="0x01000000000001FC">
+      <DisplayName><![CDATA[Player: "[f]Then I'll do it."]]></DisplayName>
+      <Text Count="1" HasMarkup="1">
+        <LocalizedString Lang=""><![CDATA[<html><head><style>#s0 {text-align:left;} #s1 {font-size:11pt;} </style></head><body><p id="s0"><span id="s1">[f]Then I&#39;ll do it.</span></p></body></html>]]></LocalizedString>
+      </Text>
+      <Color>#C8E2E7</Color>
+      <TechnicalName>DFr_00007D93</TechnicalName>
+      <ExternalId/>
+      <ShortId>0x00007D93</ShortId>
+      <Features Count="0"/>
+      <Pins Count="2">
+        <Pin Id="0x01000000000001FF" Index="0" Semantic="Input">
+          <Expression>GameState.KickHart == false</Expression>
+        </Pin>
+        <Pin Id="0x0100000000000200" Index="0" Semantic="Output">
+          <Expression/>
+        </Pin>
+      </Pins>
+      <Speaker IdRef="0x010000000000010D"/>
+      <StageDirections Count="0"/>
+      <MenuText Count="0"/>
+    </DialogueFragment>
+    <DialogueFragment Id="0x0100000000000203">
+      <DisplayName><![CDATA[Player: "[f]I'll see you court martiale..."]]></DisplayName>
+      <Text Count="1" HasMarkup="1">
+        <LocalizedString Lang=""><![CDATA[<html><head><style>#s0 {text-align:left;} #s1 {font-size:11pt;} </style></head><body><p id="s0"><span id="s1">[f]I&#39;ll see you court martialed, private!</span></p></body></html>]]></LocalizedString>
+      </Text>
+      <Color>#C8E2E7</Color>
+      <TechnicalName>DFr_D1521063</TechnicalName>
+      <ExternalId/>
+      <ShortId>0xD1521063</ShortId>
+      <Features Count="0"/>
+      <Pins Count="2">
+        <Pin Id="0x0100000000000206" Index="0" Semantic="Input">
+          <Expression>GameState.KickHart == false</Expression>
+        </Pin>
+        <Pin Id="0x0100000000000207" Index="0" Semantic="Output">
+          <Expression/>
+        </Pin>
+      </Pins>
+      <Speaker IdRef="0x010000000000010D"/>
+      <StageDirections Count="0"/>
+      <MenuText Count="0"/>
+    </DialogueFragment>
+    <DialogueFragment Id="0x010000000000030D">
+      <DisplayName><![CDATA[Player: "[f]Follow orders next time, pr..."]]></DisplayName>
+      <Text Count="1" HasMarkup="1">
+        <LocalizedString Lang=""><![CDATA[<html><head><style>#s0 {text-align:left;} #s1 {font-size:11pt;} </style></head><body><p id="s0"><span id="s1">[f]Follow orders next time, private!</span></p></body></html>]]></LocalizedString>
+      </Text>
+      <Color>#C8E2E7</Color>
+      <TechnicalName>DFr_C559778C</TechnicalName>
+      <ExternalId/>
+      <ShortId>0xC559778C</ShortId>
+      <Features Count="0"/>
+      <Pins Count="2">
+        <Pin Id="0x0100000000000310" Index="0" Semantic="Input">
+          <Expression/>
+        </Pin>
+        <Pin Id="0x0100000000000311" Index="0" Semantic="Output">
+          <Expression/>
+        </Pin>
+      </Pins>
+      <Speaker IdRef="0x010000000000010D"/>
+      <StageDirections Count="0"/>
+      <MenuText Count="0"/>
+    </DialogueFragment>
+    <DialogueFragment Id="0x0100000000000218">
+      <DisplayName><![CDATA[Sergeant Graves: "Hart's a traitor."]]></DisplayName>
+      <Text Count="1" HasMarkup="1">
+        <LocalizedString Lang=""><![CDATA[<html><head><style>#s0 {text-align:left;} #s1 {font-size:11pt;} </style></head><body><p id="s0"><span id="s1">Hart&#39;s a traitor.</span></p></body></html>]]></LocalizedString>
+      </Text>
+      <Color>#C8E2E7</Color>
+      <TechnicalName>DFr_7FCD9B68</TechnicalName>
+      <ExternalId/>
+      <ShortId>0x7FCD9B68</ShortId>
+      <Features Count="0"/>
+      <Pins Count="2">
+        <Pin Id="0x010000000000021B" Index="0" Semantic="Input">
+          <Expression><![CDATA[GameState.OpenedHangar == false && GameState.LockedHangar == false]]></Expression>
+        </Pin>
+        <Pin Id="0x010000000000021C" Index="0" Semantic="Output">
+          <Expression/>
+        </Pin>
+      </Pins>
+      <Speaker IdRef="0x0100000000000115"/>
+      <StageDirections Count="1">
+        <LocalizedString Lang="">Animation(TwoHandGunIdle)@0.5; require Animation(TwoHandGunILookingAroundSquatA)@2</LocalizedString>
+      </StageDirections>
+      <MenuText Count="0"/>
+    </DialogueFragment>
+    <DialogueFragment Id="0x010000000000021D">
+      <DisplayName><![CDATA[Sergeant Graves: "Let me break his neck, LT!"]]></DisplayName>
+      <Text Count="1" HasMarkup="1">
+        <LocalizedString Lang=""><![CDATA[<html><head><style>#s0 {text-align:left;} #s1 {font-size:11pt;} </style></head><body><p id="s0"><span id="s1">Let me break his neck, LT!</span></p></body></html>]]></LocalizedString>
+      </Text>
+      <Color>#C8E2E7</Color>
+      <TechnicalName>DFr_05317805</TechnicalName>
+      <ExternalId/>
+      <ShortId>0x05317805</ShortId>
+      <Features Count="0"/>
+      <Pins Count="2">
+        <Pin Id="0x0100000000000220" Index="0" Semantic="Input">
+          <Expression><![CDATA[GameState.OpenedHangar == false && GameState.LockedHangar == false]]></Expression>
+        </Pin>
+        <Pin Id="0x0100000000000221" Index="0" Semantic="Output">
+          <Expression/>
+        </Pin>
+      </Pins>
+      <Speaker IdRef="0x0100000000000115"/>
+      <StageDirections Count="0"/>
+      <MenuText Count="0"/>
+    </DialogueFragment>
+    <DialogueFragment Id="0x0100000000000224">
+      <DisplayName><![CDATA[Sergeant Graves: "What'll it be, LT?"]]></DisplayName>
+      <Text Count="1" HasMarkup="1">
+        <LocalizedString Lang=""><![CDATA[<html><head><style>#s0 {text-align:left;} #s1 {font-size:11pt;} </style></head><body><p id="s0"><span id="s1">What&#39;ll it be, LT?</span></p></body></html>]]></LocalizedString>
+      </Text>
+      <Color>#C8E2E7</Color>
+      <TechnicalName>DFr_4FC78108</TechnicalName>
+      <ExternalId/>
+      <ShortId>0x4FC78108</ShortId>
+      <Features Count="0"/>
+      <Pins Count="2">
+        <Pin Id="0x0100000000000227" Index="0" Semantic="Input">
+          <Expression><![CDATA[GameState.OpenedHangar == false && GameState.LockedHangar == false]]></Expression>
+        </Pin>
+        <Pin Id="0x0100000000000228" Index="0" Semantic="Output">
+          <Expression/>
+        </Pin>
+      </Pins>
+      <Speaker IdRef="0x0100000000000115"/>
+      <StageDirections Count="0"/>
+      <MenuText Count="0"/>
+    </DialogueFragment>
+    <DialogueFragment Id="0x010000000000022A">
+      <DisplayName><![CDATA[Sergeant Graves: "We can't hide here forever, si..."]]></DisplayName>
+      <Text Count="1" HasMarkup="1">
+        <LocalizedString Lang=""><![CDATA[<html><head><style>#s0 {text-align:left;} #s1 {font-size:11pt;} </style></head><body><p id="s0"><span id="s1">We can&#39;t hide here forever, sir!</span></p></body></html>]]></LocalizedString>
+      </Text>
+      <Color>#C8E2E7</Color>
+      <TechnicalName>DFr_E4FBD4D3</TechnicalName>
+      <ExternalId/>
+      <ShortId>0xE4FBD4D3</ShortId>
+      <Features Count="0"/>
+      <Pins Count="2">
+        <Pin Id="0x010000000000022D" Index="0" Semantic="Input">
+          <Expression><![CDATA[GameState.OpenedHangar == false && GameState.LockedHangar == false]]></Expression>
+        </Pin>
+        <Pin Id="0x010000000000022E" Index="0" Semantic="Output">
+          <Expression/>
+        </Pin>
+      </Pins>
+      <Speaker IdRef="0x0100000000000115"/>
+      <StageDirections Count="0"/>
+      <MenuText Count="0"/>
+    </DialogueFragment>
+    <DialogueFragment Id="0x0100000000000230">
+      <DisplayName><![CDATA[Sergeant Graves: "Guess you're a hero now, sir!"]]></DisplayName>
+      <Text Count="1" HasMarkup="1">
+        <LocalizedString Lang=""><![CDATA[<html><head><style>#s0 {text-align:left;} #s1 {font-size:11pt;} </style></head><body><p id="s0"><span id="s1">Guess you&#39;re a hero now, sir!</span></p></body></html>]]></LocalizedString>
+      </Text>
+      <Color>#C8E2E7</Color>
+      <TechnicalName>DFr_45DA3A99</TechnicalName>
+      <ExternalId/>
+      <ShortId>0x45DA3A99</ShortId>
+      <Features Count="0"/>
+      <Pins Count="2">
+        <Pin Id="0x0100000000000233" Index="0" Semantic="Input">
+          <Expression>GameState.OpenedHangar == true</Expression>
+        </Pin>
+        <Pin Id="0x0100000000000234" Index="0" Semantic="Output">
+          <Expression/>
+        </Pin>
+      </Pins>
+      <Speaker IdRef="0x0100000000000115"/>
+      <StageDirections Count="0"/>
+      <MenuText Count="0"/>
+    </DialogueFragment>
+    <DialogueFragment Id="0x0100000000000235">
+      <DisplayName><![CDATA[Sergeant Graves: "Free after all these years of..."]]></DisplayName>
+      <Text Count="1" HasMarkup="1">
+        <LocalizedString Lang=""><![CDATA[<html><head><style>#s0 {text-align:left;} #s1 {font-size:11pt;} </style></head><body><p id="s0"><span id="s1">Free after all these years of fighting!</span></p></body></html>]]></LocalizedString>
+      </Text>
+      <Color>#C8E2E7</Color>
+      <TechnicalName>DFr_7D06DD11</TechnicalName>
+      <ExternalId/>
+      <ShortId>0x7D06DD11</ShortId>
+      <Features Count="0"/>
+      <Pins Count="2">
+        <Pin Id="0x0100000000000238" Index="0" Semantic="Input">
+          <Expression>GameState.OpenedHangar == true</Expression>
+        </Pin>
+        <Pin Id="0x0100000000000239" Index="0" Semantic="Output">
+          <Expression/>
+        </Pin>
+      </Pins>
+      <Speaker IdRef="0x0100000000000115"/>
+      <StageDirections Count="0"/>
+      <MenuText Count="0"/>
+    </DialogueFragment>
+    <DialogueFragment Id="0x010000000000023A">
+      <DisplayName><![CDATA[Sergeant Graves: "How many more will die now?"]]></DisplayName>
+      <Text Count="1" HasMarkup="1">
+        <LocalizedString Lang=""><![CDATA[<html><head><style>#s0 {text-align:left;} #s1 {font-size:11pt;} </style></head><body><p id="s0"><span id="s1">How many more will die now?</span></p></body></html>]]></LocalizedString>
+      </Text>
+      <Color>#C8E2E7</Color>
+      <TechnicalName>DFr_CF5A49A4</TechnicalName>
+      <ExternalId/>
+      <ShortId>0xCF5A49A4</ShortId>
+      <Features Count="0"/>
+      <Pins Count="2">
+        <Pin Id="0x010000000000023D" Index="0" Semantic="Input">
+          <Expression>GameState.LockedHangar == true</Expression>
+        </Pin>
+        <Pin Id="0x010000000000023E" Index="0" Semantic="Output">
+          <Expression/>
+        </Pin>
+      </Pins>
+      <Speaker IdRef="0x0100000000000115"/>
+      <StageDirections Count="0"/>
+      <MenuText Count="0"/>
+    </DialogueFragment>
+    <DialogueFragment Id="0x010000000000028C">
+      <DisplayName><![CDATA[Terminal: "Enter password:"]]></DisplayName>
+      <Text Count="1" HasMarkup="1">
+        <LocalizedString Lang=""><![CDATA[<html><head><style>#s0 {text-align:left;} #s1 {font-size:11pt;} </style></head><body><p id="s0"><span id="s1">Enter password:</span></p></body></html>]]></LocalizedString>
+      </Text>
+      <Color>#C8E2E7</Color>
+      <TechnicalName>DFr_55B5087A</TechnicalName>
+      <ExternalId/>
+      <ShortId>0x55B5087A</ShortId>
+      <Features Count="0"/>
+      <Pins Count="2">
+        <Pin Id="0x010000000000028F" Index="0" Semantic="Input">
+          <Expression><![CDATA[GameState.OpenedHangar == false && GameState.LockedHangar == false]]></Expression>
+        </Pin>
+        <Pin Id="0x0100000000000290" Index="0" Semantic="Output">
+          <Expression/>
+        </Pin>
+      </Pins>
+      <Speaker IdRef="0x0100000000000242"/>
+      <StageDirections Count="1">
+        <LocalizedString Lang="">Camera(Terminal Camera Angle); Delay(1)</LocalizedString>
+      </StageDirections>
+      <MenuText Count="0"/>
+    </DialogueFragment>
+    <DialogueFragment Id="0x0100000000000291">
+      <DisplayName><![CDATA[Terminal: "Critical systems failure!"]]></DisplayName>
+      <Text Count="1" HasMarkup="1">
+        <LocalizedString Lang=""><![CDATA[<html><head><style>#s0 {text-align:left;} #s1 {font-size:11pt;} </style></head><body><p id="s0"><span id="s1">Critical systems failure!</span></p></body></html>]]></LocalizedString>
+      </Text>
+      <Color>#C8E2E7</Color>
+      <TechnicalName>DFr_6FF392FF</TechnicalName>
+      <ExternalId/>
+      <ShortId>0x6FF392FF</ShortId>
+      <Features Count="0"/>
+      <Pins Count="2">
+        <Pin Id="0x0100000000000294" Index="0" Semantic="Input">
+          <Expression>GameState.OpenedHangar == true || GameState.LockedHangar == true</Expression>
+        </Pin>
+        <Pin Id="0x0100000000000295" Index="0" Semantic="Output">
+          <Expression/>
+        </Pin>
+      </Pins>
+      <Speaker IdRef="0x0100000000000242"/>
+      <StageDirections Count="1">
+        <LocalizedString Lang="">Camera(Terminal Camera Angle); Delay(1)</LocalizedString>
+      </StageDirections>
+      <MenuText Count="0"/>
+    </DialogueFragment>
+    <DialogueFragment Id="0x010000000000029D">
+      <DisplayName><![CDATA[Player: "12345"]]></DisplayName>
+      <Text Count="1" HasMarkup="1">
+        <LocalizedString Lang=""><![CDATA[<html><head><style>#s0 {text-align:left;} #s1 {font-size:11pt;} </style></head><body><p id="s0"><span id="s1">12345</span></p></body></html>]]></LocalizedString>
+      </Text>
+      <Color>#C8E2E7</Color>
+      <TechnicalName>DFr_BB127D2D</TechnicalName>
+      <ExternalId/>
+      <ShortId>0xBB127D2D</ShortId>
+      <Features Count="0"/>
+      <Pins Count="2">
+        <Pin Id="0x01000000000002A0" Index="0" Semantic="Input">
+          <Expression/>
+        </Pin>
+        <Pin Id="0x01000000000002A1" Index="0" Semantic="Output">
+          <Expression/>
+        </Pin>
+      </Pins>
+      <Speaker IdRef="0x010000000000010D"/>
+      <StageDirections Count="1">
+        <LocalizedString Lang="">Camera(Terminal Camera Angle); Delay(1)</LocalizedString>
+      </StageDirections>
+      <MenuText Count="0"/>
+    </DialogueFragment>
+    <DialogueFragment Id="0x01000000000002A3">
+      <DisplayName><![CDATA[Player: "secret"]]></DisplayName>
+      <Text Count="1" HasMarkup="1">
+        <LocalizedString Lang=""><![CDATA[<html><head><style>#s0 {text-align:left;} #s1 {font-size:11pt;} </style></head><body><p id="s0"><span id="s1">secret</span></p></body></html>]]></LocalizedString>
+      </Text>
+      <Color>#C8E2E7</Color>
+      <TechnicalName>DFr_77706212</TechnicalName>
+      <ExternalId/>
+      <ShortId>0x77706212</ShortId>
+      <Features Count="0"/>
+      <Pins Count="2">
+        <Pin Id="0x01000000000002A6" Index="0" Semantic="Input">
+          <Expression/>
+        </Pin>
+        <Pin Id="0x01000000000002A7" Index="0" Semantic="Output">
+          <Expression/>
+        </Pin>
+      </Pins>
+      <Speaker IdRef="0x010000000000010D"/>
+      <StageDirections Count="1">
+        <LocalizedString Lang="">Camera(Terminal Camera Angle); Delay(1)</LocalizedString>
+      </StageDirections>
+      <MenuText Count="0"/>
+    </DialogueFragment>
+    <DialogueFragment Id="0x01000000000002A9">
+      <DisplayName><![CDATA[Player: "dominate"]]></DisplayName>
+      <Text Count="1" HasMarkup="1">
+        <LocalizedString Lang=""><![CDATA[<html><head><style>#s0 {text-align:left;} #s1 {font-size:11pt;} </style></head><body><p id="s0"><span id="s1">dominate</span></p></body></html>]]></LocalizedString>
+      </Text>
+      <Color>#C8E2E7</Color>
+      <TechnicalName>DFr_F7E273D3</TechnicalName>
+      <ExternalId/>
+      <ShortId>0xF7E273D3</ShortId>
+      <Features Count="0"/>
+      <Pins Count="2">
+        <Pin Id="0x01000000000002AC" Index="0" Semantic="Input">
+          <Expression/>
+        </Pin>
+        <Pin Id="0x01000000000002AD" Index="0" Semantic="Output">
+          <Expression/>
+        </Pin>
+      </Pins>
+      <Speaker IdRef="0x010000000000010D"/>
+      <StageDirections Count="1">
+        <LocalizedString Lang="">Camera(Terminal Camera Angle); Delay(1)</LocalizedString>
+      </StageDirections>
+      <MenuText Count="0"/>
+    </DialogueFragment>
+    <DialogueFragment Id="0x01000000000002AF">
+      <DisplayName><![CDATA[Player: "logout"]]></DisplayName>
+      <Text Count="1" HasMarkup="1">
+        <LocalizedString Lang=""><![CDATA[<html><head><style>#s0 {text-align:left;} #s1 {font-size:11pt;} </style></head><body><p id="s0"><span id="s1">logout</span></p></body></html>]]></LocalizedString>
+      </Text>
+      <Color>#C8E2E7</Color>
+      <TechnicalName>DFr_B1A0E386</TechnicalName>
+      <ExternalId/>
+      <ShortId>0xB1A0E386</ShortId>
+      <Features Count="0"/>
+      <Pins Count="2">
+        <Pin Id="0x01000000000002B2" Index="0" Semantic="Input">
+          <Expression/>
+        </Pin>
+        <Pin Id="0x01000000000002B3" Index="0" Semantic="Output">
+          <Expression/>
+        </Pin>
+      </Pins>
+      <Speaker IdRef="0x010000000000010D"/>
+      <StageDirections Count="1">
+        <LocalizedString Lang="">Camera(Terminal Camera Angle); Delay(1)</LocalizedString>
+      </StageDirections>
+      <MenuText Count="0"/>
+    </DialogueFragment>
+    <DialogueFragment Id="0x01000000000002B9">
+      <DisplayName><![CDATA[Terminal: "Invalid login."]]></DisplayName>
+      <Text Count="1" HasMarkup="1">
+        <LocalizedString Lang=""><![CDATA[<html><head><style>#s0 {text-align:left;} #s1 {font-size:11pt;} </style></head><body><p id="s0"><span id="s1">Invalid login.</span></p></body></html>]]></LocalizedString>
+      </Text>
+      <Color>#C8E2E7</Color>
+      <TechnicalName>DFr_F8552367</TechnicalName>
+      <ExternalId/>
+      <ShortId>0xF8552367</ShortId>
+      <Features Count="0"/>
+      <Pins Count="2">
+        <Pin Id="0x01000000000002BC" Index="0" Semantic="Input">
+          <Expression/>
+        </Pin>
+        <Pin Id="0x01000000000002BD" Index="0" Semantic="Output">
+          <Expression/>
+        </Pin>
+      </Pins>
+      <Speaker IdRef="0x0100000000000242"/>
+      <StageDirections Count="1">
+        <LocalizedString Lang="">Camera(Terminal Camera Angle); Delay(1)</LocalizedString>
+      </StageDirections>
+      <MenuText Count="0"/>
+    </DialogueFragment>
+    <DialogueFragment Id="0x01000000000002C2">
+      <DisplayName><![CDATA[Terminal: "Enter command:"]]></DisplayName>
+      <Text Count="1" HasMarkup="1">
+        <LocalizedString Lang=""><![CDATA[<html><head><style>#s0 {text-align:left;} #s1 {font-size:11pt;} </style></head><body><p id="s0"><span id="s1">Enter command:</span></p></body></html>]]></LocalizedString>
+      </Text>
+      <Color>#C8E2E7</Color>
+      <TechnicalName>DFr_A57D9CDC</TechnicalName>
+      <ExternalId/>
+      <ShortId>0xA57D9CDC</ShortId>
+      <Features Count="0"/>
+      <Pins Count="2">
+        <Pin Id="0x01000000000002C5" Index="0" Semantic="Input">
+          <Expression/>
+        </Pin>
+        <Pin Id="0x01000000000002C6" Index="0" Semantic="Output">
+          <Expression/>
+        </Pin>
+      </Pins>
+      <Speaker IdRef="0x0100000000000242"/>
+      <StageDirections Count="1">
+        <LocalizedString Lang="">Camera(Terminal Camera Angle); Delay(1)</LocalizedString>
+      </StageDirections>
+      <MenuText Count="0"/>
+    </DialogueFragment>
+    <DialogueFragment Id="0x01000000000002CF">
+      <DisplayName><![CDATA[Player: "lock hangar doors"]]></DisplayName>
+      <Text Count="1" HasMarkup="1">
+        <LocalizedString Lang=""><![CDATA[<html><head><style>#s0 {text-align:left;} #s1 {font-size:11pt;} </style></head><body><p id="s0"><span id="s1">lock hangar doors</span></p></body></html>]]></LocalizedString>
+      </Text>
+      <Color>#C8E2E7</Color>
+      <TechnicalName>DFr_C041ECE0</TechnicalName>
+      <ExternalId/>
+      <ShortId>0xC041ECE0</ShortId>
+      <Features Count="0"/>
+      <Pins Count="2">
+        <Pin Id="0x01000000000002D2" Index="0" Semantic="Input">
+          <Expression/>
+        </Pin>
+        <Pin Id="0x01000000000002D3" Index="0" Semantic="Output">
+          <Expression/>
+        </Pin>
+      </Pins>
+      <Speaker IdRef="0x010000000000010D"/>
+      <StageDirections Count="1">
+        <LocalizedString Lang="">Camera(Terminal Camera Angle); Delay(1)</LocalizedString>
+      </StageDirections>
+      <MenuText Count="0"/>
+    </DialogueFragment>
+    <DialogueFragment Id="0x01000000000002D5">
+      <DisplayName><![CDATA[Player: "open hangar doors"]]></DisplayName>
+      <Text Count="1" HasMarkup="1">
+        <LocalizedString Lang=""><![CDATA[<html><head><style>#s0 {text-align:left;} #s1 {font-size:11pt;} </style></head><body><p id="s0"><span id="s1">open hangar doors</span></p></body></html>]]></LocalizedString>
+      </Text>
+      <Color>#C8E2E7</Color>
+      <TechnicalName>DFr_DDBA68D1</TechnicalName>
+      <ExternalId/>
+      <ShortId>0xDDBA68D1</ShortId>
+      <Features Count="0"/>
+      <Pins Count="2">
+        <Pin Id="0x01000000000002D8" Index="0" Semantic="Input">
+          <Expression/>
+        </Pin>
+        <Pin Id="0x01000000000002D9" Index="0" Semantic="Output">
+          <Expression/>
+        </Pin>
+      </Pins>
+      <Speaker IdRef="0x010000000000010D"/>
+      <StageDirections Count="1">
+        <LocalizedString Lang="">Camera(Terminal Camera Angle); Delay(1)</LocalizedString>
+      </StageDirections>
+      <MenuText Count="0"/>
+    </DialogueFragment>
+    <DialogueFragment Id="0x01000000000002E0">
+      <DisplayName><![CDATA[Terminal: "Hangar doors locked."]]></DisplayName>
+      <Text Count="1" HasMarkup="1">
+        <LocalizedString Lang=""><![CDATA[<html><head><style>#s0 {text-align:left;} #s1 {font-size:11pt;} </style></head><body><p id="s0"><span id="s1">Hangar doors locked.</span></p></body></html>]]></LocalizedString>
+      </Text>
+      <Color>#C8E2E7</Color>
+      <TechnicalName>DFr_7147ADEE</TechnicalName>
+      <ExternalId/>
+      <ShortId>0x7147ADEE</ShortId>
+      <Features Count="0"/>
+      <Pins Count="2">
+        <Pin Id="0x01000000000002E3" Index="0" Semantic="Input">
+          <Expression/>
+        </Pin>
+        <Pin Id="0x01000000000002E4" Index="0" Semantic="Output">
+          <Expression><![CDATA[Item["Assassinate_the_Emperor"].State = "failure"; Variable["Alert"] = "Mission Update: Assassinate the Emperor"; Variable["GameState.LockedHangar"] = true]]></Expression>
+        </Pin>
+      </Pins>
+      <Speaker IdRef="0x0100000000000242"/>
+      <StageDirections Count="1">
+        <LocalizedString Lang="">Camera(Terminal Camera Angle); Delay(1)</LocalizedString>
+      </StageDirections>
+      <MenuText Count="0"/>
+    </DialogueFragment>
+    <DialogueFragment Id="0x01000000000002E8">
+      <DisplayName><![CDATA[Terminal: "*** Warning: Verify all person..."]]></DisplayName>
+      <Text Count="1" HasMarkup="1">
+        <LocalizedString Lang=""><![CDATA[<html><head><style>#s0 {text-align:left;} #s1 {font-size:11pt;} </style></head><body><p id="s0"><span id="s1">*** Warning: Verify all personnel evacuated. Confirm override. ***</span></p></body></html>]]></LocalizedString>
+      </Text>
+      <Color>#C8E2E7</Color>
+      <TechnicalName>DFr_CC767971</TechnicalName>
+      <ExternalId/>
+      <ShortId>0xCC767971</ShortId>
+      <Features Count="0"/>
+      <Pins Count="2">
+        <Pin Id="0x01000000000002EB" Index="0" Semantic="Input">
+          <Expression/>
+        </Pin>
+        <Pin Id="0x01000000000002EC" Index="0" Semantic="Output">
+          <Expression/>
+        </Pin>
+      </Pins>
+      <Speaker IdRef="0x0100000000000242"/>
+      <StageDirections Count="1">
+        <LocalizedString Lang="">Camera(Terminal Camera Angle); Delay(1)</LocalizedString>
+      </StageDirections>
+      <MenuText Count="0"/>
+    </DialogueFragment>
+    <DialogueFragment Id="0x01000000000002EF">
+      <DisplayName><![CDATA[Player: "confirm and execute"]]></DisplayName>
+      <Text Count="1" HasMarkup="1">
+        <LocalizedString Lang=""><![CDATA[<html><head><style>#s0 {text-align:left;} #s1 {font-size:11pt;} </style></head><body><p id="s0"><span id="s1">confirm and execute</span></p></body></html>]]></LocalizedString>
+      </Text>
+      <Color>#C8E2E7</Color>
+      <TechnicalName>DFr_D7D005C0</TechnicalName>
+      <ExternalId/>
+      <ShortId>0xD7D005C0</ShortId>
+      <Features Count="0"/>
+      <Pins Count="2">
+        <Pin Id="0x01000000000002F2" Index="0" Semantic="Input">
+          <Expression/>
+        </Pin>
+        <Pin Id="0x01000000000002F3" Index="0" Semantic="Output">
+          <Expression><![CDATA[Item["Assassinate_the_Emperor"].State = "success"; Variable["Alert"] = "Mission Complete: Assassinate the Emperor"; Variable["GameState.OpenedHangar"] = true]]></Expression>
+        </Pin>
+      </Pins>
+      <Speaker IdRef="0x010000000000010D"/>
+      <StageDirections Count="1">
+        <LocalizedString Lang="">Camera(Terminal Camera Angle); Delay(1)</LocalizedString>
+      </StageDirections>
+      <MenuText Count="0"/>
+    </DialogueFragment>
+    <DialogueFragment Id="0x01000000000002F5">
+      <DisplayName><![CDATA[Player: "cancel"]]></DisplayName>
+      <Text Count="1" HasMarkup="1">
+        <LocalizedString Lang=""><![CDATA[<html><head><style>#s0 {text-align:left;} #s1 {font-size:11pt;} </style></head><body><p id="s0"><span id="s1">cancel</span></p></body></html>]]></LocalizedString>
+      </Text>
+      <Color>#C8E2E7</Color>
+      <TechnicalName>DFr_8B099A77</TechnicalName>
+      <ExternalId/>
+      <ShortId>0x8B099A77</ShortId>
+      <Features Count="0"/>
+      <Pins Count="2">
+        <Pin Id="0x01000000000002F8" Index="0" Semantic="Input">
+          <Expression/>
+        </Pin>
+        <Pin Id="0x01000000000002F9" Index="0" Semantic="Output">
+          <Expression/>
+        </Pin>
+      </Pins>
+      <Speaker IdRef="0x010000000000010D"/>
+      <StageDirections Count="1">
+        <LocalizedString Lang="">Camera(Terminal Camera Angle); Delay(1)</LocalizedString>
+      </StageDirections>
+      <MenuText Count="0"/>
+    </DialogueFragment>
+    <DialogueFragment Id="0x01000000000002FE">
+      <DisplayName><![CDATA[Terminal: "Opening hangar doors."]]></DisplayName>
+      <Text Count="1" HasMarkup="1">
+        <LocalizedString Lang=""><![CDATA[<html><head><style>#s0 {text-align:left;} #s1 {font-size:11pt;} </style></head><body><p id="s0"><span id="s1">Opening hangar doors.</span></p></body></html>]]></LocalizedString>
+      </Text>
+      <Color>#C8E2E7</Color>
+      <TechnicalName>DFr_6C405AF6</TechnicalName>
+      <ExternalId/>
+      <ShortId>0x6C405AF6</ShortId>
+      <Features Count="0"/>
+      <Pins Count="2">
+        <Pin Id="0x0100000000000301" Index="0" Semantic="Input">
+          <Expression/>
+        </Pin>
+        <Pin Id="0x0100000000000302" Index="0" Semantic="Output">
+          <Expression/>
+        </Pin>
+      </Pins>
+      <Speaker IdRef="0x0100000000000242"/>
+      <StageDirections Count="1">
+        <LocalizedString Lang="">Audio(Sounds/Explosion); Camera(Shake Angle 1, Terminal active, 0.1); Camera(Shake Angle 2, Terminal active, 0.1)@0.1; Camera(Shake Angle 3, Terminal active, 0.1)@0.2; Animation(HandGunIDyingback,Private Hart); require Animation(TwoHandGunFromLayingToStanding,Private Hart)@1; Camera(Medium Left,Private Hart,1)@1; Camera(OTS Right,Player,2)@2</LocalizedString>
+      </StageDirections>
+      <MenuText Count="0"/>
+    </DialogueFragment>
+    <Entity Id="0x010000000000010D" ObjectTemplateReference="0x0100000000000095" ObjectTemplateReferenceName="DefaultMainCharacterTemplate">
+      <DisplayName Count="1">
+        <LocalizedString Lang="">Player</LocalizedString>
+      </DisplayName>
+      <Text Count="1" HasMarkup="1">
+        <LocalizedString Lang=""><![CDATA[<html><head><style>#s0 {text-align:left;} #s1 {font-size:11pt;} </style></head><body><p id="s0"><span id="s1">In this example, the PC is a lieutenant sent to assassinate the evil Emperor.</span></p></body></html>]]></LocalizedString>
+      </Text>
+      <Color>#C8E2E7</Color>
+      <TechnicalName>Ntt_A56A430D</TechnicalName>
+      <ExternalId/>
+      <ShortId>0xA56A430D</ShortId>
+      <Features Count="2">
+        <Feature Name="DefaultBasicCharacterFeature" IdRef="0x0100000000000008">
+          <Properties Count="8">
+            <Number Name="Age"/>
+            <LocalizableText Name="Species" Count="0"/>
+            <LocalizableText Name="BornIn" Count="0"/>
+            <Enum Name="Sex"/>
+            <LocalizableText Name="Occupation" Count="0"/>
+            <LocalizableText Name="Accent" Count="0"/>
+            <LocalizableText Name="Personality" Count="0"/>
+            <LocalizableText Name="Appearance" Count="0"/>
+          </Properties>
+        </Feature>
+        <Feature Name="DefaultExtendedCharacterFeature" IdRef="0x0100000000000043">
+          <Properties Count="6">
+            <LocalizableText Name="Motivation" Count="0"/>
+            <LocalizableText Name="InnerConflict" Count="0"/>
+            <LocalizableText Name="Skills" Count="0"/>
+            <LocalizableText Name="Fears" Count="0"/>
+            <LocalizableText Name="Habits" Count="0"/>
+            <LocalizableText Name="FurtherDetails" Count="0"/>
+          </Properties>
+        </Feature>
+      </Features>
+      <References Count="0"/>
+    </Entity>
+    <Entity Id="0x0100000000000111" ObjectTemplateReference="0x010000000000006B" ObjectTemplateReferenceName="DefaultSupportingCharacterTemplate">
+      <DisplayName Count="1">
+        <LocalizedString Lang="">Private Hart</LocalizedString>
+      </DisplayName>
+      <Text Count="1" HasMarkup="1">
+        <LocalizedString Lang=""><![CDATA[<html><head><style>#s0 {text-align:left;} #s1 {font-size:11pt;} </style></head><body><p id="s0"><span id="s1">Private Hart is a member of the PC&#39;s squad. He thinks the PC should abandon the mission and let the innocent attendees live.</span></p></body></html>]]></LocalizedString>
+      </Text>
+      <Color>#C8E2E7</Color>
+      <TechnicalName>Ntt_446CACF7</TechnicalName>
+      <ExternalId/>
+      <ShortId>0x446CACF7</ShortId>
+      <Features Count="1">
+        <Feature Name="DefaultBasicCharacterFeature" IdRef="0x0100000000000008">
+          <Properties Count="8">
+            <Number Name="Age"/>
+            <LocalizableText Name="Species" Count="0"/>
+            <LocalizableText Name="BornIn" Count="0"/>
+            <Enum Name="Sex"/>
+            <LocalizableText Name="Occupation" Count="0"/>
+            <LocalizableText Name="Accent" Count="0"/>
+            <LocalizableText Name="Personality" Count="0"/>
+            <LocalizableText Name="Appearance" Count="0"/>
+          </Properties>
+        </Feature>
+      </Features>
+      <References Count="0"/>
+    </Entity>
+    <Entity Id="0x0100000000000115" ObjectTemplateReference="0x010000000000006B" ObjectTemplateReferenceName="DefaultSupportingCharacterTemplate">
+      <DisplayName Count="1">
+        <LocalizedString Lang="">Sergeant Graves</LocalizedString>
+      </DisplayName>
+      <Text Count="1" HasMarkup="1">
+        <LocalizedString Lang=""><![CDATA[<html><head><style>#s0 {text-align:left;} #s1 {font-size:11pt;} </style></head><body><p id="s0"><span id="s1">Sergeant Graves is a member of the PC&#39;s squad. He thinks the PC should open the hangar.</span></p></body></html>]]></LocalizedString>
+      </Text>
+      <Color>#C8E2E7</Color>
+      <TechnicalName>Ntt_5180197F</TechnicalName>
+      <ExternalId/>
+      <ShortId>0x5180197F</ShortId>
+      <Features Count="1">
+        <Feature Name="DefaultBasicCharacterFeature" IdRef="0x0100000000000008">
+          <Properties Count="8">
+            <Number Name="Age"/>
+            <LocalizableText Name="Species" Count="0"/>
+            <LocalizableText Name="BornIn" Count="0"/>
+            <Enum Name="Sex"/>
+            <LocalizableText Name="Occupation" Count="0"/>
+            <LocalizableText Name="Accent" Count="0"/>
+            <LocalizableText Name="Personality" Count="0"/>
+            <LocalizableText Name="Appearance" Count="0"/>
+          </Properties>
+        </Feature>
+      </Features>
+      <References Count="0"/>
+    </Entity>
+    <Entity Id="0x0100000000000242">
+      <DisplayName Count="1">
+        <LocalizedString Lang="">Terminal</LocalizedString>
+      </DisplayName>
+      <Text Count="1" HasMarkup="1">
+        <LocalizedString Lang=""><![CDATA[<html><head><style>#s0 {text-align:left;} #s1 {font-size:11pt;} </style></head><body><p id="s0"><span id="s1">At this computer terminal, the PC can decide to open the hangar doors and kill everyone including the evil Emperor, or lock the doors and abandon the mission to assassinate him.</span></p></body></html>]]></LocalizedString>
+      </Text>
+      <Color>#C8E2E7</Color>
+      <TechnicalName>Ntt_07EA9321</TechnicalName>
+      <ExternalId/>
+      <ShortId>0x07EA9321</ShortId>
+      <Features Count="0"/>
+      <References Count="0"/>
+    </Entity>
+    <FeatureDefinition Id="0x0100000000000008">
+      <DisplayName Count="1">
+        <LocalizedString Lang="">Basic Character Properties</LocalizedString>
+      </DisplayName>
+      <Color>#C8E2E7</Color>
+      <TechnicalName>DefaultBasicCharacterFeature</TechnicalName>
+      <PropertyDefinitions Count="8">
+        <PropertyDefinitionRef IdRef="0x010000000000000A"/>
+        <PropertyDefinitionRef IdRef="0x0100000000000011"/>
+        <PropertyDefinitionRef IdRef="0x0100000000000017"/>
+        <PropertyDefinitionRef IdRef="0x010000000000001D"/>
+        <PropertyDefinitionRef IdRef="0x010000000000002B"/>
+        <PropertyDefinitionRef IdRef="0x0100000000000031"/>
+        <PropertyDefinitionRef IdRef="0x0100000000000037"/>
+        <PropertyDefinitionRef IdRef="0x010000000000003D"/>
+      </PropertyDefinitions>
+    </FeatureDefinition>
+    <FeatureDefinition Id="0x0100000000000043">
+      <DisplayName Count="1">
+        <LocalizedString Lang="">Extended Character Properties</LocalizedString>
+      </DisplayName>
+      <Color>#C8E2E7</Color>
+      <TechnicalName>DefaultExtendedCharacterFeature</TechnicalName>
+      <PropertyDefinitions Count="6">
+        <PropertyDefinitionRef IdRef="0x0100000000000045"/>
+        <PropertyDefinitionRef IdRef="0x010000000000004B"/>
+        <PropertyDefinitionRef IdRef="0x0100000000000051"/>
+        <PropertyDefinitionRef IdRef="0x0100000000000057"/>
+        <PropertyDefinitionRef IdRef="0x010000000000005D"/>
+        <PropertyDefinitionRef IdRef="0x0100000000000063"/>
+      </PropertyDefinitions>
+    </FeatureDefinition>
+    <FlowFragment Id="0x010000000000011F">
+      <DisplayName Count="1">
+        <LocalizedString Lang="">Assassinate the Emperor</LocalizedString>
+      </DisplayName>
+      <Text Count="1" HasMarkup="1">
+        <LocalizedString Lang=""><![CDATA[<html><head><style>#s0 {text-align:left;} #s1 {font-size:11pt;} </style></head><body><p id="s0"><span id="s1">The PC is a lieutenant sent to assassinate the evil Emperor and liberate the star system.</span></p></body></html>]]></LocalizedString>
+      </Text>
+      <Color>#C8E2E7</Color>
+      <TechnicalName>FFr_1609C481</TechnicalName>
+      <ExternalId/>
+      <ShortId>0x1609C481</ShortId>
+      <Features Count="0"/>
+      <References Count="0"/>
+      <Pins Count="2">
+        <Pin Id="0x0100000000000122" Index="0" Semantic="Input">
+          <Expression/>
+        </Pin>
+        <Pin Id="0x0100000000000123" Index="0" Semantic="Output">
+          <Expression/>
+        </Pin>
+      </Pins>
+    </FlowFragment>
+    <ObjectTemplateDefinition Id="0x010000000000006B">
+      <DisplayName Count="1">
+        <LocalizedString Lang="">Supporting Character Template</LocalizedString>
+      </DisplayName>
+      <Color>#C8E2E7</Color>
+      <ExternalId/>
+      <ShortId>0xA09191FA</ShortId>
+      <FeatureDefinitions Count="1">
+        <FeatureDefinitionRef IdRef="0x0100000000000008"/>
+      </FeatureDefinitions>
+    </ObjectTemplateDefinition>
+    <ObjectTemplateDefinition Id="0x0100000000000095">
+      <DisplayName Count="1">
+        <LocalizedString Lang="">Main Character Template</LocalizedString>
+      </DisplayName>
+      <Color>#C8E2E7</Color>
+      <ExternalId/>
+      <ShortId>0x7CF29095</ShortId>
+      <FeatureDefinitions Count="2">
+        <FeatureDefinitionRef IdRef="0x0100000000000008"/>
+        <FeatureDefinitionRef IdRef="0x0100000000000043"/>
+      </FeatureDefinitions>
+    </ObjectTemplateDefinition>
+    <NumberPropertyDefinition Id="0x03000000BB84646C">
+      <IsMandatory>0</IsMandatory>
+      <DisplayThousandsSeparator>0</DisplayThousandsSeparator>
+    </NumberPropertyDefinition>
+    <TextPropertyDefinition Id="0x0300000069DB68B1">
+      <IsMandatory>0</IsMandatory>
+      <IsLocalized>0</IsLocalized>
+      <AllowsLinebreaks>0</AllowsLinebreaks>
+    </TextPropertyDefinition>
+    <TextPropertyDefinition Id="0x03000000BC9B4687">
+      <IsMandatory>0</IsMandatory>
+      <IsLocalized>0</IsLocalized>
+      <AllowsLinebreaks>1</AllowsLinebreaks>
+    </TextPropertyDefinition>
+    <EnumerationPropertyDefinition Id="0x030000000D3CFAD3">
+      <IsMandatory>0</IsMandatory>
+      <IsLocalized>0</IsLocalized>
+    </EnumerationPropertyDefinition>
+    <NumberPropertyDefinition Id="0x010000000000000A" BasedOn="0x03000000BB84646C">
+      <DisplayName Count="1">
+        <LocalizedString Lang="">Age</LocalizedString>
+      </DisplayName>
+      <TechnicalName>Age</TechnicalName>
+    </NumberPropertyDefinition>
+    <TextPropertyDefinition Id="0x0100000000000011" BasedOn="0x0300000069DB68B1">
+      <DisplayName Count="1">
+        <LocalizedString Lang="">Species</LocalizedString>
+      </DisplayName>
+      <TechnicalName>Species</TechnicalName>
+      <IsLocalized>1</IsLocalized>
+    </TextPropertyDefinition>
+    <TextPropertyDefinition Id="0x0100000000000017" BasedOn="0x0300000069DB68B1">
+      <DisplayName Count="1">
+        <LocalizedString Lang="">Born in</LocalizedString>
+      </DisplayName>
+      <TechnicalName>BornIn</TechnicalName>
+      <IsLocalized>1</IsLocalized>
+    </TextPropertyDefinition>
+    <EnumerationPropertyDefinition Id="0x010000000000001D" BasedOn="0x030000000D3CFAD3">
+      <DisplayName Count="1">
+        <LocalizedString Lang="">Sex</LocalizedString>
+      </DisplayName>
+      <TechnicalName>Sex</TechnicalName>
+      <IsLocalized>1</IsLocalized>
+      <Values Count="3">
+        <EnumValue>
+          <Value>0</Value>
+          <TechnicalName>Male</TechnicalName>
+          <DisplayName Count="1">
+            <LocalizedString Lang="">Male</LocalizedString>
+          </DisplayName>
+        </EnumValue>
+        <EnumValue>
+          <Value>1</Value>
+          <TechnicalName>Female</TechnicalName>
+          <DisplayName Count="1">
+            <LocalizedString Lang="">Female</LocalizedString>
+          </DisplayName>
+        </EnumValue>
+        <EnumValue>
+          <Value>2</Value>
+          <TechnicalName>Unknown</TechnicalName>
+          <DisplayName Count="1">
+            <LocalizedString Lang="">Unknown</LocalizedString>
+          </DisplayName>
+        </EnumValue>
+      </Values>
+    </EnumerationPropertyDefinition>
+    <TextPropertyDefinition Id="0x010000000000002B" BasedOn="0x0300000069DB68B1">
+      <DisplayName Count="1">
+        <LocalizedString Lang="">Profession</LocalizedString>
+      </DisplayName>
+      <TechnicalName>Occupation</TechnicalName>
+      <IsLocalized>1</IsLocalized>
+    </TextPropertyDefinition>
+    <TextPropertyDefinition Id="0x0100000000000031" BasedOn="0x0300000069DB68B1">
+      <DisplayName Count="1">
+        <LocalizedString Lang="">Voice</LocalizedString>
+      </DisplayName>
+      <TechnicalName>Accent</TechnicalName>
+      <IsLocalized>1</IsLocalized>
+    </TextPropertyDefinition>
+    <TextPropertyDefinition Id="0x0100000000000037" BasedOn="0x03000000BC9B4687">
+      <DisplayName Count="1">
+        <LocalizedString Lang="">Personality</LocalizedString>
+      </DisplayName>
+      <TechnicalName>Personality</TechnicalName>
+      <IsLocalized>1</IsLocalized>
+    </TextPropertyDefinition>
+    <TextPropertyDefinition Id="0x010000000000003D" BasedOn="0x03000000BC9B4687">
+      <DisplayName Count="1">
+        <LocalizedString Lang="">Appearance</LocalizedString>
+      </DisplayName>
+      <TechnicalName>Appearance</TechnicalName>
+      <IsLocalized>1</IsLocalized>
+    </TextPropertyDefinition>
+    <TextPropertyDefinition Id="0x0100000000000045" BasedOn="0x03000000BC9B4687">
+      <DisplayName Count="1">
+        <LocalizedString Lang="">Goals</LocalizedString>
+      </DisplayName>
+      <TechnicalName>Motivation</TechnicalName>
+      <IsLocalized>1</IsLocalized>
+    </TextPropertyDefinition>
+    <TextPropertyDefinition Id="0x010000000000004B" BasedOn="0x03000000BC9B4687">
+      <DisplayName Count="1">
+        <LocalizedString Lang="">Inner Conflict</LocalizedString>
+      </DisplayName>
+      <TechnicalName>InnerConflict</TechnicalName>
+      <IsLocalized>1</IsLocalized>
+    </TextPropertyDefinition>
+    <TextPropertyDefinition Id="0x0100000000000051" BasedOn="0x03000000BC9B4687">
+      <DisplayName Count="1">
+        <LocalizedString Lang="">Skills</LocalizedString>
+      </DisplayName>
+      <TechnicalName>Skills</TechnicalName>
+      <IsLocalized>1</IsLocalized>
+    </TextPropertyDefinition>
+    <TextPropertyDefinition Id="0x0100000000000057" BasedOn="0x03000000BC9B4687">
+      <DisplayName Count="1">
+        <LocalizedString Lang="">Weaknesses</LocalizedString>
+      </DisplayName>
+      <TechnicalName>Fears</TechnicalName>
+      <IsLocalized>1</IsLocalized>
+    </TextPropertyDefinition>
+    <TextPropertyDefinition Id="0x010000000000005D" BasedOn="0x03000000BC9B4687">
+      <DisplayName Count="1">
+        <LocalizedString Lang="">Quirks / Habits</LocalizedString>
+      </DisplayName>
+      <TechnicalName>Habits</TechnicalName>
+      <IsLocalized>1</IsLocalized>
+    </TextPropertyDefinition>
+    <TextPropertyDefinition Id="0x0100000000000063" BasedOn="0x03000000BC9B4687">
+      <DisplayName Count="1">
+        <LocalizedString Lang="">Further Details</LocalizedString>
+      </DisplayName>
+      <TechnicalName>FurtherDetails</TechnicalName>
+      <IsLocalized>1</IsLocalized>
+    </TextPropertyDefinition>
+    <VariableSet Id="0x0100000000000125">
+      <TechnicalName>GameState</TechnicalName>
+      <Description Count="1">
+        <LocalizedString Lang="">Quest-related variables.</LocalizedString>
+      </Description>
+      <Variables Count="4">
+        <Variable>
+          <TechnicalName>ToldEmperorIsHere</TechnicalName>
+          <Description Count="1">
+            <LocalizedString Lang="">If true, Private Hart has briefed the PC.</LocalizedString>
+          </Description>
+          <DataType>Boolean</DataType>
+          <DefaultValue>False</DefaultValue>
+        </Variable>
+        <Variable>
+          <TechnicalName>OpenedHangar</TechnicalName>
+          <Description Count="1">
+            <LocalizedString Lang="">If true, the PC has opened the hangar doors, killing the evil Emperor and one hundred innocent people.</LocalizedString>
+          </Description>
+          <DataType>Boolean</DataType>
+          <DefaultValue>False</DefaultValue>
+        </Variable>
+        <Variable>
+          <TechnicalName>LockedHangar</TechnicalName>
+          <Description Count="1">
+            <LocalizedString Lang="">If true, the PC has locked the hangar, sparing the evil Emperor and one hundred innocent people.</LocalizedString>
+          </Description>
+          <DataType>Boolean</DataType>
+          <DefaultValue>False</DefaultValue>
+        </Variable>
+        <Variable>
+          <TechnicalName>KickHart</TechnicalName>
+          <Description Count="1">
+            <LocalizedString Lang="">If true, the player triggered the QTE to kick Hart.</LocalizedString>
+          </Description>
+          <DataType>Boolean</DataType>
+          <DefaultValue>False</DefaultValue>
+        </Variable>
+      </Variables>
+    </VariableSet>
+  </Content>
+  <Hierarchy>
+    <Node Id="0x0100000000000001" Type="Project">
+      <Node Id="0x0300000043CE43F7" Type="Flow">
+        <Node Id="0x010000000000011F" Type="FlowFragment"/>
+        <Node Id="0x0100000000000128" Type="Dialogue">
+          <Node Id="0x0100000000000139" Type="DialogueFragment"/>
+          <Node Id="0x0100000000000140" Type="DialogueFragment"/>
+          <Node Id="0x0100000000000145" Type="Connection"/>
+          <Node Id="0x0100000000000147" Type="DialogueFragment"/>
+          <Node Id="0x010000000000014C" Type="Connection"/>
+          <Node Id="0x010000000000014E" Type="DialogueFragment"/>
+          <Node Id="0x0100000000000153" Type="Connection"/>
+          <Node Id="0x0100000000000167" Type="DialogueFragment"/>
+          <Node Id="0x010000000000016E" Type="DialogueFragment"/>
+          <Node Id="0x0100000000000175" Type="DialogueFragment"/>
+          <Node Id="0x010000000000017C" Type="DialogueFragment"/>
+          <Node Id="0x0100000000000181" Type="Connection"/>
+          <Node Id="0x0100000000000183" Type="DialogueFragment"/>
+          <Node Id="0x0100000000000188" Type="Connection"/>
+          <Node Id="0x010000000000018A" Type="DialogueFragment"/>
+          <Node Id="0x010000000000018F" Type="Connection"/>
+          <Node Id="0x0100000000000191" Type="DialogueFragment"/>
+          <Node Id="0x0100000000000196" Type="Connection"/>
+          <Node Id="0x010000000000019D" Type="DialogueFragment"/>
+          <Node Id="0x01000000000001A2" Type="Connection"/>
+          <Node Id="0x01000000000001A4" Type="DialogueFragment"/>
+          <Node Id="0x01000000000001A9" Type="Connection"/>
+          <Node Id="0x01000000000001AB" Type="Connection"/>
+          <Node Id="0x01000000000001AC" Type="DialogueFragment"/>
+          <Node Id="0x01000000000001B1" Type="Connection"/>
+          <Node Id="0x01000000000001B3" Type="DialogueFragment"/>
+          <Node Id="0x01000000000001B8" Type="Connection"/>
+          <Node Id="0x01000000000001BA" Type="Connection"/>
+          <Node Id="0x01000000000001BB" Type="DialogueFragment"/>
+          <Node Id="0x01000000000001C2" Type="DialogueFragment"/>
+          <Node Id="0x01000000000001C9" Type="DialogueFragment"/>
+          <Node Id="0x01000000000001CE" Type="Connection"/>
+          <Node Id="0x01000000000001D5" Type="DialogueFragment"/>
+          <Node Id="0x01000000000001DA" Type="Connection"/>
+          <Node Id="0x01000000000001DC" Type="DialogueFragment"/>
+          <Node Id="0x01000000000001E1" Type="Connection"/>
+          <Node Id="0x01000000000001E3" Type="DialogueFragment"/>
+          <Node Id="0x01000000000001E8" Type="Connection"/>
+          <Node Id="0x01000000000001EA" Type="DialogueFragment"/>
+          <Node Id="0x01000000000001EF" Type="Connection"/>
+          <Node Id="0x01000000000001F5" Type="DialogueFragment"/>
+          <Node Id="0x01000000000001FA" Type="Connection"/>
+          <Node Id="0x01000000000001FC" Type="DialogueFragment"/>
+          <Node Id="0x0100000000000201" Type="Connection"/>
+          <Node Id="0x0100000000000203" Type="DialogueFragment"/>
+          <Node Id="0x0100000000000208" Type="Connection"/>
+          <Node Id="0x0100000000000270" Type="Connection"/>
+          <Node Id="0x0100000000000271" Type="Connection"/>
+          <Node Id="0x0100000000000272" Type="Connection"/>
+          <Node Id="0x0100000000000273" Type="Connection"/>
+          <Node Id="0x0100000000000274" Type="Connection"/>
+          <Node Id="0x0100000000000275" Type="Connection"/>
+          <Node Id="0x010000000000027D" Type="Connection"/>
+          <Node Id="0x010000000000027E" Type="Connection"/>
+          <Node Id="0x010000000000027F" Type="Connection"/>
+          <Node Id="0x010000000000030C" Type="Connection"/>
+          <Node Id="0x010000000000030D" Type="DialogueFragment"/>
+          <Node Id="0x0100000000000312" Type="Connection"/>
+        </Node>
+        <Node Id="0x010000000000020F" Type="Dialogue">
+          <Node Id="0x0100000000000218" Type="DialogueFragment"/>
+          <Node Id="0x010000000000021D" Type="DialogueFragment"/>
+          <Node Id="0x0100000000000224" Type="DialogueFragment"/>
+          <Node Id="0x010000000000022A" Type="DialogueFragment"/>
+          <Node Id="0x0100000000000230" Type="DialogueFragment"/>
+          <Node Id="0x0100000000000235" Type="DialogueFragment"/>
+          <Node Id="0x010000000000023A" Type="DialogueFragment"/>
+          <Node Id="0x0100000000000276" Type="Connection"/>
+          <Node Id="0x0100000000000277" Type="Connection"/>
+          <Node Id="0x0100000000000278" Type="Connection"/>
+          <Node Id="0x0100000000000279" Type="Connection"/>
+          <Node Id="0x010000000000027A" Type="Connection"/>
+          <Node Id="0x010000000000027B" Type="Connection"/>
+          <Node Id="0x010000000000027C" Type="Connection"/>
+        </Node>
+        <Node Id="0x0100000000000285" Type="Dialogue">
+          <Node Id="0x010000000000028C" Type="DialogueFragment"/>
+          <Node Id="0x0100000000000291" Type="DialogueFragment"/>
+          <Node Id="0x010000000000029A" Type="Connection"/>
+          <Node Id="0x010000000000029B" Type="Connection"/>
+          <Node Id="0x010000000000029D" Type="DialogueFragment"/>
+          <Node Id="0x01000000000002A2" Type="Connection"/>
+          <Node Id="0x01000000000002A3" Type="DialogueFragment"/>
+          <Node Id="0x01000000000002A8" Type="Connection"/>
+          <Node Id="0x01000000000002A9" Type="DialogueFragment"/>
+          <Node Id="0x01000000000002AE" Type="Connection"/>
+          <Node Id="0x01000000000002AF" Type="DialogueFragment"/>
+          <Node Id="0x01000000000002B4" Type="Connection"/>
+          <Node Id="0x01000000000002B9" Type="DialogueFragment"/>
+          <Node Id="0x01000000000002BE" Type="Connection"/>
+          <Node Id="0x01000000000002C0" Type="Connection"/>
+          <Node Id="0x01000000000002C1" Type="Connection"/>
+          <Node Id="0x01000000000002C2" Type="DialogueFragment"/>
+          <Node Id="0x01000000000002C7" Type="Connection"/>
+          <Node Id="0x01000000000002CF" Type="DialogueFragment"/>
+          <Node Id="0x01000000000002D4" Type="Connection"/>
+          <Node Id="0x01000000000002D5" Type="DialogueFragment"/>
+          <Node Id="0x01000000000002DA" Type="Connection"/>
+          <Node Id="0x01000000000002DE" Type="Connection"/>
+          <Node Id="0x01000000000002E0" Type="DialogueFragment"/>
+          <Node Id="0x01000000000002E5" Type="Connection"/>
+          <Node Id="0x01000000000002E7" Type="Connection"/>
+          <Node Id="0x01000000000002E8" Type="DialogueFragment"/>
+          <Node Id="0x01000000000002ED" Type="Connection"/>
+          <Node Id="0x01000000000002EF" Type="DialogueFragment"/>
+          <Node Id="0x01000000000002F4" Type="Connection"/>
+          <Node Id="0x01000000000002F5" Type="DialogueFragment"/>
+          <Node Id="0x01000000000002FA" Type="Connection"/>
+          <Node Id="0x01000000000002FD" Type="Connection"/>
+          <Node Id="0x01000000000002FE" Type="DialogueFragment"/>
+          <Node Id="0x0100000000000303" Type="Connection"/>
+        </Node>
+      </Node>
+      <Node Id="0x030000003140D3AC" Type="Locations"/>
+      <Node Id="0x03000000AC61A2B3" Type="Entities">
+        <Node Id="0x010000000000010D" Type="Entity"/>
+        <Node Id="0x0100000000000111" Type="Entity"/>
+        <Node Id="0x0100000000000115" Type="Entity"/>
+        <Node Id="0x0100000000000242" Type="Entity"/>
+      </Node>
+      <Node Id="0x030000004C3DAF54" Type="Assets">
+        <Node Id="0x01000000000000FB" Type="AssetsUserFolder"/>
+        <Node Id="0x01000000000000FD" Type="AssetsUserFolder"/>
+        <Node Id="0x01000000000000FF" Type="AssetsUserFolder"/>
+        <Node Id="0x0100000000000101" Type="AssetsUserFolder"/>
+        <Node Id="0x0100000000000103" Type="AssetsUserFolder"/>
+      </Node>
+      <Node Id="0x0300000029CF057C" Type="ObjectCustomization">
+        <Node Id="0x03000000D2404DC0" Type="Features">
+          <Node Id="0x0100000000000008" Type="FeatureDefinition"/>
+          <Node Id="0x0100000000000043" Type="FeatureDefinition"/>
+        </Node>
+        <Node Id="0x030000009AF68DCD" Type="ObjectTemplates">
+          <Node Id="0x0300000078B45A71" Type="TypedObjectTemplates">
+            <Node Id="0x010000000000006B" Type="ObjectTemplateDefinition"/>
+            <Node Id="0x0100000000000095" Type="ObjectTemplateDefinition"/>
+          </Node>
+          <Node Id="0x030000006D1BC275" Type="TypedObjectTemplates"/>
+          <Node Id="0x03000000030B5ACF" Type="TypedObjectTemplates"/>
+          <Node Id="0x030000008DD5C0F2" Type="TypedObjectTemplates"/>
+          <Node Id="0x0300000092CF598E" Type="TypedObjectTemplates"/>
+          <Node Id="0x0300000030635118" Type="TypedObjectTemplates"/>
+          <Node Id="0x03000000A715C057" Type="TypedObjectTemplates"/>
+          <Node Id="0x030000005314E813" Type="TypedObjectTemplates"/>
+          <Node Id="0x030000004264B29C" Type="TypedObjectTemplates"/>
+          <Node Id="0x03000000FB371D5C" Type="TypedObjectTemplates"/>
+          <Node Id="0x0300000013DF3A1A" Type="TypedObjectTemplates"/>
+          <Node Id="0x03000000ADA9FA17" Type="TypedObjectTemplates"/>
+          <Node Id="0x03000000ECC00F83" Type="TypedObjectTemplates"/>
+          <Node Id="0x03000000F514339C" Type="TypedObjectTemplates"/>
+          <Node Id="0x03000000DCC67F9D" Type="TypedObjectTemplates"/>
+          <Node Id="0x03000000BA022E2F" Type="TypedObjectTemplates"/>
+        </Node>
+        <Node Id="0x030000002C0951AE" Type="PropertyTemplates">
+          <Node Id="0x030000006E2C178B" Type="TypedPropertyTemplates"/>
+          <Node Id="0x03000000BB12F1B8" Type="TypedPropertyTemplates"/>
+          <Node Id="0x030000006F82D78E" Type="TypedPropertyTemplates"/>
+          <Node Id="0x0300000037DCE3F0" Type="TypedPropertyTemplates"/>
+          <Node Id="0x030000003630A240" Type="TypedPropertyTemplates"/>
+          <Node Id="0x03000000D745C449" Type="TypedPropertyTemplates"/>
+        </Node>
+      </Node>
+      <Node Id="0x03000000103AA2F0" Type="Documents"/>
+      <Node Id="0x03000000236F7272" Type="Journeys"/>
+      <Node Id="0x030000002B4F4C54" Type="GlobalVariables">
+        <Node Id="0x0100000000000125" Type="VariableSet"/>
+      </Node>
+    </Node>
+  </Hierarchy>
+</Export>

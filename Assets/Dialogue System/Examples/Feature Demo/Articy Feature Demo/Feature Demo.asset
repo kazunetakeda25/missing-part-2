@@ -1,0 +1,2720 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1097633651, guid: b5a7519e94754fb4a8ea0c272031db78, type: 3}
+  m_Name: Feature Demo
+  m_EditorClassIdentifier: 
+  version: 12/09/2013 01:43:12
+  author: articy:draft 2.2.3
+  description: 
+  globalUserScript: 
+  emphasisSettings:
+  - color: {r: 0, g: 0, b: 0, a: 0}
+    bold: 0
+    italic: 0
+    underline: 0
+  - color: {r: 0, g: 0, b: 0, a: 0}
+    bold: 0
+    italic: 0
+    underline: 0
+  - color: {r: 0, g: 0, b: 0, a: 0}
+    bold: 0
+    italic: 0
+    underline: 0
+  - color: {r: 0, g: 0, b: 0, a: 0}
+    bold: 0
+    italic: 0
+    underline: 0
+  actors:
+  - id: 1
+    fields:
+    - title: Name
+      value: Player
+      type: 0
+    - title: IsPlayer
+      value: True
+      type: 2
+    - title: Articy Id
+      value: 0x010000000000010D
+      type: 0
+    - title: Technical Name
+      value: Ntt_A56A430D
+      type: 0
+    - title: Description
+      value: In this example, the PC is a lieutenant sent to assassinate the evil
+        Emperor.
+      type: 0
+    portrait: {fileID: 0}
+    alternatePortraits: []
+  - id: 2
+    fields:
+    - title: Name
+      value: Private Hart
+      type: 0
+    - title: IsPlayer
+      value: False
+      type: 2
+    - title: Articy Id
+      value: 0x0100000000000111
+      type: 0
+    - title: Technical Name
+      value: Ntt_446CACF7
+      type: 0
+    - title: Description
+      value: Private Hart is a member of the PC's squad. He thinks the PC should abandon
+        the mission and let the innocent attendees live.
+      type: 0
+    portrait: {fileID: 0}
+    alternatePortraits: []
+  - id: 3
+    fields:
+    - title: Name
+      value: Sergeant Graves
+      type: 0
+    - title: IsPlayer
+      value: False
+      type: 2
+    - title: Articy Id
+      value: 0x0100000000000115
+      type: 0
+    - title: Technical Name
+      value: Ntt_5180197F
+      type: 0
+    - title: Description
+      value: Sergeant Graves is a member of the PC's squad. He thinks the PC should
+        open the hangar.
+      type: 0
+    portrait: {fileID: 0}
+    alternatePortraits: []
+  - id: 4
+    fields:
+    - title: Name
+      value: Terminal
+      type: 0
+    - title: IsPlayer
+      value: False
+      type: 2
+    - title: Articy Id
+      value: 0x0100000000000242
+      type: 0
+    - title: Technical Name
+      value: Ntt_07EA9321
+      type: 0
+    - title: Description
+      value: At this computer terminal, the PC can decide to open the hangar doors
+        and kill everyone including the evil Emperor, or lock the doors and abandon
+        the mission to assassinate him.
+      type: 0
+    portrait: {fileID: 0}
+    alternatePortraits: []
+  items:
+  - id: 1
+    fields:
+    - title: Name
+      value: Assassinate the Emperor
+      type: 0
+    - title: State
+      value: unassigned
+      type: 0
+    - title: Description
+      value: The PC is a lieutenant sent to assassinate the evil Emperor and liberate
+        the star system.
+      type: 0
+    - title: Success Description
+      value: 
+      type: 0
+    - title: Failure Description
+      value: 
+      type: 0
+    - title: Articy Id
+      value: 0x010000000000011F
+      type: 0
+    - title: Technical Name
+      value: FFr_1609C481
+      type: 0
+  locations: []
+  variables:
+  - id: 1
+    fields:
+    - title: Name
+      value: GameState.ToldEmperorIsHere
+      type: 0
+    - title: Initial Value
+      value: False
+      type: 2
+  - id: 2
+    fields:
+    - title: Name
+      value: GameState.OpenedHangar
+      type: 0
+    - title: Initial Value
+      value: False
+      type: 2
+  - id: 3
+    fields:
+    - title: Name
+      value: GameState.LockedHangar
+      type: 0
+    - title: Initial Value
+      value: False
+      type: 2
+  - id: 4
+    fields:
+    - title: Name
+      value: GameState.KickHart
+      type: 0
+    - title: Initial Value
+      value: False
+      type: 2
+  conversations:
+  - id: 1
+    fields:
+    - title: Title
+      value: Private Hart
+      type: 0
+    - title: Description
+      value: 
+      type: 0
+    - title: Actor
+      value: 1
+      type: 1
+    - title: Conversant
+      value: 2
+      type: 1
+    - title: Articy Id
+      value: 0x0100000000000128
+      type: 0
+    nodeColor: 
+    dialogueEntries:
+    - id: 0
+      fields:
+      - title: Title
+        value: START
+        type: 0
+      - title: Actor
+        value: 
+        type: 5
+      - title: Conversant
+        value: 
+        type: 5
+      - title: Menu Text
+        value: 
+        type: 0
+      - title: Dialogue Text
+        value: 
+        type: 0
+      - title: Video File
+        value: 
+        type: 0
+      - title: Sequence
+        value: None()
+        type: 0
+      - title: Articy Id
+        value: 0x0100000000000128
+        type: 0
+      conversationID: 1
+      isRoot: 0
+      isGroup: 0
+      nodeColor: 
+      delaySimStatus: 0
+      falseConditionAction: 
+      conditionPriority: 2
+      outgoingLinks:
+      - originConversationID: 1
+        originDialogueID: 0
+        destinationConversationID: 1
+        destinationDialogueID: 1
+        isConnector: 0
+        priority: 2
+      - originConversationID: 1
+        originDialogueID: 0
+        destinationConversationID: 1
+        destinationDialogueID: 6
+        isConnector: 0
+        priority: 2
+      - originConversationID: 1
+        originDialogueID: 0
+        destinationConversationID: 1
+        destinationDialogueID: 7
+        isConnector: 0
+        priority: 2
+      - originConversationID: 1
+        originDialogueID: 0
+        destinationConversationID: 1
+        destinationDialogueID: 5
+        isConnector: 0
+        priority: 2
+      conditionsString: 
+      userScript: 
+      canvasRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 160
+        height: 30
+    - id: 1
+      fields:
+      - title: Title
+        value: 'Private Hart: "Lieutenant! We have a problem,..."'
+        type: 0
+      - title: Actor
+        value: 2
+        type: 1
+      - title: Conversant
+        value: 1
+        type: 1
+      - title: Menu Text
+        value: 
+        type: 0
+      - title: Dialogue Text
+        value: Lieutenant! We have a problem, sir!
+        type: 0
+      - title: Video File
+        value: 
+        type: 0
+      - title: Sequence
+        value: LookAt(listener,speaker); LookAt(speaker,listener); Camera(Medium);
+          Camera(Closeup,speaker,1)@0.1; require Camera(Closeup,listener)@2
+        type: 0
+      - title: Articy Id
+        value: 0x0100000000000139
+        type: 0
+      conversationID: 1
+      isRoot: 0
+      isGroup: 0
+      nodeColor: 
+      delaySimStatus: 0
+      falseConditionAction: 
+      conditionPriority: 2
+      outgoingLinks:
+      - originConversationID: 1
+        originDialogueID: 1
+        destinationConversationID: 1
+        destinationDialogueID: 2
+        isConnector: 0
+        priority: 2
+      - originConversationID: 1
+        originDialogueID: 1
+        destinationConversationID: 1
+        destinationDialogueID: 12
+        isConnector: 0
+        priority: 2
+      - originConversationID: 1
+        originDialogueID: 1
+        destinationConversationID: 1
+        destinationDialogueID: 13
+        isConnector: 0
+        priority: 2
+      conditionsString: Variable["GameState.ToldEmperorIsHere"] == false
+      userScript: 
+      canvasRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 160
+        height: 30
+    - id: 2
+      fields:
+      - title: Title
+        value: 'Player: "Calm down. What''s the problem?"'
+        type: 0
+      - title: Actor
+        value: 1
+        type: 1
+      - title: Conversant
+        value: 2
+        type: 1
+      - title: Menu Text
+        value: 
+        type: 0
+      - title: Dialogue Text
+        value: Calm down. What's the problem?
+        type: 0
+      - title: Video File
+        value: 
+        type: 0
+      - title: Sequence
+        value: 
+        type: 0
+      - title: Articy Id
+        value: 0x0100000000000140
+        type: 0
+      conversationID: 1
+      isRoot: 0
+      isGroup: 0
+      nodeColor: 
+      delaySimStatus: 0
+      falseConditionAction: 
+      conditionPriority: 2
+      outgoingLinks:
+      - originConversationID: 1
+        originDialogueID: 2
+        destinationConversationID: 1
+        destinationDialogueID: 3
+        isConnector: 0
+        priority: 2
+      conditionsString: 
+      userScript: 
+      canvasRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 160
+        height: 30
+    - id: 3
+      fields:
+      - title: Title
+        value: 'Private Hart: "The Emperor is in the hangar,..."'
+        type: 0
+      - title: Actor
+        value: 2
+        type: 1
+      - title: Conversant
+        value: 1
+        type: 1
+      - title: Menu Text
+        value: 
+        type: 0
+      - title: Dialogue Text
+        value: The Emperor is in the hangar, sir.
+        type: 0
+      - title: Video File
+        value: 
+        type: 0
+      - title: Sequence
+        value: 
+        type: 0
+      - title: Articy Id
+        value: 0x0100000000000147
+        type: 0
+      conversationID: 1
+      isRoot: 0
+      isGroup: 0
+      nodeColor: 
+      delaySimStatus: 0
+      falseConditionAction: 
+      conditionPriority: 2
+      outgoingLinks:
+      - originConversationID: 1
+        originDialogueID: 3
+        destinationConversationID: 1
+        destinationDialogueID: 4
+        isConnector: 0
+        priority: 2
+      - originConversationID: 1
+        originDialogueID: 3
+        destinationConversationID: 1
+        destinationDialogueID: 14
+        isConnector: 0
+        priority: 2
+      conditionsString: 
+      userScript: 
+      canvasRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 160
+        height: 30
+    - id: 4
+      fields:
+      - title: Title
+        value: 'Player: "Good. Our spies were right."'
+        type: 0
+      - title: Actor
+        value: 1
+        type: 1
+      - title: Conversant
+        value: 2
+        type: 1
+      - title: Menu Text
+        value: 
+        type: 0
+      - title: Dialogue Text
+        value: Good. Our spies were right.
+        type: 0
+      - title: Video File
+        value: 
+        type: 0
+      - title: Sequence
+        value: 
+        type: 0
+      - title: Articy Id
+        value: 0x010000000000014E
+        type: 0
+      conversationID: 1
+      isRoot: 0
+      isGroup: 0
+      nodeColor: 
+      delaySimStatus: 0
+      falseConditionAction: 
+      conditionPriority: 2
+      outgoingLinks:
+      - originConversationID: 1
+        originDialogueID: 4
+        destinationConversationID: 1
+        destinationDialogueID: 15
+        isConnector: 0
+        priority: 2
+      conditionsString: 
+      userScript: 
+      canvasRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 160
+        height: 30
+    - id: 5
+      fields:
+      - title: Title
+        value: 'Private Hart: "We can''t murder those bystande..."'
+        type: 0
+      - title: Actor
+        value: 2
+        type: 1
+      - title: Conversant
+        value: 1
+        type: 1
+      - title: Menu Text
+        value: 
+        type: 0
+      - title: Dialogue Text
+        value: We can't murder those bystanders, sir. It's not right.
+        type: 0
+      - title: Video File
+        value: 
+        type: 0
+      - title: Sequence
+        value: 
+        type: 0
+      - title: Articy Id
+        value: 0x0100000000000167
+        type: 0
+      conversationID: 1
+      isRoot: 0
+      isGroup: 0
+      nodeColor: 
+      delaySimStatus: 0
+      falseConditionAction: 
+      conditionPriority: 2
+      outgoingLinks:
+      - originConversationID: 1
+        originDialogueID: 5
+        destinationConversationID: 1
+        destinationDialogueID: 11
+        isConnector: 0
+        priority: 2
+      - originConversationID: 1
+        originDialogueID: 5
+        destinationConversationID: 1
+        destinationDialogueID: 16
+        isConnector: 0
+        priority: 2
+      conditionsString: Variable["GameState.ToldEmperorIsHere"] == true  and  Variable["GameState.OpenedHangar"]
+        == false  and  Variable["GameState.LockedHangar"] == false
+      userScript: 
+      canvasRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 160
+        height: 30
+    - id: 6
+      fields:
+      - title: Title
+        value: 'Private Hart: "I... I can''t believe you kille..."'
+        type: 0
+      - title: Actor
+        value: 2
+        type: 1
+      - title: Conversant
+        value: 1
+        type: 1
+      - title: Menu Text
+        value: 
+        type: 0
+      - title: Dialogue Text
+        value: I... I can't believe you killed all those people!
+        type: 0
+      - title: Video File
+        value: 
+        type: 0
+      - title: Sequence
+        value: 
+        type: 0
+      - title: Articy Id
+        value: 0x010000000000016E
+        type: 0
+      conversationID: 1
+      isRoot: 0
+      isGroup: 0
+      nodeColor: 
+      delaySimStatus: 0
+      falseConditionAction: 
+      conditionPriority: 2
+      outgoingLinks:
+      - originConversationID: 1
+        originDialogueID: 6
+        destinationConversationID: 1
+        destinationDialogueID: 9
+        isConnector: 0
+        priority: 2
+      - originConversationID: 1
+        originDialogueID: 6
+        destinationConversationID: 1
+        destinationDialogueID: 10
+        isConnector: 0
+        priority: 2
+      conditionsString: Variable["GameState.OpenedHangar"] == true
+      userScript: 
+      canvasRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 160
+        height: 30
+    - id: 7
+      fields:
+      - title: Title
+        value: 'Private Hart: "You did the right thing, sir."'
+        type: 0
+      - title: Actor
+        value: 2
+        type: 1
+      - title: Conversant
+        value: 1
+        type: 1
+      - title: Menu Text
+        value: 
+        type: 0
+      - title: Dialogue Text
+        value: You did the right thing, sir.
+        type: 0
+      - title: Video File
+        value: 
+        type: 0
+      - title: Sequence
+        value: 
+        type: 0
+      - title: Articy Id
+        value: 0x0100000000000175
+        type: 0
+      conversationID: 1
+      isRoot: 0
+      isGroup: 0
+      nodeColor: 
+      delaySimStatus: 0
+      falseConditionAction: 
+      conditionPriority: 2
+      outgoingLinks:
+      - originConversationID: 1
+        originDialogueID: 7
+        destinationConversationID: 1
+        destinationDialogueID: 8
+        isConnector: 0
+        priority: 2
+      conditionsString: Variable["GameState.LockedHangar"] == true
+      userScript: 
+      canvasRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 160
+        height: 30
+    - id: 8
+      fields:
+      - title: Title
+        value: 'Player: "We''re no better than him other..."'
+        type: 0
+      - title: Actor
+        value: 1
+        type: 1
+      - title: Conversant
+        value: 2
+        type: 1
+      - title: Menu Text
+        value: 
+        type: 0
+      - title: Dialogue Text
+        value: We're no better than him otherwise.
+        type: 0
+      - title: Video File
+        value: 
+        type: 0
+      - title: Sequence
+        value: 
+        type: 0
+      - title: Articy Id
+        value: 0x010000000000017C
+        type: 0
+      conversationID: 1
+      isRoot: 0
+      isGroup: 0
+      nodeColor: 
+      delaySimStatus: 0
+      falseConditionAction: 
+      conditionPriority: 2
+      outgoingLinks: []
+      conditionsString: 
+      userScript: 
+      canvasRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 160
+        height: 30
+    - id: 9
+      fields:
+      - title: Title
+        value: 'Player: "We''re soldiers. We follow orde..."'
+        type: 0
+      - title: Actor
+        value: 1
+        type: 1
+      - title: Conversant
+        value: 2
+        type: 1
+      - title: Menu Text
+        value: 
+        type: 0
+      - title: Dialogue Text
+        value: We're soldiers. We follow orders.
+        type: 0
+      - title: Video File
+        value: 
+        type: 0
+      - title: Sequence
+        value: 
+        type: 0
+      - title: Articy Id
+        value: 0x0100000000000183
+        type: 0
+      conversationID: 1
+      isRoot: 0
+      isGroup: 0
+      nodeColor: 
+      delaySimStatus: 0
+      falseConditionAction: 
+      conditionPriority: 2
+      outgoingLinks: []
+      conditionsString: 
+      userScript: 
+      canvasRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 160
+        height: 30
+    - id: 10
+      fields:
+      - title: Title
+        value: 'Player: "Their sacrifice freed us all."'
+        type: 0
+      - title: Actor
+        value: 1
+        type: 1
+      - title: Conversant
+        value: 2
+        type: 1
+      - title: Menu Text
+        value: 
+        type: 0
+      - title: Dialogue Text
+        value: Their sacrifice freed us all.
+        type: 0
+      - title: Video File
+        value: 
+        type: 0
+      - title: Sequence
+        value: 
+        type: 0
+      - title: Articy Id
+        value: 0x010000000000018A
+        type: 0
+      conversationID: 1
+      isRoot: 0
+      isGroup: 0
+      nodeColor: 
+      delaySimStatus: 0
+      falseConditionAction: 
+      conditionPriority: 2
+      outgoingLinks: []
+      conditionsString: 
+      userScript: 
+      canvasRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 160
+        height: 30
+    - id: 11
+      fields:
+      - title: Title
+        value: 'Player: "We have orders. I''ll handle yo..."'
+        type: 0
+      - title: Actor
+        value: 1
+        type: 1
+      - title: Conversant
+        value: 2
+        type: 1
+      - title: Menu Text
+        value: 
+        type: 0
+      - title: Dialogue Text
+        value: We have orders. I'll handle you later.
+        type: 0
+      - title: Video File
+        value: 
+        type: 0
+      - title: Sequence
+        value: 
+        type: 0
+      - title: Articy Id
+        value: 0x0100000000000191
+        type: 0
+      conversationID: 1
+      isRoot: 0
+      isGroup: 0
+      nodeColor: 
+      delaySimStatus: 0
+      falseConditionAction: 
+      conditionPriority: 2
+      outgoingLinks: []
+      conditionsString: 
+      userScript: 
+      canvasRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 160
+        height: 30
+    - id: 12
+      fields:
+      - title: Title
+        value: 'Player: "Report, private."'
+        type: 0
+      - title: Actor
+        value: 1
+        type: 1
+      - title: Conversant
+        value: 2
+        type: 1
+      - title: Menu Text
+        value: 
+        type: 0
+      - title: Dialogue Text
+        value: Report, private.
+        type: 0
+      - title: Video File
+        value: 
+        type: 0
+      - title: Sequence
+        value: 
+        type: 0
+      - title: Articy Id
+        value: 0x010000000000019D
+        type: 0
+      conversationID: 1
+      isRoot: 0
+      isGroup: 0
+      nodeColor: 
+      delaySimStatus: 0
+      falseConditionAction: 
+      conditionPriority: 2
+      outgoingLinks:
+      - originConversationID: 1
+        originDialogueID: 12
+        destinationConversationID: 1
+        destinationDialogueID: 3
+        isConnector: 0
+        priority: 2
+      conditionsString: 
+      userScript: 
+      canvasRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 160
+        height: 30
+    - id: 13
+      fields:
+      - title: Title
+        value: 'Player: "Stand by. I''ll be right back."'
+        type: 0
+      - title: Actor
+        value: 1
+        type: 1
+      - title: Conversant
+        value: 2
+        type: 1
+      - title: Menu Text
+        value: 
+        type: 0
+      - title: Dialogue Text
+        value: Stand by. I'll be right back.
+        type: 0
+      - title: Video File
+        value: 
+        type: 0
+      - title: Sequence
+        value: 
+        type: 0
+      - title: Articy Id
+        value: 0x01000000000001A4
+        type: 0
+      conversationID: 1
+      isRoot: 0
+      isGroup: 0
+      nodeColor: 
+      delaySimStatus: 0
+      falseConditionAction: 
+      conditionPriority: 2
+      outgoingLinks: []
+      conditionsString: 
+      userScript: 
+      canvasRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 160
+        height: 30
+    - id: 14
+      fields:
+      - title: Title
+        value: 'Player: "Open the airlock. Take him out..."'
+        type: 0
+      - title: Actor
+        value: 1
+        type: 1
+      - title: Conversant
+        value: 2
+        type: 1
+      - title: Menu Text
+        value: 
+        type: 0
+      - title: Dialogue Text
+        value: Open the airlock. Take him out!
+        type: 0
+      - title: Video File
+        value: 
+        type: 0
+      - title: Sequence
+        value: 
+        type: 0
+      - title: Articy Id
+        value: 0x01000000000001AC
+        type: 0
+      conversationID: 1
+      isRoot: 0
+      isGroup: 0
+      nodeColor: 
+      delaySimStatus: 0
+      falseConditionAction: 
+      conditionPriority: 2
+      outgoingLinks:
+      - originConversationID: 1
+        originDialogueID: 14
+        destinationConversationID: 1
+        destinationDialogueID: 15
+        isConnector: 0
+        priority: 2
+      conditionsString: 
+      userScript: 
+      canvasRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 160
+        height: 30
+    - id: 15
+      fields:
+      - title: Title
+        value: 'Private Hart: "Sir, one hundred innocent civi..."'
+        type: 0
+      - title: Actor
+        value: 2
+        type: 1
+      - title: Conversant
+        value: 1
+        type: 1
+      - title: Menu Text
+        value: 
+        type: 0
+      - title: Dialogue Text
+        value: Sir, one hundred innocent civilians are with him for the star carrier's
+          launch ceremony.
+        type: 0
+      - title: Video File
+        value: 
+        type: 0
+      - title: Sequence
+        value: Camera(Medium Right); required Camera(Closeup,listener)@3; required
+          SetActive(Terminal inactive,false); required SetActive(Terminal active,true)
+        type: 0
+      - title: Articy Id
+        value: 0x01000000000001B3
+        type: 0
+      conversationID: 1
+      isRoot: 0
+      isGroup: 0
+      nodeColor: 
+      delaySimStatus: 0
+      falseConditionAction: 
+      conditionPriority: 2
+      outgoingLinks:
+      - originConversationID: 1
+        originDialogueID: 15
+        destinationConversationID: 1
+        destinationDialogueID: 16
+        isConnector: 0
+        priority: 2
+      - originConversationID: 1
+        originDialogueID: 15
+        destinationConversationID: 1
+        destinationDialogueID: 17
+        isConnector: 0
+        priority: 2
+      conditionsString: 
+      userScript: 'Item["Assassinate_the_Emperor"].State = "active"; Variable["Alert"]
+        = "Mission Update: Assassinate the Emperor"; Variable["GameState.ToldEmperorIsHere"]
+        = true'
+      canvasRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 160
+        height: 30
+    - id: 16
+      fields:
+      - title: Title
+        value: 'Player: "Damn. Hold until I return."'
+        type: 0
+      - title: Actor
+        value: 1
+        type: 1
+      - title: Conversant
+        value: 2
+        type: 1
+      - title: Menu Text
+        value: 
+        type: 0
+      - title: Dialogue Text
+        value: Damn. Hold until I return.
+        type: 0
+      - title: Video File
+        value: 
+        type: 0
+      - title: Sequence
+        value: 
+        type: 0
+      - title: Articy Id
+        value: 0x01000000000001BB
+        type: 0
+      conversationID: 1
+      isRoot: 0
+      isGroup: 0
+      nodeColor: 
+      delaySimStatus: 0
+      falseConditionAction: 
+      conditionPriority: 2
+      outgoingLinks: []
+      conditionsString: Variable["GameState.KickHart"] == false
+      userScript: 
+      canvasRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 160
+        height: 30
+    - id: 17
+      fields:
+      - title: Title
+        value: 'Player: "Collateral damage. Open it."'
+        type: 0
+      - title: Actor
+        value: 1
+        type: 1
+      - title: Conversant
+        value: 2
+        type: 1
+      - title: Menu Text
+        value: 
+        type: 0
+      - title: Dialogue Text
+        value: Collateral damage. Open it.
+        type: 0
+      - title: Video File
+        value: 
+        type: 0
+      - title: Sequence
+        value: 
+        type: 0
+      - title: Articy Id
+        value: 0x01000000000001C2
+        type: 0
+      conversationID: 1
+      isRoot: 0
+      isGroup: 0
+      nodeColor: 
+      delaySimStatus: 0
+      falseConditionAction: 
+      conditionPriority: 2
+      outgoingLinks:
+      - originConversationID: 1
+        originDialogueID: 17
+        destinationConversationID: 1
+        destinationDialogueID: 18
+        isConnector: 0
+        priority: 2
+      conditionsString: 
+      userScript: 
+      canvasRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 160
+        height: 30
+    - id: 18
+      fields:
+      - title: Title
+        value: 'Private Hart: "But... innocent families and c..."'
+        type: 0
+      - title: Actor
+        value: 2
+        type: 1
+      - title: Conversant
+        value: 1
+        type: 1
+      - title: Menu Text
+        value: 
+        type: 0
+      - title: Dialogue Text
+        value: But... innocent families and children, sir!
+        type: 0
+      - title: Video File
+        value: 
+        type: 0
+      - title: Sequence
+        value: 
+        type: 0
+      - title: Articy Id
+        value: 0x01000000000001C9
+        type: 0
+      conversationID: 1
+      isRoot: 0
+      isGroup: 0
+      nodeColor: 
+      delaySimStatus: 0
+      falseConditionAction: 
+      conditionPriority: 2
+      outgoingLinks:
+      - originConversationID: 1
+        originDialogueID: 18
+        destinationConversationID: 1
+        destinationDialogueID: 19
+        isConnector: 0
+        priority: 2
+      - originConversationID: 1
+        originDialogueID: 18
+        destinationConversationID: 1
+        destinationDialogueID: 20
+        isConnector: 0
+        priority: 2
+      - originConversationID: 1
+        originDialogueID: 18
+        destinationConversationID: 1
+        destinationDialogueID: 16
+        isConnector: 0
+        priority: 2
+      conditionsString: 
+      userScript: 
+      canvasRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 160
+        height: 30
+    - id: 19
+      fields:
+      - title: Title
+        value: 'Player: "Small price to free our star s..."'
+        type: 0
+      - title: Actor
+        value: 1
+        type: 1
+      - title: Conversant
+        value: 2
+        type: 1
+      - title: Menu Text
+        value: 
+        type: 0
+      - title: Dialogue Text
+        value: Small price to free our star system.
+        type: 0
+      - title: Video File
+        value: 
+        type: 0
+      - title: Sequence
+        value: 
+        type: 0
+      - title: Articy Id
+        value: 0x01000000000001D5
+        type: 0
+      conversationID: 1
+      isRoot: 0
+      isGroup: 0
+      nodeColor: 
+      delaySimStatus: 0
+      falseConditionAction: 
+      conditionPriority: 2
+      outgoingLinks:
+      - originConversationID: 1
+        originDialogueID: 19
+        destinationConversationID: 1
+        destinationDialogueID: 21
+        isConnector: 0
+        priority: 2
+      conditionsString: 
+      userScript: 
+      canvasRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 160
+        height: 30
+    - id: 20
+      fields:
+      - title: Title
+        value: 'Player: "Good! Kill ''em all!"'
+        type: 0
+      - title: Actor
+        value: 1
+        type: 1
+      - title: Conversant
+        value: 2
+        type: 1
+      - title: Menu Text
+        value: 
+        type: 0
+      - title: Dialogue Text
+        value: Good! Kill 'em all!
+        type: 0
+      - title: Video File
+        value: 
+        type: 0
+      - title: Sequence
+        value: 
+        type: 0
+      - title: Articy Id
+        value: 0x01000000000001DC
+        type: 0
+      conversationID: 1
+      isRoot: 0
+      isGroup: 0
+      nodeColor: 
+      delaySimStatus: 0
+      falseConditionAction: 
+      conditionPriority: 2
+      outgoingLinks:
+      - originConversationID: 1
+        originDialogueID: 20
+        destinationConversationID: 1
+        destinationDialogueID: 21
+        isConnector: 0
+        priority: 2
+      conditionsString: 
+      userScript: 
+      canvasRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 160
+        height: 30
+    - id: 21
+      fields:
+      - title: Title
+        value: 'Private Hart: "I won''t do it, sir."'
+        type: 0
+      - title: Actor
+        value: 2
+        type: 1
+      - title: Conversant
+        value: 1
+        type: 1
+      - title: Menu Text
+        value: 
+        type: 0
+      - title: Dialogue Text
+        value: I won't do it, sir.
+        type: 0
+      - title: Video File
+        value: 
+        type: 0
+      - title: Sequence
+        value: Camera(Medium); QTE(1,2,GameState.KickHart,true); required Camera(Closeup,
+          listener)@2
+        type: 0
+      - title: Articy Id
+        value: 0x01000000000001E3
+        type: 0
+      conversationID: 1
+      isRoot: 0
+      isGroup: 0
+      nodeColor: 
+      delaySimStatus: 0
+      falseConditionAction: 
+      conditionPriority: 2
+      outgoingLinks:
+      - originConversationID: 1
+        originDialogueID: 21
+        destinationConversationID: 1
+        destinationDialogueID: 22
+        isConnector: 0
+        priority: 2
+      conditionsString: 
+      userScript: 
+      canvasRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 160
+        height: 30
+    - id: 22
+      fields:
+      - title: Title
+        value: 'Private Hart: "..."'
+        type: 0
+      - title: Actor
+        value: 2
+        type: 1
+      - title: Conversant
+        value: 1
+        type: 1
+      - title: Menu Text
+        value: 
+        type: 0
+      - title: Dialogue Text
+        value: 
+        type: 0
+      - title: Video File
+        value: 
+        type: 0
+      - title: Sequence
+        value: None()
+        type: 0
+      - title: Articy Id
+        value: 0x01000000000001EA
+        type: 0
+      conversationID: 1
+      isRoot: 0
+      isGroup: 0
+      nodeColor: 
+      delaySimStatus: 0
+      falseConditionAction: 
+      conditionPriority: 2
+      outgoingLinks:
+      - originConversationID: 1
+        originDialogueID: 22
+        destinationConversationID: 1
+        destinationDialogueID: 23
+        isConnector: 0
+        priority: 2
+      - originConversationID: 1
+        originDialogueID: 22
+        destinationConversationID: 1
+        destinationDialogueID: 24
+        isConnector: 0
+        priority: 2
+      - originConversationID: 1
+        originDialogueID: 22
+        destinationConversationID: 1
+        destinationDialogueID: 25
+        isConnector: 0
+        priority: 2
+      - originConversationID: 1
+        originDialogueID: 22
+        destinationConversationID: 1
+        destinationDialogueID: 16
+        isConnector: 0
+        priority: 2
+      conditionsString: 
+      userScript: 
+      canvasRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 160
+        height: 30
+    - id: 23
+      fields:
+      - title: Title
+        value: 'Private Hart: "Oof!"'
+        type: 0
+      - title: Actor
+        value: 2
+        type: 1
+      - title: Conversant
+        value: 1
+        type: 1
+      - title: Menu Text
+        value: 
+        type: 0
+      - title: Dialogue Text
+        value: Oof!
+        type: 0
+      - title: Video File
+        value: 
+        type: 0
+      - title: Sequence
+        value: Camera(Medium Left,listener,0.25); Animation(TwoHandGunIButtkick,listener);
+          Audio(Sounds/Bonecrush)@0.3; Camera(Down)@0.75; Camera(Medium,speaker,1)@0.8;
+          Animation(HandGunIDyingback)@0.5; require Animation(TwoHandGunIdle,listener)@1;
+          Animation(TwoHandGunFromLayingToStanding)@1.5; require Animation(PistolCombatIdle)@2;
+          require Camera(Closeup,listener)@3
+        type: 0
+      - title: Articy Id
+        value: 0x01000000000001F5
+        type: 0
+      conversationID: 1
+      isRoot: 0
+      isGroup: 0
+      nodeColor: 
+      delaySimStatus: 0
+      falseConditionAction: 
+      conditionPriority: 2
+      outgoingLinks:
+      - originConversationID: 1
+        originDialogueID: 23
+        destinationConversationID: 1
+        destinationDialogueID: 25
+        isConnector: 0
+        priority: 2
+      conditionsString: Variable["GameState.KickHart"] == true
+      userScript: Variable["GameState.KickHart"] = false
+      canvasRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 160
+        height: 30
+    - id: 24
+      fields:
+      - title: Title
+        value: 'Player: "Then I''ll do it."'
+        type: 0
+      - title: Actor
+        value: 1
+        type: 1
+      - title: Conversant
+        value: 2
+        type: 1
+      - title: Menu Text
+        value: 
+        type: 0
+      - title: Dialogue Text
+        value: Then I'll do it.
+        type: 0
+      - title: Video File
+        value: 
+        type: 0
+      - title: Sequence
+        value: 
+        type: 0
+      - title: Articy Id
+        value: 0x01000000000001FC
+        type: 0
+      conversationID: 1
+      isRoot: 0
+      isGroup: 0
+      nodeColor: 
+      delaySimStatus: 0
+      falseConditionAction: 
+      conditionPriority: 2
+      outgoingLinks: []
+      conditionsString: Variable["GameState.KickHart"] == false
+      userScript: 
+      canvasRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 160
+        height: 30
+    - id: 25
+      fields:
+      - title: Title
+        value: 'Player: "I''ll see you court martialed,..."'
+        type: 0
+      - title: Actor
+        value: 1
+        type: 1
+      - title: Conversant
+        value: 2
+        type: 1
+      - title: Menu Text
+        value: 
+        type: 0
+      - title: Dialogue Text
+        value: I'll see you court martialed, private!
+        type: 0
+      - title: Video File
+        value: 
+        type: 0
+      - title: Sequence
+        value: 
+        type: 0
+      - title: Articy Id
+        value: 0x0100000000000203
+        type: 0
+      conversationID: 1
+      isRoot: 0
+      isGroup: 0
+      nodeColor: 
+      delaySimStatus: 0
+      falseConditionAction: 
+      conditionPriority: 2
+      outgoingLinks: []
+      conditionsString: Variable["GameState.KickHart"] == false
+      userScript: 
+      canvasRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 160
+        height: 30
+  - id: 2
+    fields:
+    - title: Title
+      value: Sergeant Graves Barks
+      type: 0
+    - title: Description
+      value: 
+      type: 0
+    - title: Actor
+      value: 3
+      type: 1
+    - title: Conversant
+      value: 0
+      type: 1
+    - title: Articy Id
+      value: 0x010000000000020F
+      type: 0
+    nodeColor: 
+    dialogueEntries:
+    - id: 0
+      fields:
+      - title: Title
+        value: START
+        type: 0
+      - title: Actor
+        value: 
+        type: 5
+      - title: Conversant
+        value: 
+        type: 5
+      - title: Menu Text
+        value: 
+        type: 0
+      - title: Dialogue Text
+        value: 
+        type: 0
+      - title: Video File
+        value: 
+        type: 0
+      - title: Sequence
+        value: None()
+        type: 0
+      - title: Articy Id
+        value: 0x010000000000020F
+        type: 0
+      conversationID: 2
+      isRoot: 0
+      isGroup: 0
+      nodeColor: 
+      delaySimStatus: 0
+      falseConditionAction: 
+      conditionPriority: 2
+      outgoingLinks:
+      - originConversationID: 2
+        originDialogueID: 0
+        destinationConversationID: 2
+        destinationDialogueID: 1
+        isConnector: 0
+        priority: 2
+      - originConversationID: 2
+        originDialogueID: 0
+        destinationConversationID: 2
+        destinationDialogueID: 2
+        isConnector: 0
+        priority: 2
+      - originConversationID: 2
+        originDialogueID: 0
+        destinationConversationID: 2
+        destinationDialogueID: 3
+        isConnector: 0
+        priority: 2
+      - originConversationID: 2
+        originDialogueID: 0
+        destinationConversationID: 2
+        destinationDialogueID: 4
+        isConnector: 0
+        priority: 2
+      - originConversationID: 2
+        originDialogueID: 0
+        destinationConversationID: 2
+        destinationDialogueID: 5
+        isConnector: 0
+        priority: 2
+      - originConversationID: 2
+        originDialogueID: 0
+        destinationConversationID: 2
+        destinationDialogueID: 6
+        isConnector: 0
+        priority: 2
+      - originConversationID: 2
+        originDialogueID: 0
+        destinationConversationID: 2
+        destinationDialogueID: 7
+        isConnector: 0
+        priority: 2
+      conditionsString: 
+      userScript: 
+      canvasRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 160
+        height: 30
+    - id: 1
+      fields:
+      - title: Title
+        value: 'Sergeant Graves: "Hart''s a traitor."'
+        type: 0
+      - title: Actor
+        value: 3
+        type: 1
+      - title: Conversant
+        value: 0
+        type: 1
+      - title: Menu Text
+        value: 
+        type: 0
+      - title: Dialogue Text
+        value: Hart's a traitor.
+        type: 0
+      - title: Video File
+        value: 
+        type: 0
+      - title: Sequence
+        value: Animation(TwoHandGunIdle)@0.5; require Animation(TwoHandGunILookingAroundSquatA)@2
+        type: 0
+      - title: Articy Id
+        value: 0x0100000000000218
+        type: 0
+      conversationID: 2
+      isRoot: 0
+      isGroup: 0
+      nodeColor: 
+      delaySimStatus: 0
+      falseConditionAction: 
+      conditionPriority: 2
+      outgoingLinks: []
+      conditionsString: Variable["GameState.OpenedHangar"] == false  and  Variable["GameState.LockedHangar"]
+        == false
+      userScript: 
+      canvasRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 160
+        height: 30
+    - id: 2
+      fields:
+      - title: Title
+        value: 'Sergeant Graves: "Let me break his neck, LT!"'
+        type: 0
+      - title: Actor
+        value: 3
+        type: 1
+      - title: Conversant
+        value: 0
+        type: 1
+      - title: Menu Text
+        value: 
+        type: 0
+      - title: Dialogue Text
+        value: Let me break his neck, LT!
+        type: 0
+      - title: Video File
+        value: 
+        type: 0
+      - title: Sequence
+        value: 
+        type: 0
+      - title: Articy Id
+        value: 0x010000000000021D
+        type: 0
+      conversationID: 2
+      isRoot: 0
+      isGroup: 0
+      nodeColor: 
+      delaySimStatus: 0
+      falseConditionAction: 
+      conditionPriority: 2
+      outgoingLinks: []
+      conditionsString: Variable["GameState.OpenedHangar"] == false  and  Variable["GameState.LockedHangar"]
+        == false
+      userScript: 
+      canvasRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 160
+        height: 30
+    - id: 3
+      fields:
+      - title: Title
+        value: 'Sergeant Graves: "What''ll it be, LT?"'
+        type: 0
+      - title: Actor
+        value: 3
+        type: 1
+      - title: Conversant
+        value: 0
+        type: 1
+      - title: Menu Text
+        value: 
+        type: 0
+      - title: Dialogue Text
+        value: What'll it be, LT?
+        type: 0
+      - title: Video File
+        value: 
+        type: 0
+      - title: Sequence
+        value: 
+        type: 0
+      - title: Articy Id
+        value: 0x0100000000000224
+        type: 0
+      conversationID: 2
+      isRoot: 0
+      isGroup: 0
+      nodeColor: 
+      delaySimStatus: 0
+      falseConditionAction: 
+      conditionPriority: 2
+      outgoingLinks: []
+      conditionsString: Variable["GameState.OpenedHangar"] == false  and  Variable["GameState.LockedHangar"]
+        == false
+      userScript: 
+      canvasRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 160
+        height: 30
+    - id: 4
+      fields:
+      - title: Title
+        value: 'Sergeant Graves: "We can''t hide here forever, si..."'
+        type: 0
+      - title: Actor
+        value: 3
+        type: 1
+      - title: Conversant
+        value: 0
+        type: 1
+      - title: Menu Text
+        value: 
+        type: 0
+      - title: Dialogue Text
+        value: We can't hide here forever, sir!
+        type: 0
+      - title: Video File
+        value: 
+        type: 0
+      - title: Sequence
+        value: 
+        type: 0
+      - title: Articy Id
+        value: 0x010000000000022A
+        type: 0
+      conversationID: 2
+      isRoot: 0
+      isGroup: 0
+      nodeColor: 
+      delaySimStatus: 0
+      falseConditionAction: 
+      conditionPriority: 2
+      outgoingLinks: []
+      conditionsString: Variable["GameState.OpenedHangar"] == false  and  Variable["GameState.LockedHangar"]
+        == false
+      userScript: 
+      canvasRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 160
+        height: 30
+    - id: 5
+      fields:
+      - title: Title
+        value: 'Sergeant Graves: "Guess you''re a hero now, sir!"'
+        type: 0
+      - title: Actor
+        value: 3
+        type: 1
+      - title: Conversant
+        value: 0
+        type: 1
+      - title: Menu Text
+        value: 
+        type: 0
+      - title: Dialogue Text
+        value: Guess you're a hero now, sir!
+        type: 0
+      - title: Video File
+        value: 
+        type: 0
+      - title: Sequence
+        value: 
+        type: 0
+      - title: Articy Id
+        value: 0x0100000000000230
+        type: 0
+      conversationID: 2
+      isRoot: 0
+      isGroup: 0
+      nodeColor: 
+      delaySimStatus: 0
+      falseConditionAction: 
+      conditionPriority: 2
+      outgoingLinks: []
+      conditionsString: Variable["GameState.OpenedHangar"] == true
+      userScript: 
+      canvasRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 160
+        height: 30
+    - id: 6
+      fields:
+      - title: Title
+        value: 'Sergeant Graves: "Free after all these years of..."'
+        type: 0
+      - title: Actor
+        value: 3
+        type: 1
+      - title: Conversant
+        value: 0
+        type: 1
+      - title: Menu Text
+        value: 
+        type: 0
+      - title: Dialogue Text
+        value: Free after all these years of fighting!
+        type: 0
+      - title: Video File
+        value: 
+        type: 0
+      - title: Sequence
+        value: 
+        type: 0
+      - title: Articy Id
+        value: 0x0100000000000235
+        type: 0
+      conversationID: 2
+      isRoot: 0
+      isGroup: 0
+      nodeColor: 
+      delaySimStatus: 0
+      falseConditionAction: 
+      conditionPriority: 2
+      outgoingLinks: []
+      conditionsString: Variable["GameState.OpenedHangar"] == true
+      userScript: 
+      canvasRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 160
+        height: 30
+    - id: 7
+      fields:
+      - title: Title
+        value: 'Sergeant Graves: "How many more will die now?"'
+        type: 0
+      - title: Actor
+        value: 3
+        type: 1
+      - title: Conversant
+        value: 0
+        type: 1
+      - title: Menu Text
+        value: 
+        type: 0
+      - title: Dialogue Text
+        value: How many more will die now?
+        type: 0
+      - title: Video File
+        value: 
+        type: 0
+      - title: Sequence
+        value: 
+        type: 0
+      - title: Articy Id
+        value: 0x010000000000023A
+        type: 0
+      conversationID: 2
+      isRoot: 0
+      isGroup: 0
+      nodeColor: 
+      delaySimStatus: 0
+      falseConditionAction: 
+      conditionPriority: 2
+      outgoingLinks: []
+      conditionsString: Variable["GameState.LockedHangar"] == true
+      userScript: 
+      canvasRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 160
+        height: 30
+  - id: 3
+    fields:
+    - title: Title
+      value: Terminal
+      type: 0
+    - title: Description
+      value: 
+      type: 0
+    - title: Actor
+      value: 4
+      type: 1
+    - title: Conversant
+      value: 1
+      type: 1
+    - title: Articy Id
+      value: 0x0100000000000285
+      type: 0
+    nodeColor: 
+    dialogueEntries:
+    - id: 0
+      fields:
+      - title: Title
+        value: START
+        type: 0
+      - title: Actor
+        value: 
+        type: 5
+      - title: Conversant
+        value: 
+        type: 5
+      - title: Menu Text
+        value: 
+        type: 0
+      - title: Dialogue Text
+        value: 
+        type: 0
+      - title: Video File
+        value: 
+        type: 0
+      - title: Sequence
+        value: None()
+        type: 0
+      - title: Articy Id
+        value: 0x0100000000000285
+        type: 0
+      conversationID: 3
+      isRoot: 0
+      isGroup: 0
+      nodeColor: 
+      delaySimStatus: 0
+      falseConditionAction: 
+      conditionPriority: 2
+      outgoingLinks:
+      - originConversationID: 3
+        originDialogueID: 0
+        destinationConversationID: 3
+        destinationDialogueID: 1
+        isConnector: 0
+        priority: 2
+      - originConversationID: 3
+        originDialogueID: 0
+        destinationConversationID: 3
+        destinationDialogueID: 2
+        isConnector: 0
+        priority: 2
+      conditionsString: 
+      userScript: 
+      canvasRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 160
+        height: 30
+    - id: 1
+      fields:
+      - title: Title
+        value: 'Terminal: "Enter password:"'
+        type: 0
+      - title: Actor
+        value: 4
+        type: 1
+      - title: Conversant
+        value: 1
+        type: 1
+      - title: Menu Text
+        value: 
+        type: 0
+      - title: Dialogue Text
+        value: 'Enter password:'
+        type: 0
+      - title: Video File
+        value: 
+        type: 0
+      - title: Sequence
+        value: Camera(Terminal Camera Angle); Delay(1)
+        type: 0
+      - title: Articy Id
+        value: 0x010000000000028C
+        type: 0
+      conversationID: 3
+      isRoot: 0
+      isGroup: 0
+      nodeColor: 
+      delaySimStatus: 0
+      falseConditionAction: 
+      conditionPriority: 2
+      outgoingLinks:
+      - originConversationID: 3
+        originDialogueID: 1
+        destinationConversationID: 3
+        destinationDialogueID: 3
+        isConnector: 0
+        priority: 2
+      - originConversationID: 3
+        originDialogueID: 1
+        destinationConversationID: 3
+        destinationDialogueID: 4
+        isConnector: 0
+        priority: 2
+      - originConversationID: 3
+        originDialogueID: 1
+        destinationConversationID: 3
+        destinationDialogueID: 5
+        isConnector: 0
+        priority: 2
+      - originConversationID: 3
+        originDialogueID: 1
+        destinationConversationID: 3
+        destinationDialogueID: 6
+        isConnector: 0
+        priority: 2
+      conditionsString: Variable["GameState.OpenedHangar"] == false  and  Variable["GameState.LockedHangar"]
+        == false
+      userScript: 
+      canvasRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 160
+        height: 30
+    - id: 2
+      fields:
+      - title: Title
+        value: 'Terminal: "Critical systems failure!"'
+        type: 0
+      - title: Actor
+        value: 4
+        type: 1
+      - title: Conversant
+        value: 1
+        type: 1
+      - title: Menu Text
+        value: 
+        type: 0
+      - title: Dialogue Text
+        value: Critical systems failure!
+        type: 0
+      - title: Video File
+        value: 
+        type: 0
+      - title: Sequence
+        value: Camera(Terminal Camera Angle); Delay(1)
+        type: 0
+      - title: Articy Id
+        value: 0x0100000000000291
+        type: 0
+      conversationID: 3
+      isRoot: 0
+      isGroup: 0
+      nodeColor: 
+      delaySimStatus: 0
+      falseConditionAction: 
+      conditionPriority: 2
+      outgoingLinks: []
+      conditionsString: Variable["GameState.OpenedHangar"] == true  or  Variable["GameState.LockedHangar"]
+        == true
+      userScript: 
+      canvasRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 160
+        height: 30
+    - id: 3
+      fields:
+      - title: Title
+        value: 'Player: "12345"'
+        type: 0
+      - title: Actor
+        value: 1
+        type: 1
+      - title: Conversant
+        value: 4
+        type: 1
+      - title: Menu Text
+        value: 
+        type: 0
+      - title: Dialogue Text
+        value: 12345
+        type: 0
+      - title: Video File
+        value: 
+        type: 0
+      - title: Sequence
+        value: Camera(Terminal Camera Angle); Delay(1)
+        type: 0
+      - title: Articy Id
+        value: 0x010000000000029D
+        type: 0
+      conversationID: 3
+      isRoot: 0
+      isGroup: 0
+      nodeColor: 
+      delaySimStatus: 0
+      falseConditionAction: 
+      conditionPriority: 2
+      outgoingLinks:
+      - originConversationID: 3
+        originDialogueID: 3
+        destinationConversationID: 3
+        destinationDialogueID: 7
+        isConnector: 0
+        priority: 2
+      conditionsString: 
+      userScript: 
+      canvasRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 160
+        height: 30
+    - id: 4
+      fields:
+      - title: Title
+        value: 'Player: "secret"'
+        type: 0
+      - title: Actor
+        value: 1
+        type: 1
+      - title: Conversant
+        value: 4
+        type: 1
+      - title: Menu Text
+        value: 
+        type: 0
+      - title: Dialogue Text
+        value: secret
+        type: 0
+      - title: Video File
+        value: 
+        type: 0
+      - title: Sequence
+        value: Camera(Terminal Camera Angle); Delay(1)
+        type: 0
+      - title: Articy Id
+        value: 0x01000000000002A3
+        type: 0
+      conversationID: 3
+      isRoot: 0
+      isGroup: 0
+      nodeColor: 
+      delaySimStatus: 0
+      falseConditionAction: 
+      conditionPriority: 2
+      outgoingLinks:
+      - originConversationID: 3
+        originDialogueID: 4
+        destinationConversationID: 3
+        destinationDialogueID: 7
+        isConnector: 0
+        priority: 2
+      conditionsString: 
+      userScript: 
+      canvasRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 160
+        height: 30
+    - id: 5
+      fields:
+      - title: Title
+        value: 'Player: "dominate"'
+        type: 0
+      - title: Actor
+        value: 1
+        type: 1
+      - title: Conversant
+        value: 4
+        type: 1
+      - title: Menu Text
+        value: 
+        type: 0
+      - title: Dialogue Text
+        value: dominate
+        type: 0
+      - title: Video File
+        value: 
+        type: 0
+      - title: Sequence
+        value: Camera(Terminal Camera Angle); Delay(1)
+        type: 0
+      - title: Articy Id
+        value: 0x01000000000002A9
+        type: 0
+      conversationID: 3
+      isRoot: 0
+      isGroup: 0
+      nodeColor: 
+      delaySimStatus: 0
+      falseConditionAction: 
+      conditionPriority: 2
+      outgoingLinks:
+      - originConversationID: 3
+        originDialogueID: 5
+        destinationConversationID: 3
+        destinationDialogueID: 8
+        isConnector: 0
+        priority: 2
+      conditionsString: 
+      userScript: 
+      canvasRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 160
+        height: 30
+    - id: 6
+      fields:
+      - title: Title
+        value: 'Player: "logout"'
+        type: 0
+      - title: Actor
+        value: 1
+        type: 1
+      - title: Conversant
+        value: 4
+        type: 1
+      - title: Menu Text
+        value: 
+        type: 0
+      - title: Dialogue Text
+        value: logout
+        type: 0
+      - title: Video File
+        value: 
+        type: 0
+      - title: Sequence
+        value: Camera(Terminal Camera Angle); Delay(1)
+        type: 0
+      - title: Articy Id
+        value: 0x01000000000002AF
+        type: 0
+      conversationID: 3
+      isRoot: 0
+      isGroup: 0
+      nodeColor: 
+      delaySimStatus: 0
+      falseConditionAction: 
+      conditionPriority: 2
+      outgoingLinks: []
+      conditionsString: 
+      userScript: 
+      canvasRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 160
+        height: 30
+    - id: 7
+      fields:
+      - title: Title
+        value: 'Terminal: "Invalid login."'
+        type: 0
+      - title: Actor
+        value: 4
+        type: 1
+      - title: Conversant
+        value: 1
+        type: 1
+      - title: Menu Text
+        value: 
+        type: 0
+      - title: Dialogue Text
+        value: Invalid login.
+        type: 0
+      - title: Video File
+        value: 
+        type: 0
+      - title: Sequence
+        value: Camera(Terminal Camera Angle); Delay(1)
+        type: 0
+      - title: Articy Id
+        value: 0x01000000000002B9
+        type: 0
+      conversationID: 3
+      isRoot: 0
+      isGroup: 0
+      nodeColor: 
+      delaySimStatus: 0
+      falseConditionAction: 
+      conditionPriority: 2
+      outgoingLinks:
+      - originConversationID: 3
+        originDialogueID: 7
+        destinationConversationID: 3
+        destinationDialogueID: 1
+        isConnector: 0
+        priority: 2
+      conditionsString: 
+      userScript: 
+      canvasRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 160
+        height: 30
+    - id: 8
+      fields:
+      - title: Title
+        value: 'Terminal: "Enter command:"'
+        type: 0
+      - title: Actor
+        value: 4
+        type: 1
+      - title: Conversant
+        value: 1
+        type: 1
+      - title: Menu Text
+        value: 
+        type: 0
+      - title: Dialogue Text
+        value: 'Enter command:'
+        type: 0
+      - title: Video File
+        value: 
+        type: 0
+      - title: Sequence
+        value: Camera(Terminal Camera Angle); Delay(1)
+        type: 0
+      - title: Articy Id
+        value: 0x01000000000002C2
+        type: 0
+      conversationID: 3
+      isRoot: 0
+      isGroup: 0
+      nodeColor: 
+      delaySimStatus: 0
+      falseConditionAction: 
+      conditionPriority: 2
+      outgoingLinks:
+      - originConversationID: 3
+        originDialogueID: 8
+        destinationConversationID: 3
+        destinationDialogueID: 9
+        isConnector: 0
+        priority: 2
+      - originConversationID: 3
+        originDialogueID: 8
+        destinationConversationID: 3
+        destinationDialogueID: 10
+        isConnector: 0
+        priority: 2
+      - originConversationID: 3
+        originDialogueID: 8
+        destinationConversationID: 3
+        destinationDialogueID: 6
+        isConnector: 0
+        priority: 2
+      conditionsString: 
+      userScript: 
+      canvasRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 160
+        height: 30
+    - id: 9
+      fields:
+      - title: Title
+        value: 'Player: "lock hangar doors"'
+        type: 0
+      - title: Actor
+        value: 1
+        type: 1
+      - title: Conversant
+        value: 4
+        type: 1
+      - title: Menu Text
+        value: 
+        type: 0
+      - title: Dialogue Text
+        value: lock hangar doors
+        type: 0
+      - title: Video File
+        value: 
+        type: 0
+      - title: Sequence
+        value: Camera(Terminal Camera Angle); Delay(1)
+        type: 0
+      - title: Articy Id
+        value: 0x01000000000002CF
+        type: 0
+      conversationID: 3
+      isRoot: 0
+      isGroup: 0
+      nodeColor: 
+      delaySimStatus: 0
+      falseConditionAction: 
+      conditionPriority: 2
+      outgoingLinks:
+      - originConversationID: 3
+        originDialogueID: 9
+        destinationConversationID: 3
+        destinationDialogueID: 11
+        isConnector: 0
+        priority: 2
+      conditionsString: 
+      userScript: 
+      canvasRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 160
+        height: 30
+    - id: 10
+      fields:
+      - title: Title
+        value: 'Player: "open hangar doors"'
+        type: 0
+      - title: Actor
+        value: 1
+        type: 1
+      - title: Conversant
+        value: 4
+        type: 1
+      - title: Menu Text
+        value: 
+        type: 0
+      - title: Dialogue Text
+        value: open hangar doors
+        type: 0
+      - title: Video File
+        value: 
+        type: 0
+      - title: Sequence
+        value: Camera(Terminal Camera Angle); Delay(1)
+        type: 0
+      - title: Articy Id
+        value: 0x01000000000002D5
+        type: 0
+      conversationID: 3
+      isRoot: 0
+      isGroup: 0
+      nodeColor: 
+      delaySimStatus: 0
+      falseConditionAction: 
+      conditionPriority: 2
+      outgoingLinks:
+      - originConversationID: 3
+        originDialogueID: 10
+        destinationConversationID: 3
+        destinationDialogueID: 12
+        isConnector: 0
+        priority: 2
+      conditionsString: 
+      userScript: 
+      canvasRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 160
+        height: 30
+    - id: 11
+      fields:
+      - title: Title
+        value: 'Terminal: "Hangar doors locked."'
+        type: 0
+      - title: Actor
+        value: 4
+        type: 1
+      - title: Conversant
+        value: 1
+        type: 1
+      - title: Menu Text
+        value: 
+        type: 0
+      - title: Dialogue Text
+        value: Hangar doors locked.
+        type: 0
+      - title: Video File
+        value: 
+        type: 0
+      - title: Sequence
+        value: Camera(Terminal Camera Angle); Delay(1)
+        type: 0
+      - title: Articy Id
+        value: 0x01000000000002E0
+        type: 0
+      conversationID: 3
+      isRoot: 0
+      isGroup: 0
+      nodeColor: 
+      delaySimStatus: 0
+      falseConditionAction: 
+      conditionPriority: 2
+      outgoingLinks:
+      - originConversationID: 3
+        originDialogueID: 11
+        destinationConversationID: 3
+        destinationDialogueID: 8
+        isConnector: 0
+        priority: 2
+      conditionsString: 
+      userScript: 'Item["Assassinate_the_Emperor"].State = "failure"; Variable["Alert"]
+        = "Mission Update: Assassinate the Emperor"; Variable["GameState.LockedHangar"]
+        = true'
+      canvasRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 160
+        height: 30
+    - id: 12
+      fields:
+      - title: Title
+        value: 'Terminal: "*** Warning: Verify all person..."'
+        type: 0
+      - title: Actor
+        value: 4
+        type: 1
+      - title: Conversant
+        value: 1
+        type: 1
+      - title: Menu Text
+        value: 
+        type: 0
+      - title: Dialogue Text
+        value: '*** Warning: Verify all personnel evacuated. Confirm override. ***'
+        type: 0
+      - title: Video File
+        value: 
+        type: 0
+      - title: Sequence
+        value: Camera(Terminal Camera Angle); Delay(1)
+        type: 0
+      - title: Articy Id
+        value: 0x01000000000002E8
+        type: 0
+      conversationID: 3
+      isRoot: 0
+      isGroup: 0
+      nodeColor: 
+      delaySimStatus: 0
+      falseConditionAction: 
+      conditionPriority: 2
+      outgoingLinks:
+      - originConversationID: 3
+        originDialogueID: 12
+        destinationConversationID: 3
+        destinationDialogueID: 13
+        isConnector: 0
+        priority: 2
+      - originConversationID: 3
+        originDialogueID: 12
+        destinationConversationID: 3
+        destinationDialogueID: 14
+        isConnector: 0
+        priority: 2
+      conditionsString: 
+      userScript: 
+      canvasRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 160
+        height: 30
+    - id: 13
+      fields:
+      - title: Title
+        value: 'Player: "confirm and execute"'
+        type: 0
+      - title: Actor
+        value: 1
+        type: 1
+      - title: Conversant
+        value: 4
+        type: 1
+      - title: Menu Text
+        value: 
+        type: 0
+      - title: Dialogue Text
+        value: confirm and execute
+        type: 0
+      - title: Video File
+        value: 
+        type: 0
+      - title: Sequence
+        value: Camera(Terminal Camera Angle); Delay(1)
+        type: 0
+      - title: Articy Id
+        value: 0x01000000000002EF
+        type: 0
+      conversationID: 3
+      isRoot: 0
+      isGroup: 0
+      nodeColor: 
+      delaySimStatus: 0
+      falseConditionAction: 
+      conditionPriority: 2
+      outgoingLinks:
+      - originConversationID: 3
+        originDialogueID: 13
+        destinationConversationID: 3
+        destinationDialogueID: 15
+        isConnector: 0
+        priority: 2
+      conditionsString: 
+      userScript: 'Item["Assassinate_the_Emperor"].State = "success"; Variable["Alert"]
+        = "Mission Complete: Assassinate the Emperor"; Variable["GameState.OpenedHangar"]
+        = true'
+      canvasRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 160
+        height: 30
+    - id: 14
+      fields:
+      - title: Title
+        value: 'Player: "cancel"'
+        type: 0
+      - title: Actor
+        value: 1
+        type: 1
+      - title: Conversant
+        value: 4
+        type: 1
+      - title: Menu Text
+        value: 
+        type: 0
+      - title: Dialogue Text
+        value: cancel
+        type: 0
+      - title: Video File
+        value: 
+        type: 0
+      - title: Sequence
+        value: Camera(Terminal Camera Angle); Delay(1)
+        type: 0
+      - title: Articy Id
+        value: 0x01000000000002F5
+        type: 0
+      conversationID: 3
+      isRoot: 0
+      isGroup: 0
+      nodeColor: 
+      delaySimStatus: 0
+      falseConditionAction: 
+      conditionPriority: 2
+      outgoingLinks:
+      - originConversationID: 3
+        originDialogueID: 14
+        destinationConversationID: 3
+        destinationDialogueID: 8
+        isConnector: 0
+        priority: 2
+      conditionsString: 
+      userScript: 
+      canvasRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 160
+        height: 30
+    - id: 15
+      fields:
+      - title: Title
+        value: 'Terminal: "Opening hangar doors."'
+        type: 0
+      - title: Actor
+        value: 4
+        type: 1
+      - title: Conversant
+        value: 1
+        type: 1
+      - title: Menu Text
+        value: 
+        type: 0
+      - title: Dialogue Text
+        value: Opening hangar doors.
+        type: 0
+      - title: Video File
+        value: 
+        type: 0
+      - title: Sequence
+        value: Audio(Sounds/Explosion); Camera(Shake Angle 1, Terminal active, 0.1);
+          Camera(Shake Angle 2, Terminal active, 0.1)@0.1; Camera(Shake Angle 3, Terminal
+          active, 0.1)@0.2; Animation(HandGunIDyingback,Private Hart); require Animation(TwoHandGunFromLayingToStanding,Private
+          Hart)@1; Camera(Medium Left,Private Hart,1)@1; Camera(OTS Right,Player,2)@2
+        type: 0
+      - title: Articy Id
+        value: 0x01000000000002FE
+        type: 0
+      conversationID: 3
+      isRoot: 0
+      isGroup: 0
+      nodeColor: 
+      delaySimStatus: 0
+      falseConditionAction: 
+      conditionPriority: 2
+      outgoingLinks: []
+      conditionsString: 
+      userScript: 
+      canvasRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 160
+        height: 30
+  syncInfo:
+    syncActors: 0
+    syncItems: 0
+    syncLocations: 0
+    syncVariables: 0
+    syncActorsDatabase: {fileID: 0}
+    syncItemsDatabase: {fileID: 0}
+    syncLocationsDatabase: {fileID: 0}
+    syncVariablesDatabase: {fileID: 0}

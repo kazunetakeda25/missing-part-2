@@ -1,0 +1,3 @@
+/*
+This folder contains assets and prefabs used by the example scenes.
+*/

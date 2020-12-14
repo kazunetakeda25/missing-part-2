@@ -1,0 +1,10 @@
+<linker>
+    <assembly fullname="DialogueSystem">
+        <namespace fullname="PixelCrushers.DialogueSystem" preserve="all"/>
+        <namespace fullname="PixelCrushers.DialogueSystem.*" preserve="all"/>
+    </assembly>
+    
+    <assembly fullname="LuaInterpreter">
+        <namespace fullname="Language.Lua" preserve="all"/>
+    </assembly>
+</linker>

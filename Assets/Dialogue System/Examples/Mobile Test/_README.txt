@@ -1,0 +1,5 @@
+/*
+The Mobile Test scene is provided as a quick way to make sure that the 
+Dialogue System is working with your mobile device. It simply runs a
+conversation without any graphics or gameplay.
+*/

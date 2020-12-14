@@ -1,0 +1,3 @@
+/*
+This folder contains example scenes that demonstrate the Dialogue System.
+*/
