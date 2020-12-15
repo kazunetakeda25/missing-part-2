@@ -1,0 +1,139 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &100000
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 400000}
+  - 114: {fileID: 11400000}
+  m_Layer: 0
+  m_Name: AARImageBank
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &400000
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100000}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100000}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f514313262e3d141ad017b60809752a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  material: {fileID: 2100000, guid: a65816030bfec34469ba2687ad37bcbb, type: 2}
+  items:
+  - name: Cards
+    region:
+      serializedVersion: 2
+      x: .587890625
+      y: 0
+      width: .25
+      height: .25
+    border:
+      m_Left: 0
+      m_Right: 0
+      m_Top: 0
+      m_Bottom: 0
+    rotated: 0
+    sizeInPixels: {x: 512, y: 512}
+    textureGUID: f6d7ae8f1351c4942a1c5b5c79204c13
+    deleted: 0
+    texture: {fileID: 0}
+  - name: Coins
+    region:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: .29296875
+      height: .29296875
+    border:
+      m_Left: 0
+      m_Right: 0
+      m_Top: 0
+      m_Bottom: 0
+    rotated: 0
+    sizeInPixels: {x: 600, y: 600}
+    textureGUID: cdab9c778370b0e498a4fd58feae9bfe
+    deleted: 0
+    texture: {fileID: 0}
+  - name: Gitana
+    region:
+      serializedVersion: 2
+      x: 0
+      y: .293945312
+      width: .29296875
+      height: .29296875
+    border:
+      m_Left: 0
+      m_Right: 0
+      m_Top: 0
+      m_Bottom: 0
+    rotated: 0
+    sizeInPixels: {x: 600, y: 600}
+    textureGUID: 3b6747eba01969f43a9aef23daf36bc2
+    deleted: 0
+    texture: {fileID: 0}
+  - name: PlaceholderImage
+    region:
+      serializedVersion: 2
+      x: 0
+      y: .587890625
+      width: .29296875
+      height: .29296875
+    border:
+      m_Left: 0
+      m_Right: 0
+      m_Top: 0
+      m_Bottom: 0
+    rotated: 0
+    sizeInPixels: {x: 600, y: 600}
+    textureGUID: afbb27bda4e114c43b64f3de5dc5a66d
+    deleted: 0
+    texture: {fileID: 0}
+  - name: Satanist
+    region:
+      serializedVersion: 2
+      x: .293945312
+      y: 0
+      width: .29296875
+      height: .29296875
+    border:
+      m_Left: 0
+      m_Right: 0
+      m_Top: 0
+      m_Bottom: 0
+    rotated: 0
+    sizeInPixels: {x: 600, y: 600}
+    textureGUID: f5a1c024fea9f9447acbe2cb50f311b0
+    deleted: 0
+    texture: {fileID: 0}
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 100000}
+  m_IsPrefabParent: 1
+  m_IsExploded: 1

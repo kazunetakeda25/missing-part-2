@@ -1,0 +1,70 @@
+diff a/unity/missing2/Assets/Resources/Json/AAR2Data.txt b/unity/missing2/Assets/Resources/Json/AAR2Data.txt	(rejected hunks)
+@@ -649,5 +649,68 @@
+          "slideIndex" : 4025,
+          "soundClip" : false
+       }
++   ],
++   "sliderQuizzes" : [
++      {
++         "AAR" : 2,
++         "SliderLabel" : "OK! Now, the Italian Baroque composer Antonio Vivaldi, lived to what age?",
++         "answerVar" : "",
++         "choices" : [],
++         "elseIndex" : 1215,
++         "highAmount" : 90,
++         "imagePath" : "Gitana",
++         "lowAmount" : 1,
++         "nextButtonRequired" : false,
++         "nextSlideIndex" : 100,
++         "quiz" : "AAR2_VIVALDI",
++         "slideIndex" : 3395,
++         "soundClip" : false,
++         "tests" : [
++            {
++               "betweenHighNumber" : 0,
++               "betweenLowNumber" : 0,
++               "nextSlideIndexIfTrue" : 1190,
++               "normalComparisonNumber" : 35,
++               "type" : "GREATER_THAN"
++            },
++            {
++               "betweenHighNumber" : 36,
++               "betweenLowNumber" : 32,
++               "nextSlideIndexIfTrue" : 1180,
++               "normalComparisonNumber" : 0,
++               "type" : "BETWEEN"
++            },
++            {
++               "betweenHighNumber" : 0,
++               "betweenLowNumber" : 0,
++               "nextSlideIndexIfTrue" : 1210,
++               "normalComparisonNumber" : 15,
++               "type" : "LESS_EQUAL_THAN"
++            },
++            {
++               "betweenHighNumber" : 35,
++               "betweenLowNumber" : 29,
++               "nextSlideIndexIfTrue" : 1200,
++               "normalComparisonNumber" : 0,
++               "type" : "BETWEEN"
++            }
++         ],
++         "textContent" : "OK! Now, the Italian Baroque composer Antonio Vivaldi, lived to what age?",
++         "titleContent" : ""
++      }
++   ],
++   "specialSlides" : [
++      {
++         "AAR" : 2,
++         "content" : [ "Give the Wheel of Fate a spin by clicking on it." ],
++         "imagePath" : "",
++         "nextButtonRequired" : false,
++         "nextSlideIndex" : 20,
++         "slideIndex" : 10,
++         "soundClip" : true,
++         "titleContent" : "The Wheel of Fate",
++         "type" : "SPINNER",
++         "useUpperNextButton" : true
++      }
+    ]
+ }

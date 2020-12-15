@@ -1,0 +1,573 @@
+{
+   "multipleChoiceQuizData" : [
+      {
+         "answers" : [
+            {
+               "answerContent" : "More than thirty hours.",
+               "answerIndex" : 0,
+               "unbiasedAnswer" : false
+            },
+            {
+               "answerContent" : "Less than thirty hours.",
+               "answerIndex" : 1,
+               "unbiasedAnswer" : false
+            }
+         ],
+         "quiz" : "GAME_1_2_AVERAGE_FACEBOOK_USE"
+      },
+      {
+         "answers" : [
+            {
+               "answerContent" : "Insider trading",
+               "answerIndex" : 0,
+               "unbiasedAnswer" : true
+            },
+            {
+               "answerContent" : "Insider trading and money laundering",
+               "answerIndex" : 1,
+               "unbiasedAnswer" : false
+            }
+         ],
+         "quiz" : "GAME_1_4_FLAHERTY_RACKETEERING"
+      },
+      {
+         "answers" : [
+            {
+               "answerContent" : "Rocky's Gym",
+               "answerIndex" : 0,
+               "unbiasedAnswer" : true
+            },
+            {
+               "answerContent" : "Entropy Fitness",
+               "answerIndex" : 1,
+               "unbiasedAnswer" : false
+            },
+            {
+               "answerContent" : "None, Mary is a couch potato",
+               "answerIndex" : 2,
+               "unbiasedAnswer" : false
+            }
+         ],
+         "quiz" : "GAME_1_5_GYM"
+      },
+      {
+         "answers" : [
+            {
+               "answerContent" : "Approve.",
+               "answerIndex" : 0,
+               "unbiasedAnswer" : false
+            },
+            {
+               "answerContent" : "Disapprove.",
+               "answerIndex" : 1,
+               "unbiasedAnswer" : false
+            }
+         ],
+         "quiz" : "GAME_1_6_PARKS"
+      },
+      {
+         "answers" : [
+            {
+               "answerContent" : "The price tomorrow is more likely to go to 55.5.",
+               "answerIndex" : 0,
+               "unbiasedAnswer" : false
+            },
+            {
+               "answerContent" : "The price tomorrow is more likely to go to 57.",
+               "answerIndex" : 1,
+               "unbiasedAnswer" : false
+            },
+            {
+               "answerContent" : "The price tomorrow is more likely to go to 54.",
+               "answerIndex" : 2,
+               "unbiasedAnswer" : false
+            },
+            {
+               "answerContent" : "The price tomorrow is equally likely to go to 54 as 56.5.",
+               "answerIndex" : 3,
+               "unbiasedAnswer" : false
+            }
+         ],
+         "quiz" : "GAME_2_1A_STOCK_PRICE"
+      },
+      {
+         "answers" : [
+            {
+               "answerContent" : "less",
+               "answerIndex" : 0,
+               "unbiasedAnswer" : false
+            },
+            {
+               "answerContent" : "more",
+               "answerIndex" : 1,
+               "unbiasedAnswer" : false
+            }
+         ],
+         "quiz" : "GAME_2_4_NYC_POPULATION"
+      },
+      {
+         "answers" : [
+            {
+               "answerContent" : "The pallet of 12 boxes.",
+               "answerIndex" : 0,
+               "unbiasedAnswer" : false
+            },
+            {
+               "answerContent" : "The pallet of 98 boxes.",
+               "answerIndex" : 1,
+               "unbiasedAnswer" : true
+            }
+         ],
+         "quiz" : "GAME_3_3_PALLET_COUNT"
+      },
+      {
+         "answers" : [
+            {
+               "answerContent" : "Acquittal, Acquittal, Conviction, Conviction",
+               "answerIndex" : 0,
+               "unbiasedAnswer" : false
+            },
+            {
+               "answerContent" : "Conviction, Acquittal, Conviction, Acquittal",
+               "answerIndex" : 1,
+               "unbiasedAnswer" : false
+            },
+            {
+               "answerContent" : "Conviction, Conviction, Conviction, Acquittal",
+               "answerIndex" : 2,
+               "unbiasedAnswer" : false
+            },
+            {
+               "answerContent" : "Acquittal, Conviction, Conviction, Conviction",
+               "answerIndex" : 3,
+               "unbiasedAnswer" : false
+            },
+            {
+               "answerContent" : "All outcomes are equally likely.",
+               "answerIndex" : 4,
+               "unbiasedAnswer" : true
+            }
+         ],
+         "quiz" : "GAME_3_8_TRAVIS_TRIAL"
+      },
+      {
+         "answers" : [
+            {
+               "answerContent" : "More than 15 miles per hour.",
+               "answerIndex" : 0,
+               "unbiasedAnswer" : false
+            },
+            {
+               "answerContent" : "Less than 15 miles per hour.\r\n",
+               "answerIndex" : 1,
+               "unbiasedAnswer" : false
+            }
+         ],
+         "quiz" : "AAR1_CATAMARAN"
+      },
+      {
+         "answers" : [
+            {
+               "answerContent" : "Before.\r\n",
+               "answerIndex" : 0,
+               "unbiasedAnswer" : false
+            },
+            {
+               "answerContent" : "After.\r\n",
+               "answerIndex" : 1,
+               "unbiasedAnswer" : false
+            }
+         ],
+         "quiz" : "AAR1_PLAYING_CARDS"
+      },
+      {
+         "answers" : [
+            {
+               "answerContent" : "The player will lose the first set.",
+               "answerIndex" : 0,
+               "unbiasedAnswer" : true
+            },
+            {
+               "answerContent" : "The player will lose the first set, but win the match.\r\n",
+               "answerIndex" : 1,
+               "unbiasedAnswer" : false
+            },
+            {
+               "answerContent" : "The player will win the first set, but lose the match.",
+               "answerIndex" : 2,
+               "unbiasedAnswer" : false
+            }
+         ],
+         "quiz" : "AAR1_WIMBLEDON"
+      },
+      {
+         "answers" : [
+            {
+               "answerContent" : "Mayor Fleese resigns.",
+               "answerIndex" : 0,
+               "unbiasedAnswer" : true
+            },
+            {
+               "answerContent" : "Mayor Fleese is convicted for drunk driving.",
+               "answerIndex" : 1,
+               "unbiasedAnswer" : true
+            },
+            {
+               "answerContent" : "Mayor Fleese is convicted of drunk driving and resigns.",
+               "answerIndex" : 2,
+               "unbiasedAnswer" : false
+            },
+            {
+               "answerContent" : "Mayor Fleese is convicted of drunk driving and stays in office.",
+               "answerIndex" : 3,
+               "unbiasedAnswer" : false
+            },
+            {
+               "answerContent" : "Mayor Fleese stays in office.",
+               "answerIndex" : 3,
+               "unbiasedAnswer" : true
+            }
+         ],
+         "quiz" : "AAR1_MAYOR_FLEESE"
+      },
+      {
+         "answers" : [
+            {
+               "answerContent" : "Should.",
+               "answerIndex" : 0,
+               "unbiasedAnswer" : false
+            },
+            {
+               "answerContent" : "Shound not.",
+               "answerIndex" : 1,
+               "unbiasedAnswer" : false
+            }
+         ],
+         "quiz" : "AAR1_SODAS"
+      },
+      {
+         "answers" : [
+            {
+               "answerContent" : "Global warming is real.",
+               "answerIndex" : 0,
+               "unbiasedAnswer" : false
+            },
+            {
+               "answerContent" : "Global warming is not real.",
+               "answerIndex" : 1,
+               "unbiasedAnswer" : false
+            }
+         ],
+         "quiz" : "AAR1_GLOBAL_WARMING"
+      },
+      {
+         "answers" : [
+            {
+               "answerContent" : "It's more likely that Jennifer is a Christian.\n",
+               "answerIndex" : 0,
+               "unbiasedAnswer" : false
+            },
+            {
+               "answerContent" : "It's more likely that Jennifer is a Satanist.",
+               "answerIndex" : 1,
+               "unbiasedAnswer" : true
+            }
+         ],
+         "quiz" : "AAR1_SATANIST"
+      },
+      {
+         "answers" : [
+            {
+               "answerContent" : "Malik is more likely to be a salesperson.",
+               "answerIndex" : 0,
+               "unbiasedAnswer" : true
+            },
+            {
+               "answerContent" : "Malik is more likely to be an engineer.",
+               "answerIndex" : 1,
+               "unbiasedAnswer" : true
+            }
+         ],
+         "quiz" : "AAR1_OUTGOING_INDIAN"
+      },
+      {
+         "answers" : [
+            {
+               "answerContent" : "Silver.\r\n",
+               "answerIndex" : 0,
+               "unbiasedAnswer" : false
+            },
+            {
+               "answerContent" : "White.\r\n",
+               "answerIndex" : 1,
+               "unbiasedAnswer" : false
+            },
+            {
+               "answerContent" : "It is equally likely that the car will be white or silver.\r\n",
+               "answerIndex" : 2,
+               "unbiasedAnswer" : true
+            }
+         ],
+         "quiz" : "AAR2_CAR_COLORS"
+      },
+      {
+         "answers" : [
+            {
+               "answerContent" : "The arrival of a girl.",
+               "answerIndex" : 0,
+               "unbiasedAnswer" : false
+            },
+            {
+               "answerContent" : "The arrival of a boy.",
+               "answerIndex" : 1,
+               "unbiasedAnswer" : false
+            },
+            {
+               "answerContent" : "There is an equal chance of the nurse reporting the arrival of a boy or girl.",
+               "answerIndex" : 2,
+               "unbiasedAnswer" : true
+            }
+         ],
+         "quiz" : "AAR2_BABY_PREDICTION"
+      },
+      {
+         "answers" : [
+            {
+               "answerContent" : "The next scarf will be lavender.",
+               "answerIndex" : 0,
+               "unbiasedAnswer" : false
+            },
+            {
+               "answerContent" : "The next scarf will be yellow.",
+               "answerIndex" : 1,
+               "unbiasedAnswer" : false
+            },
+            {
+               "answerContent" : "There is an equal likelihood of getting a yellow or lavender scarf.",
+               "answerIndex" : 2,
+               "unbiasedAnswer" : true
+            }
+         ],
+         "quiz" : "AAR2_MAGIC_SCARF"
+      },
+      {
+         "answers" : [
+            {
+               "answerContent" : "The roll of the die had no effect on the resulting sentence. ",
+               "answerIndex" : 0,
+               "unbiasedAnswer" : false
+            },
+            {
+               "answerContent" : "Judges who rolled the higher number tended to give the defendant a higher sentence.",
+               "answerIndex" : 1,
+               "unbiasedAnswer" : true
+            },
+            {
+               "answerContent" : "Judged who rolled the higher number tended to give the defendant a lower sentence.",
+               "answerIndex" : 2,
+               "unbiasedAnswer" : false
+            }
+         ],
+         "quiz" : "AAR2_JUDGES"
+      },
+      {
+         "answers" : [
+            {
+               "answerContent" : "On a busy day.\r\n",
+               "answerIndex" : 0,
+               "unbiasedAnswer" : false
+            },
+            {
+               "answerContent" : "On a quiet day.",
+               "answerIndex" : 1,
+               "unbiasedAnswer" : true
+            }
+         ],
+         "quiz" : "AAR3_GOLDILOCKS"
+      },
+      {
+         "answers" : [
+            {
+               "answerContent" : "Stock the lake with 60% Triploid trout.",
+               "answerIndex" : 0,
+               "unbiasedAnswer" : false
+            },
+            {
+               "answerContent" : "Stock the lake with 78% Kokanee trout.",
+               "answerIndex" : 1,
+               "unbiasedAnswer" : true
+            }
+         ],
+         "quiz" : "AAR3_FISHING"
+      },
+      {
+         "answers" : [
+            {
+               "answerContent" : "I-G-G-I-G-I",
+               "answerIndex" : 0,
+               "unbiasedAnswer" : false
+            },
+            {
+               "answerContent" : "I-I-I-I-G-I",
+               "answerIndex" : 1,
+               "unbiasedAnswer" : false
+            },
+            {
+               "answerContent" : "Equally likely.",
+               "answerIndex" : 2,
+               "unbiasedAnswer" : true
+            }           
+         ],
+         "quiz" : "AAR3_AIRPORT"
+      }
+   ],
+   "sliderQuizData" : [
+      {
+         "quiz" : "GAME_1_2A_AVERAGE_FACEBOOK_USE_SLIDER",
+         "unbiasedRanges" : [
+            {
+               "unbiasedMaxRange" : 11.0,
+               "unbiasedMinRange" : 0.0
+            }
+         ]
+      },
+      {
+         "quiz" : "GAME_1_6A_PARKS_SLIDER",
+         "unbiasedRanges" : [
+            {
+               "unbiasedMaxRange" : 55.0,
+               "unbiasedMinRange" : 0.0
+            },
+            {
+               "unbiasedMaxRange" : 100.0,
+               "unbiasedMinRange" : 62.0
+            }
+         ]
+      },
+      {
+         "quiz" : "GAME_2_HUNTING_ME",
+         "unbiasedRanges" : [
+            {
+               "unbiasedMaxRange" : 666.0,
+               "unbiasedMinRange" : 666.0
+            }
+         ]
+      },
+      {
+         "quiz" : "GAME_2_HUNTING_THEM",
+         "unbiasedRanges" : [
+            {
+               "unbiasedMaxRange" : 666.0,
+               "unbiasedMinRange" : 666.0
+            }
+         ]
+      },
+      {
+         "quiz" : "GAME_3_4_AMMO_COUNT",
+         "unbiasedRanges" : [
+            {
+               "unbiasedMaxRange" : 3.402823000000000e+17,
+               "unbiasedMinRange" : 17.0
+            }
+         ]
+      },
+      {
+         "quiz" : "AAR1_CATAMARAN_SLIDER",
+         "unbiasedRanges" : [
+            {
+               "unbiasedMaxRange" : 3.402823000000000e+17,
+               "unbiasedMinRange" : 35.0
+            }
+         ]
+      },
+      {
+         "quiz" : "AAR1_PLAYING_CARDS_SLIDER",
+         "unbiasedRanges" : [
+            {
+               "unbiasedMaxRange" : 700.0,
+               "unbiasedMinRange" : 0.0
+            }
+         ]
+      },
+      {
+         "quiz" : "AAR1_SODAS_SLIDER",
+         "unbiasedRanges" : [
+            {
+               "unbiasedMaxRange" : 55.0,
+               "unbiasedMinRange" : 0.0
+            },
+            {
+               "unbiasedMaxRange" : 100.0,
+               "unbiasedMinRange" : 62.0
+            }
+         ]
+      },
+      {
+         "quiz" : "AAR1_GLOBAL_WARMING_SLIDER",
+         "unbiasedRanges" : [
+            {
+               "unbiasedMaxRange" : 69.0,
+               "unbiasedMinRange" : 0.0
+            },
+            {
+               "unbiasedMaxRange" : 31.0,
+               "unbiasedMinRange" : 0.0
+            }
+         ]
+      },
+      {
+         "quiz" : "GAME_2_4B_MARLIN_LENGTH",
+         "unbiasedRanges" : [
+            {
+               "unbiasedMaxRange" : 1000000000000000.,
+               "unbiasedMinRange" : 17.0
+            }
+         ]
+      },
+      {
+         "quiz" : "AAR2_VIVALDI",
+         "unbiasedRanges" : [
+            {
+               "unbiasedMaxRange" : 1000000000000000,
+               "unbiasedMinRange" : 17.0
+            }
+         ]
+      },
+      {
+         "quiz" : "AAR2_SOLAR_ME",
+         "unbiasedRanges" : [
+            {
+               "unbiasedMaxRange" : 1000000000000000,
+               "unbiasedMinRange" : 17.0
+            }
+         ]
+      },
+      {
+         "quiz" : "AAR2_SOLAR_THEM",
+         "unbiasedRanges" : [
+            {
+               "unbiasedMaxRange" : 1000000000000000,
+               "unbiasedMinRange" : 17.0
+            }
+         ]
+      },
+      {
+         "quiz" : "AAR2_SOLAR_DIFF",
+         "unbiasedRanges" : [
+            {
+               "unbiasedMaxRange" : 1000000000000000,
+               "unbiasedMinRange" : 17.0
+            }
+         ]
+      },
+      {
+         "quiz" : "GAME_2_HUNTING_DIFF",
+         "unbiasedRanges" : [
+            {
+               "unbiasedMaxRange" : 1000000000000000,
+               "unbiasedMinRange" : 17.0
+            }
+         ]
+      }
+   ]
+}
