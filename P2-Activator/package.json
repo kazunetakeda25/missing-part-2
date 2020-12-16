@@ -1,0 +1,30 @@
+{
+  "name": "p2-activator",
+  "version": "1.0.0",
+  "description": "TurboActivator for Missing - P2 - The Final Secret",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [
+    "turboactivate",
+    "missing",
+    "the final secrets",
+    "electron"
+  ],
+  "author": "Rey",
+  "devDependencies": {
+    "electron-builder": "^22.6.1",
+    "electron": "^9.0.0"
+  },
+  "dependencies": {
+    "fix-path": "^3.0.0",
+    "os": "^0.1.1"
+  },
+  "build": {
+    "appId": "com.leidos.p2-activator",
+    "extraFiles": [
+      "native"
+    ]
+  }
+}

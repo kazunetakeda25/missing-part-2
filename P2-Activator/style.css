@@ -1,0 +1,54 @@
+html {
+    -webkit-touch-callout: none; /* iOS Safari */
+    -webkit-user-select: none; /* Safari */
+     -khtml-user-select: none; /* Konqueror HTML */
+       -moz-user-select: none; /* Old versions of Firefox */
+        -ms-user-select: none; /* Internet Explorer/Edge */
+            user-select: none; /* Non-prefixed version, currently
+                                  supported by Chrome, Edge, Opera and Firefox */
+}
+
+h1, h4 {
+    text-align: center !important; 
+    margin-block-end: 0;
+}
+
+h4 {
+    margin-block-start: 0;
+}
+
+div {
+    text-align: center;
+}
+
+#result {
+    margin-top: 30px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.serial-input {
+    width: 100%;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+}
+
+#key {
+    margin: 0 auto;
+    margin-top: 20px;
+    width: 240px;
+    height: 20px;
+    display: none;
+}
+
+#activate {
+    margin: 0 auto;
+    width: 240px;
+    display: none;
+}
+
+#save {
+    margin: 0 auto;
+    display: none;
+}
